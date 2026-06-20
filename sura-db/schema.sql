@@ -77,7 +77,7 @@ CREATE TABLE cobertura (
   nombre          TEXT NOT NULL,
   descripcion     TEXT,
   categoria       TEXT,                     -- agrupador: 'patrimonial','salud','asistencia'
-  embedding       vector(768)               -- nomic-embed-text (Ollama). OpenAI=1536
+  embedding       vector(1536)              -- OpenAI text-embedding-3-small (1536 dims)
 );
 CREATE INDEX idx_cobertura_nombre_trgm ON cobertura USING gin (nombre gin_trgm_ops);
 
@@ -159,7 +159,7 @@ CREATE TABLE doc_chunk (
   seccion      TEXT,                         -- 'que_cubrimos','exclusiones','afiliacion'...
   contenido    TEXT NOT NULL,                -- el chunk de texto
   url          TEXT,
-  embedding    vector(768) NOT NULL,         -- nomic-embed-text via Ollama (768 dims)
+  embedding    vector(1536) NOT NULL,        -- OpenAI text-embedding-3-small (1536 dims)
   tokens       INT,
   metadata     JSONB DEFAULT '{}'
 );

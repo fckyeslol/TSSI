@@ -1,15 +1,25 @@
 """
 Motor RAG del asistente SURA.
 - Búsqueda HÍBRIDA: vector (pgvector) + full-text español (tsvector), fusionados con RRF.
-- TOOL CALLING nativo (Ollama / qwen2.5): el modelo decide entre buscar, detallar o comparar.
+- TOOL CALLING nativo (OpenAI / gpt-4o-mini): el modelo decide entre buscar, detallar o comparar.
 - Generación con grounding y citas.
 """
-import os, json, urllib.request, urllib.error
+import os, json
+from openai import OpenAI
 
 DB = os.environ.get("DATABASE_URL", "postgresql://sura:sura@localhost:5433/sura")
-OLLAMA = os.environ.get("OLLAMA_URL", "http://localhost:11434")
-EMBED_MODEL = os.environ.get("EMBED_MODEL", "nomic-embed-text")
-GEN_MODEL = os.environ.get("GEN_MODEL", "qwen2.5:7b")
+EMBED_MODEL = os.environ.get("EMBED_MODEL", "text-embedding-3-small")
+GEN_MODEL = os.environ.get("GEN_MODEL", "gpt-4o-mini")
+
+# Cliente OpenAI perezoso: se crea al primer uso (lee OPENAI_API_KEY del entorno).
+_client = None
+
+
+def _oa():
+    global _client
+    if _client is None:
+        _client = OpenAI()
+    return _client
 
 SYSTEM = """Eres el asistente virtual de Seguros SURA Colombia. Ayudas a personas y empresas
 con información de seguros (personas, empresas) y ARL (riesgos laborales).
@@ -48,16 +58,10 @@ TOOLS = [
 ]
 
 
-# ---------------------------------------------------------------- Ollama helpers
-def _post(path, payload, timeout=300):
-    req = urllib.request.Request(f"{OLLAMA}{path}", data=json.dumps(payload).encode(),
-                                 headers={"Content-Type": "application/json"})
-    return urllib.request.urlopen(req, timeout=timeout)
-
-
+# ---------------------------------------------------------------- OpenAI helpers
 def embed(text):
-    with _post("/api/embed", {"model": EMBED_MODEL, "input": [text]}) as r:
-        return json.loads(r.read())["embeddings"][0]
+    r = _oa().embeddings.create(model=EMBED_MODEL, input=[text])
+    return r.data[0].embedding
 
 
 # ---------------------------------------------------------------- Retrieval
@@ -214,53 +218,55 @@ def chat_stream(conn, message, history=None):
         messages.append({"role": h["role"], "content": h["content"]})
     messages.append({"role": "user", "content": message})
 
+    client = _oa()
+
     # 1) Primera pasada: ¿el modelo quiere una herramienta?
-    #    Si el modelo no soporta tools (HTTP 400), caemos a RAG híbrido directo.
-    tool_calls, msg = [], {}
-    try:
-        with _post("/api/chat", {"model": GEN_MODEL, "messages": messages,
-                                 "tools": TOOLS, "stream": False}) as r:
-            first = json.loads(r.read())
-        msg = first.get("message", {})
-        tool_calls = msg.get("tool_calls") or []
-    except urllib.error.HTTPError as e:
-        if e.code != 400:
-            raise  # otro error real
-        # modelo sin soporte de tools -> fallback silencioso
+    first = client.chat.completions.create(
+        model=GEN_MODEL, messages=messages, tools=TOOLS, tool_choice="auto")
+    msg = first.choices[0].message
+    tool_calls = msg.tool_calls or []
 
     sources, used_tool = [], None
     if tool_calls:
-        messages.append(msg)
+        # Eco del turno del asistente (con los tool_calls) antes de adjuntar resultados.
+        messages.append({
+            "role": "assistant",
+            "content": msg.content or "",
+            "tool_calls": [
+                {"id": tc.id, "type": "function",
+                 "function": {"name": tc.function.name, "arguments": tc.function.arguments}}
+                for tc in tool_calls
+            ],
+        })
         for tc in tool_calls:
-            fn = tc["function"]["name"]
-            args = tc["function"].get("arguments", {})
+            fn = tc.function.name
+            args = tc.function.arguments
             if isinstance(args, str):
                 try: args = json.loads(args)
                 except Exception: args = {}
             used_tool = fn
+            text = "Herramienta no disponible."
             if fn in TOOL_FNS:
                 text, srcs = TOOL_FNS[fn](conn, args)
                 sources.extend(srcs)
-                messages.append({"role": "tool", "content": text})
+            # OpenAI exige tool_call_id en cada mensaje de rol 'tool'.
+            messages.append({"role": "tool", "tool_call_id": tc.id, "content": text})
         yield {"type": "meta", "tool": used_tool, "sources": _dedup_sources(sources)}
     else:
-        # fallback: búsqueda híbrida directa
+        # fallback: búsqueda híbrida directa, inyectada como contexto del sistema.
         text, srcs = tool_buscar_seguros(conn, message)
         sources.extend(srcs)
-        messages.append({"role": "tool", "content": text})
+        messages.append({"role": "system", "content": "Contexto recuperado:\n" + text})
         used_tool = "buscar_seguros"
         yield {"type": "meta", "tool": used_tool, "sources": _dedup_sources(sources)}
 
     # 2) Segunda pasada: respuesta final en streaming
-    with _post("/api/chat", {"model": GEN_MODEL, "messages": messages, "stream": True}) as r:
-        for line in r:
-            line = line.strip()
-            if not line:
-                continue
-            obj = json.loads(line)
-            tok = obj.get("message", {}).get("content")
-            if tok:
-                yield {"type": "token", "text": tok}
-            if obj.get("done"):
-                break
+    stream = client.chat.completions.create(
+        model=GEN_MODEL, messages=messages, stream=True)
+    for chunk in stream:
+        if not chunk.choices:
+            continue
+        tok = chunk.choices[0].delta.content
+        if tok:
+            yield {"type": "token", "text": tok}
     yield {"type": "done"}
