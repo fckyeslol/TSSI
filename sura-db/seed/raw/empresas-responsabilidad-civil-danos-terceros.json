@@ -1,0 +1,257 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil/danos/terceros",
+  "producto": {
+    "slug": "empresas-responsabilidad-civil-danos-terceros",
+    "nombre": "Seguro de Responsabilidad Civil por Daños a Terceros",
+    "ramo": "Otros",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "En el ejercicio de su actividad económica, tu empresa está expuesta a algunos riesgos que pueden ocasionar daños a terceros. Este seguro cubre los gastos de indemnización generados por daños materiales o lesiones personales que puedan ocasionarse en el ejercicio de la actividad empresarial, incluyendo gastos médicos y de defensa, protegiendo el patrimonio de la empresa con una solución integral y a la medida de sus necesidades.",
+    "resumen": "Protege el patrimonio de tu empresa ante daños materiales o personales causados a terceros en el ejercicio de tu actividad económica.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "predios-y-operaciones",
+      "nombre": "Predios y operaciones",
+      "descripcion": "La responsabilidad civil en que incurra tu empresa por daños materiales, lesiones personales o fallecimiento causados a terceros en sus predios, o por las operaciones que se lleven a cabo dentro y fuera de los mismos.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-contratistas-y-subcontratistas",
+      "nombre": "Responsabilidad civil contratistas y subcontratistas",
+      "descripcion": "Los daños causados a las personas o a sus bienes por los contratistas y subcontratistas de tu empresa en el desarrollo de sus labores.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-del-empleador",
+      "nombre": "Responsabilidad del empleador",
+      "descripcion": "Los gastos por fallecimiento o lesiones personales de tus empleados en caso de accidentes cuando tú, como empleador, no les garantices las condiciones de seguridad para desempeñar su labor. Esta cobertura opera en exceso de la seguridad social.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Opera en exceso de la seguridad social"
+    },
+    {
+      "slug": "viajes-al-exterior",
+      "nombre": "Viajes al exterior",
+      "descripcion": "Los daños materiales, lesiones personales o fallecimiento causados a terceros por funcionarios o empleados en el desempeño de sus obligaciones laborales durante viajes al exterior. Deben ser viajes que no excedan las cinco semanas.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Viajes que no excedan las cinco semanas"
+    },
+    {
+      "slug": "danos-al-inmueble-arrendado",
+      "nombre": "Daños al inmueble arrendado",
+      "descripcion": "Los daños causados al lugar en el que tu empresa desarrolle sus actividades.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "bienes-bajo-cuidado-tenencia-y-control",
+      "nombre": "Bienes bajo cuidado, tenencia y control",
+      "descripcion": "Los daños causados con los bienes que estén bajo cuidado, tenencia y control (tanto si son de tu propiedad como si son prestados o alquilados).",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-cruzada",
+      "nombre": "Responsabilidad civil cruzada",
+      "descripcion": "Los daños que se causen diferentes compañías pertenecientes a un mismo grupo empresarial.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "parqueadero",
+      "nombre": "Parqueadero",
+      "descripcion": "Los daños o el hurto de los vehículos que se encuentren en los parqueaderos de tu empresa, siempre y cuando estos tengan vigilancia y se encuentren en espacios demarcados para el aparcamiento (celdas definidas).",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "gastos-medicos-atencion-inicial-de-urgencias",
+      "nombre": "Gastos médicos de atención inicial de urgencias",
+      "descripcion": "Los servicios inmediatos de primeros auxilios que se presten si ocurre una urgencia con un tercero. Este puede ser llevado a un centro médico sin importar si la empresa es o no responsable del accidente.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "gastos-de-defensa-procesos-civiles-y-penales",
+      "nombre": "Gastos de defensa en procesos civiles y penales",
+      "descripcion": "Los gastos de defensa ante cualquier reclamación que presente un tercero por alguna de las responsabilidades incluidas en este seguro. Además, asumimos los gastos de defensa en procesos penales cuando sean consecuencia de un evento de responsabilidad civil.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-a-terceros-con-vehiculos-a-tu-servicio",
+      "nombre": "Daños causados a terceros con vehículos a tu servicio",
+      "descripcion": "Los daños materiales, lesiones personales o fallecimiento causados a terceros con vehículos que estén a tu servicio, sean o no de tu propiedad. Esta cobertura opera en exceso del SOAT, el seguro voluntario del vehículo o, en caso de no tener este último, de 136 salarios mínimos mensuales legales vigentes.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Opera en exceso del SOAT, el seguro voluntario del vehículo o de 136 salarios mínimos mensuales legales vigentes"
+    },
+    {
+      "slug": "productos-inseguros-defectuosos",
+      "nombre": "Productos inseguros - defectuosos",
+      "descripcion": "Los daños materiales, lesiones personales o fallecimiento causados a terceros por productos inseguros que sean fabricados, comercializados o entregados por tu empresa.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "productos-inseguros-defectuosos-exportados",
+      "nombre": "Productos inseguros - defectuosos exportados",
+      "descripcion": "Los daños que ocasione tu empresa a causa de productos defectuosos exportados a todo el mundo, excepto a Canadá, Estados Unidos y Puerto Rico.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Excepto Canadá, Estados Unidos y Puerto Rico"
+    },
+    {
+      "slug": "union-mezcla-o-transformacion-de-productos",
+      "nombre": "Unión, mezcla o transformación de productos",
+      "descripcion": "Aplica para empresas que, durante sus procesos productivos, requieran insumos de otras compañías y puedan exponerse a dañarlos o deteriorarlos.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "incumplimiento-de-obligaciones-contractuales",
+      "nombre": "Incumplimiento de las obligaciones de un contrato",
+      "descripcion": null,
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "contaminacion-paulatina",
+      "nombre": "Contaminación paulatina",
+      "descripcion": null,
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "enfermedades-profesionales",
+      "nombre": "Enfermedades profesionales",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-a-bienes-bajo-control-cuidado-o-custodia",
+      "nombre": "Daños causados a bienes bajo control, cuidado o custodia",
+      "descripcion": "Daños causados a bienes que tengas bajo tu control, cuidado o custodia, o cuando estos bienes desaparezcan o sean hurtados.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "indemnizacion-de-caracter-sancionatorio",
+      "nombre": "Indemnización de carácter sancionatorio",
+      "descripcion": null,
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-profesional",
+      "nombre": "Responsabilidad civil profesional",
+      "descripcion": null,
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "hurto-de-elementos-dejados-dentro-de-vehiculos",
+      "nombre": "Hurto de elementos dejados dentro de los vehículos",
+      "descripcion": null,
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Cualquier empresa que desee protegerse ante la responsabilidad civil y quiera preservar su patrimonio. La empresa debe ser apta luego de un análisis de riesgo realizado por SURA."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condicionado RC por Daños a Terceros",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/responsabilidad-civil/rc-por-danos-a-terceros.pdf"
+    },
+    {
+      "tipo": "clausulado",
+      "titulo": "Clausulado RC por Daños a Terceros",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/responsabilidad-civil/rc-por-danos-a-terceros.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "En el ejercicio de su actividad económica, tu empresa está expuesta a algunos riesgos que pueden ocasionar daños a terceros. En SURA protegemos tu patrimonio con una solución integral y a la medida de tus necesidades. Con este seguro tendrás respaldo ante: gastos por ocasionar daños materiales o personales a terceros; fallecimiento o lesiones de tus empleados a causa de accidentes laborales en los que tu empresa sea responsable; daños a terceros ocasionados por tus empleados en el exterior; y gastos médicos y de defensa. En el día a día de tu empresa, hay riesgos que se pueden identificar fácilmente y otros que no son tan evidentes y pueden llegar a afectar tu patrimonio, sobre todo cuando hay terceras personas involucradas. Pensando en este tipo de situaciones, en SURA te acompañamos con el Seguro de Responsabilidad Civil por Daños a Terceros. Este seguro cubre los gastos de indemnización generados por daños materiales o lesiones personales que puedan ocasionarse en el ejercicio de la actividad empresarial. De este modo, cuidas tu tranquilidad y la de tu negocio, protegiéndolo en caso de que un evento inesperado de este tipo lo ponga en riesgo. Con el Seguro de Responsabilidad Civil por Daños a Terceros de SURA podrás enfocarte en construir el futuro de tu empresa mientras cuentas con el mejor respaldo ante imprevistos."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Coberturas principales: Predios y operaciones: la responsabilidad civil en que incurra tu empresa por daños materiales, lesiones personales o fallecimiento causados a terceros en sus predios, o por las operaciones que se lleven a cabo dentro y fuera de los mismos. Responsabilidad civil contratistas y subcontratistas: los daños causados a las personas o a sus bienes por los contratistas y subcontratistas de tu empresa en el desarrollo de sus labores. Responsabilidad del empleador: los gastos por fallecimiento o lesiones personales de tus empleados en caso de accidentes cuando tú, como empleador, no les garantices las condiciones de seguridad para desempeñar su labor. Esta cobertura opera en exceso de la seguridad social. Viajes al exterior: los daños materiales, lesiones personales o fallecimiento causados a terceros por funcionarios o empleados en el desempeño de sus obligaciones laborales durante viajes al exterior. Deben ser viajes que no excedan las cinco semanas. Daños al inmueble arrendado: los daños causados al lugar en el que tu empresa desarrolle sus actividades. Bienes bajo cuidado, tenencia y control: los daños causados con los bienes que estén bajo cuidado, tenencia y control (tanto si son de tu propiedad como si son prestados o alquilados)."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Responsabilidad civil cruzada: los daños que se causen diferentes compañías pertenecientes a un mismo grupo empresarial. Parqueadero: los daños o el hurto de los vehículos que se encuentren en los parqueaderos de tu empresa, siempre y cuando estos tengan vigilancia y se encuentren en espacios demarcados para el aparcamiento (celdas definidas). Gastos médicos de atención inicial de urgencias: los servicios inmediatos de primeros auxilios que se presten si ocurre una urgencia con un tercero. Este puede ser llevado a un centro médico sin importar si la empresa es o no responsable del accidente. Gastos de defensa en procesos civiles y penales: los gastos de defensa ante cualquier reclamación que presente un tercero por alguna de las responsabilidades incluidas en este seguro. Además, asumimos los gastos de defensa en procesos penales cuando sean consecuencia de un evento de responsabilidad civil."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Coberturas opcionales: Daños causados a terceros con vehículos a tu servicio: los daños materiales, lesiones personales o fallecimiento causados a terceros con vehículos que estén a tu servicio, sean o no de tu propiedad. Esta cobertura opera en exceso del SOAT, el seguro voluntario del vehículo o, en caso de no tener este último, de 136 salarios mínimos mensuales legales vigentes. Productos inseguros - defectuosos: los daños materiales, lesiones personales o fallecimiento causados a terceros por productos inseguros que sean fabricados, comercializados o entregados por tu empresa. Productos inseguros - defectuosos exportados: los daños que ocasione tu empresa a causa de productos defectuosos exportados a todo el mundo, excepto a Canadá, Estados Unidos y Puerto Rico. Unión, mezcla o transformación de productos: aplica para empresas que, durante sus procesos productivos, requieran insumos de otras compañías y puedan exponerse a dañarlos o deteriorarlos."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Incumplimiento de las obligaciones de un contrato. Contaminación paulatina. Enfermedades profesionales. Daños causados a bienes que tengas bajo tu control, cuidado o custodia, o cuando estos bienes desaparezcan o sean hurtados. Indemnización de carácter sancionatorio. Responsabilidad civil profesional. Hurto de elementos dejados dentro de los vehículos. Para conocer todas las condiciones del seguro y otras exclusiones, se debe consultar el condicionado."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿Qué empresas se pueden asegurar? Cualquier empresa que desee protegerse ante la responsabilidad civil y quiera preservar su patrimonio. La empresa debe ser apta luego de un análisis de riesgo realizado por SURA. Tarifas: la prima del seguro se establecerá de acuerdo con la actividad económica de la empresa."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Plazos y términos: el seguro será cancelado si el pago de la prima no se realiza dentro de los 45 días siguientes al inicio de su vigencia. El seguro puede ser cancelado de forma unilateral por Seguros SURA o la empresa asegurada. El Seguro de Responsabilidad Civil por Daños a Terceros tiene vigencia por un año sin renovación automática. ¿Cómo hacer una reclamación? Comunícate a la línea de atención de SURA: Bogotá 601 437 8888, Cali 602 437 8888, Medellín 604 437 8888, otras ciudades del país 01 8000 051 8888, o marca sin costo desde tu celular al #888. También puedes iniciar sesión en el portal o contactar a tu asesor de seguros."
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/construccion/maquinaria/equipo/contratistas",
+  "producto": {
+    "slug": "empresas-construccion-maquinaria-equipo-contratistas",
+    "nombre": "Seguro de Maquinaria y Equipo de contratistas",
+    "ramo": "Construcción",
+    "linea": "empresas",
+    "tipo_persona": "ambas",
+    "descripcion": "Protegemos tu maquinaria ante daños y pérdidas, cuidando tu patrimonio y que puedas brindar confianza y tranquilidad a tus clientes.",
+    "resumen": "Seguro que protege la maquinaria y equipo de contratistas frente a daños, eventos de la naturaleza y hurto, cuidando el patrimonio de empresas y personas naturales.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center", "presencial"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "danos-exteriores",
+      "nombre": "Daños exteriores",
+      "descripcion": "Protegemos tu maquinaria frente a cualquier daño exterior como incendios, explosiones, impactos de rayos, combustiones espontáneas y volcamientos.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-eventos-naturaleza",
+      "nombre": "Daños por eventos de la naturaleza",
+      "descripcion": "Protegemos tu maquinaria si sufre daños por eventos como terremoto, temblor de tierra, erupción volcánica u otros desastres naturales.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "actos-malintencionados-colaboradores",
+      "nombre": "Actos malintencionados de colaboradores",
+      "descripcion": "Cubrimos los daños en tu maquinaria causados por actos malintencionados cometidos por uno de tus empleados.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "hurto-de-maquinaria",
+      "nombre": "Hurto de maquinaria",
+      "descripcion": "En caso de un robo con violencia, te indemnizaremos con el valor de la maquinaria hurtada o de una de características similares.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "asonada-motin-conmocion-terrorismo",
+      "nombre": "Asonada, motín, conmoción civil o popular, huelga, actos malintencionados de terceros y terrorismo",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-extracontractual",
+      "nombre": "Responsabilidad civil por daños materiales o afectaciones a terceros",
+      "descripcion": null,
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "gastos-extraordinarios",
+      "nombre": "Gastos extraordinarios",
+      "descripcion": "Gastos extraordinarios por horas extras, trabajo nocturno, trabajo en días feriados y flete expreso cuando se deriven de un siniestro.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "remocion-de-escombros",
+      "nombre": "Remoción de escombros",
+      "descripcion": "Remoción de escombros en caso de un siniestro.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "transporte-de-equipos",
+      "nombre": "Transporte de los equipos dentro del territorio colombiano",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "movilizacion-de-equipos",
+      "nombre": "Movilización de los equipos por medios propios",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "gastos-de-salvamento",
+      "nombre": "Gastos de salvamento",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "exclusion-responsabilidad-fabricante-vendedor",
+      "nombre": "Pérdidas o daños responsabilidad del fabricante o vendedor",
+      "descripcion": "Pérdidas o daños que sean responsabilidad del fabricante o vendedor del bien asegurado.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "exclusion-lucro-cesante-paralizacion",
+      "nombre": "Lucro cesante y paralización del trabajo",
+      "descripcion": "Lucro cesante y demora o paralización total o parcial del trabajo.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "exclusion-danos-esteticos-desgaste",
+      "nombre": "Daños estéticos, abandono, uso inadecuado y desgaste",
+      "descripcion": "Daños estéticos o producidos por abandono, uso inadecuado y desgaste o deterioro de los equipos a través del tiempo.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "exclusion-falla-dano-mecanico-electrico-interno",
+      "nombre": "Falla, daño mecánico o eléctrico interno",
+      "descripcion": "Falla, daño mecánico o eléctrico interno. Si a consecuencia de tal falla o daño hay un accidente que produce daños externos, sí se indemnizará.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "exclusion-sobrecarga",
+      "nombre": "Daños por sobrecarga del bien asegurado",
+      "descripcion": "Pérdida o daños causados por sobrecarga del bien asegurado.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "exclusion-vehiculos-via-publica",
+      "nombre": "Daños de vehículos que transitan en vía pública",
+      "descripcion": "Daños de vehículos que puedan transitar en vía pública.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "exclusion-trabajos-offshore-cuerpos-de-agua",
+      "nombre": "Daños a equipos en trabajos offshore o sobre cuerpos de agua",
+      "descripcion": "Daños a equipos que desarrollen trabajos offshore (fuera de tierra), actividades dentro de ríos, lagunas u otros cuerpos de agua o que operen sobre planchones y barcazas.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños y personas naturales que cuenten con maquinaria de los sectores construcción, agrícola, industrial, entre otros. Algunas de las máquinas y equipos que este seguro protege son: maquinaria amarilla (retroexcavadoras, buldóceres y vibrocompactadoras), maquinaria agrícola y forestal, equipo de levantamiento de cargas, y maquinaria instalada sobre chasis."
+  },
+  "documentos": [
+    {
+      "tipo": "anexo",
+      "titulo": "Guía Seguros de Maquinaria y Equipo de contratistas",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/ingenieria/guias/guia-seguros-de-maquinaria-y-equipo-contratistas.pdf"
+    },
+    {
+      "tipo": "condicionado",
+      "titulo": "Términos y condiciones - Seguro Maquinaria y Equipo de contratistas",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/ingenieria/seguro-maquinaria-equipo-contratistas.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Maquinaria y Equipo de contratistas. Protegemos tu maquinaria ante daños y pérdidas, cuidando tu patrimonio y que puedas brindar confianza y tranquilidad a tus clientes."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? Empresas de todos los tamaños y personas naturales que cuenten con maquinaria de los sectores construcción, agrícola, industrial, entre otros. Algunas de las máquinas y equipos que este seguro protege son: maquinaria amarilla (retroexcavadoras, buldóceres y vibrocompactadoras); maquinaria agrícola y forestal; equipo de levantamiento de cargas; maquinaria instalada sobre chasis."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Por qué elegir esta solución? Te brindamos acompañamiento legal de manera telefónica en caso de que te veas involucrado en procesos civiles y penales por un siniestro. Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos por medio de Empresas SURA. Disfrutarás de un portafolio exclusivo de servicios en gestión de riesgos para el sector construcción."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Daños exteriores: protegemos tu maquinaria frente a cualquier daño exterior como incendios, explosiones, impactos de rayos, combustiones espontáneas y volcamientos. Daños por eventos de la naturaleza: protegemos tu maquinaria si sufre daños por eventos como terremoto, temblor de tierra, erupción volcánica u otros desastres naturales. Actos malintencionados de colaboradores: cubrimos los daños en tu maquinaria causados por actos malintencionados cometidos por uno de tus empleados. Hurto de maquinaria: en caso de un robo con violencia, te indemnizaremos con el valor de la maquinaria hurtada o de una de características similares."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Esta solución cuenta con coberturas adicionales como: asonada, motín, conmoción civil o popular, huelga, actos malintencionados de terceros y terrorismo; responsabilidad civil por daños materiales o afectaciones a terceros; gastos extraordinarios por horas extras, trabajo nocturno, trabajo en días feriados y flete expreso cuando se deriven de un siniestro; remoción de escombros en caso de un siniestro; transporte de los equipos dentro del territorio colombiano; movilización de los equipos por medios propios; gastos de salvamento."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Pérdidas o daños que sean responsabilidad del fabricante o vendedor del bien asegurado. Lucro cesante y demora o paralización total o parcial del trabajo. Daños estéticos o producidos por abandono, uso inadecuado y desgaste o deterioro de los equipos a través del tiempo. Falla, daño mecánico o eléctrico interno; si a consecuencia de tal falla o daño hay un accidente que produce daños externos, sí se indemnizará. Pérdida o daños causados por sobrecarga del bien asegurado. Daños de vehículos que puedan transitar en vía pública. Daños a equipos que desarrollen trabajos offshore (fuera de tierra), actividades dentro de ríos, lagunas u otros cuerpos de agua o que operen sobre planchones y barcazas."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Después de presentar tu reclamación, te contactaremos entre cinco (5) y siete (7) días calendario para informarte cómo se gestiona el proceso y solicitarte la documentación necesaria. Una vez tengamos toda la documentación, te enviaremos una respuesta en un plazo de siete (7) días hábiles. Recuerda que debes asumir un valor deducible, consúltalo en las condiciones de tu póliza."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cuáles son los medios de pago? Presenciales: bancos y redes aliadas. Digitales: Pago Express, débito automático y financiación. ¿Tienes dudas? Comunícate con nosotros al 01 8000 51 8888."
+    }
+  ]
+}

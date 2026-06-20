@@ -1,0 +1,54 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/certificados/cobertura/exterior/asistencia/empleado",
+  "proceso": {
+    "slug": "arl-certificados-cobertura-exterior-asistencia-empleado",
+    "nombre": "Certificado de cobertura por empleado",
+    "linea": "arl",
+    "tipo": "certificado",
+    "dirigido_a": "natural",
+    "descripcion": "En esta sección usted podrá generar un certificado de cobertura individual por empleado. Permite generar fácilmente el certificado de cobertura individual ingresando la información solicitada del empleado.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Seleccionar el tipo de documento",
+        "detalle": "Opciones disponibles: Cédula de Ciudadanía, Cédula de Extranjería, Carnet Diplomático, Tarjeta de Identidad, Registro Civil, Pasaporte, Permiso Especial, Salvo Conducto de Permanencia, Permiso de Protección Temporal."
+      },
+      {
+        "orden": 2,
+        "titulo": "Ingresar el número de documento",
+        "detalle": "Digite el número de documento del empleado."
+      },
+      {
+        "orden": 3,
+        "titulo": "Completar la verificación reCAPTCHA",
+        "detalle": "Recaptcha requires verification. Protected by reCAPTCHA."
+      },
+      {
+        "orden": 4,
+        "titulo": "Generar el certificado de cobertura individual por empleado",
+        "detalle": null
+      }
+    ],
+    "url": "https://www.sura.co/arl/certificados/cobertura/exterior/asistencia/empleado"
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Certificado de cobertura por empleado. Aquí podrás generar fácilmente el certificado de cobertura individual por empleado. Ingresa la información solicitada a continuación: ARL asistencia médica."
+    },
+    {
+      "seccion": "general",
+      "contenido": "En esta sección usted podrá generar un certificado de cobertura individual por empleado. Ingrese la información solicitada a continuación:"
+    },
+    {
+      "seccion": "requisitos",
+      "contenido": "Tipo de documento: Cédula de Ciudadanía, Cédula de Extranjería, Carnet Diplomático, Tarjeta de Identidad, Registro Civil, Pasaporte, Permiso Especial, Salvo Conducto de Permanencia, Permiso de Protección Temporal. Número de documento."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "reCAPTCHA. Recaptcha requires verification. protected by reCAPTCHA."
+    }
+  ]
+}

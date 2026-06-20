@@ -1,0 +1,283 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/construccion/montaje",
+  "producto": {
+    "slug": "empresas-construccion-montaje",
+    "nombre": "Seguro de Montaje",
+    "ramo": "Construcción",
+    "linea": "empresas",
+    "tipo_persona": "ambas",
+    "descripcion": "Protegemos tus proyectos de montaje ante posibles riesgos, para que avances con confianza y brindes seguridad a tus clientes. Está dirigido a empresas de todos los tamaños y personas naturales que vayan a iniciar un montaje, ya sea de maquinaria de gran tamaño, plantas o estructuras metálicas de todo tipo.",
+    "resumen": "Seguro que protege proyectos de montaje de maquinaria, plantas y estructuras metálicas ante daños materiales y otros riesgos.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "presencial", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "errores-durante-el-montaje",
+      "nombre": "Errores durante el montaje",
+      "descripcion": "Cubrimos los daños materiales causados durante el montaje.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "caida-del-montaje",
+      "nombre": "Caída del montaje",
+      "descripcion": "Si se presenta una caída total o parcial del montaje que estás realizando, te cubrimos los daños materiales causados por este evento.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-causados-por-empleado",
+      "nombre": "Daños causados por un empleado",
+      "descripcion": "Cubrimos los daños materiales del montaje causados por impericia, descuido y actos malintencionados cometidos por uno de tus colaboradores.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-por-eventos-de-la-naturaleza",
+      "nombre": "Daños por eventos de la naturaleza",
+      "descripcion": "Protegemos tu proyecto de montaje si sufre daños por eventos de la naturaleza como rayo, terremoto, temblor de tierra, erupción volcánica u otros desastres naturales.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "hurto-en-la-obra",
+      "nombre": "Hurtos en la obra",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "actos-malintencionados-de-terceros",
+      "nombre": "Actos malintencionados de terceros",
+      "descripcion": "Cubrimos el proyecto de montaje en caso de asonada, motín, conmoción civil, huelga, actos malintencionados de terceros y terrorismo.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-materiales-por-incendio-explosion-y-otros",
+      "nombre": "Daños materiales causados por incendio, explosión y otros eventos",
+      "descripcion": "Incendio y explosión que no hayan sido ocasionados por actos malintencionados de otras personas; caídas de aeronave o partes de ella; inundación y riesgos geotécnicos.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-extracontractual",
+      "nombre": "Responsabilidad civil por daños a terceros",
+      "descripcion": "Responsabilidad civil por daños materiales o afectaciones a personas externas al proyecto.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "desviacion-del-cronograma",
+      "nombre": "Desviación del cronograma",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "remocion-de-escombros",
+      "nombre": "Remoción de escombros",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "propiedades-existentes",
+      "nombre": "Propiedades existentes",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "riesgo-de-diseno-leg-y-riesgo-del-fabricante",
+      "nombre": "Coberturas para riesgo de diseño y riesgo del fabricante",
+      "descripcion": "Coberturas para riesgo de diseño según las cláusulas LEG 2/96 y LEG 3/06 y riesgo del fabricante.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "gastos-para-demostracion-o-prevencion-de-la-perdida",
+      "nombre": "Gastos para la demostración o prevención de la pérdida",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "cobertura-para-periodo-de-pruebas",
+      "nombre": "Cobertura para periodo de pruebas",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "riesgos-nucleares-o-atomicos",
+      "nombre": "Riesgos nucleares o atómicos",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "hurto-simple-o-desaparicion-misteriosa",
+      "nombre": "Hurto simple o desaparición misteriosa",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "guerra-invasion-y-hostilidades",
+      "nombre": "Guerra, invasión, actos enemigos extranjeros, hostilidades y guerras civiles",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "huelgas-vandalismo-y-dano-malicioso",
+      "nombre": "Huelgas, conflictos colectivos de trabajo, daño malicioso o vandalismo",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "dolo-o-culpa-grave",
+      "nombre": "Dolo (intención) o culpa grave",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "lucro-cesante-y-paralizacion-de-trabajo",
+      "nombre": "Lucro cesante, demora y paralización de trabajo",
+      "descripcion": "Lucro cesante, demora y paralización de trabajo, sea total o parcialmente.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "desgaste-deterioro-y-corrosion",
+      "nombre": "Desgaste, deterioro, corrosiones, incrustaciones y raspaduras",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "incumplimiento-de-disenos-tecnicos-o-estudio-de-suelos",
+      "nombre": "Pérdidas por incumplimiento de diseños técnicos o del estudio de suelos",
+      "descripcion": "Pérdidas generadas por el incumplimiento de diseños técnicos o del estudio de suelos.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-a-bienes-existentes-al-inicio-de-trabajos",
+      "nombre": "Daños o defectos a bienes asegurados existentes al iniciarse los trabajos",
+      "descripcion": "Daños o defectos a bienes asegurados existentes al iniciarse los trabajos de construcción.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "sanciones-o-multas",
+      "nombre": "Sanciones o multas",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños y personas naturales que vayan a iniciar un montaje, ya sea de maquinaria de gran tamaño, plantas o estructuras metálicas de todo tipo."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condiciones del seguro de Montaje",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/ingenieria/montaje.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Montaje. Protegemos tus proyectos de montaje ante posibles riesgos, para que avances con confianza y brindes seguridad a tus clientes."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? Empresas de todos los tamaños y personas naturales que vayan a iniciar un montaje, ya sea de maquinaria de gran tamaño, plantas o estructuras metálicas de todo tipo."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Por qué elegir esta solución? Te brindaremos acompañamiento legal de manera telefónica en caso de que te veas involucrado en procesos civiles y penales por un siniestro. Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos. Empresas SURA te acompañará para llevar tu empresa a otro nivel. Disfrutarás de un portafolio exclusivo de servicios en gestión de riesgos para el sector construcción."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Errores durante el montaje: cubrimos los daños materiales causados durante el montaje. Caída del montaje: si se presenta una caída total o parcial del montaje que estás realizando, te cubrimos los daños materiales causados por este evento. Daños causados por un empleado: cubrimos los daños materiales del montaje causados por impericia, descuido y actos malintencionados cometidos por uno de tus colaboradores. Daños por eventos de la naturaleza: protegemos tu proyecto de montaje si sufre daños por eventos de la naturaleza como rayo, terremoto, temblor de tierra, erupción volcánica u otros desastres naturales. Hurtos en la obra. Actos malintencionados de terceros: cubrimos el proyecto de montaje en caso de asonada, motín, conmoción civil, huelga, actos malintencionados de terceros y terrorismo. Daños materiales causados por incendio y explosión que no hayan sido ocasionados por actos malintencionados de otras personas, caídas de aeronave o partes de ella, inundación y riesgos geotécnicos."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Esta solución cuenta con coberturas adicionales, como: Responsabilidad civil por daños materiales o afectaciones a personas externas al proyecto. Desviación del cronograma. Remoción de escombros. Propiedades existentes. Coberturas para riesgo de diseño según las cláusulas LEG 2/96 y LEG 3/06 y riesgo del fabricante. Gastos para la demostración o prevención de la pérdida. Cobertura para periodo de pruebas."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Riesgos nucleares o atómicos. Hurto simple o desaparición misteriosa. Guerra, invasión, actos enemigos extranjeros, hostilidades y guerras civiles. Huelgas, conflictos colectivos de trabajo, daño malicioso o vandalismo. Dolo (intención) o culpa grave. Lucro cesante, demora y paralización de trabajo, sea total o parcialmente. Desgaste, deterioro, corrosiones, incrustaciones, raspaduras, entre otros. Pérdidas generadas por el incumplimiento de diseños técnicos o del estudio de suelos. Daños o defectos a bienes asegurados existentes al iniciarse los trabajos de construcción. Sanciones o multas."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Después de presentar tu reclamación, te contactaremos entre cinco (5) y siete (7) días calendario para informarte cómo se gestiona el proceso y solicitarte la documentación necesaria. Una vez tengamos toda la documentación requerida, te enviaremos una respuesta en un plazo de siete (7) días hábiles. Recuerda que debes asumir un valor deducible, consúltalo en las condiciones de tu póliza."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cuáles son los medios de pago? Presenciales: bancos y redes aliadas. Digitales: pago Express, débito automático y financiación."
+    }
+  ]
+}

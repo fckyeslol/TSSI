@@ -1,0 +1,206 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/construccion/equipo/electronico",
+  "producto": {
+    "slug": "empresas-construccion-equipo-electronico",
+    "nombre": "Seguro de Equipo Electrónico",
+    "ramo": "Construcción",
+    "linea": "empresas",
+    "tipo_persona": "ambas",
+    "descripcion": "El Seguro de Equipo Electrónico de SURA está diseñado para proteger tus equipos electrónicos contra los riesgos que pueden causar daños o pérdidas. Un seguro es especialmente útil para empresas y profesionales que dependen de tecnología avanzada y equipos especializados en su operativa diaria. Respalda casos como errores humanos y situaciones que perjudican el adecuado funcionamiento de los elementos electrónicos de tu organización.",
+    "resumen": "Protege los equipos electrónicos de tu empresa contra daños, errores humanos y eventos accidentales.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "impericia-manejo-inadecuado-negligencia",
+      "nombre": "Impericia, manejo inadecuado y negligencia de operarios",
+      "descripcion": "Impericia, manejo inadecuado y negligencia por parte de tus operarios.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "actos-malintencionados-empleados",
+      "nombre": "Actos malintencionados de empleados",
+      "descripcion": "Actos malintencionados cometidos por tus empleados.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "errores-diseno-material-construccion-montaje-reparacion",
+      "nombre": "Errores en diseño, material, construcción, montaje y reparación",
+      "descripcion": "Errores en diseño, material, construcción, montaje y reparación de los equipos (no cubiertos por la garantía).",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "cortocircuito-fenomenos-electromagneticos-rayo",
+      "nombre": "Cortocircuito, fenómenos electromagnéticos y electrostáticos e impacto de rayo",
+      "descripcion": "Cortocircuito, fenómenos electromagnéticos y electrostáticos e impacto directo de rayo.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-materiales-accidentales",
+      "nombre": "Daños materiales accidentales",
+      "descripcion": "Daños materiales accidentales que hagan necesaria la reparación o reposición de tus equipos electrónicos.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "incendio-explosion-implosion-humo",
+      "nombre": "Incendio, explosión, implosión y humo",
+      "descripcion": "Incendio, explosión, implosión y humo.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "caida-aeronaves",
+      "nombre": "Caída de aeronaves o parte de ellas",
+      "descripcion": "Caída de aeronaves o parte de ellas.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "tempestad-lluvia-inundacion-desbordamiento",
+      "nombre": "Tempestad, lluvia, inundación o desbordamiento de tanques de agua",
+      "descripcion": "Tempestad, lluvia, inundación o desbordamiento de tanques de agua.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "guerra-invasion-hostilidades",
+      "nombre": "Guerra, invasión, actos de enemigos extranjeros, hostilidades o guerra civil",
+      "descripcion": "Guerra, invasión, actos de enemigos extranjeros, hostilidades o guerra civil.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "rebelion-poder-militar-conmocion-civil",
+      "nombre": "Rebelión, poder militar, conmoción civil o popular",
+      "descripcion": "Rebelión, poder militar, conmoción civil o popular.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "huelga-motin-dano-malicioso-vandalismo",
+      "nombre": "Huelga, conflicto colectivo, motín, daño malicioso o vandalismo",
+      "descripcion": "Huelga, conflicto colectivo, motín, daño malicioso o vandalismo.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "actos-malintencionados-terceros-terrorismo",
+      "nombre": "Actos malintencionados de terceros y terrorismo",
+      "descripcion": "Actos malintencionados de terceros y terrorismo.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-defectos-fabricacion-responsabilidad-vendedor",
+      "nombre": "Daños o defectos de fabricación o responsabilidad del vendedor",
+      "descripcion": "Daños o defectos de fabricación o responsabilidad del vendedor o proveedor del equipo.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "defectos-conocidos-antes-del-seguro",
+      "nombre": "Defectos conocidos antes de iniciar el seguro",
+      "descripcion": "Defectos de los equipos existentes que el asegurado conozca antes de iniciarse el seguro.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-contractual-extracontractual",
+      "nombre": "Responsabilidad civil contractual y extracontractual",
+      "descripcion": "Responsabilidad civil contractual y extracontractual.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "equipos_asegurables": "Equipos de cómputo, control, comunicaciones, sistematización y, en general, aquellos de esencia electrónica utilizados en tu negocio.",
+      "deberes_asegurado": [
+        "Mantener tus equipos en buen estado.",
+        "No someter tus equipos electrónicos a sobrecargas de forma habitual.",
+        "No utilizar tus bienes en labores para las que no son adecuados.",
+        "Proteger los equipos con red de puesta a tierra, supresores de picos y regulador de voltaje."
+      ]
+    },
+    "descripcion": "Útil para empresas y profesionales que dependen de tecnología avanzada y equipos especializados en su operativa diaria. Puedes asegurar equipos de cómputo, control, comunicaciones, sistematización y, en general, aquellos de esencia electrónica utilizados en tu negocio."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condicionado Seguro de Equipo Electrónico",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/bienes-y-patrimonio/equipo-electronico.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "El Seguro de Equipo Electrónico de SURA está diseñado para proteger tus equipos electrónicos contra los riesgos que pueden causar daños o pérdidas. Un seguro es especialmente útil para empresas y profesionales que dependen de tecnología avanzada y equipos especializados en su operativa diaria. Respaldamos los daños ocurridos a tus equipos electrónicos, cuidamos tu patrimonio frente a los riesgos a los que podrías exponerlos y puedes contar con las soluciones adecuadas a tus necesidades. Sabemos que en tu negocio o empresa piensas y actúas día a día para mejorar constantemente la calidad de los servicios que ofreces, por esto, es muy importante proteger los equipos electrónicos con los que trabajas. Con el Seguro de Equipo Electrónico de SURA estarás respaldado en casos como errores humanos y situaciones que perjudican el adecuado funcionamiento de los elementos electrónicos de tu organización. Cuida tu patrimonio invirtiendo en su protección. SURA gestiona el riesgo al que tu empresa se expone."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿Qué equipos electrónicos puedes asegurar? Equipos de cómputo, control, comunicaciones, sistematización y, en general, aquellos de esencia electrónica utilizados en tu negocio."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubre el Seguro de Equipo Electrónico de SURA? Impericia, manejo inadecuado y negligencia por parte de tus operarios. Actos malintencionados cometidos por tus empleados. Errores en diseño, material, construcción, montaje y reparación de los equipos (no cubiertos por la garantía). Cortocircuito, fenómenos electromagnéticos y electrostáticos e impacto directo de rayo. Daños materiales accidentales que hagan necesaria la reparación o reposición de tus equipos electrónicos. Incendio, explosión, implosión y humo. Caída de aeronaves o parte de ellas. Tempestad, lluvia, inundación o desbordamiento de tanques de agua."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Guerra, invasión, actos de enemigos extranjeros, hostilidades o guerra civil. Rebelión, poder militar, conmoción civil o popular. Huelga, conflicto colectivo, motín, daño malicioso o vandalismo. Actos malintencionados de terceros y terrorismo. Daños o defectos de fabricación o responsabilidad del vendedor o proveedor del equipo. Defectos de los equipos existentes que el asegurado conozca antes de iniciarse el seguro. Responsabilidad civil contractual y extracontractual."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cuál es el valor asegurado? El valor asegurado corresponde al monto de reposición o reemplazo de los bienes afectados, que será la cantidad de dinero necesaria para la adquisición de un bien nuevo de la misma clase, marca, capacidad y características."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿Cuáles son los deberes que tienes como asegurado? Mantener tus equipos en buen estado. No someter tus equipos electrónicos a sobrecargas de forma habitual. No utilizar tus bienes en labores para las que no son adecuados. Proteger los equipos con red de puesta a tierra, supresores de picos y regulador de voltaje."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Qué debo hacer en caso de una reclamación? Si ocurre un hecho por el que tu empresa deba ser indemnizada, deberás informarnos por escrito indicándonos cómo, cuándo y dónde se dio el incidente, siempre y cuando esto sea en el transcurso de los tres días siguientes al momento en el que pasó el suceso. Es muy importante que trates de evitar la propagación del incidente para que puedas impedir más pérdidas o daños más graves a tus bienes. Plazos y términos: el seguro tendrá un año de vigencia sin renovación automática."
+    }
+  ]
+}

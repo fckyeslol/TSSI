@@ -1,0 +1,34 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/certificados",
+  "proceso": {
+    "slug": "arl-certificados",
+    "nombre": "Solicitud de certificados y carné",
+    "linea": "arl",
+    "tipo": "certificado",
+    "dirigido_a": "ambas",
+    "descripcion": "Si estás afiliado a ARL SURA podrás consultar y descargar tu carné de afiliación, diferentes certificados y algunas constancias. Conoce el proceso para generar tu carné de afiliación y cómo puedes subir el logo de tu empresa al sitio web.",
+    "pasos": [
+      { "orden": 1, "titulo": "Certificado y carné de afiliación", "detalle": "Solicítalo en línea, descárgalo fácil y rápido sin desplazamientos e imprímelo en el lugar en el que te encuentres. Descarga: https://www.sura.co/web/arl/certificados/carne-afiliacion" },
+      { "orden": 2, "titulo": "Carné con o sin logo de la empresa", "detalle": "Conoce el proceso para generar tu carné de afiliación y cómo puedes subir el logo de tu empresa a nuestro sitio web. Descubre: https://www.sura.co/documents/d/arl/instructivo_carne" },
+      { "orden": 3, "titulo": "Cobertura en el exterior empleados", "detalle": "Te brindamos asistencia médica durante tu actividad laboral en el exterior. Descarga: https://www.sura.co/web/arl/certificados/cobertura-empleado-asistencia-medica" },
+      { "orden": 4, "titulo": "Cobertura en el exterior empresas", "detalle": "Protege a tus trabajadores con asistencia médica, en caso de un accidente de origen laboral. Descargar: https://www.sura.co/web/arl/certificados/cobertura-empresa-carta-licencia" },
+      { "orden": 5, "titulo": "Valida certificados expedidos", "detalle": "Con el código único del certificado podrás consultar los certificados que hayas expedido. Consultar: https://www.sura.co/web/arl/certificados/validar" },
+      { "orden": 6, "titulo": "Para pensionados", "detalle": "Descarga tus certificados, colillas, constancia de pago de EPS y mantén tus datos actualizados. Descarga: https://www.sura.co/web/arl/gestion-financiera/pensionados" }
+    ],
+    "url": "https://www.sura.co/arl/certificados"
+  },
+  "documentos": [
+    { "tipo": "formato", "titulo": "Instructivo carné con o sin logo de la empresa", "pdf_url": "https://www.sura.co/documents/d/arl/instructivo_carne" }
+  ],
+  "chunks": [
+    { "seccion": "general", "contenido": "Si estás afiliado a ARL SURA podrás consultar y descargar tu carné de afiliación, diferentes certificados y algunas constancias." },
+    { "seccion": "general", "contenido": "Consulta y descarga tus certificados desde cualquier lugar, sin desplazamientos. En SURA estamos en línea con tu bienestar." },
+    { "seccion": "pasos", "contenido": "Certificado y carné de afiliación: Solicítalo en línea, descárgalo fácil y rápido sin desplazamientos e imprímelo en el lugar en el que te encuentres." },
+    { "seccion": "pasos", "contenido": "Carné con o sin logo de la empresa: Conoce el proceso para generar tu carné de afiliación y cómo puedes subir el logo de tu empresa a nuestro sitio web." },
+    { "seccion": "pasos", "contenido": "Cobertura en el exterior empleados: Te brindamos asistencia médica durante tu actividad laboral en el exterior." },
+    { "seccion": "pasos", "contenido": "Cobertura en el exterior empresas: Protege a tus trabajadores con asistencia médica, en caso de un accidente de origen laboral." },
+    { "seccion": "pasos", "contenido": "Valida certificados expedidos: Con el código único del certificado podrás consultar los certificados que hayas expedido." },
+    { "seccion": "pasos", "contenido": "Para pensionados: Descarga tus certificados, colillas, constancia de pago de EPS y mantén tus datos actualizados." }
+  ]
+}

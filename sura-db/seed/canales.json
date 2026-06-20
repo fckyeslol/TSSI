@@ -1,0 +1,658 @@
+[
+  {
+    "producto_slug": "colectivos",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "colectivos",
+    "canal": "corredores"
+  },
+  {
+    "producto_slug": "colectivos",
+    "canal": "affinity"
+  },
+  {
+    "producto_slug": "empresas-agro-bovino-bufalino",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-agro-bovino-bufalino",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "empresas-agro-bovino-bufalino",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-agro-cosecha",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-agro-cosecha",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-agro-planta",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-agro-planta",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "empresas-agro-planta",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-colectivos-autos",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-colectivos-autos",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "empresas-colectivos-autos",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "empresas-colectivos-pension",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-colectivos-pension",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-colectivos-vida-accidentes-personales",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-colectivos-vida-accidentes-personales",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "empresas-colectivos-vida-accidentes-personales",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-construccion-equipo-electronico",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-construccion-equipo-electronico",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-construccion-maquinaria-equipo-contratistas",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-construccion-maquinaria-equipo-contratistas",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-construccion-maquinaria-equipo-contratistas",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "empresas-construccion-montaje",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-construccion-montaje",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "empresas-construccion-montaje",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-construccion-obras-civiles-terminadas",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-construccion-obras-civiles-terminadas",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "empresas-construccion-obras-civiles-terminadas",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-construccion-seguro-construccion",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-construccion-seguro-construccion",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-corporativos-pymes-multirriesgo-copropiedades",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-corporativos-pymes-multirriesgo-copropiedades",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-arrendamiento",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-arrendamiento",
+    "canal": "corredores"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-caucion-judicial",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-caucion-judicial",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-contratistas-proveedores",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-contratistas-proveedores",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-disposiciones-legales",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-entidades-estatales",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-entidades-estatales",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-grandes-beneficiarios",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-particulares",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-particulares",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-particulares",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-servicios-publicos",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-servicios-publicos",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-energia-eficiencia-energetica",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-energia-eficiencia-energetica",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-politica-suscripcion-asg",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-ambiental",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-ambiental",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-clinicas-hospitales",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-clinicas-hospitales",
+    "canal": "corredores"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-clinicas-hospitales",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-danos-terceros",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-danos-terceros",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-drones",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-drones",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-drones",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-familiar",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-familiar",
+    "canal": "affinity"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-fraude-empleado",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-fraude-empleado",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-parqueaderos",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-parqueaderos",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-responsabilidad-empleador",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-responsabilidad-empleador",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-talleres",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-talleres",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-sectores-transporte",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-sura",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-sura",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "empresas-sura",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-sura",
+    "canal": "corredores"
+  },
+  {
+    "producto_slug": "empresas-transporte-cadena-abastecimiento",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-transporte-cadena-abastecimiento",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-transporte-carga-proyectos",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-transporte-carga-proyectos",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-transporte-carga-proyectos",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "empresas-transporte-mercancias-automatico",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-transporte-mercancias-automatico",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-transporte-mercancias-especifico",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-transporte-mercancias-especifico",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "empresas-transporte-terrestres-carga",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "empresas-transporte-terrestres-carga",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "empresas-transporte-terrestres-carga",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-hogar-hogar",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-hogar-hogar",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "personas-hogar-hogar",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-hogar-hogar",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-hogar-mascotas",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-hogar-mascotas",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "personas-hogar-mascotas",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-hogar",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-hogar",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-movilidad-autos-digital",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-movilidad-bicicletas-patinetas",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-movilidad-bicicletas-patinetas",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-movilidad-bicicletas-patinetas",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-movilidad-motos-digital",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-movilidad-motos",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-movilidad-motos",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-movilidad-motos",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "personas-movilidad-peritaje",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "personas-movilidad-peritaje",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-movilidad-soat-reclamaciones",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-movilidad-soat-reclamaciones",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-movilidad",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-movilidad",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-responsabilidad-civil-profesionales-salud",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-responsabilidad-civil-profesionales-salud",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-salud-como-cuidarte",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-salud-enfermedades-graves",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-salud-enfermedades-graves",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-salud-mascotas-digital",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-salud-plan-salud-modular",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-salud-plan-salud-modular",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-salud-poliza-clasica",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-salud-poliza-clasica",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-salud-poliza-clasica",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-salud-poliza-evoluciona",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-salud-poliza-evoluciona",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-salud-poliza-global",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-salud-poliza-global",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-salud-poliza",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-salud-poliza",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "personas-salud-renta-diaria",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-salud-renta-diaria",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "personas-salud-renta-diaria",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-dos",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-dos",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-dos",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-todos",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-salud-viajes-digital",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-salud-viajes",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-salud-viajes",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-salud-viajes",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "personas-salud",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-salud",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-salud",
+    "canal": "presencial"
+  },
+  {
+    "producto_slug": "personas-vida-accidentes-personales",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-vida-accidentes-personales",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-vida-accidentes-personales",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-vida-credito-protegido",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-vida-credito-protegido",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-vida-credito-protegido",
+    "canal": "bancaseguros"
+  },
+  {
+    "producto_slug": "personas-vida-educacion",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-vida-educacion",
+    "canal": "call_center"
+  },
+  {
+    "producto_slug": "personas-vida-exequias",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-vida-pension",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-vida-seguro-de-vida",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-vida-seguro-de-vida",
+    "canal": "asesor"
+  },
+  {
+    "producto_slug": "personas-vida",
+    "canal": "digital"
+  },
+  {
+    "producto_slug": "personas-vida",
+    "canal": "asesor"
+  }
+]

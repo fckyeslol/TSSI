@@ -1,0 +1,81 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/salud/viajes/digital",
+  "producto": {
+    "slug": "personas-salud-viajes-digital",
+    "nombre": "Seguro de Viaje Internacional SURA - eSIM 2026",
+    "ramo": "Salud",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Viaja protegido con SURA y recibe una eSIM de hasta 10GB para estar siempre conectado. Seguro de viaje internacional 100% digital que te acompaña ante emergencias médicas, pérdida o demora de equipaje, robo de documentos y cancelación de vuelos.",
+    "resumen": "Seguro de viaje internacional 100% digital con eSIM de hasta 10GB y coberturas de salud, equipaje y cancelación.",
+    "es_digital": true,
+    "cotizador_url": "https://ecomm.sura.co/seguros/salud/viajes/cotizador",
+    "canales": ["digital"]
+  },
+  "planes": [
+    { "slug": "plan-esencial", "nombre": "Plan Esencial", "orden": 1, "precio_desde": null },
+    { "slug": "plan-plus", "nombre": "Plan Plus", "orden": 2, "precio_desde": null },
+    { "slug": "plan-total", "nombre": "Plan Total", "orden": 3, "precio_desde": null }
+  ],
+  "coberturas": [
+    {
+      "slug": "robo-documentos",
+      "nombre": "Si te roban los documentos durante el viaje",
+      "descripcion": "Te reembolsamos hasta 200 USD.",
+      "categoria": "asistencia",
+      "plan_slug": "plan-total",
+      "tipo": "incluida",
+      "limite": "Hasta 200 USD"
+    },
+    {
+      "slug": "perdida-o-demora-equipaje",
+      "nombre": "Si tu equipaje se pierde o llega tarde a tu destino",
+      "descripcion": "Te pagamos hasta 500 USD para que puedas comprar lo que necesites.",
+      "categoria": "patrimonial",
+      "plan_slug": "plan-total",
+      "tipo": "incluida",
+      "limite": "Hasta 500 USD"
+    },
+    {
+      "slug": "cancelacion-vuelo",
+      "nombre": "Si la aerolínea cancela tu viaje",
+      "descripcion": "Te pagamos 300 USD para cubrir los gastos.",
+      "categoria": "patrimonial",
+      "plan_slug": "plan-total",
+      "tipo": "incluida",
+      "limite": "300 USD"
+    },
+    {
+      "slug": "emergencia-medica",
+      "nombre": "Si tienes una emergencia médica",
+      "descripcion": "Te pagamos hasta 75.000 USD para cubrir gastos por medicamentos ambulatorios u otras complicaciones médicas.",
+      "categoria": "salud",
+      "plan_slug": "plan-total",
+      "tipo": "incluida",
+      "limite": "Hasta 75.000 USD"
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de viaje internacional digital. Explora tranquilo, estamos contigo. Asegura tu viaje 100% digital. Viaja protegido con SURA y recibe una eSIM de hasta 10GB para estar siempre conectado."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Planes disponibles: Plan Esencial, Plan Plus y Plan Total. Plan Total: Tienes todas las coberturas del Plan Plus y además, tu equipaje está cubierto."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Si te roban los documentos durante el viaje: Te reembolsamos hasta 200 USD. Si tu equipaje se pierde o llega tarde a tu destino: Te pagamos hasta 500 USD para que puedas comprar lo que necesites. Si la aerolínea cancela tu viaje: Te pagamos 300 USD para cubrir los gastos. Si tienes una emergencia médica: Te pagamos hasta 75.000 USD para cubrir gastos por medicamentos ambulatorios u otras complicaciones médicas."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/educacion",
+  "proceso": {
+    "slug": "arl-educacion",
+    "nombre": "Edúcate con SURA",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "ambas",
+    "descripcion": "Sección de educación de ARL SURA con guías, formaciones, cursos y recursos para aprender sobre la prevención y la salud en el trabajo. Ofrece recursos diferenciados para empresas, independientes y dependientes.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Empresa",
+        "detalle": "Descubre todos los recursos que necesitas para mejorar tus conocimientos sobre prevención y seguridad en el trabajo. Ingresar: https://www.arlsura.com/index.php?option=com_content&view=article&id=4019"
+      },
+      {
+        "orden": 2,
+        "titulo": "Independientes",
+        "detalle": "Descubre todos los recursos que necesitas para mejorar tus conocimientos sobre prevención y seguridad en el trabajo. Ingresar: https://www.arlsura.com/index.php?option=com_content&view=article&id=4020"
+      },
+      {
+        "orden": 3,
+        "titulo": "Dependiente",
+        "detalle": "Descubre todos los recursos que necesitas para mejorar tus conocimientos sobre prevención y seguridad en el trabajo. Ingresar: https://www.arlsura.com/index.php?option=com_content&view=article&id=4021"
+      }
+    ],
+    "url": "https://www.sura.co/arl/educacion"
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Edúcate con SURA y trabaja seguro - ARL SURA. Descubre nuestra sección de educación con guías, formaciones, cursos y aprende jugando sobre la prevención y la salud en el trabajo."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Empresa. Descubre todos los recursos que necesitas para mejorar tus conocimientos sobre prevención y seguridad en el trabajo."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Independientes. Descubre todos los recursos que necesitas para mejorar tus conocimientos sobre prevención y seguridad en el trabajo."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Dependiente. Descubre todos los recursos que necesitas para mejorar tus conocimientos sobre prevención y seguridad en el trabajo."
+    }
+  ]
+}

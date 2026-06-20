@@ -1,0 +1,19 @@
+{
+  "tipo": "referencia",
+  "url": "https://www.sura.co/seguros/medios/pago/debito/automatico",
+  "categoria": "General",
+  "chunks": [
+    {
+      "seccion": "Débito automático",
+      "contenido": "En SURA te ofrecemos la posibilidad de debitar el valor de tus pagos directamente de tu tarjeta de crédito, cuenta de ahorros o corriente."
+    },
+    {
+      "seccion": "Fechas de cobro",
+      "contenido": "Fechas de cobro. Si tu seguro inicia vigencia entre el 1 y el 15 del mes / Si tu seguro inicia vigencia entre el 16 y el 30 del mes.\n\nBancolombia y Davivienda (Ahorros y corriente): Cobro (vigencia 1-15): El 16 o el siguiente día hábil de cada mes. Recobro (vigencia 1-15): El 20, 24, 30 y 10 del mes siguiente. Cobro (vigencia 16-30): Último día hábil del mes. Recobro (vigencia 16-30): El 10, 16, 20, 24 y 30 del mes siguiente.\n\nTarjetas de crédito: Cobro (vigencia 1-15): El 16 o el siguiente día hábil de cada mes. Recobro (vigencia 1-15): El 20, 24, último día hábil del mes y 10 del mes siguiente (Puede variar según el día hábil). Cobro (vigencia 16-30): Último día hábil del mes. Recobro (vigencia 16-30): El 10, 16, 20, 24 y último día hábil del mes siguiente (Puede variar según el día hábil).\n\nTarjetas tokenizadas (Tarjetas de crédito): Cobro (vigencia 1-15): El 16 o el siguiente día hábil de cada mes. Recobro (vigencia 1-15): Último día hábil del mes. Cobro (vigencia 16-30): Último día hábil del mes. Recobro (vigencia 16-30): 16 o próximo día hábil del mes siguiente.\n\nBanco Popular, Banco de Occidente, Banco de Bogotá, Banco Caja Social BCSC S.A., Banco BBVA, Banco Compartir S.A., Banco Multibank S.A., Banco AV Villas, Banco Scotiabank Colpatria, Banco Agrario, Banco Cooperativo Coopcentral, Banco GNB Sudameris, Banco Citibank, Banco Itaú, Banco Itaú (Helm bank), Nequi, Daviplata, Confiar Cooperativa Financiera (Ahorros y corriente): Cobro (vigencia 1-15): El 16 o el siguiente día hábil de cada mes. Recobro (vigencia 1-15): Último día hábil del mes. Cobro (vigencia 16-30): Último día hábil del mes. Recobro (vigencia 16-30): 16 o próximo día hábil del mes siguiente.\n\nLos recobros para tarjetas de crédito, aplican para tarjetas de los bancos Bancolombia y Davivienda que no estén tokenizadas."
+    },
+    {
+      "seccion": "Medios y formas de pago disponibles",
+      "contenido": "Medios y formas de pago disponibles: Presenciales, Digitales, Débito automático, Financiados, Desembolsos."
+    }
+  ]
+}

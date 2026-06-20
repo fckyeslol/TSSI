@@ -1,0 +1,68 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/gestion/financiera/recaudo/cartera",
+  "proceso": {
+    "slug": "arl-gestion-financiera-recaudo-cartera",
+    "nombre": "Recaudo y Cartera ARL",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "ambas",
+    "descripcion": "Tramite administrativo de Recaudo y Cartera de la ARL que permite solicitar nuevos tramites o consultar el estado de un tramite. Aplica a solicitudes asociadas a mora y/o inexactitudes, devolucion de aportes PILA o traslados a otras ARL, recobros a otras ARL (pagos realizados o direccionados a otras ARL) e informacion de aportes PILA.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Datos del solicitante",
+        "detalle": "Selecciona el tipo de tramite (mora y/o inexactitudes, devolucion de aportes PILA o traslados a otras ARL, recobros a otras ARL, informacion de aportes PILA) y completa los datos del solicitante: nombres y apellidos completos, tipo y numero de documento, cargo en la empresa, telefono fijo o celular, correo electronico (con confirmacion), departamento, municipio y como deseas ser contactado."
+      },
+      {
+        "orden": 2,
+        "titulo": "Datos del tramite",
+        "detalle": "Ingresa el tipo y numero de documento del aportante, nombres y apellidos completos del aportante, indica si es Persona Juridica o Persona Natural segun el caso, adjunta los archivos requeridos (formatos .XLSX, PDF, .TIFF, .JPG segun el tramite, maximo 4MB por archivo, incluyendo plantillas de Excel para Actualizar Fechas y Anulacion Afiliaciones cuando aplique), agrega observaciones y acepta la politica de tratamiento de datos personales para enviar la peticion."
+      },
+      {
+        "orden": 3,
+        "titulo": "Consultar estado de tramite",
+        "detalle": "Para consultar el estado, ingresa el codigo de radicado asociado a tu tramite y completa la verificacion reCAPTCHA."
+      }
+    ],
+    "url": "https://www.sura.co/arl/gestion/financiera/recaudo/cartera"
+  },
+  "documentos": [
+    {
+      "tipo": "formato",
+      "titulo": "Plantilla de Excel Actualizar Fechas",
+      "pdf_url": null
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Plantilla de Excel Anulacion Afiliaciones",
+      "pdf_url": null
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Recaudo y Cartera ARL. Tramites Administrativos. Por favor selecciona que accion deseas realizar: Solicitar nuevo tramite o Consultar estado de tramite."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Tu solicitud esta asociada a: Mora y/o inexactitudes; Devolucion de aportes PILA o traslados a otras ARL; Recobros a otras ARL (pagos realizados o direccionados a otras ARL); Informacion de Aportes PILA."
+    },
+    {
+      "seccion": "requisitos",
+      "contenido": "1. Datos del solicitante. Para empezar completa la siguiente informacion: tipo de tramite que deseas realizar, nombres y apellidos completos del solicitante, tipo de documento (Carne Diplomatico, Cedula de Ciudadania, Cedula de Extranjeria, NIT, Pasaporte, Permiso Proteccion Temporal, Tarjeta de Identidad), numero de documento del solicitante, cargo en la empresa, numero de telefono fijo o celular, correo electronico y confirmacion, departamento, municipio y como deseas ser contactado (telefono o celular)."
+    },
+    {
+      "seccion": "requisitos",
+      "contenido": "2. Datos del tramite. Tipo de documento del aportante (Cedula de Ciudadania, Cedula de Extranjeria, NIT, Pasaporte, Permiso Proteccion Temporal, Tarjeta de Identidad), numero de documento del aportante, nombres y apellidos completos del aportante. Selecciona una opcion: Persona Juridica o Persona Natural. Opciones de devolucion: Solicitar devolucion por pago doble; Solicitar devolucion de inexactitudes (diferencia en dias, tasa, IBC, cotizacion, trabajadores sin afiliacion). Adjuntar Plantilla de Excel Actualizar Fechas y Plantilla de Excel Anulacion Afiliaciones cuando aplique."
+    },
+    {
+      "seccion": "requisitos",
+      "contenido": "Solo puedes adjuntar archivos en formato .XLSX, PDF, .TIFF, .JPG (segun el tramite) y en un tamano maximo de 4MB por cada archivo. Algunos tramites solo aceptan formato Excel o solo PDF. Puedes subir mas archivos con Agregar archivo y describir el motivo del tramite en Observaciones (1000 caracteres). Debes leer y aceptar la politica de tratamiento de datos personales."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Consultar estado de tramite. Para brindarte toda la informacion indicanos el codigo de radicado asociado a tu tramite. Ingresa el codigo de radicado y presiona CONSULTAR ESTADO. Protegido por reCAPTCHA."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/salud/salud/para/dos",
+  "producto": {
+    "slug": "personas-salud-salud-para-dos",
+    "nombre": "Salud para Dos",
+    "ramo": "Salud",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Salud para Dos es un seguro de salud que puedes compartir con la persona que tengas registrada en tu plan. Permite compartir coberturas de acceso como atencion virtual, emergencias odontologicas a domicilio, especialistas y ayudas diagnosticas. Aplica para independientes, PYMES y regimenes especiales como magisterio y fuerzas armadas, sin copagos.",
+    "resumen": "Seguro de salud sin copagos que puedes compartir con una persona registrada en tu plan, con planes Estandar y Plus.",
+    "es_digital": false,
+    "cotizador_url": "https://wa.link/7m5njn",
+    "canales": ["digital", "asesor", "call_center"]
+  },
+  "planes": [
+    { "slug": "estandar", "nombre": "Plan Estandar", "orden": 1, "precio_desde": null },
+    { "slug": "plus", "nombre": "Plan Plus", "orden": 2, "precio_desde": null }
+  ],
+  "coberturas": [
+    { "slug": "medicina-general-no-programada-virtual", "nombre": "Medicina general no programada virtual", "descripcion": "Atencion ilimitada de medicina general no programada de manera virtual.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "Ilimitada" },
+    { "slug": "atencion-virtual-prioritaria-pediatra", "nombre": "Atencion virtual prioritaria con pediatra", "descripcion": "Atencion virtual prioritaria con pediatra todos los dias de 7:00 a.m. a 7:00 p.m. Se puede compartir.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "Todos los dias de 7:00 a. m. a 7:00 p. m. Se puede compartir." },
+    { "slug": "atencion-virtual-prioritaria-medico-general", "nombre": "Atencion virtual prioritaria con medico general", "descripcion": "Atencion virtual prioritaria con medico general todos los dias de 7:00 a.m. a 7:00 p.m. Se puede compartir.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "Todos los dias de 7:00 a. m. a 7:00 p. m. Se puede compartir." },
+    { "slug": "medicina-interna", "nombre": "Medicina interna", "descripcion": "Consultas con medicina interna.", "categoria": "salud", "plan_slug": "estandar", "tipo": "incluida", "limite": "5 consultas por vigencia anual." },
+    { "slug": "medicina-interna", "nombre": "Medicina interna", "descripcion": "Consultas con medicina interna.", "categoria": "salud", "plan_slug": "plus", "tipo": "incluida", "limite": "Ilimitada" },
+    { "slug": "urologia", "nombre": "Urologia", "descripcion": "Consultas con urologia.", "categoria": "salud", "plan_slug": "estandar", "tipo": "incluida", "limite": "5 consultas por vigencia anual." },
+    { "slug": "urologia", "nombre": "Urologia", "descripcion": "Consultas con urologia.", "categoria": "salud", "plan_slug": "plus", "tipo": "incluida", "limite": "Ilimitada" },
+    { "slug": "ginecologia", "nombre": "Ginecologia", "descripcion": "Consultas con ginecologia.", "categoria": "salud", "plan_slug": "estandar", "tipo": "incluida", "limite": "5 consultas por vigencia anual." },
+    { "slug": "ginecologia", "nombre": "Ginecologia", "descripcion": "Consultas con ginecologia.", "categoria": "salud", "plan_slug": "plus", "tipo": "incluida", "limite": "Ilimitada" },
+    { "slug": "medicina-general", "nombre": "Medicina general", "descripcion": "Consultas con medicina general.", "categoria": "salud", "plan_slug": "estandar", "tipo": "incluida", "limite": "5 consultas por vigencia anual." },
+    { "slug": "medicina-general", "nombre": "Medicina general", "descripcion": "Consultas con medicina general.", "categoria": "salud", "plan_slug": "plus", "tipo": "incluida", "limite": "Ilimitada" },
+    { "slug": "dermatologia", "nombre": "Dermatologia", "descripcion": "Consultas con dermatologia.", "categoria": "salud", "plan_slug": "plus", "tipo": "incluida", "limite": "Ilimitada" },
+    { "slug": "nutricion", "nombre": "Nutricion", "descripcion": "Consultas con nutricion.", "categoria": "salud", "plan_slug": "plus", "tipo": "incluida", "limite": "Ilimitada" },
+    { "slug": "psicologia", "nombre": "Psicologia", "descripcion": "Consultas con psicologia.", "categoria": "salud", "plan_slug": "estandar", "tipo": "incluida", "limite": "2 por vigencia" },
+    { "slug": "psicologia", "nombre": "Psicologia", "descripcion": "Consultas con psicologia.", "categoria": "salud", "plan_slug": "plus", "tipo": "incluida", "limite": "4 por vigencia" },
+    { "slug": "oftalmologia", "nombre": "Oftalmologia", "descripcion": "Consultas con oftalmologia.", "categoria": "salud", "plan_slug": "plus", "tipo": "incluida", "limite": "Ilimitada" },
+    { "slug": "ortopedia", "nombre": "Ortopedia", "descripcion": "Consultas con ortopedia.", "categoria": "salud", "plan_slug": "plus", "tipo": "incluida", "limite": "Ilimitada" },
+    { "slug": "otorrinolaringologia", "nombre": "Otorrinolaringologia", "descripcion": "Consultas con otorrinolaringologia.", "categoria": "salud", "plan_slug": "plus", "tipo": "incluida", "limite": "Ilimitada" },
+    { "slug": "psiquiatria", "nombre": "Psiquiatria", "descripcion": "Consultas con psiquiatria.", "categoria": "salud", "plan_slug": "estandar", "tipo": "incluida", "limite": "1 por vigencia" },
+    { "slug": "psiquiatria", "nombre": "Psiquiatria", "descripcion": "Consultas con psiquiatria.", "categoria": "salud", "plan_slug": "plus", "tipo": "incluida", "limite": "2 por vigencia" },
+    { "slug": "medicamentos", "nombre": "Medicamentos", "descripcion": "Solo derivados de la atencion virtual prioritaria con medico general y pediatra, de acuerdo con el listado definido por la compania (vademecum). Se puede compartir.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "Segun vademecum definido por la compania" },
+    { "slug": "laboratorio-clinico", "nombre": "Laboratorio clinico", "descripcion": "Examenes de laboratorio clinico. Aplican restricciones. Se puede compartir.", "categoria": "salud", "plan_slug": "estandar", "tipo": "incluida", "limite": "$ 121.242 por vigencia." },
+    { "slug": "laboratorio-clinico", "nombre": "Laboratorio clinico", "descripcion": "Examenes de laboratorio clinico. Aplican restricciones. Se puede compartir.", "categoria": "salud", "plan_slug": "plus", "tipo": "incluida", "limite": "$ 242.485 por vigencia." },
+    { "slug": "imagenologia", "nombre": "Imagenologia", "descripcion": "Imagenes diagnosticas. Aplican restricciones. Se puede compartir.", "categoria": "salud", "plan_slug": "estandar", "tipo": "incluida", "limite": "$ 123.812 por vigencia." },
+    { "slug": "imagenologia", "nombre": "Imagenologia", "descripcion": "Imagenes diagnosticas. Aplican restricciones. Se puede compartir.", "categoria": "salud", "plan_slug": "plus", "tipo": "incluida", "limite": "$ 123.812 por vigencia." },
+    { "slug": "atencion-medica-domiciliaria", "nombre": "Atencion medica domiciliaria", "descripcion": "En el plan Estandar esta cobertura sera unicamente para el tomador del plan.", "categoria": "asistencia", "plan_slug": "estandar", "tipo": "incluida", "limite": "Unicamente para el tomador del plan." },
+    { "slug": "atencion-medica-domiciliaria", "nombre": "Atencion medica domiciliaria", "descripcion": "En el plan Plus esta cobertura la podras compartir con la persona que tengas registrada en tu plan como beneficiario.", "categoria": "asistencia", "plan_slug": "plus", "tipo": "incluida", "limite": "Se puede compartir con el beneficiario registrado." },
+    { "slug": "emergencias-odontologicas-domicilio-y-clinica", "nombre": "Emergencias odontologicas a domicilio y en clinica", "descripcion": "Emergencias odontologicas a domicilio (sujeto a cobertura en el lugar de residencia) y en clinica. Se puede compartir.", "categoria": "asistencia", "plan_slug": null, "tipo": "incluida", "limite": "Se puede compartir." },
+    { "slug": "limpieza-oral-en-clinica", "nombre": "Limpieza oral en clinica", "descripcion": "Limpieza oral en clinica para tomador y beneficiario.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "Hasta 2 por vigencia (1 tomador y 1 beneficiario)" }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": 0,
+    "edad_max": 100,
+    "condiciones": {
+      "edad_afiliado_principal": "El afiliado principal debe ser mayor de 18 anos.",
+      "perfiles": "Aplica para independientes, PYMES y regimenes especiales como magisterio y fuerzas armadas.",
+      "copagos": "Sin copagos.",
+      "personas_cubiertas": "Puede compartir las coberturas con una persona registrada como beneficiario."
+    },
+    "descripcion": "No tiene limite de edad. Podran asegurarse personas entre los 0 y 100 anos. El afiliado principal debera ser mayor de 18 anos. Aplica para independientes, PYMES y regimenes especiales como magisterio y fuerzas armadas, sin copagos."
+  },
+  "documentos": [
+    { "tipo": "condicionado", "titulo": "Condicionado Plan Salud para Dos - Plan Estandar", "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/clausulado-salud-para-dos-plan-estandar.pdf" },
+    { "tipo": "condicionado", "titulo": "Condicionado Plan Salud para Dos - Plan Plus", "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/clausulado-salud-para-dos-plan-plus.pdf" }
+  ],
+  "chunks": [
+    { "seccion": "general", "contenido": "Salud para Dos: un seguro que puedes compartir con quien quieras. Tienes la posibilidad de compartir algunas coberturas de acceso como atencion virtual, emergencias odontologicas a domicilio, especialistas y ayudas diagnosticas con la persona que tengas registrada en tu plan. El producto se ofrece en dos planes: Estandar y Plus." },
+    { "seccion": "que_cubrimos", "contenido": "Coberturas del Plan Estandar: Medicina general no programada virtual ilimitada; atencion virtual prioritaria con pediatra todos los dias de 7:00 a.m. a 7:00 p.m. (se puede compartir); atencion virtual prioritaria con medico general todos los dias de 7:00 a.m. a 7:00 p.m. (se puede compartir); medicina interna, urologia, ginecologia y medicina general con 5 consultas por vigencia anual cada una; psicologia 2 por vigencia; psiquiatria 1 por vigencia; medicamentos solo derivados de la atencion virtual prioritaria con medico general y pediatra segun el vademecum (se puede compartir); laboratorio clinico $121.242 por vigencia (se puede compartir); imagenologia $123.812 por vigencia (se puede compartir); atencion medica domiciliaria unicamente para el tomador del plan; emergencias odontologicas a domicilio y en clinica (se puede compartir); limpieza oral en clinica hasta 2 por vigencia (1 tomador y 1 beneficiario)." },
+    { "seccion": "que_cubrimos", "contenido": "Coberturas del Plan Plus: Medicina general no programada virtual ilimitada; atencion virtual prioritaria con pediatra y con medico general todos los dias de 7:00 a.m. a 7:00 p.m. (se pueden compartir); medicina interna, urologia, ginecologia y medicina general ilimitadas; dermatologia, nutricion, oftalmologia, ortopedia y otorrinolaringologia ilimitadas; psicologia 4 por vigencia; psiquiatria 2 por vigencia; medicamentos solo derivados de la atencion virtual prioritaria con medico general y pediatra segun el vademecum (se puede compartir); laboratorio clinico $242.485 por vigencia (se puede compartir); imagenologia $123.812 por vigencia (se puede compartir); atencion medica domiciliaria que podras compartir con la persona registrada como beneficiario; emergencias odontologicas a domicilio y en clinica (se puede compartir); limpieza oral en clinica hasta 2 por vigencia (1 tomador y 1 beneficiario). Aplican restricciones en laboratorio e imagenologia. Las emergencias odontologicas a domicilio estan sujetas a cobertura en el lugar de residencia." },
+    { "seccion": "beneficios", "contenido": "Servicios destacados: Atencion virtual prioritaria. Acceso directo a profesionales de la salud de manera facil. Emergencias medicas a domicilio. Examenes de laboratorio e imagenes diagnosticas (aplican restricciones). Sin copagos: ninguno de los planes cuenta con tarifa de copago para acceder a los servicios. Casi todas las coberturas se pueden compartir con el beneficiario, excepto la atencion medica domiciliaria en el Plan Estandar." },
+    { "seccion": "elegibilidad", "contenido": "Lo que debes saber para contratar el Seguro de Salud para Dos. Ciudades disponibles: ademas de Medellin, esta disponible en Armenia, Barranquilla, Bogota, Bucaramanga, Cali, Cartagena, Cartago, Cucuta, Ibague, Manizales, Monteria, Pasto, Pereira, Santa Marta, Sincelejo, Tulua, Tunja y Villavicencio. Rango de edad: no tiene limite de edad, podran asegurarse personas entre los 0 y 100 anos, pero el afiliado principal debera ser mayor de 18 anos. Aplica para independientes, PYMES y regimenes especiales como magisterio y fuerzas armadas. Sin copagos y se pueden compartir las coberturas con una persona." },
+    { "seccion": "general", "contenido": "Preguntas frecuentes. Coberturas compartibles con el beneficiario: todas, excepto la cobertura de atencion medica domiciliaria en el Plan Estandar. Edad maxima: no existe limite de edad, aunque el asegurado principal debe ser mayor de 18 anos. Copagos: ninguno de los planes tiene copago. Canales de atencion medica y urgencias odontologicas: desde celular #888; Bogota 6014378888; Cali 6024378888; Medellin 6043478888; resto del pais 018000518888. El producto antes llamado Salud para Todos - Estandar y Plus cambio de nombre a Salud para Dos - Estandar y Plus; el cambio no afecta beneficios, coberturas, terminos, condiciones ni el valor de los planes." }
+  ]
+}

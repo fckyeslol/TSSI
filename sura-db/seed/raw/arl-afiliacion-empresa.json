@@ -1,0 +1,71 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/afiliacion/empresa",
+  "proceso": {
+    "slug": "arl-afiliacion-empresa",
+    "nombre": "Afiliación de empresas o empleadores",
+    "linea": "arl",
+    "tipo": "afiliacion",
+    "dirigido_a": "juridica",
+    "descripcion": "Afiliación en línea, fácil y rápida para empresas y empleadores. Permite iniciar el trámite de afiliación de la empresa y de sus trabajadores dependientes según su tipo de documento, para protegerlos con ARL SURA. El proceso finaliza con la verificación de los documentos.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Inicia el trámite de afiliación de tu empresa y trabajadores",
+        "detalle": "Inicia el trámite de afiliación de tu empresa y de tus trabajadores dependientes según su tipo de documento. Recuerda que este proceso finalizará con la verificación de los documentos."
+      },
+      {
+        "orden": 2,
+        "titulo": "Elige la opción según tu tipo de documento",
+        "detalle": "Según tu tipo de documento, elige una de las opciones disponibles para iniciar la afiliación en línea."
+      },
+      {
+        "orden": 3,
+        "titulo": "Afíliate en línea",
+        "detalle": "Inicia el proceso de afiliación en línea en https://afilineaarl.suramericana.com.co/#/"
+      },
+      {
+        "orden": 4,
+        "titulo": "Otro tipo de documento",
+        "detalle": "Inicia el proceso de afiliación en https://afiliaciones.arlsura.com/afilinea/#/ . Es el ingreso para los tipos de documento: Cédula de ciudadanía, Cédula de extranjería, Salvoconducto de permanencia, Permiso por protección temporal."
+      },
+      {
+        "orden": 5,
+        "titulo": "Verificación de documentos",
+        "detalle": "El proceso finaliza con la verificación de los documentos."
+      }
+    ],
+    "url": "https://www.sura.co/arl/afiliacion/empresa"
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Afiliación de empresas o empleadores. Afiliación en línea, fácil y rápida para empresas y empleadores. Protege a tus empleados eficazmente con ARL SURA."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Protege el activo más valioso de tu empresa. Inicia el trámite de afiliación de tu empresa y de tus trabajadores dependientes según su tipo de documento. Recuerda que este proceso finalizará con la verificación de los documentos."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Afiliación en línea ARL SURA. Según tu tipo de documento, elige una de las siguientes opciones."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Descubre cómo puedes afiliar a tu empresa. Consulta el instructivo y encuentra el paso a paso para proteger el activo más valioso de tu empresa, ¡tus trabajadores!"
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Afíliate en línea. Inicia el proceso de afiliación en línea."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Otro tipo de documento. Inicia el proceso de Afiliación."
+    },
+    {
+      "seccion": "requisitos",
+      "contenido": "Es el ingreso para los tipo de documento: 1. Cédula de ciudadanía 2. Cédula de extranjería 3. Salvoconducto de permanencia 4. Permiso por protección temporal."
+    }
+  ]
+}

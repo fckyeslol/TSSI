@@ -1,0 +1,21 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/certificados/carne/afiliacion",
+  "proceso": {
+    "slug": "arl-certificados-carne-afiliacion",
+    "nombre": "Genera tus certificados y carné de afiliación",
+    "linea": "arl",
+    "tipo": "certificado",
+    "dirigido_a": "ambas",
+    "descripcion": "Certificado y Carné de Afiliación a la ARL SURA.",
+    "pasos": [],
+    "url": "https://www.sura.co/arl/certificados/carne/afiliacion"
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Genera tus certificados y carné de afiliación. Certificado y Carné de Afiliación a la ARL SURA."
+    }
+  ]
+}

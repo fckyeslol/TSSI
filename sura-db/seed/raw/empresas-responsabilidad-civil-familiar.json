@@ -1,0 +1,156 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil/familiar",
+  "producto": {
+    "slug": "empresas-responsabilidad-civil-familiar",
+    "nombre": "Responsabilidad Civil Familiar",
+    "ramo": "Otros",
+    "linea": "empresas",
+    "tipo_persona": "natural",
+    "descripcion": "Protegemos tu patrimonio y tranquilidad ante daños involuntarios que tú o tu familia puedan causar a terceros en la vida cotidiana. Cubre al asegurado principal y su familia en primer grado de consanguinidad que residan en el mismo predio, así como a las mascotas del grupo familiar (perros y gatos). Las empresas pueden incluir la póliza colectiva de Responsabilidad Civil Familiar dentro de su plan de beneficios para colaboradores y obtener descuento.",
+    "resumen": "Seguro que protege tu patrimonio ante daños involuntarios que tú, tu familia o tus mascotas causen a terceros en la vida cotidiana.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "affinity"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "responsabilidad-civil-extracontractual-actividades-personales-familiares",
+      "nombre": "Daños a otras personas o a sus bienes",
+      "descripcion": "Cobertura de daños a otras personas o a sus bienes cuando realices actividades personales o familiares, se presenten daños causados por tu mascota, utilices drones o aeromodelos de forma recreativa, o hagas viajes al exterior por motivo de estudio o hobbie.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "gastos-de-defensa",
+      "nombre": "Gastos de defensa",
+      "descripcion": "Cubrimos los gastos de defensa cuando un tercero que haya sufrido un accidente, del cual eres responsable, te reclame o te demande por un daño cubierto por este seguro.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "gastos-medicos-de-urgencia",
+      "nombre": "Gastos médicos de urgencia",
+      "descripcion": "Cubrimos la atención médica de un tercero que sufra un accidente, independientemente de si eres responsable o no, siempre que la atención se brinde dentro de las 48 horas siguientes al evento.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Atención dentro de las 48 horas siguientes al evento"
+    },
+    {
+      "slug": "accidente-laboral-empleada-domestica",
+      "nombre": "Accidente laboral de tu empleada doméstica",
+      "descripcion": "Te acompañamos cuando tu empleada doméstica sufre un accidente por una actividad encomendada por ti. Esta cobertura opera en exceso de las prestaciones de Seguridad Social.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Opera en exceso de las prestaciones de Seguridad Social"
+    },
+    {
+      "slug": "actividades-deportivas-o-competencia",
+      "nombre": "Actividades deportivas o de competencia",
+      "descripcion": "Actividades deportivas o de competencia.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-entre-miembros-de-la-familia",
+      "nombre": "Daños causados entre miembros de la familia",
+      "descripcion": "Daños causados entre los mismos miembros de la familia.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "uso-o-tenencia-de-vehiculos-con-motor",
+      "nombre": "Uso o tenencia de vehículos con motor",
+      "descripcion": "Uso o tenencia de automóviles, motocicletas, embarcaciones y vehículo con motor.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "actividades-comerciales-industriales-o-profesionales",
+      "nombre": "Actividades comerciales, industriales o profesionales",
+      "descripcion": "Actividades comerciales o industriales, prestación de servicios profesionales o la omisión de prestarlos.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "accidentes-de-empleados-o-contratistas-no-domesticos",
+      "nombre": "Accidentes de empleados o contratistas distintos de los domésticos",
+      "descripcion": "Accidentes de empleados o contratistas distintos de los domésticos.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "infecciones-o-enfermedades",
+      "nombre": "Infecciones o enfermedades",
+      "descripcion": "Infecciones o enfermedades padecidas por ti, tu familia o tu mascota.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "perfiles": [
+        "Familias con hijos",
+        "Personas con mascotas",
+        "Personas que vivan en predios arrendados"
+      ],
+      "alcance_familiar": "Asegurado principal y su familia en primer grado de consanguinidad que residan en el mismo predio: cónyuge, compañero permanente, padres e hijos, así como las mascotas del grupo familiar (perros y gatos)."
+    },
+    "descripcion": "A las personas y sus familias: familias con hijos, personas con mascotas y personas que vivan en predios arrendados. En este seguro se cubre al asegurado principal y su familia en primer grado de consanguinidad, que residan en el mismo predio: cónyuge, compañero permanente, padres e hijos, así como también las mascotas del grupo familiar (perros y gatos)."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Términos y condiciones - RC Familiar",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/otros/rc-familiar.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Responsabilidad Civil Familiar. Protegemos tu patrimonio y tranquilidad ante daños involuntarios que tú o tu familia puedan causar a terceros en la vida cotidiana. ¿Por qué elegir esta solución? Contarás con la cobertura de daños causados por el uso de drones y por tus mascotas. Las empresas que quieran incluir la póliza colectiva de Responsabilidad Civil familiar, en su plan de beneficios para sus colaboradores, tendrán descuento."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? A las personas y sus familias: familias con hijos, personas con mascotas y personas que vivan en predios arrendados. En este seguro se cubre al asegurado principal y su familia en primer grado de consanguinidad, que residan en el mismo predio: cónyuge, compañero permanente, padres e hijos, así como también las mascotas del grupo familiar (perros y gatos)."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Cobertura de daños a otras personas o a sus bienes cuando: realices actividades personales o familiares; se presenten daños causados por tu mascota; utilices drones o aeromodelos de forma recreativa; hagas viajes al exterior por motivo de estudio o hobbie. Gastos de defensa: cubrimos los gastos de defensa cuando un tercero que haya sufrido un accidente, del cual eres responsable, te reclame o te demande por un daño cubierto por este seguro. Gastos médicos de urgencia: cubrimos la atención médica de un tercero que sufra un accidente, independientemente de si eres responsable o no, siempre que la atención se brinde dentro de las 48 horas siguientes al evento. Accidente laboral de tu empleada doméstica: te acompañamos cuando tu empleada doméstica sufre un accidente por una actividad encomendada por ti. Esta cobertura opera en exceso de las prestaciones de Seguridad Social."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Actividades deportivas o de competencia. Daños causados entre los mismos miembros de la familia. Uso o tenencia de automóviles, motocicletas, embarcaciones y vehículo con motor. Actividades comerciales o industriales, prestación de servicios profesionales o la omisión de prestarlos. Accidentes de empleados o contratistas distintos de los domésticos. Infecciones o enfermedades padecidas por ti, tu familia o tu mascota."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Después de presentar tu reclamación, te contactaremos entre cinco (5) y siete (7) días calendario para informarte cómo se gestiona el proceso y solicitarte la documentación necesaria. Una vez tengamos toda la documentación requerida, te enviaremos una respuesta en un plazo de siete (7) días hábiles. Recuerda que debes asumir un valor deducible, consúltalo en las condiciones de tu póliza. Dependiendo de la complejidad y de las particularidades de tu reclamación, te apoyamos telefónicamente con abogados que podrán ayudarte en tu representación y defensa ante un proceso jurídico, y realizamos un análisis detallado con la información relevante sobre los hechos y fechas para analizar tu responsabilidad, terceros afectados, condiciones particulares de la póliza, posibles indemnizaciones, procesos judiciales y uso de abogados externos, entre otros."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Tarifa del Seguro. Límite asegurado y prima anual (sin IVA): $50.000.000 - $90.000; $80.000.000 - $134.000; $100.000.000 - $159.000; $150.000.000 - $201.000; $300.000.000 - $318.000; $400.000.000 - $367.000; $500.000.000 - $450.000; $700.000.000 - $616.000; $1.000.000.000 - $750.000. Medios de pago: presenciales (bancos y redes aliadas) y digitales (Pago Express y débito automático). Términos y condiciones: descarga el condicionado de RC Familiar."
+    }
+  ]
+}

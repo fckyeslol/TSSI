@@ -1,0 +1,63 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/hogar",
+  "producto": {
+    "slug": "personas-hogar",
+    "nombre": "Seguro de Hogar SURA",
+    "ramo": "Hogar y Vivienda",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "El Seguro de Hogar SURA es una inversión en tu tranquilidad y bienestar. Con nosotros puedes disfrutar de tu espacio con la certeza de que estás protegido ante cualquier eventualidad. Asegurar tu vivienda con SURA es una inversión en tu tranquilidad y bienestar. No dejes que imprevistos arruinen el hogar que tanto te ha costado construir.",
+    "resumen": "Seguro de hogar SURA que protege tu vivienda ante imprevistos y eventualidades.",
+    "es_digital": true,
+    "cotizador_url": "https://www.segurossura.com.co/paginas/hogar/otros-planes.aspx",
+    "canales": ["digital", "asesor"]
+  },
+  "planes": [
+    {
+      "slug": "seguro-de-hogar",
+      "nombre": "Seguro de Hogar",
+      "orden": 1,
+      "precio_desde": null
+    },
+    {
+      "slug": "seguro-de-arrendamiento",
+      "nombre": "Seguro de Arrendamiento",
+      "orden": 2,
+      "precio_desde": null
+    },
+    {
+      "slug": "plan-inversion-protegida",
+      "nombre": "Plan Inversión Protegida",
+      "orden": 3,
+      "precio_desde": null
+    }
+  ],
+  "coberturas": [],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "¡Asegura tu vivienda! Asegurar tu vivienda con SURA es una inversión en tu tranquilidad y bienestar. No dejes que imprevistos arruinen el hogar que tanto te ha costado construir. ¡Elige la mejor opción para ti! Queremos que conozcas nuestros seguros que están diseñados para brindarte la tranquilidad y seguridad que mereces."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Hogar. El Seguro de Hogar SURA es una inversión en tu tranquilidad y bienestar. Con nosotros puedes disfrutar de tu espacio con la certeza de que estás protegido ante cualquier eventualidad."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Arrendamiento. Con el Seguro de Arrendamiento SURA puedes confiar en que tus intereses están protegidos y disfrutar de la tranquilidad que necesitas."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Plan Inversión Protegida. El plan está diseñado para brindarte la seguridad y tranquilidad que necesitas mientras construyes o adquieres tu nuevo hogar."
+    }
+  ]
+}

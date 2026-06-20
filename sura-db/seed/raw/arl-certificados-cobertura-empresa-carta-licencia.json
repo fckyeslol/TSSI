@@ -1,0 +1,50 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/certificados/cobertura/empresa/carta/licencia",
+  "proceso": {
+    "slug": "arl-certificados-cobertura-empresa-carta-licencia",
+    "nombre": "Certificado de cobertura por empresa",
+    "linea": "arl",
+    "tipo": "certificado",
+    "dirigido_a": "juridica",
+    "descripcion": "Sección en la que una organización puede generar un certificado de cobertura por empresa, seleccionando el idioma (Español o Inglés) e ingresando el documento de la organización.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Seleccionar el idioma del certificado",
+        "detalle": "Por favor seleccione el idioma en el que requiere el certificado: Español o Inglés."
+      },
+      {
+        "orden": 2,
+        "titulo": "Ingresar el documento de la organización",
+        "detalle": "Por favor ingrese el documento de su organización. Tipos de documento disponibles: Cédula de Ciudadanía, NIT, Cédula de Extranjería, Carnet Diplomático, Tarjeta de Identidad, Registro Civil, Pasaporte, Permiso Especial, Salvo Conducto de Permanencia, Permiso de Protección Temporal."
+      },
+      {
+        "orden": 3,
+        "titulo": "Verificar reCAPTCHA",
+        "detalle": "Completar la verificación reCAPTCHA requerida."
+      },
+      {
+        "orden": 4,
+        "titulo": "Generar carta",
+        "detalle": "Hacer clic sobre el botón \"Generar carta\" para obtener el certificado."
+      }
+    ],
+    "url": "https://www.sura.co/arl/certificados/cobertura/empresa/carta/licencia"
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Certificado de cobertura por empresa. Aquí podrás generar el certificado de cobertura por empresa. En esta sección usted podrá generar un certificado de cobertura por empresa."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Por favor seleccione el idioma en el que requiere el certificado: Español o Inglés. Por favor ingrese el documento de su organización y haga clic sobre el botón \"Generar carta\"."
+    },
+    {
+      "seccion": "requisitos",
+      "contenido": "Tipos de documento de la organización aceptados: Cédula de Ciudadanía, NIT, Cédula de Extranjería, Carnet Diplomático, Tarjeta de Identidad, Registro Civil, Pasaporte, Permiso Especial, Salvo Conducto de Permanencia, Permiso de Protección Temporal. Requiere verificación reCAPTCHA."
+    }
+  ]
+}

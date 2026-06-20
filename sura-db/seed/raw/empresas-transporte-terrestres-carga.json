@@ -1,0 +1,256 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/transporte/terrestres/carga",
+  "producto": {
+    "slug": "empresas-transporte-terrestres-carga",
+    "nombre": "Transporte para Transportador Terrestre",
+    "ramo": "Transporte",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "Protegemos mercancías de tus clientes, frente a las pérdidas y daños en su transporte terrestre, que estén bajo la responsabilidad de tu empresa.",
+    "resumen": "Seguro empresarial que cubre pérdidas y daños de las mercancías transportadas por vía terrestre bajo responsabilidad de la empresa transportadora.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "presencial", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "danos-mercancia-transporte-terrestre",
+      "nombre": "Daños a la mercancía durante su transporte terrestre",
+      "descripcion": "Daños a la mercancía durante su transporte terrestre en Colombia, ya sea en camiones, tractomulas, minimulas u otros vehículos de carga pequeña.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "auxilio-economico-por-siniestro",
+      "nombre": "Auxilio económico por siniestro de la mercancía",
+      "descripcion": "Auxilio económico por siniestro de la mercancía.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "transporte-mercancia-a-granel",
+      "nombre": "Protección para mercancías a granel",
+      "descripcion": "Protección para mercancías que deban transportarse a granel.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "mercancia-refrigerada-congelada-calefaccion",
+      "nombre": "Mercancías refrigeradas, congeladas o con calefacción",
+      "descripcion": "Pérdidas y daños que sufran las mercancías que deban transportarse y conservarse refrigeradas, congeladas o con calefacción.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "maquinaria-y-bienes-usados",
+      "nombre": "Protección para maquinaria y bienes usados",
+      "descripcion": "Protección para maquinaria y bienes usados.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "gastos-preservacion-remocion-escombros",
+      "nombre": "Gastos de preservación y remoción de escombros y disposición final",
+      "descripcion": "Gastos de preservación y remoción de escombros y disposición final.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "guerra-y-actos-de-fuerzas-extranjeras",
+      "nombre": "Pérdidas por guerra o actos de fuerzas extranjeras",
+      "descripcion": "Pérdidas por guerra o actos de fuerzas extranjeras.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-por-revision-de-autoridades",
+      "nombre": "Daños generados por autoridades al revisar la mercancía",
+      "descripcion": "Daños generados por autoridades al revisar la mercancía.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "energia-nuclear-y-contaminacion-radioactiva",
+      "nombre": "Riesgos de energía nuclear y contaminación radioactiva",
+      "descripcion": "Riesgos de energía nuclear y contaminación radioactiva.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "transporte-de-mercancias-ilicitas",
+      "nombre": "Transporte de mercancías ilícitas",
+      "descripcion": "Transporte de mercancías ilícitas.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "transporte-en-avion-barco-o-tren",
+      "nombre": "Circulación de productos en avión, barcos o trenes",
+      "descripcion": "Circulación de productos en avión, barcos o trenes.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "lucro-cesante",
+      "nombre": "Lucro cesante",
+      "descripcion": "Lucro cesante.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "multas",
+      "nombre": "Multas",
+      "descripcion": "Multas.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "vicio-propio-y-combustion-espontanea",
+      "nombre": "Vicio propio y combustión espontánea",
+      "descripcion": "Vicio propio y combustión espontánea.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-por-condensacion",
+      "nombre": "Daños por condensación",
+      "descripcion": "Daños por condensación.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "errores-o-faltantes-en-el-despacho",
+      "nombre": "Errores o faltantes en el despacho",
+      "descripcion": "Errores o faltantes en el despacho, o por haber despachado los bienes en mal estado.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "insuficiencia-de-empaque",
+      "nombre": "Insuficiencia del empaque o preparación indebida de los bienes",
+      "descripcion": "Insuficiencia del empaque o haber preparado indebidamente los bienes para los riesgos ordinarios de tránsito.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "demoras-o-perdidas-de-mercado",
+      "nombre": "Demoras o pérdidas de mercado",
+      "descripcion": "Demoras o pérdidas de mercado.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "incumplimiento-normas-pesos-y-medidas",
+      "nombre": "Incumplimiento de resoluciones sobre pesos y medidas de los vehículos",
+      "descripcion": "Incumplimiento de lo estipulado en las resoluciones vigentes -a la fecha del siniestro- sobre pesos y medidas de los vehículos de carga por carretera y demás disposiciones legales al respecto.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "incumplimiento-instrucciones-de-manipulacion",
+      "nombre": "Incumplimiento de instrucciones de manipulación o normas técnicas de carga",
+      "descripcion": "Incumplimiento de instrucciones escritas dadas por los generadores de carga para la manipulación y manejo de las mercancías o las normas técnicas de carga, leyes y decretos emitidos por organismos nacionales o internacionales.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "estadias-en-almacenes-sin-conexion-transporte",
+      "nombre": "Estadías en almacenes o bodegas sin conexión con el transporte asegurado",
+      "descripcion": "Las estadías en almacenes, bodegas de almacenamiento e instalaciones de la empresa transportadora sin conexión con el transporte asegurado.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "A compañías transportadoras legalmente constituidas en Colombia y con habilitación vigente por el Ministerio de Transporte en la modalidad de carga."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Términos y condiciones - Transporte de carga terrestre",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/transporte-de-carga-terrestre.PDF"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Transporte para Transportador Terrestre. Protegemos mercancías de tus clientes, frente a las pérdidas y daños en su transporte terrestre, que estén bajo la responsabilidad de tu empresa."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? A compañías transportadoras legalmente constituidas en Colombia y con habilitación vigente por el Ministerio de Transporte en la modalidad de carga."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Por qué elegir esta solución? En Empresas SURA te acompañamos en el logro de los objetivos de tu empresa. Trabajamos desde siete áreas clave buscando impactos positivos en tu rentabilidad y sostenibilidad, destacándote en tu mercado objetivo, cuidando el bienestar de tus colaboradores, y gestionando la atracción y fidelización de tus clientes."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Daños a la mercancía durante su transporte terrestre en Colombia, ya sea en camiones, tractomulas, minimulas u otros vehículos de carga pequeña. Auxilio económico por siniestro de la mercancía. Protección para mercancías que deban transportarse a granel. Pérdidas y daños que sufran las mercancías que deban transportarse y conservarse refrigeradas, congeladas o con calefacción. Protección para maquinaria y bienes usados. Gastos de preservación y remoción de escombros y disposición final."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Pérdidas por guerra o actos de fuerzas extranjeras. Daños generados por autoridades al revisar la mercancía. Riesgos de energía nuclear y contaminación radioactiva. Transporte de mercancías ilícitas. Circulación de productos en avión, barcos o trenes. Lucro cesante. Multas. Vicio propio y combustión espontánea. Daños por condensación. Errores o faltantes en el despacho, o por haber despachado los bienes en mal estado. Insuficiencia del empaque o haber preparado indebidamente los bienes para los riesgos ordinarios de tránsito. Demoras o pérdidas de mercado."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "Incumplimiento de lo estipulado en las resoluciones vigentes -a la fecha del siniestro- sobre pesos y medidas de los vehículos de carga por carretera y demás disposiciones legales al respecto. Incumplimiento de instrucciones escritas dadas por los generadores de carga para la manipulación y manejo de las mercancías o las normas técnicas de carga, leyes y decretos emitidos por organismos nacionales o internacionales. Las estadías en almacenes, bodegas de almacenamiento e instalaciones de la empresa transportadora sin conexión con el transporte asegurado. Para un mayor detalle de las coberturas y exclusiones del seguro, consulta las condiciones generales de la solución."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Llamando a las líneas de atención locales: Medellín 604 437 8888, Bogotá 601 437 8888, Cali 602 437 8888, en el resto del país al 01 8000 518 888. Ingresando a www.sura.com.co en la opción Ingresa a tu cuenta. Contacta a tu asesor de seguros."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cuáles son los medios de pago? Presenciales: bancos y redes aliadas. Digitales: Pago Express, débito automático y financiación."
+    }
+  ]
+}

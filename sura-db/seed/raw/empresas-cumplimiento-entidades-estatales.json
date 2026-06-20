@@ -1,0 +1,163 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/cumplimiento/entidades/estatales",
+  "producto": {
+    "slug": "empresas-cumplimiento-entidades-estatales",
+    "nombre": "Seguro de Cumplimiento a Favor de Entidades Estatales",
+    "ramo": "Cumplimiento",
+    "linea": "empresas",
+    "tipo_persona": "ambas",
+    "descripcion": "Respaldamos el incumplimiento que pueda llegar a tener tu empresa frente a los compromisos adquiridos con una entidad estatal.",
+    "resumen": "Garantía de cumplimiento para empresas y personas naturales que contratan con entidades estatales, respaldando el incumplimiento de sus obligaciones contractuales.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "seriedad-de-la-oferta",
+      "nombre": "Seriedad de la oferta",
+      "descripcion": "Cubrimos a la entidad estatal frente a sanciones que puedan generarse si tu empresa, como proponente o contratista, retira su propuesta sin justa causa, no firma el contrato tras ser favorecida, no entrega el seguro de cumplimiento o no modifica la garantía de seriedad cuando el proceso se extiende.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "pago-anticipado",
+      "nombre": "Pago anticipado",
+      "descripcion": "Pagamos el valor del daño emergente que tu empresa cause a la entidad estatal por la no devolución del pago anticipado, en caso de incumplimiento de tus obligaciones contractuales.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "buen-manejo-y-correcta-inversion-del-anticipo",
+      "nombre": "Buen manejo, correcta inversión del anticipo",
+      "descripcion": "Respaldamos los pagos que la entidad estatal te haya anticipado en caso de que tu empresa no los haya invertido correctamente en la ejecución del contrato.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "cumplimiento",
+      "nombre": "Cumplimiento",
+      "descripcion": "Garantizamos el cumplimiento del contrato e indemnizamos los perjuicios que tu empresa le cause a la entidad estatal.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "pago-de-salarios-prestaciones-sociales-e-indemnizaciones-laborales",
+      "nombre": "Pago de salarios, prestaciones sociales e indemnizaciones laborales",
+      "descripcion": "Respaldamos el pago de salarios, prestaciones sociales e indemnizaciones laborales que tu empresa incumpla con el personal que ejecuta el proyecto, siempre y cuando la entidad estatal sea solidariamente responsable.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "estabilidad-de-la-obra",
+      "nombre": "Estabilidad de la obra",
+      "descripcion": "Respondemos por el daño emergente que se produzca debido al deterioro de la obra entregada por tu empresa, siempre que haya estado en condiciones normales de uso, haya sido recibida a total satisfacción y no pueda cumplir la finalidad para la cual se realizó.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "calidad-del-bien-o-servicio",
+      "nombre": "Calidad del bien o servicio",
+      "descripcion": "Apoyamos a la entidad estatal en caso de que los bienes suministrados o el servicio prestado por tu empresa tengan una calidad deficiente, de acuerdo con las especificaciones del contrato y las condiciones de calidad e idoneidad del Estatuto del Consumidor u otras normas técnicas.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "provision-de-repuestos-y-accesorios",
+      "nombre": "Provisión de repuestos y accesorios",
+      "descripcion": "Si tu empresa no provee los repuestos y accesorios descritos en el contrato, le pagaremos a la entidad estatal el daño emergente que esto les genere.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-a-bienes-no-destinados-a-la-ejecucion-del-contrato",
+      "nombre": "Daños a bienes no destinados a la ejecución del contrato",
+      "descripcion": "Daños causados por tu empresa a los bienes de la entidad estatal no destinados para la ejecución del contrato.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "uso-inadecuado-o-falta-de-mantenimiento-del-asegurado",
+      "nombre": "Uso inadecuado o falta de mantenimiento del asegurado",
+      "descripcion": "Uso inadecuado o falta de mantenimiento preventivo al que está obligada la entidad estatal como asegurada.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "deterioro-normal-por-uso",
+      "nombre": "Deterioro normal por uso",
+      "descripcion": "Deterioro normal que sufran los bienes de la entidad estatal como consecuencia de su uso durante el desarrollo de la obra.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "causa-extrana-fuerza-mayor-caso-fortuito",
+      "nombre": "Eventos de causa extraña",
+      "descripcion": "Eventos de causa extraña como fuerza mayor o caso fortuito, el hecho de un tercero o la culpa exclusiva de la víctima.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "El tomador son las empresas de todos los tamaños y personas naturales que celebren contratos con entidades estatales para prestar un servicio, producir algo, construir una obra, entre otros. La entidad estatal será la asegurada."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Términos y condiciones - Cumplimiento a favor de Entidades Estatales",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/cumplimiento/entidades-estatales.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Respaldamos el incumplimiento que pueda llegar a tener tu empresa frente a los compromisos adquiridos con una entidad estatal. ¿A quién aseguramos? El tomador son las empresas de todos los tamaños y personas naturales que celebren contratos con entidades estatales para prestar un servicio, producir algo, construir una obra, entre otros. La entidad estatal será la asegurada. ¿Por qué elegir esta solución? Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos por medio de Empresas SURA."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Seriedad de la oferta: cubrimos a la entidad estatal frente a sanciones que puedan generarse si tu empresa, como proponente o contratista, retira su propuesta sin justa causa después de finalizado el proceso, no firma el contrato una vez salga favorecida en el proceso de selección, no entrega el seguro de cumplimiento (requisito para la firma del contrato) o no modifica la garantía de seriedad de la oferta cuando el proceso de selección se extiende por otro periodo. Pago anticipado: pagamos el valor del daño emergente que tu empresa cause a la entidad estatal por la no devolución del pago anticipado, en caso de incumplimiento de tus obligaciones contractuales. Buen manejo, correcta inversión del anticipo: respaldamos los pagos que la entidad estatal te haya anticipado en caso de que tu empresa no los haya invertido correctamente en la ejecución del contrato. Cumplimiento: garantizamos el cumplimiento del contrato e indemnizamos los perjuicios que tu empresa le cause a la entidad estatal."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Pago de salarios, prestaciones sociales e indemnizaciones laborales: respaldamos el pago de salarios, prestaciones sociales e indemnizaciones laborales que tu empresa incumpla con el personal que ejecuta el proyecto, siempre y cuando la entidad estatal sea solidariamente responsable. Estabilidad de la obra: respondemos por el daño emergente que se produzca debido al deterioro de la obra entregada por tu empresa. Esta cobertura dependerá de que la obra haya estado en condiciones normales de uso al momento de sufrir el daño, haya sido recibida a total satisfacción y no pueda cumplir la finalidad para la cual se realizó. Calidad del bien o servicio: apoyamos a la entidad estatal en caso de que los bienes suministrados o el servicio prestado por tu empresa tengan una calidad deficiente, de acuerdo con las especificaciones y los requisitos nombrados en el contrato, y las condiciones de calidad e idoneidad establecidas en el Estatuto del Consumidor u otras normas técnicas. Provisión de repuestos y accesorios: si tu empresa no provee los repuestos y accesorios descritos en el contrato, le pagaremos a la entidad estatal el daño emergente que esto les genere."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Daños causados por tu empresa a los bienes de la entidad estatal no destinados para la ejecución del contrato. Uso inadecuado o falta de mantenimiento preventivo al que está obligada la entidad estatal como asegurada. Deterioro normal que sufran los bienes de la entidad estatal como consecuencia de su uso durante el desarrollo de la obra. Eventos de causa extraña como fuerza mayor o caso fortuito, el hecho de un tercero o la culpa exclusiva de la víctima."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Después de presentar tu reclamación, te contactaremos entre cinco (5) y siete (7) días calendario para informarte cómo se gestiona el proceso y solicitarte la documentación necesaria. Una vez tengamos toda la documentación, te enviaremos una respuesta en un plazo de diez (10) días hábiles. Medios de pago: Presenciales (bancos y redes aliadas) y digitales (Pago Express y débito automático)."
+    }
+  ]
+}

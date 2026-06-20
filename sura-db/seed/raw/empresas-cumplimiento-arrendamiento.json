@@ -1,0 +1,171 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/cumplimiento/arrendamiento",
+  "producto": {
+    "slug": "empresas-cumplimiento-arrendamiento",
+    "nombre": "Seguro de Arrendamiento",
+    "ramo": "Cumplimiento",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "Seguro de Cumplimiento para contratos de arrendamiento que garantiza al arrendador los ingresos generados por sus locales, bodegas u otros espacios. La cobertura principal responde al incumplimiento de pagos de arriendo, servicios públicos y administración, con protecciones opcionales como daños y faltantes de inventario y asistencia domiciliaria. Está disponible de manera individual (por cada propiedad arrendada) y colectiva (a través de agencias inmobiliarias).",
+    "resumen": "Garantiza los ingresos por arrendamiento de la empresa cuando el inquilino incumple el pago del canon, la administración y los servicios públicos.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "corredores"]
+  },
+  "planes": [
+    { "slug": "plan-individual", "nombre": "Plan Individual", "orden": 1, "precio_desde": null },
+    { "slug": "plan-colectivo", "nombre": "Plan Colectivo", "orden": 2, "precio_desde": null }
+  ],
+  "coberturas": [
+    {
+      "slug": "pago-canon-arrendamiento",
+      "nombre": "Pago del canon de arrendamiento en caso de incumplimiento del inquilino",
+      "descripcion": "Si el inquilino no cumple con el pago del canon de arrendamiento en las fechas establecidas en el contrato, SURA paga al arrendador el canon adeudado.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Límite máximo de indemnización de 36 meses hasta la restitución del inmueble"
+    },
+    {
+      "slug": "pago-cuota-administracion",
+      "nombre": "Pago de la cuota de administración que incumpla el inquilino",
+      "descripcion": "Pago de la cuota de administración incumplida por el inquilino, siempre y cuando esté incluida en el contrato.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "reembolso-servicios-publicos",
+      "nombre": "Reembolso de servicios públicos por incumplimiento del inquilino",
+      "descripcion": "Reembolso del valor de los servicios públicos que el propietario deba asumir por el incumplimiento de pago de los inquilinos. Para cánones inferiores a $4.000.000 cubre hasta el doble; para cánones superiores reembolsa el 1.5% del valor, con tope de $15.000.000 cuando el canon excede $8.000.000. Solo se paga cuando el inquilino abandona el inmueble.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Hasta el doble para cánones menores a $4.000.000; 1.5% del canon si supera $4.000.000; máximo $15.000.000 si el canon excede $8.000.000"
+    },
+    {
+      "slug": "asistencia-domiciliaria",
+      "nombre": "Asistencia domiciliaria",
+      "descripcion": "Servicios de plomería, electricidad, cerrajería, reemplazo de vidrios, seguridad, gastos de traslado por interrupción de viaje y asistencia jurídica telefónica para el cuidado y protección del inmueble.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "10 eventos al año, máximo 2 salarios mínimos mensuales por evento; gastos de traslado máximo 10 SMLV; seguridad privada máximo 2 días"
+    },
+    {
+      "slug": "danos-a-terceros-responsabilidad-civil-extracontractual",
+      "nombre": "Pago por daños a terceros ocasionados por el inquilino",
+      "descripcion": "Pago por los daños a terceros que hayan sido ocasionados por el inquilino de la propiedad.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "danos-y-faltantes-inventario",
+      "nombre": "Daños y faltantes del inventario",
+      "descripcion": "Paga los daños y faltantes de los bienes incluidos en el inventario inicial del contrato, siempre que se comprueben al momento de la entrega del inmueble. No cubre daños por deterioro del tiempo (pintura, fisuras, humedades, desprendimiento de techos, entre otros).",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "clausulas-penales-multas-intereses-sanciones",
+      "nombre": "Cláusulas penales, multas, intereses y sanciones económicas",
+      "descripcion": "Cláusulas penales, multas, intereses sobre cánones de arrendamiento, cuotas de administración o cualquier otra sanción económica.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-al-inmueble-sin-cobertura-opcional",
+      "nombre": "Daños y faltantes al inmueble arrendado por cualquier causa",
+      "descripcion": "Daños y faltantes causados al inmueble arrendado por cualquier causa, salvo que se haya contratado la cobertura opcional de daños y faltantes.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "obligaciones-no-pactadas-por-escrito",
+      "nombre": "Obligaciones no pactadas por escrito o no notificadas a SURA",
+      "descripcion": "Cánones de arrendamiento, cuotas de administración, reajustes o servicios públicos domiciliarios que no estén pactados por escrito, no se ajusten a la ley o que no hayan sido notificados a Seguros SURA.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Dirigido a empresas arrendadoras. El seguro está disponible de manera individual (un seguro por cada propiedad arrendada) y colectiva (incluida en un seguro colectivo que toman las agencias inmobiliarias para cubrir los riesgos de sus contratos de arrendamiento)."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condicionado general - Seguro de Arrendamiento",
+      "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/vivienda/arrendamiento.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Con este seguro tu empresa puede garantizar sus ingresos como arrendador en caso de que su inquilino incumpla con el pago del canon de arrendamiento. Recibir apoyo económico para el pago de los servicios públicos y la administración pendientes después de la restitución de su propiedad. Contar con la mejor asistencia para el cuidado y la protección de sus bienes inmuebles."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Te han quedado mal con el pago por concepto de arriendos que recibe tu empresa? Cuando adquieres este seguro, pase lo que pase, tienes garantizado el ingreso que te generan tus locales, bodegas u otros espacios. La cobertura principal responde al incumplimiento de pagos de arriendo, servicios públicos y administración, pero tienes a tu disposición protecciones opcionales como daños y faltantes, y asistencia domiciliaria, que comprende servicio de plomería, electricidad, cerrajería, reemplazo de vidrios y asistencia jurídica telefónica."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "El seguro está disponible de manera individual y colectiva. Así que tu empresa puede tomar un seguro individual por cada propiedad que tenga arrendada o ser incluida en un seguro colectivo que toman las agencias inmobiliarias para cubrir los riesgos a los que se exponen sus contratos de arrendamiento. A estas agencias le puedes delegar el trabajo de conseguir el inquilino, las labores de mantenimiento y reparación de tu inmueble y el inventario de la propiedad. De esta manera no tienes que preocuparte por hacer estos trámites."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Comparativo de planes (✔ lo incluye el plan, ➕ lo adiciona por un valor extra, ✖ no lo incluye el plan). Plan Individual y Plan Colectivo incluyen: Pago del canon de arrendamiento en caso de incumplimiento por parte del inquilino; Pago de la cuota de administración que incumpla el inquilino, siempre y cuando esté incluido en el contrato. El reembolso del valor de los servicios públicos que el propietario deba asumir está incluido en el Plan Individual y se adiciona por un valor extra en el Plan Colectivo. El pago por daños a terceros ocasionados por el inquilino no se incluye y debe adicionarse. La asistencia domiciliaria (plomería, electricidad, cerrajería, reemplazo de vidrios, gastos de traslado y asistencia jurídica telefónica) está incluida para Bogotá y se adiciona para el resto del país, en ambos planes. Los daños y faltantes del inventario se adicionan por un valor extra en ambos planes."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Cobertura principal - Pago del canon de arrendamiento, cuotas de administración y reembolso del valor de los servicios públicos: Si tu inquilino no cumple con las obligaciones que tiene con tu empresa en las fechas establecidas en el acuerdo, nosotros te pagamos el canon de arrendamiento más la cuota de administración, siempre y cuando tenga esta última incluida en el contrato. Como es viable que también se presente incumplimiento en el pago de los servicios públicos, tu organización debe hacerse cargo de esos gastos, pero con la tranquilidad de saber que luego reembolsaremos una parte de ese dinero según el valor contratado."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Cómo funciona la cobertura de servicios públicos: Para cánones de arrendamiento inferiores a $4.000.000, SURA cubre hasta el doble. Por ejemplo, si el arriendo de un local tiene un valor de $3.000.000 mensuales en el momento en que los inquilinos entreguen la propiedad y hayan dejado una deuda de $7.000.000 o más, te reembolsaremos seis millones, pues solo se paga cuando el inquilino abandone la residencia. Si el canon supera los $4.000.000, se reembolsa lo correspondiente al 1.5% de ese valor; por ejemplo, si la mensualidad es de $5.000.000, la cobertura en servicios públicos es de $7.500.000. En caso de exceder un canon de $8.000.000, solo se puede cubrir hasta $15.000.000 de reembolso. Cuando cortan los servicios públicos, estos se reinstalan y reconectan, pero no aplica cuando se pierde la línea telefónica."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Servicios exclusivos - Daños y faltantes de inventario: Te pagamos los daños y faltantes de los bienes que incluya en el inventario inicial del contrato, siempre y cuando se comprueben al momento de la entrega del inmueble. No se cubren los daños o faltantes producto del deterioro del tiempo como la pintura, fisuras en las paredes, humedades, desprendimiento de techos, entre otros."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Servicios exclusivos - Asistencia domiciliaria: El límite es de diez eventos en el año con un valor máximo de dos salarios mínimos mensuales por evento. Plomería: un técnico especializado restablece el suministro y evacuación de aguas cuando se haya roto una tubería interior; no incluye redes de procesos industriales o sistemas fuera del inmueble. Electricidad: un técnico restablece la electricidad luego de un daño interior; no incluye redes específicas de equipos, maquinaria, procesos o sistemas industriales. Cerrajería: un técnico restablece el acceso o cierre externo del inmueble por daños de la cerradura o pérdida de la llave. Reemplazo de vidrios: un técnico reemplaza los vidrios del exterior del inmueble que se hayan roto; no cubre vidrios decorativos, cabinas de baño, vitrales y acabados estéticos."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Asistencia domiciliaria (continuación) - Seguridad: si no se pueden arreglar inmediatamente los daños de cerrajería o reemplazo de vidrios y representan un riesgo para la seguridad del inmueble, se presta un servicio de seguridad privada durante máximo dos días. Gastos de traslado por interrupción de viaje: si el arrendador o el inquilino están fuera de la ciudad y deben regresar por un imprevisto que afecte considerablemente el inmueble, se reembolsan los gastos de traslado para solucionar el inconveniente (por ejemplo, una inundación), máximo diez salarios mínimos legales. Asistencia jurídica telefónica: asesoría y orientación telefónica para el arrendador y el inquilino sobre la definición y alcance de las coberturas del seguro."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Cláusulas penales, multas, intereses sobre cánones de arrendamiento, cuotas de administración o cualquier otra sanción económica. Daños y faltantes causados al inmueble arrendado por cualquier causa, salvo que se haya contratado la cobertura opcional de daños y faltantes. Cánones de arrendamiento, cuotas de administración, reajustes o servicios públicos domiciliarios que no estén pactados por escrito, no se ajusten a la ley o que no hayan sido notificados a Seguros SURA. Para mayor información sobre las exclusiones del seguro, consulta el condicionado general."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedes solicitar asistencia domiciliaria? Si eres arrendador o arrendatario podrás solicitar asistencia domiciliaria llamando sin costo al #888 desde tu celular, al 437 88 88 si estás en Bogotá, Medellín o Cali, o al 01 8000 51 8888 en el resto del país."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedes hacer una reclamación? No debes recibir ningún dinero, canon de arrendamiento o cuota de administración por parte del arrendatario moroso o de terceras personas, ni realizar certificados o paz y salvo aun cuando SURA te haya pagado las reclamaciones. Cuéntanos oportunamente en caso de recibir cualquier tipo de pago. Debes entregar los poderes necesarios para que SURA pueda realizar el proceso de recuperación de dineros indemnizados y del inmueble arrendado. Debes hacer todo lo posible por evitar la extensión del siniestro. Es importante que consultes en el condicionado general del seguro en qué situaciones puedes reclamar."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Plazos y términos: En el seguro individual, el pago de la prima deberá realizarse de forma anticipada anual en cuanto inicie y se legalice el contrato de arrendamiento. Este seguro se puede terminar si hay mora en el pago de la prima por más de 30 días; si el arrendador, el arrendatario o Seguros SURA terminan el contrato de arrendamiento o el del seguro unilateralmente; o si se comprueba mala fe por parte del arrendador o el arrendatario. Este seguro se renovará siempre y cuando se notifique la continuidad del contrato de arrendamiento en los mismos términos y condiciones pactados inicialmente y no existan circunstancias que modifiquen el estado del riesgo. Seguros SURA indemnizará hasta tanto se restituya el inmueble arrendado, con un límite máximo de indemnización de 36 meses."
+    }
+  ]
+}

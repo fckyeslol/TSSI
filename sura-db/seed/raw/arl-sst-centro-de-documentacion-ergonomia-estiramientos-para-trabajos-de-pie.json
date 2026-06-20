@@ -1,0 +1,67 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/sst/centro/de/documentacion/ergonomia/estiramientos/para/trabajos/de/pie",
+  "proceso": {
+    "slug": "arl-sst-centro-de-documentacion-ergonomia-estiramientos-para-trabajos-de-pie",
+    "nombre": "Ejercicios de estiramiento para personas que trabajan de pie",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "ambas",
+    "descripcion": "Guia de ejercicios de estiramiento orientada a la ergonomia para personas que desarrollan su trabajo de pie, con el fin de prevenir molestias y promover la salud en el trabajo.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Estiramiento de pierna hacia el pecho",
+        "detalle": "Levante la pierna, sujetela con las manos y llevela hasta el pecho. Alterne cambiando de pierna."
+      },
+      {
+        "orden": 2,
+        "titulo": "Apoyo en punta de pies y talones",
+        "detalle": "Parese en la punta de los pies y luego en los talones en forma alterna."
+      },
+      {
+        "orden": 3,
+        "titulo": "Estiramiento de pantorrilla",
+        "detalle": "Lleve todo el peso del cuerpo hacia delante flexionando una rodilla y cuidando que el talon de la pierna de atras quede totalmente apoyado en el piso. Usted debe sentir una ligera tension. Alterne cambiando de pierna."
+      },
+      {
+        "orden": 4,
+        "titulo": "Estiramiento de pecho y hombros",
+        "detalle": "Entrelace las manos atras y levantelas un poco. Tire de ellas y saque pecho."
+      },
+      {
+        "orden": 5,
+        "titulo": "Postura con un pie adelante",
+        "detalle": "Parese con un pie adelante del otro y separelo."
+      }
+    ],
+    "url": "https://www.sura.co/arl/sst/centro/de/documentacion/ergonomia/estiramientos/para/trabajos/de/pie"
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Ejercicios de estiramiento para personas que trabajan de pie."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Levante la pierna, sujetela con las manos y llevela hasta el pecho. Alterne cambiando de pierna."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Parese en la punta de los pies y luego en los talones en forma alterna."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Lleve todo el peso del cuerpo hacia delante flexionando una rodilla y cuidando que el talon de la pierna de atras quede totalmente apoyado en el piso. Usted debe sentir una ligera tension. Alterne cambiando de pierna."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Entrelace las manos atras y levantelas un poco. Tire de ellas y saque pecho."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Parese con un pie adelante del otro y separelo."
+    }
+  ]
+}

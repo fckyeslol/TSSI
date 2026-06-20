@@ -1,0 +1,86 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/salud/salud/para/todos",
+  "producto": {
+    "slug": "personas-salud-salud-para-todos",
+    "nombre": "Salud para Todos",
+    "ramo": "Salud",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Salud para Todos ofrece acceso y coberturas integrales para el cuidado de la salud de nuestros asegurados. Puedes acceder a coberturas basicas y de uso frecuente, asegurando acceso y oportunidad ante eventos de salud no deseados. Con Salud para Todos aseguramos tu bienestar con un plan que se adapta a tus necesidades.",
+    "resumen": "Seguro de salud complementario a la EPS con acceso directo a especialistas, atencion medica a domicilio 24 horas y habitacion individual en hospitalizacion.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor"]
+  },
+  "planes": [
+    { "slug": "plan-esencial", "nombre": "Plan Esencial", "orden": 1, "precio_desde": null },
+    { "slug": "plan-clasico", "nombre": "Plan Clasico", "orden": 2, "precio_desde": null },
+    { "slug": "plan-preferencial", "nombre": "Plan Preferencial", "orden": 3, "precio_desde": null },
+    { "slug": "plan-estandar", "nombre": "Plan Estandar", "orden": 4, "precio_desde": null },
+    { "slug": "plan-plus", "nombre": "Plan Plus", "orden": 5, "precio_desde": null }
+  ],
+  "coberturas": [
+    { "slug": "consulta-directa-especialistas", "nombre": "Consulta directa con especialistas", "descripcion": "Acceso directo a especialistas sin remision ni autorizacion.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "atencion-medica-domicilio-24h", "nombre": "Atencion medica a domicilio 24 horas", "descripcion": "Atencion de medica a domicilio 24 horas del dia.", "categoria": "asistencia", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "habitacion-individual-hospitalizacion", "nombre": "Habitacion individual en caso de hospitalizacion", "descripcion": "Habitacion individual en instituciones de la red.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "En instituciones de la red" },
+    { "slug": "urgencias-odontologicas-domicilio", "nombre": "Atencion de urgencias odontologicas a domicilio", "descripcion": "Atencion de urgencias odontologicas a domicilio.", "categoria": "asistencia", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "afiliacion-eps", "nombre": "Afiliacion a EPS", "descripcion": "Requiere estar afiliado a EPS SURA regimen contributivo.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "Afiliados a EPS SURA regimen contributivo" },
+    { "slug": "integralidad-con-eps", "nombre": "Integralidad con EPS", "descripcion": "Integralidad con la EPS.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "Si" },
+    { "slug": "atencion-virtual-prioritaria-medico-general-pediatra", "nombre": "Atencion virtual prioritaria con medico general/pediatra", "descripcion": "Atencion virtual prioritaria con medico general o pediatra.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "Afiliados a EPS SURA" },
+    { "slug": "medicamentos-post-atencion-virtual-prioritaria", "nombre": "Medicamentos post atencion virtual prioritaria", "descripcion": "Medicamentos posteriores a la atencion virtual prioritaria.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "Afiliados a EPS SURA" },
+    { "slug": "acceso-directo-especialistas-esencial", "nombre": "Acceso directo a especialistas", "descripcion": "6 especialidades sin remision ni autorizacion. Atencion ilimitada.", "categoria": "salud", "plan_slug": "plan-esencial", "tipo": "incluida", "limite": "6 especialidades, atencion ilimitada" },
+    { "slug": "acceso-directo-especialistas-clasico", "nombre": "Acceso directo a especialistas", "descripcion": "6 especialidades sin remision ni autorizacion. Atencion ilimitada.", "categoria": "salud", "plan_slug": "plan-clasico", "tipo": "incluida", "limite": "6 especialidades, atencion ilimitada" },
+    { "slug": "acceso-directo-especialistas-preferencial", "nombre": "Acceso directo a especialistas", "descripcion": "11 especialidades sin remision ni autorizacion. Atencion ilimitada, excepto bioenergetico (12 citas anuales).", "categoria": "salud", "plan_slug": "plan-preferencial", "tipo": "incluida", "limite": "11 especialidades, atencion ilimitada excepto bioenergetico (12 citas anuales)" },
+    { "slug": "especialista-internista", "nombre": "Internista", "descripcion": "Acceso directo a internista.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "especialista-pediatra", "nombre": "Pediatra", "descripcion": "Acceso directo a pediatra.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "especialista-ginecologo", "nombre": "Ginecologo", "descripcion": "Acceso directo a ginecologo.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "especialista-ginecobstetra", "nombre": "Ginecobstetra", "descripcion": "Acceso directo a ginecobstetra.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "especialista-oftalmologo", "nombre": "Oftalmologo", "descripcion": "Acceso directo a oftalmologo.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "especialista-urologo", "nombre": "Urologo", "descripcion": "Acceso directo a urologo.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "especialista-ortopedista", "nombre": "Ortopedista", "descripcion": "Acceso directo a ortopedista. Solo disponible en Plan Preferencial.", "categoria": "salud", "plan_slug": "plan-preferencial", "tipo": "incluida", "limite": null },
+    { "slug": "especialista-otorrinolaringologo", "nombre": "Otorrinolaringologo", "descripcion": "Acceso directo a otorrinolaringologo. Solo disponible en Plan Preferencial.", "categoria": "salud", "plan_slug": "plan-preferencial", "tipo": "incluida", "limite": null },
+    { "slug": "especialista-dermatologo", "nombre": "Dermatologo", "descripcion": "Acceso directo a dermatologo. Solo disponible en Plan Preferencial.", "categoria": "salud", "plan_slug": "plan-preferencial", "tipo": "incluida", "limite": null },
+    { "slug": "especialista-nutricionista", "nombre": "Nutricionista", "descripcion": "Acceso directo a nutricionista. Solo disponible en Plan Preferencial.", "categoria": "salud", "plan_slug": "plan-preferencial", "tipo": "incluida", "limite": null },
+    { "slug": "especialista-bioenergetico", "nombre": "Bioenergetico", "descripcion": "Acceso a bioenergetico. Solo disponible en Plan Preferencial, 12 citas anuales.", "categoria": "salud", "plan_slug": "plan-preferencial", "tipo": "incluida", "limite": "12 citas anuales" },
+    { "slug": "medicina-general", "nombre": "Medicina general", "descripcion": "Consulta de medicina general.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "Afiliados a EPS SURA" },
+    { "slug": "consulta-psicologia", "nombre": "Consulta Psicologia", "descripcion": "Consulta de psicologia.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "Afiliados a EPS SURA" },
+    { "slug": "consulta-psiquiatria", "nombre": "Consulta Psiquiatria", "descripcion": "Consulta de psiquiatria.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "Afiliados a EPS SURA" },
+    { "slug": "no-cobro-cuotas-moderadoras-pbs-esencial", "nombre": "No cobro en algunas cuotas moderadoras del PBS", "descripcion": "Ahorro en cuotas moderadoras de: consultas con medico general y especialistas (no incluye las de acceso directo), ayudas diagnosticas PBS y laboratorio clinico PBS.", "categoria": "salud", "plan_slug": "plan-esencial", "tipo": "incluida", "limite": null },
+    { "slug": "no-cobro-cuotas-moderadoras-pbs-clasico-preferencial", "nombre": "No cobro en algunas cuotas moderadoras del PBS", "descripcion": "Ahorro en cuotas moderadoras de: consultas del PBS (no incluye las de acceso directo), ayudas diagnosticas PBS y laboratorio clinico PBS.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "no-cobro-copagos-pbs", "nombre": "No cobro en copagos del PBS", "descripcion": "Ahorro en todos los copagos del PBS.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "ayudas-diagnosticas-imagenologia-hospitalarias", "nombre": "Ayudas diagnosticas de imagenologia hospitalarias", "descripcion": "Las no amparadas por el PBS. Esta cobertura podra variar segun el plan elegido. No incluida en Plan Esencial.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "Las no amparadas por el PBS" },
+    { "slug": "ayudas-diagnosticas-imagenologia-ambulatorias", "nombre": "Ayudas diagnosticas de imagenologia ambulatorias", "descripcion": "Las no amparadas por el PBS. Esta cobertura podra variar segun el plan elegido. No incluida en Plan Esencial.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "Las no amparadas por el PBS" },
+    { "slug": "continuidad-atencion-parto", "nombre": "Continuidad en la atencion del parto", "descripcion": "Si la madre se afilio 300 dias antes de la fecha probable del parto, este sera atendido por el ginecobstetra que hizo sus controles. No incluida en Plan Esencial.", "categoria": "salud", "plan_slug": null, "tipo": "incluida", "limite": "Afiliacion minima 300 dias antes de la fecha probable del parto" },
+    { "slug": "atencion-medica-domicilio-24h-plan", "nombre": "Atencion medica a domicilio las 24 horas del dia", "descripcion": "Aplica copago. Sujeto a las zonas de cobertura del prestador. No incluida en Plan Esencial.", "categoria": "asistencia", "plan_slug": null, "tipo": "incluida", "limite": "Aplica copago; sujeto a zonas de cobertura del prestador" },
+    { "slug": "traslado-en-ambulancia", "nombre": "Traslado en ambulancia", "descripcion": "Segun el criterio del profesional de atencion medica a domicilio. No incluida en Plan Esencial.", "categoria": "asistencia", "plan_slug": null, "tipo": "incluida", "limite": "Segun criterio del profesional de atencion medica a domicilio" },
+    { "slug": "urgencias-odontologicas-domicilio-plan", "nombre": "Atencion de urgencias odontologicas a domicilio", "descripcion": "Disponible 24 horas. Sujeto a las zonas de cobertura del prestador. Aplica copago. Adicionales: 1 limpieza dental por vigencia sin costo, y 25% de descuento en tratamientos odontologicos o aliados. No incluida en Plan Esencial.", "categoria": "asistencia", "plan_slug": null, "tipo": "incluida", "limite": "Disponible 24 horas; aplica copago; 1 limpieza dental por vigencia y 25% de descuento en tratamientos" }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": 0,
+    "edad_max": 59,
+    "condiciones": {
+      "afiliacion_eps": "Afiliados a EPS SURA regimen contributivo",
+      "edad_ingreso": "3 meses a 59 anos",
+      "ciudades_cobertura": ["Bogota", "Chia", "Medellin", "Rionegro", "Cali", "Manizales", "Pereira", "Armenia", "Barranquilla", "Bucaramanga", "Marinilla", "La Ceja", "Palmira", "Santa Marta"]
+    },
+    "descripcion": "Dirigido a afiliados a EPS SURA del regimen contributivo, con edad de ingreso de 3 meses a 59 anos, en las ciudades con cobertura."
+  },
+  "documentos": [
+    { "tipo": "clausulado", "titulo": "Clausulado Salud para Todos - Plan Esencial", "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/clausulado-salud-para-todos-plan-esencial.pdf" },
+    { "tipo": "clausulado", "titulo": "Clausulado Salud para Todos - Plan Clasico", "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/clausulado-salud-para-todos-plan-clasico.pdf" },
+    { "tipo": "clausulado", "titulo": "Clausulado Salud para Todos - Plan Preferencial", "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/clausulado-salud-para-todos-plan-preferencial.pdf" },
+    { "tipo": "clausulado", "titulo": "Clausulado Salud para Todos - Plan Estandar 2024", "pdf_url": "https://www.sura.co/documents/d/seguros/clausulado-salud-para-todos-plan-estandar-2024" },
+    { "tipo": "clausulado", "titulo": "Clausulado Salud para Todos - Plan Plus 2024", "pdf_url": "https://www.sura.co/documents/d/seguros/clausulado-salud-para-todos-plan-plus-2024" }
+  ],
+  "chunks": [
+    { "seccion": "general", "contenido": "Salud para Todos ofrece acceso y coberturas integrales para el cuidado de la salud de nuestros asegurados. Puedes acceder a coberturas basicas y de uso frecuente, asegurando acceso y oportunidad ante eventos de salud no deseados. Con Salud para Todos aseguramos tu bienestar con un plan que se adapta a tus necesidades." },
+    { "seccion": "beneficios", "contenido": "Principales beneficios: Multiples opciones que resuelven tus necesidades cotidianas y frecuentes en salud. Contaras con: Consulta directa con especialistas; Atencion de medica a domicilio 24 horas; Habitacion individual en caso de hospitalizacion; Atencion de urgencias odontologicas a domicilio." },
+    { "seccion": "elegibilidad", "contenido": "Afiliacion a EPS: Afiliados a EPS SURA regimen contributivo. Edad de ingreso: 3 meses a 59 anos. Integralidad con EPS: Si. Ciudades con cobertura: Bogota, Chia, Medellin, Rionegro, Cali, Manizales, Pereira, Armenia, Barranquilla, Bucaramanga, Marinilla, La Ceja, Palmira, Santa Marta." },
+    { "seccion": "que_cubrimos", "contenido": "Atencion virtual prioritaria con medico general/pediatra y medicamentos post atencion virtual prioritaria (afiliados a EPS SURA). Acceso directo a especialistas: en Plan Esencial y Plan Clasico, 6 especialidades sin remision ni autorizacion con atencion ilimitada; en Plan Preferencial, 11 especialidades sin remision ni autorizacion con atencion ilimitada, excepto bioenergetico (12 citas anuales). Especialidades incluidas en todos los planes: internista, pediatra, ginecologo, ginecobstetra, oftalmologo y urologo. Solo en Plan Preferencial: ortopedista, otorrinolaringologo, dermatologo, nutricionista y bioenergetico. Medicina general, consulta de psicologia y consulta de psiquiatria para afiliados a EPS SURA." },
+    { "seccion": "que_cubrimos", "contenido": "Habitacion individual en hospitalizacion en instituciones de la red. No cobro en algunas cuotas moderadoras del PBS: en Plan Esencial ahorro en cuotas moderadoras de consultas con medico general y especialistas (no incluye las de acceso directo), ayudas diagnosticas PBS y laboratorio clinico PBS; en Plan Clasico y Plan Preferencial ahorro en cuotas moderadoras de consultas del PBS (no incluye las de acceso directo), ayudas diagnosticas PBS y laboratorio clinico PBS. No cobro en copagos del PBS: ahorro en todos los copagos del PBS." },
+    { "seccion": "que_cubrimos", "contenido": "Ayudas diagnosticas de imagenologia hospitalarias y ambulatorias: las no amparadas por el PBS, cobertura que podra variar segun el plan elegido (no incluida en Plan Esencial). Continuidad en la atencion del parto: si la madre se afilio 300 dias antes de la fecha probable del parto, este sera atendido por el ginecobstetra que hizo sus controles (no incluida en Plan Esencial). Atencion medica a domicilio las 24 horas del dia: aplica copago y esta sujeta a las zonas de cobertura del prestador (no incluida en Plan Esencial). Traslado en ambulancia segun el criterio del profesional de atencion medica a domicilio (no incluida en Plan Esencial)." },
+    { "seccion": "que_cubrimos", "contenido": "Atencion de urgencias odontologicas a domicilio: disponible 24 horas, sujeto a las zonas de cobertura del prestador, aplica copago. Adicionales: 1 limpieza dental por vigencia sin costo y 25% de descuento en tratamientos odontologicos o aliados (no incluida en Plan Esencial)." }
+  ]
+}

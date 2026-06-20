@@ -1,0 +1,109 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/accidente/de/trabajo/reporte",
+  "proceso": {
+    "slug": "arl-accidente-de-trabajo-reporte",
+    "nombre": "Reporte de accidente de trabajo",
+    "linea": "arl",
+    "tipo": "reporte",
+    "dirigido_a": "ambas",
+    "descripcion": "Proceso para reportar un presunto accidente de trabajo ante ARL SURA, diligenciando el Formato Único de Reporte de Accidente de Trabajo (FURAT). Aplica para empleadores, trabajadores y contratantes de trabajadores independientes, indicando los pasos de atención del accidentado y los medios disponibles para reportar (servicios en línea, correo electrónico o formulario físico).",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Identifica la gravedad del accidente",
+        "detalle": "Identifica la gravedad del accidente de trabajo, según el protocolo de atención de tu empresa, y traslada al empleado a la IPS más cercana."
+      },
+      {
+        "orden": 2,
+        "titulo": "Reporta un accidente de trabajo (FURAT en línea)",
+        "detalle": "Completa el Formato Único de Reporte de Accidente de Trabajo (FURAT). Para esto debes iniciar sesión en el sitio web e ingresar a Gestión de Riesgos Laborales, luego dirigirte a Reportar accidente de trabajo."
+      },
+      {
+        "orden": 3,
+        "titulo": "Si no posees clave: formulario físico o correo electrónico",
+        "detalle": "Formulario físico: solicítalo en cualquier oficina de ARL SURA y, una vez lo diligencies, entrégalo en una de nuestras oficinas. Correo electrónico: descarga el FURAT ingresando a sura.co/ARL (módulo: En caso de un accidente laboral), diligéncialo y envíalo a cesopaccidentearl@suramericana.com.co."
+      },
+      {
+        "orden": 4,
+        "titulo": "Como trabajador",
+        "detalle": "Repórtalo inmediatamente a tu empleador para que él notifique el accidente y te guíe en el proceso de atención en salud. Si el presunto accidente genera una urgencia, lleva inmediatamente al accidentado a la IPS más cercana."
+      },
+      {
+        "orden": 5,
+        "titulo": "Como trabajador independiente",
+        "detalle": "Repórtalo inmediatamente a tu contratante para que él realice el proceso de notificación a ARL SURA. Él identificará la gravedad del accidente y trasladará al empleado a la IPS más cercana."
+      },
+      {
+        "orden": 6,
+        "titulo": "Qué debe hacer el contratante",
+        "detalle": "Comunicarse con la línea de atención 01 8000 51 1414 para direccionar al trabajador accidentado a la IPS más cercana al lugar del accidente y direccionarlo a dicha IPS."
+      },
+      {
+        "orden": 7,
+        "titulo": "Reporte del contratante con clave de servicios en línea",
+        "detalle": "Ingresa a: www.sura.co/arl > Iniciar sesión > Autenticación > Gestión de riesgos > Laborales > Reporte de accidente de trabajo."
+      },
+      {
+        "orden": 8,
+        "titulo": "Reporte del contratante sin clave de servicios en línea",
+        "detalle": "Descarga el FURAT desde www.sura.co/arl > Reporta un accidente de trabajo > encuentra la opción del FURAT para descargar, diligéncialo y envíalo a cesopaccidentearl@suramericana.com.co. O solicita el formulario físico en cualquier oficina de ARL SURA y, una vez diligenciado, entrégalo en nuestras oficinas."
+      },
+      {
+        "orden": 9,
+        "titulo": "Imprime las copias del FURAT",
+        "detalle": "Una vez diligencies completamente el FURAT debes imprimir las copias correspondientes para el trabajador independiente, para el contratante y la empresa promotora de salud."
+      }
+    ],
+    "url": "https://www.sura.co/arl/accidente/de/trabajo/reporte"
+  },
+  "documentos": [
+    {
+      "tipo": "formato",
+      "titulo": "Formato Único de Reporte de Accidente de Trabajo (FURAT)",
+      "pdf_url": null
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Reporte de accidente de trabajo. ¿Qué debo hacer si ocurre un accidente en mi empresa? Como empleador, sigue estos pasos."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Identifica la gravedad del accidente de trabajo, según el protocolo de atención de tu empresa, y traslada al empleado a la IPS más cercana."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Reporta un accidente de trabajo: Completa el Formato Único de Reporte de Accidente de Trabajo (FURAT). Para esto debes iniciar sesión en el sitio web e ingresar a Gestión de Riesgos Laborales, luego debes dirigirte a Reportar accidente de trabajo."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Si aún no posees una clave para reportar el presunto accidente, puedes diligenciarlo y enviarlo a: Formulario físico: Solicítalo en cualquier oficina de ARL SURA y, una vez lo diligencies, entrégalo en una de nuestras oficinas. Correo electrónico: Descarga el FURAT ingresando a sura.co/ARL, en la página de inicio encontrarás un módulo: En caso de un accidente laboral y la opción para descargar el FURAT. Una vez lo diligencies, debes enviarlo vía correo electrónico a: cesopaccidentearl@suramericana.com.co."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Como trabajador: Repórtalo inmediatamente a tu empleador para que él notifique el accidente y te guíe en el proceso de atención en salud. Si el presunto accidente genera una urgencia, lleva inmediatamente al accidentado a la IPS más cercana."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "¿Cómo reportar un accidente de trabajo si eres independiente? Si te ocurre un accidente de trabajo como trabajador independiente: Repórtalo inmediatamente a tu contratante para que él realice el proceso de notificación a ARL SURA. Él Identificará la gravedad del accidente y trasladará al empleado a la IPS más cercana. Si no la conoces puedes consultarla aquí."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "¿Qué debe hacer tu contratante? Comunicarse con la línea de atención 01 8000 51 1414, donde le suministraremos la información necesaria para direccionar al trabajador accidentado a la IPS más cercana al lugar del accidente. Direcciona al trabajador accidentado a la IPS más cercana."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Medios para reportar el presunto accidente de trabajo por parte del contratante: Puedes diligenciar el Formulario Único de Reporte de Accidente de Trabajo (FURAT). Si como contratante posees clave de servicios en línea debes ingresar a: www.sura.co/arl > Iniciar sesión > Autenticación > Gestión de riesgos > Laborales > Reporte de accidente de trabajo."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Si como contratante no posees clave de servicios en línea, tienes dos opciones: Puedes descargar el FURAT desde: www.sura.co/arl > Reporta un accidente de trabajo > Encuentra la opción del FURAT para descargar. Una vez lo diligencies, debes enviarlo vía correo electrónico a: cesopaccidentearl@suramericana.com.co. Formulario físico: Solicítalo en cualquier oficina de ARL SURA y una vez lo hayas diligenciado entrégalo en nuestras oficinas."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Recuerda: Una vez diligencies completamente el FURAT debes imprimir las copias correspondientes para el trabajador independiente, para el contratante y la empresa promotora de salud."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/colectivos/pension",
+  "producto": {
+    "slug": "empresas-colectivos-pension",
+    "nombre": "Seguro de Pensión",
+    "ramo": "Colectivos",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "Gracias al Seguro de Pensión que ofrecemos en SURA, tus empleados podrán adquirir una cultura de ahorro y asegurar los ingresos que complementarán su pensión en unos años. Con esta alternativa, tendrán la posibilidad de garantizar un capital de respaldo para que ellos y sus seres queridos disfruten de calidad de vida en el futuro. El empleado define por cuánto tiempo quiere pagar y cuál es la periodicidad más cómoda: una suma única o a través de cuotas mensuales de mínimo $100.000 o sus equivalentes trimestrales, semestrales o anuales. El ingreso mensual que recibirá no pierde valor en el tiempo y es garantizado; el riesgo financiero lo asume SURA.",
+    "resumen": "Seguro pensional colectivo para que las empresas ayuden a sus empleados a construir un capital que complemente su pensión con ingresos garantizados.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [
+    { "slug": "plan-prejubilacion", "nombre": "Plan Prejubilación", "orden": 1, "precio_desde": null },
+    { "slug": "plan-complemento-temporal-pension", "nombre": "Plan Complemento Temporal a la Pensión", "orden": 2, "precio_desde": null },
+    { "slug": "plan-ingreso-futuro-garantizado", "nombre": "Plan Ingreso Futuro Garantizado", "orden": 3, "precio_desde": null }
+  ],
+  "coberturas": [
+    {
+      "slug": "renta-pensional",
+      "nombre": "Renta pensional",
+      "descripcion": "Con pagos periódicos de cuotas o incluso un solo pago, construyes un capital para complementar tu pensión y cubrir los gastos que tú o tus seres queridos requieran en el futuro. Vas acumulando el respaldo económico que luego SURA te desembolsa en las fechas acordadas.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "ingreso-garantizado",
+      "nombre": "Ingreso garantizado",
+      "descripcion": "Ingreso garantizado a partir de la fecha y durante el tiempo que el empleado elija.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "garantia-financiera",
+      "nombre": "Garantía financiera",
+      "descripcion": "El ingreso mensual que recibe el asegurado es garantizado y no pierde valor en el tiempo, ya que el riesgo financiero a largo plazo lo asume SURA.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "garantia-juridica-inembargabilidad",
+      "nombre": "Garantía jurídica",
+      "descripcion": "Los aportes que se realicen al Seguro de Pensión no son embargables ni forman parte del patrimonio.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "garantia-fiscal-beneficio-tributario",
+      "nombre": "Garantía fiscal",
+      "descripcion": "Por ser un seguro privado de pensiones, el empleado podrá optimizar el pago de impuestos. Esta regulación tributaria se encuentra en el artículo 126-1 del Estatuto Tributario.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Dirigido a empresas que quieran ofrecer a sus empleados una alternativa para construir un capital que complemente su pensión. Aporte mínimo de cuotas mensuales de $100.000 o sus equivalentes trimestrales, semestrales o anuales."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Consulta aquí las condiciones del seguro",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vehiculos/plan-seguro-uso-autos.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Con el Seguro de Pensión tus empleados podrán: construir un capital para complementar su pensión; disfrutar su futuro con calidad de vida; cubrir los gastos que él o sus seres queridos requieran en el futuro. Gracias al Seguro de Pensión que ofrecemos en SURA, tus empleados podrán adquirir una cultura de ahorro y asegurar los ingresos que complementarán su pensión en unos años. Con esta alternativa, tendrán la posibilidad de garantizar un capital de respaldo para que ellos y sus seres queridos disfruten de calidad de vida en el futuro."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Tu empleado define por cuánto tiempo quiere pagar y cuál es la periodicidad más cómoda: una suma única o a través de cuotas mensuales de mínimo $100.000 (cien mil pesos) o sus equivalentes trimestrales, semestrales o anuales. Ten en cuenta que el ingreso mensual que recibirá no pierde valor en el tiempo y es garantizado; el riesgo financiero lo asumimos nosotros. Además, tu empleado elige por cuánto tiempo prefiere recibir sus desembolsos y si los anticipa a su pensión o simplemente espera a que llegue para complementarla."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Beneficios del Seguro de Pensión. Ingreso garantizado a partir de la fecha y durante el tiempo que el empleado elija. Garantía financiera: el ingreso mensual que recibe el asegurado es garantizado y no pierde valor en el tiempo, ya que el riesgo financiero a largo plazo lo asumimos nosotros. Garantía jurídica: los aportes que se realicen al Seguro de Pensión no son embargables ni forman parte del patrimonio. Garantía fiscal: por ser un seguro privado de pensiones, el empleado podrá optimizar el pago de impuestos. Esta regulación tributaria se encuentra en el artículo 126-1 del Estatuto Tributario y puede ser validada con su asesor tributario."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Renta pensional: Con pagos periódicos de cuotas o incluso un solo pago, construyes un capital para complementar tu pensión y cubrir los gastos que tú o tus seres queridos requieran en el futuro. Funciona de manera sencilla: vas acumulando el respaldo económico que luego nosotros te desembolsaremos en las fechas acordadas."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "Nuestros planes. Plan Prejubilación: con esta alternativa, tus empleados jóvenes pueden programarse para recibir ingresos antes de tener la edad para pensionarse. Así, se aseguran de contar con un ingreso suficiente para realizar los aportes a su fondo de pensión hasta el momento de la jubilación y mantener el nivel de vida que esperan. Este plan es útil para quienes cumplen con los requisitos para pensionarse (capital acumulado y semanas cotizadas) pero aún no tienen la edad requerida para hacerlo."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "Plan Complemento Temporal a la Pensión: ideal para quienes están cerca de la edad de jubilación. Con este plan, puedes disminuir la brecha pensional al recibir un ingreso mensual garantizado a partir del momento en que cumples la edad de jubilación. De esta manera, complementas tu mensualidad pensional durante el período de tiempo que elijas. Plan Ingreso Futuro Garantizado: si tus empleados quieren construir un respaldo económico para los años que están por venir, esta es una excelente opción. La razón para obtener este plan es sencilla: contar con un capital financiero que se puede utilizar en cualquier momento. El empleado define a qué edad y durante cuánto tiempo desea recibir este ingreso garantizado para destinarlo a lo que quiera."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo hacer una reclamación? Llamando a la línea de atención de SURA en Bogotá, Cali o Medellín al 4378888, o en el resto del país al 0180000518888. Ingresando a www.sura.com.co en la opción de 'Ingresa a tu cuenta'. Contactando a tu asesor de seguros."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Plazos y términos. El seguro será cancelado si el pago de la prima no se realiza dentro de los 45 días siguientes al inicio de su vigencia. El seguro puede ser cancelado de forma unilateral por Seguros SURA o por la empresa asegurada. El Seguro de Protección Legal tiene vigencia por un año sin renovación automática."
+    }
+  ]
+}

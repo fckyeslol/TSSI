@@ -1,0 +1,15 @@
+{
+  "tipo": "referencia",
+  "url": "https://www.sura.co/seguros/mantenimiento/pago/express",
+  "categoria": "General",
+  "chunks": [
+    {
+      "seccion": "Gestionar mis pagos",
+      "contenido": "Gestionar mis pagos. Busca por las siguientes opciones: Identificación o Comprobante. Por Identificación: selecciona el Tipo de documento (Carné Diplomático, Cédula de Ciudadanía, Cédula de Extranjería, Doc. Identidad de Extranjero, NIT, NUIP, Pasaporte, Pasaporte de la ONU, Permiso Permanencia Venezolanos, Permiso por Protección Temporal, Registro Civil de Nacimiento, Tarjeta de Identidad) e ingresa el Número de documento, luego presiona Buscar. Por Comprobante: ingresa el Número de recibo/autorización y presiona Buscar."
+    },
+    {
+      "seccion": "Conoce cómo pagar fácil y rápido",
+      "contenido": "Conoce cómo pagar fácil y rápido. Activa tus pagos automáticos."
+    }
+  ]
+}

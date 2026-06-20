@@ -1,0 +1,180 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil/clinicas/hospitales",
+  "producto": {
+    "slug": "empresas-responsabilidad-civil-clinicas-hospitales",
+    "nombre": "Seguro de Responsabilidad Civil para Clínicas y Hospitales",
+    "ramo": "Otros",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "Protegemos tu entidad ante perjuicios causados por actos u omisiones en la prestación de servicios de salud. Respalda a clínicas y hospitales legalmente habilitados frente a reclamaciones por daños materiales, muerte o lesiones personales derivadas de servicios médicos, quirúrgicos, dentales, de enfermería, farmacéuticos o de laboratorio.",
+    "resumen": "Responsabilidad civil para clínicas y hospitales ante daños o perjuicios derivados de la prestación de servicios de salud.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "corredores", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "responsabilidad-civil-profesional",
+      "nombre": "Responsabilidad civil profesional",
+      "descripcion": "Respaldamos a tu entidad frente a las reclamaciones que haya en su contra por daños materiales, muerte o lesiones personales a causa de un servicio médico, quirúrgico, dental, de enfermería, farmacéutico o laboratorista.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-predios",
+      "nombre": "Responsabilidad en predios",
+      "descripcion": "Cubre la responsabilidad civil en que incurra la clínica u hospital por daños materiales, lesiones personales o muerte, causados a terceros en sus predios.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "gastos-de-defensa-procesos-civiles-penales",
+      "nombre": "Gastos de defensa en procesos civiles y penales",
+      "descripcion": "Cubrimos los gastos de defensa cuando un tercero, afectado por un accidente en el que la clínica sea responsable, presenta un reclamo o demanda por un daño amparado por este seguro.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-del-empleador",
+      "nombre": "Responsabilidad del empleador",
+      "descripcion": "Cobertura adicional de responsabilidad del empleador.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-vehiculos-al-servicio-del-asegurado",
+      "nombre": "Responsabilidad civil por daños causados por vehículos al servicio del asegurado",
+      "descripcion": "Cobertura adicional de responsabilidad civil por daños causados por vehículos al servicio del asegurado.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "cirugia-con-fines-esteticos",
+      "nombre": "Daños o perjuicios derivados de cirugía con fines estéticos",
+      "descripcion": "Cobertura nueva de daños o perjuicios derivados de una cirugía con fines estéticos.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "enfermedad-profesional",
+      "nombre": "Reclamación por enfermedad profesional",
+      "descripcion": "Reclamación por enfermedad profesional.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-administradores-directores-do",
+      "nombre": "Responsabilidad civil de administradores y directores (D&O)",
+      "descripcion": "Responsabilidad civil de administradores y directores (D&O).",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-geneticos",
+      "nombre": "Daños genéticos",
+      "descripcion": "Daños genéticos.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "ensayos-clinicos-experimentos-manipulacion-genetica",
+      "nombre": "Ensayos clínicos, experimentos y manipulación genética",
+      "descripcion": "Ensayos clínicos, experimentos y manipulación genética.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "servicios-bajo-influencia-alcohol-drogas",
+      "nombre": "Servicios prestados por profesionales bajo influencia de alcohol o drogas",
+      "descripcion": "Servicios prestados por profesionales de la salud embriagados o bajo la influencia de drogas.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "hurto-dano-desaparicion-bienes",
+      "nombre": "Hurto, daño o desaparición de bienes",
+      "descripcion": "Hurto, daño o desaparición de los bienes con los que su entidad presta servicios de salud.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "profesiones-medicas-ajenas-diagnostico-tratamiento",
+      "nombre": "Profesiones médicas con objetivos distintos al diagnóstico o tratamiento",
+      "descripcion": "Afectaciones relacionadas con profesiones médicas cuyos objetivos sean diferentes al diagnóstico o al tratamiento de enfermedades.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Clínicas y hospitales legalmente habilitados para prestar servicios de salud."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Términos y condiciones - Responsabilidad Civil Clínicas y Hospitales",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/responsabilidad-civil/clinicas-y-hospitales.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Responsabilidad Civil para Clínicas y Hospitales. Protegemos tu entidad ante perjuicios causados por actos u omisiones en la prestación de servicios de salud."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? Clínicas y hospitales legalmente habilitados para prestar servicios de salud."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Por qué elegir esta solución? Contarás con una cobertura nueva de daños o perjuicios derivados de una cirugía con fines estéticos. Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos. Empresas SURA te acompañará para llevar tu empresa a otro nivel."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Responsabilidad civil profesional: Respaldamos a tu entidad frente a las reclamaciones que haya en su contra por daños materiales, muerte o lesiones personales a causa de un servicio médico, quirúrgico, dental, de enfermería, farmacéutico o laboratorista. Responsabilidad en predios: Cubre la responsabilidad civil en que incurra la clínica u hospital por daños materiales, lesiones personales o muerte, causados a terceros en sus predios. Gastos de defensa en procesos civiles y penales: Cubrimos los gastos de defensa cuando un tercero, afectado por un accidente en el que la clínica sea responsable, presenta un reclamo o demanda por un daño amparado por este seguro. Esta solución cuenta con coberturas adicionales, como: Responsabilidad del empleador. Responsabilidad civil por daños causados por vehículos al servicio del asegurado."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Reclamación por enfermedad profesional. Responsabilidad civil de administradores y directores (D&O). Daños genéticos. Ensayos clínicos, experimentos y manipulación genética. Servicios prestados por profesionales de la salud embriagados o bajo la influencia de drogas. Hurto, daño o desaparición de los bienes con los que su entidad presta servicios de salud. Afectaciones relacionadas con profesiones médicas cuyos objetivos sean diferentes al diagnóstico o al tratamiento de enfermedades."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Después de presentar tu reclamación, te contactaremos entre cinco (5) y siete (7) días calendario para informarte cómo se gestiona el proceso y solicitarte la documentación necesaria. Una vez tengamos toda la documentación requerida, te enviaremos una respuesta en un plazo de siete (7) días hábiles. Recuerda que debes asumir un valor deducible, consúltalo en las condiciones de tu póliza. Te apoyamos telefónicamente con abogados que podrán ayudarte en tu representación y defensa ante un proceso jurídico. Realizamos un análisis detallado con la información relevante sobre cuáles fueron los hechos y las fechas relevantes para analizar tu responsabilidad, si hubo terceros afectados, condiciones particulares de la póliza, posibles indemnizaciones, procesos judiciales y uso de abogados externos, entre otros."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Términos y condiciones. Para conocer mejor esta solución, descarga los términos y condiciones. Medios de pago: Por medio de nuestros asesores. Contactando a nuestros corredores aliados."
+    }
+  ]
+}

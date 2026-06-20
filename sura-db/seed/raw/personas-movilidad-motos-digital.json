@@ -1,0 +1,85 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/movilidad/motos/digital",
+  "producto": {
+    "slug": "personas-movilidad-motos-digital",
+    "nombre": "Seguro de motos digital",
+    "ramo": "Movilidad",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Compra tu Seguro de Motos 100% digital, fácil y rápido. Protege tu inversión con planes flexibles. Este seguro no incluye SOAT, lo complementa.",
+    "resumen": "Seguro de moto 100% digital con planes flexibles que protege tu inversión y complementa el SOAT.",
+    "es_digital": true,
+    "cotizador_url": "https://ecomm.sura.co/seguros/movilidad/motos/cotizador",
+    "canales": ["digital"]
+  },
+  "planes": [
+    { "slug": "plan-esencial", "nombre": "Plan Esencial", "orden": 1, "precio_desde": null },
+    { "slug": "plan-total", "nombre": "Plan Total", "orden": 2, "precio_desde": null },
+    { "slug": "plan-premium", "nombre": "Plan Premium", "orden": 3, "precio_desde": null }
+  ],
+  "coberturas": [
+    {
+      "slug": "asistencia-varada-grua",
+      "nombre": "Si te varaste o se te pinchó una llanta",
+      "descripcion": "Nos haremos cargo del traslado de la moto hasta el lugar donde la reparen.",
+      "categoria": "asistencia",
+      "plan_slug": "plan-total",
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "taller-movil-bateria-gasolina",
+      "nombre": "Si se descarga la batería o te quedas sin gasolina",
+      "descripcion": "Nuestro taller móvil va hasta donde estés para ayudarte. Puedes usarlo ilimitadamente.",
+      "categoria": "asistencia",
+      "plan_slug": "plan-total",
+      "tipo": "incluida",
+      "limite": "Uso ilimitado"
+    },
+    {
+      "slug": "asistencia-juridica-accidente",
+      "nombre": "Si tienes un accidente y necesitas un abogado",
+      "descripcion": "Te pondremos en contacto con un profesional de SURA de forma virtual o presencial.",
+      "categoria": "asistencia",
+      "plan_slug": "plan-total",
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-extracontractual",
+      "nombre": "Si dañas a otras personas o a su vehículo mientras manejas tu moto, o una diferente",
+      "descripcion": "Cubriremos los gastos.",
+      "categoria": "responsabilidad",
+      "plan_slug": "plan-total",
+      "tipo": "incluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de motos digital. Asegura tu moto 100% digital. Protégela sin perder tiempo. Compra tu Seguro de Motos 100% digital, fácil y rápido. Protege tu inversión con planes flexibles. Este seguro no incluye SOAT, lo complementa."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Planes que se adaptan a tu estilo de vida: Plan Total, Plan Esencial y Plan Premium. Plan Total: Descubre el más completo y recomendado de los planes. Incluye todas las coberturas del Plan Esencial. Luego de comprar tu seguro de moto con el Plan Total, tendrás 48 horas para realizar la inspección. ¡Tranquilo! Tienes la opción de realizarla de manera virtual."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Si te varaste o se te pinchó una llanta: Nos haremos cargo del traslado de la moto hasta el lugar donde la reparen. Si se descarga la batería o te quedas sin gasolina: Nuestro taller móvil va hasta donde estés para ayudarte. Puedes usarlo ilimitadamente. Si tienes un accidente y necesitas un abogado: Te pondremos en contacto con un profesional de SURA de forma virtual o presencial. Si dañas a otras personas o a su vehículo mientras manejas tu moto, o una diferente: Cubriremos los gastos."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Este seguro no incluye SOAT, lo complementa. Si lo que deseas comprar es el SOAT, ingresa al sitio de SOAT de SURA. Promoción: Hasta el 30 de junio, compra tu Seguro de moto con débito automático y recibe 2.000 Puntos Colombia. Aplican términos y condiciones."
+    }
+  ]
+}

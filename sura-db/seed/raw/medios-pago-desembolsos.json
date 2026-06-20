@@ -1,0 +1,27 @@
+{
+  "tipo": "referencia",
+  "url": "https://www.sura.co/seguros/medios/pago/desembolsos",
+  "categoria": "General",
+  "chunks": [
+    {
+      "seccion": "Conoce cómo puedes recibir tus pagos",
+      "contenido": "Te ofrecemos alternativas que te facilitan la vida y te entregan bienestar en cada uno de nuestros procesos. Ahora, puedes reclamar los pagos de tus siniestros, reembolsos y prestaciones económicas de manera virtual o presencial, tú eliges.\n\nAlternativa digital:\n- App Seguros SURA\n- Sucursal Virtual Personal\n\nAlternativa presencial:\n- Pagafácil\n- Banco de Bogotá"
+    },
+    {
+      "seccion": "App Seguros SURA",
+      "contenido": "Esta solución digital te permitirá gestionar los pagos que te realice la compañía, desde la App de Seguros SURA, de manera fácil, segura y sin necesidad de desplazarte a ningún lugar.\n\nSi no tienes la App de Seguros SURA puedes descargarla a través de la tienda de aplicaciones que uses en tu celular. La App está disponible para Android y iOS.\n\nUna vez descargada, solo debes abrirla, crear tu clave y al ingresar en el menú inferior hacer clic en billetera y después en bolsillo. Si quieres ampliar la información puedes consultar la guía de desembolsos."
+    },
+    {
+      "seccion": "Sucursal Virtual Personal",
+      "contenido": "Registra tus cuentas bancarias para que en el momento de tener una reclamación de alguna de tus soluciones, o por concepto de citas médicas, cuotas moderadoras y copagos de autorizaciones que tú realizaste, puedas recibir los pagos a los que tienes derecho.\n\nPara registrarla, ingresa con tu usuario y contraseña a la Sucursal Virtual Personal de segurossura.com.co, selecciona la opción: Gestionar medios de pago y listo.\n\nTen en cuenta que si cancelaste el seguro de manera anticipada, puedes solicitar la devolución del dinero de los meses no utilizados, para este proceso puedes ponerte en contacto con tu asesor."
+    },
+    {
+      "seccion": "Red Pagafácil",
+      "contenido": "Puedes reclamar tus pagos en toda la red de puntos de servicio Pagafácil.\n\n- Los pagos se verán reflejados en Pagafácil en línea, una vez estén expedidos en la Compañía.\n- Si eres persona natural puedes acercarte con el documento de identificación. Los pagos para personas jurídicas solo son entregados al representante legal. Para evitar este desplazamiento, te recomendamos hacer los desembolsos por transferencia electrónica.\n- Aplica para desembolsos hasta COP $10,000,000 millones y se realizará en efectivo.\n- No aplica para el pago de devoluciones por modificaciones valorables en la póliza."
+    },
+    {
+      "seccion": "Banco de Bogotá",
+      "contenido": "- Puedes reclamar tus pagos en las oficinas principales del Banco de Bogotá, excepto en las oficinas Premium.\n- Puedes reclamar el pago de siniestros, reembolsos, prestaciones económicas de ARL Vida y devoluciones por modificaciones de póliza.\n- Los pagos que están disponibles en el banco y que puedes reclamar son reembolsos de Salud, Juvenil, Surenta y los siniestros de Seguros Generales, excepto los de las soluciones de Cumplimiento.\n- Tus pagos se verán reflejados en las oficinas del banco al día hábil siguiente de aprobados y expedidos por SURA.\n- Si eres persona jurídica, tus pagos solo serán entregados al representante legal. Para evitar este desplazamiento, te recomendamos hacer los desembolsos en línea, a través de transferencia electrónica.\n- Puedes reclamar tus pagos de ARL SURA en toda la red de puntos de servicio Pagafácil."
+    }
+  ]
+}

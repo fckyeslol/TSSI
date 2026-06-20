@@ -1,0 +1,55 @@
+{
+  "tipo": "referencia",
+  "url": "https://www.sura.co/seguros/canales/venta/asesores",
+  "categoria": "General",
+  "chunks": [
+    {
+      "seccion": "Asesores",
+      "contenido": "¡Te escuchamos y te ofrecemos las mejores opciones para ti, tu familia o tu empresa! En SURA creamos múltiples canales de venta para que encuentres las soluciones que buscas en el lugar y la forma en que las necesitas. De esta manera, nuestros asesores de seguros te ofrecen soluciones integrales y a tu medida, buscando siempre tu tranquilidad y bienestar."
+    },
+    {
+      "seccion": "Información a la medida",
+      "contenido": "En SURA, contamos con un equipo de profesionales altamente capacitados y expertos en identificar las tendencias y necesidades del consumidor. Estamos aquí para ofrecerte un acompañamiento integral, haciendo que cuidar de ti y de los tuyos sea fácil y oportuno. Nuestros asesores están disponibles para brindarte una asesoría completa y personalizada, dónde, cuándo y cómo tú y tu familia lo necesiten."
+    },
+    {
+      "seccion": "¿Por qué somos diferentes?",
+      "contenido": "Nuestros asesores te escuchan, entienden tus necesidades en profundidad y te brindan atención personalizada con el propósito de ofrecerte las soluciones que necesitas. Además, cuentan con experiencia, conocimiento y el respaldo permanente de SURA, para entregarte siempre información oportuna. De esta manera, garantizamos que las habilidades y competencias de quienes te acompañan al momento de elegir uno de nuestros seguros, sean las indicadas."
+    },
+    {
+      "seccion": "¿Dónde puedes comprar tus seguros?",
+      "contenido": "A través de nuestro sitio web podrás ubicar y contactar asesores en todo el territorio nacional. Acércate a cualquiera de las oficinas que tenemos a nivel nacional y adquiere la solución que buscas. Comunícate con tu asesor de confianza. Si aún no cuentas con uno, ¡encuéntralo ingresando aquí!"
+    },
+    {
+      "seccion": "¿Qué productos puedes adquirir?",
+      "contenido": "Con SURA puedes tener soluciones obligatorias y voluntarias para tu bienestar, el de tu grupo familiar o tu empresa: Asegura tu vida, Asegura tu movilidad, Asegura tu salud, Asegura tu futuro, Asegura tu vivienda y Otros seguros."
+    },
+    {
+      "seccion": "Asegura tu vida",
+      "contenido": "Seguro de Vida. Seguro colectivo de vida. Seguro de accidentes personales. Seguro de exequias. Plan crédito protegido."
+    },
+    {
+      "seccion": "Asegura tu movilidad",
+      "contenido": "Seguro de Autos. Seguro de Motos. Seguro de viajes. Seguro de Bicicletas y Patinetas. Seguro Obligatorio de Accidentes de Tránsito (SOAT)."
+    },
+    {
+      "seccion": "Asegura tu salud",
+      "contenido": "Póliza de Salud (Global, Clásica y Evoluciona). Plan Salud para Todos. Póliza de Salud colectiva. Turismo Médico."
+    },
+    {
+      "seccion": "Asegura tu futuro",
+      "contenido": "Seguro de Educación. Seguro de Pensión."
+    },
+    {
+      "seccion": "Asegura tu vivienda",
+      "contenido": "Seguro de Hogar. Seguro de Arrendamiento. Plan crédito protegido."
+    },
+    {
+      "seccion": "Otros seguros",
+      "contenido": "RC Familiar. Mascotas."
+    },
+    {
+      "seccion": "Seguros para empresas",
+      "contenido": "¡Aquí podrás encontrar soluciones obligatorias y voluntarias para tu empresa! Seguros para bienes y patrimonio. Seguros de ingeniería. Seguros para riesgos logísticos y marítimos. Seguros de cumplimiento. Ten presente que, según el sector al que pertenezca tu organización podrás acceder a seguros desarrollados para esa actividad productiva en particular. Para conocer más sobre las soluciones que te ofrecemos o hacer una reclamación, acércate a cualquiera de nuestras oficinas a nivel nacional o comunícate directamente con tu asesor."
+    }
+  ]
+}

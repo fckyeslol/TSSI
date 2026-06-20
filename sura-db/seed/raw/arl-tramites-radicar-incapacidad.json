@@ -1,0 +1,25 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/tramites/radicar-incapacidad",
+  "proceso": {
+    "slug": "arl-tramites-radicar-incapacidad",
+    "nombre": "Radicar incapacidades y reembolsos de empleados",
+    "linea": "arl",
+    "tipo": "reclamacion",
+    "dirigido_a": "juridica",
+    "descripcion": "Radicación de incapacidades y reembolsos de los empleados de una empresa afiliada a la ARL. Permite subir incapacidades legibles y comunicar solicitudes de cobro a través de la plataforma digital.",
+    "pasos": [
+      { "orden": 1, "titulo": "Sube tus incapacidades legibles", "detalle": "Carga las incapacidades correctamente a través de la plataforma; comunica tus solicitudes de cobro." },
+      { "orden": 2, "titulo": "Si eres afiliado activo y haces la solicitud", "detalle": "Adjunta un comunicado indicando que el pago es para ti." },
+      { "orden": 3, "titulo": "Espera respuesta", "detalle": "Se da respuesta en el transcurso del mes." }
+    ],
+    "url": "https://www.sura.co/arl/tramites/radicar-incapacidad"
+  },
+  "documentos": [
+    { "tipo": "formato", "titulo": "Instructivo SURA incapacidades v2", "pdf_url": "https://www.sura.co/documents/d/arl/instructivo-sura-incapacidades-v2" }
+  ],
+  "chunks": [
+    { "seccion": "general", "contenido": "Radica las incapacidades y reembolsos de tus empleados (ARL SURA). Sube tus incapacidades legibles y comunica solicitudes de cobro a través de la plataforma. Si eres afiliado activo y realizas la solicitud, debes adjuntar un comunicado indicando que el pago es para ti. La respuesta se da en el transcurso del mes." },
+    { "seccion": "pasos", "contenido": "Radicación masiva de incapacidades: plataforma para radicar incapacidades en https://www.segurossura.com.co/paginas/otros-tramites-prestaciones-ARL.aspx y para radicar reembolsos en https://arlsurasolucionesdigitales.arus.com.co/. Existe un instructivo descargable para incapacidades individuales." }
+  ]
+}

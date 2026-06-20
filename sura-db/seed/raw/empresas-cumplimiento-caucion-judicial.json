@@ -1,0 +1,126 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/cumplimiento/caucion/judicial",
+  "producto": {
+    "slug": "empresas-cumplimiento-caucion-judicial",
+    "nombre": "Seguro de Caución Judicial",
+    "ramo": "Cumplimiento",
+    "linea": "empresas",
+    "tipo_persona": "ambas",
+    "descripcion": "Respaldamos las obligaciones que surjan de procesos jurídicos o administrativos para ayudarte a proteger tu patrimonio. Está dirigido a empresas de todos los tamaños y personas naturales que estén involucradas en un proceso jurídico o administrativo.",
+    "resumen": "Seguro que respalda las obligaciones derivadas de procesos jurídicos o administrativos para proteger tu patrimonio.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "valor-asegurado-segun-norma",
+      "nombre": "Valor asegurado según la norma base",
+      "descripcion": "Cubre hasta el valor asegurado dependiendo de la norma que sirva de base para su expedición.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Hasta el valor asegurado dependiendo de la norma que sirva de base para su expedición"
+    },
+    {
+      "slug": "pago-danos-incumplimiento-decision-judicial",
+      "nombre": "Pago de daños por incumplimiento de decisión judicial o administrativa",
+      "descripcion": "El pago de daños que se generen a la contraparte por el incumplimiento de una decisión judicial o administrativa.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "valor-pretensiones-demandante",
+      "nombre": "Valor de las pretensiones del demandante",
+      "descripcion": "El valor mismo de las pretensiones del demandante.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "lucro-cesante",
+      "nombre": "Lucro cesante",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "fuerza-mayor",
+      "nombre": "Fuerza mayor",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "caso-fortuito",
+      "nombre": "Caso fortuito",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "eximentes-de-responsabilidad",
+      "nombre": "Cualquier otra causa que exima de responsabilidad al asegurado",
+      "descripcion": "Cualquier otra circunstancia que exima de responsabilidad al asegurado.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños y personas naturales que estén involucrados en un proceso jurídico o administrativo."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Términos y condiciones - Caución Judicial",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/cumplimiento/caucion-judicial.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Respaldamos las obligaciones que surjan de procesos jurídicos o administrativos para ayudarte a proteger tu patrimonio."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? Empresas de todos los tamaños y personas naturales que estén involucrados en un proceso jurídico o administrativo."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Por qué elegir esta solución? Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos por medio de Empresas SURA."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Hasta el valor asegurado dependiendo de la norma que sirva de base para su expedición. El pago de daños que se generen a la contraparte por el incumplimiento de una decisión judicial o administrativa. El valor mismo de las pretensiones del demandante."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Lucro cesante. Fuerza mayor. Caso fortuito. Cualquier otra que exima de responsabilidad al asegurado."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Después de presentar tu reclamación, te contactaremos entre cinco (5) y siete (7) días calendario para informarte cómo se gestiona el proceso y solicitarte la documentación necesaria. Una vez tengamos toda la documentación, te enviaremos una respuesta en el tiempo legal estipulado."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cuáles son los medios de pago? Presenciales: bancos y redes aliadas. Digitales: Pago Express y débito automático. También están disponibles débito automático, financiados y desembolsos. Si estás interesado en adquirir este seguro, contacta a tu asesor."
+    }
+  ]
+}

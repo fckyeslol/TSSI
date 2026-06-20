@@ -1,0 +1,58 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/afiliacion/independiente",
+  "proceso": {
+    "slug": "arl-afiliacion-independiente",
+    "nombre": "Afiliación de Independientes - ARL Sura",
+    "linea": "arl",
+    "tipo": "afiliacion",
+    "dirigido_a": "ambas",
+    "descripcion": "Afiliación en línea, fácil y rápida de independientes a ARL SURA. Permite afiliar trabajadores independientes por prestación de servicios, tanto si el contratante está o no afiliado a ARL SURA.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Si tu empresa está afiliada a ARL SURA",
+        "detalle": "Si quieres afiliar a trabajadores independientes o dependientes ingresa a Servicios en línea (https://login.sura.com/sso/servicelogin.aspx)."
+      },
+      {
+        "orden": 2,
+        "titulo": "Si eres contratante no afiliado a ARL SURA",
+        "detalle": "Y deseas afiliar a tus trabajadores independientes por prestación de servicios, ingresa a Afiliarme (https://afilineaarl.suramericana.com.co/#/?prestacion=true)."
+      },
+      {
+        "orden": 3,
+        "titulo": "Si eres el trabajador independiente por prestación de servicios",
+        "detalle": "Y tu contratante no está afiliado a ARL SURA, ingresa a Afiliarme (https://afilineaarl.suramericana.com.co/#/?independienteObligatorio=true)."
+      },
+      {
+        "orden": 4,
+        "titulo": "Registra un correo válido",
+        "detalle": "Recuerda que el correo que registres será al que te seguiremos enviando información importante para tu gestión en ARL SURA. Es esencial que revises que este correo esté correcto y que sea de lectura frecuente en tu empresa, empleador, contratante o independiente voluntario."
+      }
+    ],
+    "url": "https://www.sura.co/arl/afiliacion/independiente"
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Afiliación de Independientes - ARL Sura. Afiliación en línea, fácil y rápida de independientes a ARL SURA. Protégete en tu trabajo ¡Afíliate hoy!"
+    },
+    {
+      "seccion": "general",
+      "contenido": "Afiliación de independientes por prestación de servicios a contratantes no afiliados a ARL SURA. Si tu empresa está afiliada a ARL SURA y quieres afiliar a trabajadores independientes o dependientes ingresa a Servicios en línea."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Si eres contratante no afiliado a ARL SURA y deseas afiliar a tus trabajadores independientes por prestación de servicios: Afiliarme (https://afilineaarl.suramericana.com.co/#/?prestacion=true)."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Si eres el trabajador independiente por prestación de servicios y tu contratante no está afiliado a ARL SURA: Afiliarme (https://afilineaarl.suramericana.com.co/#/?independienteObligatorio=true)."
+    },
+    {
+      "seccion": "requisitos",
+      "contenido": "Recuerda que el correo que registres será al que te seguiremos enviando información importante para tu gestión en ARL SURA. Es esencial que revises que este correo esté correcto y que sea de lectura frecuente en tu empresa, empleador, contratante o independiente voluntario."
+    }
+  ]
+}

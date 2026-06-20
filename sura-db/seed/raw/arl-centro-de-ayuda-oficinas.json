@@ -1,0 +1,31 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/centro/de/ayuda/oficinas",
+  "proceso": {
+    "slug": "arl-centro-de-ayuda-oficinas",
+    "nombre": "Encuentra nuestras oficinas",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "ambas",
+    "descripcion": "Página del centro de ayuda de ARL SURA para encontrar la ubicación de las oficinas. Permite consultar las oficinas de ARL SURA para atención presencial.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Consulta la ubicación de nuestras oficinas",
+        "detalle": "Accede al listado de oficinas de ARL SURA en https://www.arlsura.com/index.php/oficinas-arl-sura"
+      }
+    ],
+    "url": "https://www.sura.co/arl/centro/de/ayuda/oficinas"
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Encuentra nuestras oficinas. Línea: ARL (Riesgos Laborales) › General ARL."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Nuestras oficinas: consulta la ubicación de las oficinas de ARL SURA en https://www.arlsura.com/index.php/oficinas-arl-sura"
+    }
+  ]
+}

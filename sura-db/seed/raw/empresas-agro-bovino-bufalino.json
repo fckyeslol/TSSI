@@ -1,0 +1,117 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/agro/bovino/bufalino",
+  "producto": {
+    "slug": "empresas-agro-bovino-bufalino",
+    "nombre": "Seguro Bovino y Bufalino",
+    "ramo": "Agro",
+    "linea": "empresas",
+    "tipo_persona": "ambas",
+    "descripcion": "Protegemos tus bovinos ante eventos naturales, enfermedades y otras coberturas descritas en el clausulado general de la póliza.",
+    "resumen": "Seguro para ganaderos que protege bovinos y bufalinos ante muerte o pérdida productiva por eventos naturales y enfermedades.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "presencial", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "muerte-por-eventos-naturales",
+      "nombre": "Muerte o imposibilidad productiva por eventos naturales",
+      "descripcion": "La muerte o imposibilidad del animal de continuar con su vida productiva a causa de eventos naturales.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "muerte-por-enfermedades-y-otros-eventos",
+      "nombre": "Enfermedades u otro tipo de eventos",
+      "descripcion": "Enfermedades u otro tipo de eventos.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "problemas-geneticos",
+      "nombre": "Problemas genéticos",
+      "descripcion": "Problemas genéticos.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "perdida-de-precio-del-animal",
+      "nombre": "Pérdida de precio del animal",
+      "descripcion": "Pérdida de precio del animal.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "actos-malintencionados-de-terceros",
+      "nombre": "Actos malintencionados de terceros",
+      "descripcion": "Actos mal intencionados de terceros.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "otras-causas-no-cubiertas",
+      "nombre": "Otras causas no cubiertas",
+      "descripcion": "Entre otras causas no cubiertas.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Ganaderos de todos los tamaños."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condiciones del seguro Bovino y Bufalino",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/agricola/seguro-bovino-y-bufalino.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Protegemos tus bovinos ante eventos naturales, enfermedades y otras coberturas descritas en el clausulado general de la póliza."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? Ganaderos de todos los tamaños."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Por qué elegir esta solución? Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos por medio de Empresas SURA. Podrás elegir las coberturas que se ajusten a tu necesidad."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? La muerte o imposibilidad del animal de continuar con su vida productiva a causa de eventos naturales. Enfermedades u otro tipo de eventos."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Problemas genéticos. Pérdida de precio del animal. Actos mal intencionados de terceros. Entre otras causas no cubiertas."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Contacta a tu asesor o marca desde tu celular #888."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Términos y condiciones. Para conocer mejor esta solución, descarga los términos y condiciones. ¿Cuáles son los medios de pago? Presenciales: Bancos y redes aliadas. Digitales: Pago Express, débito automático y financiación. ¿Tienes dudas? Comunícate con nosotros al 01 8000 51 8888."
+    }
+  ]
+}

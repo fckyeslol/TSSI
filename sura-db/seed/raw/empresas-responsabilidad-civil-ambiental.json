@@ -1,0 +1,134 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil/ambiental",
+  "producto": {
+    "slug": "empresas-responsabilidad-civil-ambiental",
+    "nombre": "Responsabilidad Civil Ambiental",
+    "ramo": "Otros",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "Protegemos tu patrimonio ante daños ambientales accidentales que puedan afectar a terceros y poner en riesgo la continuidad de tu empresa. Está dirigido a empresas de todos los tamaños cuyas actividades económicas puedan generar una contaminación accidental, ya sea súbita o gradual, que afecte directamente su propio predio o el de terceros.",
+    "resumen": "Seguro que protege el patrimonio de empresas ante daños ambientales accidentales que afecten a terceros.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "responsabilidad-civil-por-contaminacion",
+      "nombre": "Responsabilidad civil por contaminación",
+      "descripcion": "Cubrimos los daños ocasionados a terceros derivados de una contaminación, tanto accidental como gradual, generadas por tus actividades.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "gastos-para-evitar-propagacion-contaminacion",
+      "nombre": "Gastos para evitar la propagación de la contaminación",
+      "descripcion": "Si el evento ya ocurrió, cubrimos los gastos de los trabajos requeridos para mitigar o evitar un mayor daño al medio ambiente.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "gastos-de-limpieza",
+      "nombre": "Gastos de limpieza",
+      "descripcion": "Asumimos los costos de retiro, transporte, tratamiento y disposición final de los residuos de las instalaciones cuando se presente un evento de contaminación.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "gastos-de-defensa",
+      "nombre": "Gastos de defensa",
+      "descripcion": "Te asignamos un abogado o reembolsamos los gastos de defensa autorizados por SURA, si un tercero presenta una reclamación extrajudicial o judicial por un daño cubierto por esta solución.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "cauciones-judiciales",
+      "nombre": "Cauciones judiciales",
+      "descripcion": "Cubrimos el pago de la caución judicial exigida para garantizar el cumplimiento de una eventual condena en responsabilidad civil, por un evento de contaminación cubierto por esta solución.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "contaminacion-iniciada-antes-de-contratar",
+      "nombre": "Contaminación iniciada antes de contratar la solución",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "contaminacion-auditiva-visual-olfativa",
+      "nombre": "Contaminación auditiva, visual y olfativa",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-por-incumplir-normativa-ambiental",
+      "nombre": "Daños ambientales ocasionados por incumplir la normativa ambiental",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-no-derivados-de-contaminacion-ambiental",
+      "nombre": "Daños ocasionados a terceros que no sean consecuencia de una contaminación ambiental",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños cuyas actividades económicas puedan generar una contaminación accidental, ya sea súbita o gradual, que afecte directamente su propio predio o el de terceros."
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Responsabilidad Civil Ambiental. Protegemos tu patrimonio ante daños ambientales accidentales que puedan afectar a terceros y poner en riesgo la continuidad de tu empresa."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? Empresas de todos los tamaños cuyas actividades económicas puedan generar una contaminación accidental, ya sea súbita o gradual, que afecte directamente su propio predio o el de terceros. ¿Por qué elegir esta solución? Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos por medio de Empresas SURA."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Responsabilidad civil por contaminación: Cubrimos los daños ocasionados a terceros derivados de una contaminación, tanto accidental como gradual, generadas por tus actividades. Gastos para evitar la propagación de la contaminación: Si el evento ya ocurrió, cubrimos los gastos de los trabajos requeridos para mitigar o evitar un mayor daño al medio ambiente. Gastos de limpieza: Asumimos los costos de retiro, transporte, tratamiento y disposición final de los residuos de las instalaciones cuando se presente un evento de contaminación. Gastos de defensa: Te asignamos un abogado o reembolsamos los gastos de defensa autorizados por SURA, si un tercero presenta una reclamación extrajudicial o judicial por un daño cubierto por esta solución. Cauciones judiciales: Cubrimos el pago de la caución judicial exigida para garantizar el cumplimiento de una eventual condena en responsabilidad civil, por un evento de contaminación cubierto por esta solución."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Contaminación iniciada antes de contratar la solución. Contaminación auditiva, visual y olfativa. Daños ambientales ocasionados por incumplir la normativa ambiental. Daños ocasionados a terceros que no sean consecuencia de una contaminación ambiental."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Después de presentar tu reclamación, te contactaremos entre cinco (5) y siete (7) días calendario para informarte cómo se gestiona el proceso y solicitarte la documentación necesaria. Una vez tengamos toda la documentación, te enviaremos una respuesta en un plazo de siete (7) días hábiles. Recuerda que debes asumir un valor deducible, consúltalo en las condiciones de tu póliza. Ten en cuenta: dependiendo de la complejidad y de las particularidades de tu reclamación, te apoyamos telefónicamente con abogados que podrán ayudarte en tu representación y defensa ante un proceso jurídico. Realizamos un análisis detallado con la información relevante sobre cuáles fueron los hechos y las fechas relevantes para analizar tu responsabilidad, si hubo terceros afectados, condiciones particulares de la póliza, posibles indemnizaciones, procesos judiciales y uso de abogados externos, entre otros."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cuáles son los medios de pago? Presenciales: Bancos y redes aliadas. Digitales: Pago Express, débito automático y financiación."
+    }
+  ]
+}

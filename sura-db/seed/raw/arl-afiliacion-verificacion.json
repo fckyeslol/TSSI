@@ -1,0 +1,54 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/afiliacion/verificacion",
+  "proceso": {
+    "slug": "arl-afiliacion-verificacion",
+    "nombre": "Verificar Afiliación - ARL SURA",
+    "linea": "arl",
+    "tipo": "afiliacion",
+    "dirigido_a": "ambas",
+    "descripcion": "Opción para consultar el estado actual del proceso de afiliación a la ARL para Empleador, Independiente Voluntario e Independiente por Prestación de Servicio, ingresando los datos solicitados en el formulario.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Seleccionar tipo de documento",
+        "detalle": "Opciones: NIT, Cédula de Ciudadanía, Cédula Extranjería, Tarjeta de Identidad, Registro Civil, Pasaporte, Carnet Diplomático, Permiso Especial, Salvoconducto de Permanencia, Permiso de Protección Temporal."
+      },
+      {
+        "orden": 2,
+        "titulo": "Digitar el documento",
+        "detalle": "Digite el documento sin puntos ni comas. Todos los campos son de carácter obligatorio."
+      },
+      {
+        "orden": 3,
+        "titulo": "Validar reCAPTCHA",
+        "detalle": "Recaptcha requires verification. Protegido por reCAPTCHA."
+      },
+      {
+        "orden": 4,
+        "titulo": "Consultar el estado de afiliación",
+        "detalle": "Se muestra el estado actual del proceso de afiliación (por ejemplo: Estado de afiliación en trámite)."
+      }
+    ],
+    "url": "https://www.sura.co/arl/afiliacion/verificacion"
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Consulta tu afiliación. Estado de Afiliación. ESTADO DE AFILIACIÓN EN TRÁMITE."
+    },
+    {
+      "seccion": "general",
+      "contenido": "En esta opción podrás consultar el estado actual del proceso de afiliación para Empleador, Independiente Voluntario e Independiente por Prestación de Servicio. Por favor ingresa los datos solicitados en el siguiente formulario. Todos los campos son de carácter obligatorio."
+    },
+    {
+      "seccion": "requisitos",
+      "contenido": "Tipo de documento: NIT, Cédula de Ciudadanía, Cédula Extranjería, Tarjeta de Identidad, Registro Civil, Pasaporte, Carnet Diplomático, Permiso Especial, Salvoconducto de Permanencia, Permiso de Protección Temporal (Seleccionar). Documento: (Digite el documento sin puntos ni comas)."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¡Importante! Si han pasado tres días hábiles desde que radicaste tu solitud de afiliación y no has recibido respuesta o tienes alguna dificultad con el proceso, puedes enviarnos tu información a través del formulario de Trámites Administrativos, elige la opción: \"Error o dificultad de afiliación empresa o independiente voluntario\", llena todos los campos con los datos que te solicitamos y pronto te daremos respuesta."
+    }
+  ]
+}

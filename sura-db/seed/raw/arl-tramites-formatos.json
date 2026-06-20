@@ -1,0 +1,23 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/tramites/formatos",
+  "proceso": {
+    "slug": "arl-tramites-formatos",
+    "nombre": "Formularios y documentos laborales ARL",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "ambas",
+    "descripcion": "Descarga de formularios para la gestión de ARL. Cada formulario simplifica tareas administrativas esenciales para la seguridad laboral, la salud y la eficiencia operativa.",
+    "pasos": [],
+    "url": "https://www.sura.co/arl/tramites/formatos"
+  },
+  "documentos": [
+    { "tipo": "formato", "titulo": "Investigación de la enfermedad calificada como laboral", "pdf_url": "https://www.arlsura.com/files/f_investigacion_el_v2.xlsx" },
+    { "tipo": "formato", "titulo": "Formulario para el reporte accidente de trabajo (FURAT)", "pdf_url": "https://www.arlsura.com/formularios/furat.xls" },
+    { "tipo": "formato", "titulo": "Reembolso de prestaciones asistenciales (trabajador)", "pdf_url": "https://www.arlsura.com/formularios/formato_reembolso_persona.pdf" },
+    { "tipo": "formato", "titulo": "Investigación accidentes e incidentes para la empresa", "pdf_url": "https://www.arlsura.com/formularios/investigacion_accidentes.xls" }
+  ],
+  "chunks": [
+    { "seccion": "general", "contenido": "Formularios y documentos laborales ARL SURA: descarga de formularios para la gestión, cada uno con el propósito de simplificar tareas administrativas esenciales para la seguridad laboral, la salud y la eficiencia operativa. Disponibles: investigación de la enfermedad calificada como laboral, formulario de reporte de accidente de trabajo (FURAT), reembolso de prestaciones asistenciales para el trabajador, e investigación de accidentes e incidentes para la empresa." }
+  ]
+}

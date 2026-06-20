@@ -1,0 +1,203 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/transporte/carga/proyectos",
+  "producto": {
+    "slug": "empresas-transporte-carga-proyectos",
+    "nombre": "Seguro para Carga de Proyecto",
+    "ramo": "Transporte",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "Protegemos el transporte de equipos para tus proyectos de ingeniería, cubriendo daños, pérdidas de bienes y pérdida anticipada de utilidad. Esta solución está orientada a grandes proyectos de ingeniería, como plantas de generación de energía, de tratamiento de aguas, refinerías, obras mineras, ferroviarias, industriales y similares.",
+    "resumen": "Seguro que protege el transporte de equipos y bienes críticos para grandes proyectos de ingeniería, incluyendo la pérdida anticipada de utilidad.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center", "presencial"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "seguro-de-carga",
+      "nombre": "Seguro de Carga",
+      "descripcion": "Protección contra pérdidas o daños materiales durante la movilización de los equipos, materiales o bienes críticos para la construcción, operación o mantenimiento de un proyecto, desde su lugar de fabricación hasta el destino final.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "perdida-anticipada-de-utilidad",
+      "nombre": "Pérdida anticipada de utilidad",
+      "descripcion": "Cubre las pérdidas financieras por interrupciones del proyecto debido a daños físicos en equipos críticos durante su transporte.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "incrementos-adicionales",
+      "nombre": "Incrementos adicionales",
+      "descripcion": "Resultantes de costos de trabajo y pago continuo de costos fijos, al igual que la amortización de la deuda.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "errores-en-despacho-o-bienes-en-mal-estado",
+      "nombre": "Errores o faltas en el despacho o bienes despachados en mal estado",
+      "descripcion": "Errores o faltas en el despacho o por haberse despachado los bienes en mal estado.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "insuficiencia-de-empaque",
+      "nombre": "Insuficiencia del empaque o preparación indebida de los bienes",
+      "descripcion": "Insuficiencia del empaque o haber preparado indebidamente los bienes para los riesgos ordinarios de tránsito.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "variaciones-climatologicas-y-desgaste-por-tiempo",
+      "nombre": "Variaciones climatológicas y deterioro por transcurso del tiempo",
+      "descripcion": "Variaciones naturales climatológicas y los deterioros causados por el simple transcurso del tiempo.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "oxidacion-corrosion-y-danos-mecanicos",
+      "nombre": "Oxidación, corrosión, dobladuras y abolladuras",
+      "descripcion": "La oxidación, corrosión, dobladuras, abolladuras, a menos que sean consecuencia de un accidente al medio transportador ocurrido y demostrado durante el tránsito asegurado.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "demoras-o-perdidas-de-mercado",
+      "nombre": "Demoras o pérdidas de mercado",
+      "descripcion": "Demoras o pérdidas de mercado.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "multas-o-sanciones",
+      "nombre": "Multas o sanciones",
+      "descripcion": "Multas o sanciones.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-por-condensacion",
+      "nombre": "Daños por condensación",
+      "descripcion": "Daños por condensación.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "ataques-ciberneticos-y-riesgos-tecnologicos",
+      "nombre": "Ataques cibernéticos y riesgos de tecnología de la información",
+      "descripcion": "Ataques cibernéticos y riesgos de tecnología de la información.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "retraso-por-requisa-o-destruccion-gubernamental",
+      "nombre": "Retraso por requisa, requisición o destrucción por orden gubernamental",
+      "descripcion": "Retrasos como consecuencia de requisa, requisición o destrucción o daño causado por orden de cualquier gobierno (pérdida anticipada de utilidad).",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "retraso-por-dano-a-bienes-de-contratistas",
+      "nombre": "Retraso por daño a bienes de contratistas o subcontratistas",
+      "descripcion": "Retraso a consecuencia de una pérdida o daño material a bienes, equipo y suministros de los contratistas y/o subcontratistas, distintos de los equipos y materiales del proyecto cubierto por la póliza (pérdida anticipada de utilidad).",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "retraso-por-falta-de-disponibilidad-de-fondos",
+      "nombre": "Retraso por falta de disponibilidad de fondos",
+      "descripcion": "Retrasos como consecuencia de falta de disponibilidad de fondos (pérdida anticipada de utilidad).",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "retraso-por-riesgo-nuclear-o-radioactivo",
+      "nombre": "Retraso por reacción nuclear, radiación o contaminación radioactiva",
+      "descripcion": "Retrasos como consecuencia de cualquier pérdida, daño o gasto relacionado con o que provenga de, directa o indirectamente, reacción nuclear, radiación o contaminación radioactiva, sin importar la forma como fue causada (pérdida anticipada de utilidad).",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "A propietarios, inversionistas, financiadores y contratistas principales encargados de realizar la construcción de proyectos. Esta solución está orientada a grandes proyectos de ingeniería, como plantas de generación de energía, de tratamiento de aguas, refinerías, obras mineras, ferroviarias, industriales y similares."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condicionado cláusula A (todo riesgo)",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/transporte-de-mercancias-a.pdf"
+    },
+    {
+      "tipo": "condicionado",
+      "titulo": "Condicionado cláusula C (riesgos nombrados)",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/transporte-de-mercancias-c.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro para Carga de Proyecto. Protegemos el transporte de equipos para tus proyectos de ingeniería, cubriendo daños, pérdidas de bienes y pérdida anticipada de utilidad."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? A propietarios, inversionistas, financiadores y contratistas principales encargados de realizar la construcción de proyectos. Esta solución está orientada a grandes proyectos de ingeniería, como plantas de generación de energía, de tratamiento de aguas, refinerías, obras mineras, ferroviarias, industriales y similares."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Por qué elegir esta solución? Podrás contar con un amplio soporte y asesoría para la administración y control de riesgos durante todo el proceso de transporte. Tendrás la tranquilidad de que el patrimonio de tu empresa está protegido con un sólido respaldo financiero, una red global de inspectores, una amplia experiencia en seguros de transporte de carga y un robusto programa de administración y control de riesgos."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Seguro de Carga: protección contra pérdidas o daños materiales durante la movilización de los equipos, materiales o bienes críticos para la construcción, operación o mantenimiento de un proyecto, desde su lugar de fabricación hasta el destino final. Pérdida anticipada de utilidad: cubre las pérdidas financieras por interrupciones del proyecto debido a daños físicos en equipos críticos durante su transporte. Incrementos adicionales: resultantes de costos de trabajo y pago continuo de costos fijos, al igual que la amortización de la deuda."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Seguro de carga: errores o faltas en el despacho o por haberse despachado los bienes en mal estado; insuficiencia del empaque o haber preparado indebidamente los bienes para los riesgos ordinarios de tránsito; variaciones naturales climatológicas y los deterioros causados por el simple transcurso del tiempo; la oxidación, corrosión, dobladuras, abolladuras, a menos que sean consecuencia de un accidente al medio transportador ocurrido y demostrado durante el tránsito asegurado; demoras o pérdidas de mercado; multas o sanciones; daños por condensación; ataques cibernéticos y riesgos de tecnología de la información."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Pérdida anticipada de utilidad: retrasos como consecuencia de requisa, requisición o destrucción o daño causado por orden de cualquier gobierno; retraso a consecuencia de una pérdida o daño material a bienes, equipo y suministros de los contratistas y/o subcontratistas, distintos de los equipos y materiales del proyecto cubierto por la póliza; retrasos como consecuencia de falta de disponibilidad de fondos; retrasos como consecuencia de cualquier pérdida, daño o gasto relacionado con o que provenga de, directa o indirectamente, reacción nuclear, radiación o contaminación radioactiva, sin importar la forma como fue causada. Para un mayor detalle de las coberturas y exclusiones, consulta el condicionado general de la solución."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Llamando a las líneas de atención locales: Medellín 604 437 8888; Bogotá 601 437 8888; Cali 602 437 8888; en el resto del país al 01 8000 518 888. Ingresando a www.sura.com.co en la opción 'Ingresa a tu cuenta'. Contacta a tu asesor de seguros."
+    }
+  ]
+}

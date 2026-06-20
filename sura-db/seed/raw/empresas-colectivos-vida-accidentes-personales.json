@@ -1,0 +1,100 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/colectivos/vida/accidentes/personales",
+  "producto": {
+    "slug": "empresas-colectivos-vida-accidentes-personales",
+    "nombre": "Seguro de Accidentes Personales Colectivo",
+    "ramo": "Colectivos",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "Seguro colectivo dirigido a personas que hacen parte de un colectivo laboral y que, por la naturaleza de su trabajo, están expuestas a riesgos accidentales. Cubre muerte accidental e invalidez o pérdida por un accidente.",
+    "resumen": "Seguro colectivo de accidentes personales que protege a trabajadores expuestos a riesgos accidentales con coberturas de muerte e invalidez.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "presencial", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "muerte-accidental",
+      "nombre": "Muerte accidental",
+      "descripcion": null,
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "invalidez-o-perdida-por-accidente",
+      "nombre": "Invalidez o pérdida por un accidente",
+      "descripcion": null,
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "situaciones-excluidas-en-condiciones",
+      "nombre": "Situaciones expresamente excluidas en las condiciones de cada cobertura",
+      "descripcion": "Situaciones expresamente excluidas en las condiciones de cada cobertura.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "reticencia-declaracion-asegurabilidad",
+      "nombre": "Reticencia en la declaración de asegurabilidad",
+      "descripcion": "Si como asegurado, al momento de diligenciar la declaración de asegurabilidad omites o alteras información relevante (reticencia).",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "participacion-del-beneficiario-en-el-fallecimiento",
+      "nombre": "Participación del beneficiario en el fallecimiento del asegurado",
+      "descripcion": "Cuando el beneficiario haya participado como autor o cómplice en el fallecimiento del asegurado, o haya atentado contra su vida.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "A personas que hacen parte de un colectivo laboral y que, por la naturaleza de su trabajo, están expuestas a riesgos accidentales."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Términos y condiciones - Accidentes Personales Colectivo",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vida/accidentes-personales-colectivo.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? A personas que hacen parte de un colectivo laboral y que, por la naturaleza de su trabajo, están expuestas a riesgos accidentales."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Muerte accidental. Invalidez o pérdida por un accidente."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Situaciones expresamente excluidas en las condiciones de cada cobertura. Si como asegurado, al momento de diligenciar la declaración de asegurabilidad omites o alteras información relevante (reticencia). Cuando el beneficiario haya participado como autor o cómplice en el fallecimiento del asegurado, o haya atentado contra su vida."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Comunícate con tu asesor. Llamando a las líneas de atención locales: Marca desde tu celular #888. Bogotá: 601 437 8888. Medellín: 604 437 8888. Cali: 602 437 8888. Resto del país: 01 8000 51 8888. Para coberturas opcionales de renta, ingresa a www.sura.co/seguros o abre la App SURA. Inicia sesión, con tu usuario y contraseña, dirígete a la opción Reclamaciones de Vida y completa el formulario."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Términos y condiciones. Para conocer mejor esta solución, descarga los términos y condiciones. ¿Cuáles son los medios de pago? Presenciales: bancos y redes aliadas. Digitales: Pago Express, Débito Automático, Sucursal Virtual, ingresa por segurossura.com.co y WhatsApp."
+    }
+  ]
+}

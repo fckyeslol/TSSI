@@ -1,0 +1,40 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/centro/de/ayuda/acompanamiento/salud/y/seguridad/en/el/trabajo",
+  "proceso": {
+    "slug": "arl-centro-de-ayuda-acompanamiento-salud-y-seguridad-en-el-trabajo",
+    "nombre": "Acompañamiento en salud y seguridad en el trabajo",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "juridica",
+    "descripcion": "Servicio de ARL SURA para solicitar atención y acompañamiento en Seguridad y Salud en el Trabajo (SST). El cliente empresa deja sus datos de contacto y ARL SURA se ocupa de brindar la atención correspondiente.",
+    "pasos": [
+      { "orden": 1, "titulo": "Ingresar NIT de la empresa y dígito de verificación", "detalle": "Diligenciar el NIT de la empresa y su dígito de verificación." },
+      { "orden": 2, "titulo": "Ingresar nombre de la empresa y persona a contactar", "detalle": "Registrar el nombre de la empresa y la persona a contactar." },
+      { "orden": 3, "titulo": "Ingresar datos de contacto", "detalle": "Diligenciar correo electrónico, celular y otro celular de contacto." },
+      { "orden": 4, "titulo": "Indicar si la persona es encargada de SST", "detalle": "Seleccionar SI o NO según si la persona es la encargada de Seguridad y Salud en el Trabajo en la empresa." },
+      { "orden": 5, "titulo": "Seleccionar departamento y municipio de atención", "detalle": "Elegir el departamento y el municipio de atención." },
+      { "orden": 6, "titulo": "Validar reCAPTCHA y enviar", "detalle": "Completar la verificación reCAPTCHA (I'm not a robot) y enviar los datos." }
+    ],
+    "url": "https://www.sura.co/arl/centro/de/ayuda/acompanamiento/salud/y/seguridad/en/el/trabajo"
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Acompañamiento en salud y seguridad en el trabajo. ARL SURA - Riesgos Laborales - ARL. Atención en Seguridad y Salud en el Trabajo."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Necesitas atención en Seguridad y Salud en el Trabajo? Como cliente de ARL SURA, déjanos tus datos y nos ocuparemos de brindarte la mejor atención."
+    },
+    {
+      "seccion": "requisitos",
+      "contenido": "Datos requeridos: NIT empresa, Dígito de verificación, Nombre de la empresa, Persona a contactar, Correo electrónico, Celular, Otro celular de contacto, ¿Es la persona encargada de SST en la empresa? (SI / NO), Departamento de atención, Municipio de atención."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Verificación reCAPTCHA requerida (I'm not a robot) antes de enviar el formulario."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/sst/centro/de/documentacion/ergonomia",
+  "proceso": {
+    "slug": "arl-sst-centro-de-documentacion-ergonomia",
+    "nombre": "Ergonomía: recomendaciones de ARL SURA para tu bienestar",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "ambas",
+    "descripcion": "Centro de documentación de ARL SURA en Seguridad y Salud en el Trabajo (SST) dedicado a la ergonomía. Reúne recomendaciones, guías y recursos sobre posturas saludables, uso correcto del puesto de trabajo, ejercicios de estiramiento y soportes lumbares para promover el bienestar de los trabajadores.",
+    "pasos": [
+      { "orden": 1, "titulo": "Ergonomía: La posición más sana", "detalle": "https://www.sura.co/arl/ergonomia-posicion-mas-sana" },
+      { "orden": 2, "titulo": "Posturas saludables en el trabajo y en la vida diaria", "detalle": "https://www.sura.co/arl/posturas-saludables" },
+      { "orden": 3, "titulo": "Ejercicios de estiramiento para personas que trabajan de pie", "detalle": "https://www.sura.co/arl/ejercicios-de-pie" },
+      { "orden": 4, "titulo": "Soportes lumbares", "detalle": "https://www.sura.co/arl/soportes-lumbares" },
+      { "orden": 5, "titulo": "Uso del puesto de trabajo (I)", "detalle": "https://www.sura.co/arl/ergonomia-uso-del-puesto-de-trabajo-i-" },
+      { "orden": 6, "titulo": "Uso del puesto de trabajo (II)", "detalle": "https://www.sura.co/arl/uso-del-puesto-del-trabajo-ii" },
+      { "orden": 7, "titulo": "Uso del puesto de trabajo (III)", "detalle": "https://www.sura.co/arl/ergonomia-uso-del-puesto-de-trabajo-iii-" },
+      { "orden": 8, "titulo": "Trabajo en posición sentado", "detalle": "https://www.sura.co/arl/trabajo-en-posicion-sentado" }
+    ],
+    "url": "https://www.sura.co/arl/sst/centro/de/documentacion/ergonomia"
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Ergonomía: recomendaciones de ARL SURA para tu bienestar. Línea: ARL (Riesgos Laborales) › SST (Seguridad y Salud en el Trabajo)."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Ergonomía: La posición más sana. Leer más: https://www.sura.co/arl/ergonomia-posicion-mas-sana"
+    },
+    {
+      "seccion": "general",
+      "contenido": "Posturas saludables en el trabajo y en la vida diaria. Leer más: https://www.sura.co/arl/posturas-saludables"
+    },
+    {
+      "seccion": "general",
+      "contenido": "Ejercicios de estiramiento para personas que trabajan de pie. Leer más: https://www.sura.co/arl/ejercicios-de-pie"
+    },
+    {
+      "seccion": "general",
+      "contenido": "Soportes lumbares. Leer más: https://www.sura.co/arl/soportes-lumbares"
+    },
+    {
+      "seccion": "general",
+      "contenido": "Uso del puesto de trabajo (I). Leer más: https://www.sura.co/arl/ergonomia-uso-del-puesto-de-trabajo-i-"
+    },
+    {
+      "seccion": "general",
+      "contenido": "Uso del puesto de trabajo (II). Leer más: https://www.sura.co/arl/uso-del-puesto-del-trabajo-ii"
+    },
+    {
+      "seccion": "general",
+      "contenido": "Uso del puesto de trabajo (III). Leer más: https://www.sura.co/arl/ergonomia-uso-del-puesto-de-trabajo-iii-"
+    },
+    {
+      "seccion": "general",
+      "contenido": "Trabajo en posición sentado. Leer más: https://www.sura.co/arl/trabajo-en-posicion-sentado"
+    }
+  ]
+}

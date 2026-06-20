@@ -1,0 +1,51 @@
+{
+  "tipo": "referencia",
+  "url": "https://www.sura.co/seguros/app",
+  "categoria": "General",
+  "chunks": [
+    {
+      "seccion": "La App Seguros SURA te resuelve",
+      "contenido": "La App Seguros SURA te resuelve. ¿Quieres solicitar una cita médica? ¿Deseas mejorar el manejo de tus finanzas? Usa nuestra app y haz tu vida más fácil. ¡Descárgala ahora! Seguimos evolucionando para resolver tus necesidades desde nuestra app. Con la App Seguros SURA gestionas tus reembolsos de salud, pides tu conductor elegido, pagas tus seguros, entre muchos otros servicios que diseñamos para ti. Actualiza tu app con la nueva versión. Si tienes problemas, descárgala de nuevo."
+    },
+    {
+      "seccion": "Guía uso general de la App Seguros SURA",
+      "contenido": "Guía uso general de la App Seguros SURA. En esta guía podrás acceder a la información que necesitas si tienes dudas sobre cómo iniciar sesión, crear una cuenta, autenticarte, activar o ingresar con tus datos biométricos. Además, podrás conocer en detalle otras funcionalidades generales de la app que harán más fácil tu interacción con ella."
+    },
+    {
+      "seccion": "Guía Vive Más",
+      "contenido": "Guía Vive Más. Te orientamos para que nada te detenga en el camino de mejorar tus hábitos. Conoce desde cómo vincular tus aplicaciones hasta cómo redimir tus beneficios con el Plan de Recompensas. Recuerda que tu bienestar integral debe ser tu prioridad."
+    },
+    {
+      "seccion": "Guía Longevo - Vive Más",
+      "contenido": "Guía Longevo - Vive Más. Sé parte de Longevo, la nueva plataforma de bienestar de SURA sin costo: incluye planes personalizados de entrenamiento y nutrición, coach de bienestar, meditaciones guiadas y mucho más."
+    },
+    {
+      "seccion": "Guía Salud",
+      "contenido": "Guía Salud. Acercarte a una vida más saludable es nuestro compromiso. Usa esta guía si tienes inquietudes sobre solicitud o cancelación de citas, reembolsos, directorio médico, entre otras alternativas que harán tu vida más fácil."
+    },
+    {
+      "seccion": "Guía Movilidad",
+      "contenido": "Guía Movilidad. ¡Que nada te detenga y que siempre llegues seguro a tus destinos es lo que nos mueve! Ingresa a esta guía si tienes cualquier inquietud sobre tus servicios de asistencia o si necesitas información relacionada con tus seguros de Viaje, Moto o Auto."
+    },
+    {
+      "seccion": "Guía Vida",
+      "contenido": "Guía Vida. ¿Tienes un Seguro de Vida con nosotros? ¡Gestiónalo de forma ágil en la App Seguros SURA! Selecciona la opción \"Vida\" y realiza tus reclamaciones o administra el detalle de tu seguro y tus beneficiarios. En esta guía te explicamos cómo."
+    },
+    {
+      "seccion": "Guía Hogar",
+      "contenido": "Guía Hogar. Gestiona la vivienda que tienes asegurada con SURA y conoce el detalle de tus asistencias en un solo lugar. Si tienes alguna duda, consulta esta guía."
+    },
+    {
+      "seccion": "Guía Billetera",
+      "contenido": "Guía Billetera. ¡Esta opción es tu aliada ideal para gestionar pagos y más! Gestiona el dinero que te ingresa por reembolsos o desembolsos de coberturas, además de documentos como el SOAT digital u otros certificados."
+    },
+    {
+      "seccion": "Guía de reclamaciones y reembolsos",
+      "contenido": "Guía de reclamaciones y reembolsos."
+    },
+    {
+      "seccion": "Guía general de uso",
+      "contenido": "Encuentra aquí la guía general de uso de nuestra app. Ser resolutivos cuando nos necesitas, acompañarte y ser parte de tu bienestar, ¡eso buscamos desde la app Seguros SURA!"
+    }
+  ]
+}

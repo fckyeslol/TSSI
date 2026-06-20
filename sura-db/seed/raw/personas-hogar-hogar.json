@@ -1,0 +1,85 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/hogar/hogar",
+  "producto": {
+    "slug": "personas-hogar-hogar",
+    "nombre": "Seguro de Hogares SURA",
+    "ramo": "Hogar y Vivienda",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "¡En SURA entendimos que un hogar es mucho más que una casa!, es donde construyes sueños y creas recuerdos. Por eso nos dedicamos a protegerlo de la forma en que tú lo necesitas. Ya sea que lo utilices como espacio para tu negocio, como el refugio de tus seres queridos o como una inversión para el futuro. Recuerda que estamos aquí para garantizar su seguridad y tranquilidad.",
+    "resumen": "Seguro de hogar que protege tu vivienda, contenidos, electrodomésticos y elementos personales ante incendio, desastres naturales, robo y daños, con asistencias domésticas y asesoría jurídica.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "presencial", "digital", "call_center"]
+  },
+  "planes": [
+    { "slug": "plan-hogar-sura-plus", "nombre": "Plan Hogar SURA Plus", "orden": 1, "precio_desde": null },
+    { "slug": "plan-hogar-sura-plus-mas-hospedaje", "nombre": "Plan Hogar SURA Plus + Hospedaje", "orden": 2, "precio_desde": null },
+    { "slug": "plan-hogar-sura-plus-mas-negocio", "nombre": "Plan Hogar SURA Plus + Negocio", "orden": 3, "precio_desde": null }
+  ],
+  "coberturas": [
+    { "slug": "aseguramiento-valor-comercial-vivienda", "nombre": "Aseguramiento al valor comercial de tu vivienda", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "aseguramiento-valor-reconstruccion", "nombre": "Aseguramiento al valor de reconstrucción", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "gastos-adicionales", "nombre": "Cobertura de gastos adicionales", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "opcional", "limite": null },
+    { "slug": "reformas", "nombre": "Reformas", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "opcional", "limite": null },
+    { "slug": "remocion-de-escombros", "nombre": "Remoción de escombros", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "opcional", "limite": null },
+    { "slug": "danos-por-agua-interior-vivienda", "nombre": "Daños causados debido al agua en el interior de la vivienda", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "caida-de-aeronaves", "nombre": "Caída de aeronaves u objetos que caigan de ellas", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "rotura-de-vidrios-y-objetos-sanitarios", "nombre": "Rotura de vidrios y objetos sanitarios", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "incendio", "nombre": "Incendio", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "explosion", "nombre": "Explosión", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "danos-por-humo", "nombre": "Daños causados por humo", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "danos-por-inundacion", "nombre": "Daños causados por inundación", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "impacto-de-vehiculos-terrestres", "nombre": "Impacto de vehículos terrestres al hogar", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "gastos-de-extincion-del-siniestro", "nombre": "Gastos de extinción del siniestro", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "gastos-de-extincion-preservacion-y-honorarios", "nombre": "Gastos de extinción, preservación y honorarios", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "incremento-en-costos-materiales-y-mano-de-obra", "nombre": "Incremento en costos de materiales y mano de obra", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "perdida-de-ingresos-por-arrendamiento", "nombre": "Pérdida de ingresos por arrendamiento", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "responsabilidad-civil", "nombre": "Responsabilidad civil", "descripcion": null, "categoria": "responsabilidad", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "aseguramiento-de-contenidos-generales", "nombre": "Aseguramiento de contenidos generales de tu hogar sin necesidad de listarlos", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "danos-internos-equipos-electricos-electronicos-y-gas", "nombre": "Daños internos de equipos eléctricos, electrónicos y a gas", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "opcional", "limite": null },
+    { "slug": "asonada-motin-conmocion-civil-huelga-amct-y-terrorismo", "nombre": "Asonada, motín, conmoción civil, huelga, actos malintencionados de terceros y terrorismo", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "opcional", "limite": null },
+    { "slug": "bono-opcional-de-sostenimiento", "nombre": "Bono opcional de sostenimiento", "descripcion": null, "categoria": "otros", "plan_slug": null, "tipo": "opcional", "limite": null },
+    { "slug": "hurto-dentro-vivienda-elementos-fijos", "nombre": "Hurto dentro de la vivienda para elementos fijos (ventanas, puertas, cables)", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "caida-de-rayo", "nombre": "Caída de rayo en el lugar asegurado", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "danos-por-granizo", "nombre": "Daños causados por granizo", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "deslizamiento-derrumbe-o-desprendimiento-de-tierra-y-roca", "nombre": "Deslizamiento, derrumbe o desprendimiento de tierra y roca", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "incluida", "limite": null },
+    { "slug": "sustraccion-dentro-de-predios", "nombre": "Sustracción dentro de predios", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "opcional", "limite": null },
+    { "slug": "sustraccion-fuera-de-predios", "nombre": "Sustracción fuera de predios", "descripcion": null, "categoria": "patrimonial", "plan_slug": null, "tipo": "opcional", "limite": null },
+    { "slug": "asistencia-tradicional", "nombre": "Asistencia tradicional", "descripcion": null, "categoria": "asistencia", "plan_slug": null, "tipo": "opcional", "limite": null },
+    { "slug": "asistencia-plus", "nombre": "Asistencia plus", "descripcion": null, "categoria": "asistencia", "plan_slug": null, "tipo": "opcional", "limite": null },
+    { "slug": "asistencia-rural", "nombre": "Asistencia rural", "descripcion": null, "categoria": "asistencia", "plan_slug": null, "tipo": "opcional", "limite": null },
+    { "slug": "asistencia-empresarial", "nombre": "Asistencia empresarial", "descripcion": null, "categoria": "asistencia", "plan_slug": null, "tipo": "opcional", "limite": null }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "¡En SURA entendimos que un hogar es mucho más que una casa!, es donde construyes sueños y creas recuerdos. Por eso nos dedicamos a protegerlo de la forma en que tú lo necesitas. Ya sea que lo utilices como espacio para tu negocio, como el refugio de tus seres queridos o como una inversión para el futuro. Recuerda que estamos aquí para garantizar su seguridad y tranquilidad."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Cuando tienes un seguro de hogar sabes que, pase lo que pase, conservas el patrimonio que has construido con los años o que estás iniciando, así proteges el lugar en el que vives, los electrodomésticos y muebles, tus elementos personales, las prendas de vestir que usas todos los días y hasta los elementos asociados al negocio que tienes en tu vivienda. Si en algún momento ocurre un evento cubierto por el seguro, como un incendio, huracán, derrumbe, entre otros, te reembolsamos el dinero para que sustituyas lo que resulte afectado."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "También tienes la opción de obtener coberturas adicionales que te respaldan en caso de robo, con o sin violencia, daños a otros y daños o pérdidas de contenidos móviles que pueden estar por fuera de tu vivienda, por ejemplo computadores portátiles, tabletas o cámaras fotográficas. Con nuestra App Seguros SURA, puedes solicitar asistencia de expertos en caso de emergencias domésticas, como problemas de fontanería, electricidad, cerrajería o cristalería, de manera fácil y rápida. También te ofrecemos asesoría jurídica telefónica para ayudarte con cualquier pregunta o preocupación legal que puedas tener, desde temas penales y civiles hasta tributarios y laborales. ¡Tu tranquilidad es nuestra prioridad!"
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "El Seguro de Hogares SURA ofrece tres planes: Plan Hogar SURA Plus, Plan Hogar SURA Plus + Hospedaje y Plan Hogar SURA Plus + Negocio. Coberturas incluidas en el plan: aseguramiento al valor comercial de tu vivienda, aseguramiento al valor de reconstrucción, daños causados debido al agua en el interior de la vivienda, caída de aeronaves u objetos que caigan de ellas, rotura de vidrios y objetos sanitarios, incendio, explosión, daños causados por humo, daños causados por inundación, impacto de vehículos terrestres al hogar, gastos de extinción del siniestro, gastos de extinción, preservación y honorarios, incremento en costos de materiales y mano de obra, pérdida de ingresos por arrendamiento, responsabilidad civil, aseguramiento de contenidos generales de tu hogar sin necesidad de listarlos, hurto dentro de la vivienda para elementos fijos (ventanas, puertas, cables), caída de rayo en el lugar asegurado, daños causados por granizo, y deslizamiento, derrumbe o desprendimiento de tierra y roca."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Coberturas que se adicionan por un valor extra (opcionales): cobertura de gastos adicionales, reformas, remoción de escombros, daños internos de equipos eléctricos, electrónicos y a gas, asonada, motín, conmoción civil, huelga, actos malintencionados de terceros y terrorismo, bono opcional de sostenimiento, sustracción dentro de predios, sustracción fuera de predios, asistencia tradicional, asistencia plus, asistencia rural y asistencia empresarial."
+    }
+  ]
+}

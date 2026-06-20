@@ -1,0 +1,176 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/transporte/cadena/abastecimiento",
+  "producto": {
+    "slug": "empresas-transporte-cadena-abastecimiento",
+    "nombre": "Soluciones de Riesgo Logístico y Marítimos",
+    "ramo": "Transporte",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "Protegemos tu cadena de abastecimiento para que enfrentes con confianza los riesgos que amenazan tu continuidad operativa. Dirigido a empresas generadoras de carga dedicadas a la fabricación, distribución mayorista, minorista, exportación e importación, con una de las coberturas más amplias del mercado para proteger la mercancía durante todo el trayecto a nivel nacional e internacional.",
+    "resumen": "Seguro de transporte de mercancías que protege la cadena de abastecimiento de empresas generadoras de carga a nivel nacional e internacional.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "interes-contingente",
+      "nombre": "Interés contingente",
+      "descripcion": "Tu mercancía está asegurada contra pérdidas y daños, independientemente del término Incoterms® acordado.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "bienes-refrigerados",
+      "nombre": "Bienes refrigerados",
+      "descripcion": "Protege tus productos perecederos con coberturas más amplias incluyendo algunas negligencias por parte de cualquier actor logístico.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "mercancias-usadas",
+      "nombre": "Mercancías usadas",
+      "descripcion": "Cobertura todo riesgo ante la pérdida o daño de equipos usados, remanufacturados o repotenciados.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "perdida-de-utilidad",
+      "nombre": "Pérdida de utilidad",
+      "descripcion": "La indemnización incluye el margen de ganancia sin exceder el 40%.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Margen de ganancia sin exceder el 40%"
+    },
+    {
+      "slug": "sobrecostos-por-reposicion-de-carga",
+      "nombre": "Sobrecostos por reposición de carga",
+      "descripcion": "Protección ante las volatilidades del mercado por variación en los fletes, tasas de cambio, precio de compra, impuestos y gastos logísticos.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "penalidades-por-demoras-involuntarias",
+      "nombre": "Penalidades por demoras involuntarias",
+      "descripcion": "Evita pérdidas económicas por retrasos imprevistos de la mercancía durante su tránsito.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "bienes-explosivos-radioactivos-o-nucleares",
+      "nombre": "Bienes de naturaleza explosiva, radioactiva o nuclear",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "chatarra",
+      "nombre": "Chatarra",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "asbesto",
+      "nombre": "Asbesto o productos que lo contengan",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "monedas-y-billetes",
+      "nombre": "Monedas y billetes",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "documentos-representativos-de-valores",
+      "nombre": "Documentos representativos de valores",
+      "descripcion": "Billetes de lotería, acciones, títulos valores, estampillas de timbre, correo sin sellar, cheques de viajero y, en general, toda clase de documentos representativos de valores.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "informacion-en-medios-magneticos-o-electronicos",
+      "nombre": "Información almacenada en medios magnéticos o electrónicos",
+      "descripcion": "Información almacenada en discos, cintas u otros medios magnéticos o electrónicos.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "A empresa generadora de carga dedicada a la fabricación, distribución mayorista, minorista, exportación, importación, entre otros. Te acompañamos cuando: transportas mercancías (materia prima, producto en proceso, producto terminado) de un punto a otro a nivel nacional e internacional; quieres generar confianza con tus proveedores y clientes garantizando la protección de la mercancía en todo el trayecto."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condiciones generales, cláusula A",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/transporte-mercancias-general-clausula-a.pdf"
+    },
+    {
+      "tipo": "condicionado",
+      "titulo": "Condiciones cláusula C",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/transporte-mercancias-clausula-c.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Soluciones de Riesgo Logístico y Marítimos. Protegemos tu cadena de abastecimiento para que enfrentes con confianza los riesgos que amenazan tu continuidad operativa."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? A empresa generadora de carga dedicada a la fabricación, distribución mayorista, minorista, exportación, importación, entre otros. Te acompañamos cuando: Transportas mercancías (materia prima, producto en proceso, producto terminado) de un punto a otro a nivel nacional e internacional. Quieres generar confianza con tus proveedores y clientes garantizando la protección de la mercancía en todo el trayecto."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Por qué elegir esta solución? Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos. Empresas SURA te acompañará para llevar tu empresa a otro nivel. Contarás con una de las coberturas más amplias del mercado, que incluye interés contingente para proteger tus acuerdos de compraventa y extensión de huelga para cubrir los daños de las mercancías por demoras en eventos de huelga. Tendrás un acompañamiento en internacionalización para que puedas ampliar tu mercado y llegar a nuevos clientes en el exterior."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Interés contingente: tu mercancía está asegurada contra pérdidas y daños, independientemente del término Incoterms® acordado. Bienes refrigerados: protege tus productos perecederos con coberturas más amplias incluyendo algunas negligencias por parte de cualquier actor logístico. Mercancías usadas: te brindamos tranquilidad con una cobertura todo riesgo ante la pérdida o daño de tus equipos usados, remanufacturados o repotenciados. Esta solución cuenta con coberturas adicionales, como: Pérdida de utilidad: la indemnización incluye el margen de ganancia sin exceder el 40%. Sobrecostos por reposición de carga: protégete ante las volatilidades del mercado por variación en los fletes, tasas de cambio, precio de compra, impuestos y gastos logísticos. Penalidades por demoras involuntarias: evita pérdidas económicas por retrasos imprevistos de la mercancía durante su tránsito."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Bienes de naturaleza explosiva, radioactiva o nuclear. Chatarra. Asbesto o productos que lo contengan. Monedas y billetes. Billetes de lotería, acciones, títulos valores, estampillas de timbre, correo sin sellar, cheques de viajero y, en general, toda clase de documentos representativos de valores. Información almacenada en discos, cintas u otros medios magnéticos o electrónicos. Para conocer los demás eventos no cubiertos, consulta el condicionado del seguro."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Para presentar tu reclamación, deberás soportar el daño y su valor. SURA te indicará qué documentación específica necesitas. Nos contactaremos contigo en los cinco (5) días siguientes al aviso de tu reclamación y una vez contemos con todos los soportes, te daremos una respuesta en un plazo de siete (7) días hábiles siguientes. Recuerda que debes asumir un deducible en cada reclamación, consúltalo en las condiciones de tu póliza. Dependiendo de la complejidad y particularidades de tu reclamación analizaremos: si eres un transportador de carga o un generador de carga, partiendo del contrato de transporte que tengas y los Incoterms®; el costo de la mercancía, el seguro y flete para determinar el valor de la pérdida (remesa, manifiesto, lista de empaque y factura de fletes)."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cuáles son los medios de pago? Presenciales: bancos y redes aliadas. Digitales: Pago Express, débito automático y financiación. Para conocer mejor esta solución, descarga los términos y condiciones (Condiciones generales cláusula A y Condiciones cláusula C)."
+    }
+  ]
+}

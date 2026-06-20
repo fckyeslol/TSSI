@@ -1,0 +1,146 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/movilidad/bicicletas/patinetas",
+  "producto": {
+    "slug": "personas-movilidad-bicicletas-patinetas",
+    "nombre": "Seguro de Bicis y Patinetas",
+    "ramo": "Movilidad",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Si tienes una bici o una patineta como medio de transporte y disfrutas de la libertad y agilidad de desplazarte en ella, este plan es para ti. En SURA te acompañamos si tu bici o patineta tiene una pérdida total por robo o daños, y contarás con respaldo si sufres un incidente o te ves involucrado en un accidente contra un objeto o persona. Además, te ayudamos a cuidar de tu vehículo en el Centro de Servicios SURA o de forma virtual con la asesoría de expertos en postura, acondicionamiento físico y consultoría mecánica.",
+    "resumen": "Seguro para bicicletas y patinetas que cubre daños a terceros, accidentes personales, pérdidas totales por daño o hurto y asistencia.",
+    "es_digital": true,
+    "cotizador_url": null,
+    "canales": ["digital", "asesor", "call_center"]
+  },
+  "planes": [
+    { "slug": "opcion-1", "nombre": "Opción 1", "orden": 1, "precio_desde": null },
+    { "slug": "opcion-2", "nombre": "Opción 2", "orden": 2, "precio_desde": null },
+    { "slug": "opcion-3", "nombre": "Opción 3", "orden": 3, "precio_desde": null },
+    { "slug": "opcion-4", "nombre": "Opción 4", "orden": 4, "precio_desde": null }
+  ],
+  "coberturas": [
+    {
+      "slug": "danos-a-terceros",
+      "nombre": "Daños a terceros",
+      "descripcion": "Pagamos hasta el límite de tu cobertura los perjuicios que puedas ocasionarles a otras personas o a sus bienes, por ejemplo: fallecimiento, lesiones personales o daños a objetos. Funciona cuando la bicicleta o patineta sea manejada por ti, por una persona a la que se la prestes, o cuando se desplace sola, incluso si manejas una diferente a la asegurada.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Hasta $160.000.000 (ciento sesenta millones de pesos)"
+    },
+    {
+      "slug": "gastos-defensa-judicial",
+      "nombre": "Gastos defensa judicial",
+      "descripcion": "En caso de que recibas una demanda, te asignamos un abogado que te defenderá y realizará las investigaciones y reconstrucciones de los hechos. Si prefieres escoger tu propio abogado, te reembolsaremos el dinero correspondiente, de acuerdo con el límite del valor asegurado.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "accidentes-personales",
+      "nombre": "Accidentes personales",
+      "descripcion": "Si tú o una persona a la que le hayas prestado la bicicleta o la patineta llegan a fallecer o sufren alguna invalidez o desmembración luego de un accidente, pagaremos una indemnización dependiendo de las consecuencias del accidente.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Hasta $10.000.000 (diez millones de pesos)"
+    },
+    {
+      "slug": "perdidas-totales-por-dano-o-hurto",
+      "nombre": "Pérdidas totales por daño o hurto",
+      "descripcion": "Asumimos la pérdida total de tu patineta o bicicleta cuando sufra daños materiales como consecuencia de accidentes, actos de terrorismo, eventos de la naturaleza (terremotos, incendios, inundaciones, etc.) y acciones malintencionadas por parte de terceros. También aplica si desaparece de manera permanente como consecuencia de un robo.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "renta-diaria-por-hospitalizacion",
+      "nombre": "Renta diaria por hospitalización",
+      "descripcion": "Te ofrecemos una renta diaria por el valor asegurado a partir del tercer día de hospitalización y hasta por treinta días, por cada año de vigencia de este seguro.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "$20.000 (veinte mil pesos) diarios hasta treinta días"
+    },
+    {
+      "slug": "asistencia",
+      "nombre": "Asistencia",
+      "descripcion": "Si sufres un accidente, te brindamos asesoría jurídica telefónica o en el sitio y acompañamiento ante el Tránsito o Centro de Conciliación. Asumimos los gastos por traslado médico hasta el centro hospitalario más cercano, hasta el límite de la cobertura, y ofrecemos transporte para ti y tu bicicleta o patineta hasta tu domicilio habitual en caso de varada o accidente.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "bicicletas_aseguradas": ["Tradicionales de pedal (ruta, montaña y urbana)", "Plegables", "Eléctricas", "De gasolina"],
+      "valor_minimo_bici": "$600.000 (seiscientos mil pesos)",
+      "valor_maximo_bici": "$30.000.000 (treinta millones de pesos)",
+      "exclusion": "No aseguramos bicicletas o motocicletas eléctricas que por norma legal requieran SOAT y matrícula ante los organismos de tránsito.",
+      "inspeccion": "Es posible que necesites realizar la inspección virtual. Para patinetas se evalúa cada caso para definir el valor asegurado y si requiere inspección."
+    },
+    "descripcion": "Este producto está dirigido principalmente a las personas que utilizan su bicicleta o patineta para el desplazamiento habitual en la ciudad, o como un medio de diversión y ejercicio no profesional."
+  },
+  "documentos": [
+    {
+      "tipo": "anexo",
+      "titulo": "Brochure Seguro de Bicis y Patinetas",
+      "pdf_url": "https://www.sura.co/documents/d/seguros/brochure-seguro-de-bicis-y-patinetas"
+    },
+    {
+      "tipo": "clausulado",
+      "titulo": "Condicionado solución bicicletas",
+      "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/vehiculos/condicionado-solucion-bicicletas.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Proceso de reclamaciones",
+      "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/proceso-reclamaciones-autos.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Si tienes una bici o una patineta como medio de transporte y disfrutas de la libertad y agilidad de desplazarte en ella, este plan es para ti. En SURA te acompañamos si tu bici o patineta tiene una pérdida total por robo o daños. Igualmente, contarás con respaldo si sufres un incidente o te ves involucrado en un accidente contra un objeto o persona mientras estás solo. Para ello, activaremos las asistencias que tenemos a tu disposición. Además, te ayudaremos a cuidar de tu vehículo en el Centro de Servicios SURA o de forma virtual, con la asesoría de nuestros expertos en temas de postura, acondicionamiento físico y consultoría mecánica."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Si estás asegurado con nuestra Compañía en cualquier solución, recibes dos alistamientos gratuitos para bici durante el año y 50 % de descuento en el servicio de bike fit. Este beneficio también aplica si tu bici es eléctrica. Beneficios destacados: contar con un respaldo por daños a otras personas o bienes; recibir el apoyo de un abogado en reclamaciones civiles o penales; y cotizar y comprar tu plan en línea de forma fácil y rápida."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Descubre la mejor alternativa para ti: conoce las opciones de aseguramiento que tenemos y elige la que mejor se ajuste a tus necesidades. Recuerda que en todas la cobertura principal es por daños a terceros de hasta $160.000.000 (ciento sesenta millones de pesos). El producto se ofrece en cuatro opciones que combinan: Daños a terceros, Accidentes personales, Pérdidas totales por daños o hurto, Renta diaria por hospitalización, Asistencia y Gastos de defensa judicial."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Coberturas principales. Daños a terceros: pagamos hasta el límite de tu cobertura los perjuicios que puedas ocasionarles a otras personas o a sus bienes, por ejemplo: fallecimiento, lesiones personales o daños a objetos. Esta cobertura funciona cuando la bicicleta o la patineta sea manejada por ti, por una persona a la que se la prestes, o cuando se desplace sola, incluso si manejas una diferente a la asegurada. Gastos defensa judicial: en caso de que recibas una demanda, te asignamos un abogado que te defenderá y realizará las investigaciones y reconstrucciones de los hechos. Si prefieres escoger tu propio abogado, te reembolsaremos el dinero correspondiente, de acuerdo con el límite del valor asegurado."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Coberturas opcionales. Accidentes personales: si tú o una persona a la que le hayas prestado la bicicleta o la patineta llegan a fallecer o sufren alguna invalidez o desmembración luego de un accidente, pagaremos una indemnización de hasta $10.000.000 (diez millones de pesos), dependiendo de las consecuencias del accidente. Pérdidas totales por daño o hurto: asumimos la pérdida total de tu patineta o bicicleta cuando sufra daños materiales como consecuencia de accidentes, actos de terrorismo, eventos de la naturaleza (terremotos, incendios, inundaciones, etc.) y acciones malintencionadas por parte de terceros. También aplica si en algún momento llega a desaparecer de manera permanente como consecuencia de un robo."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Renta diaria por hospitalización: con esta cobertura te ofrecemos una renta diaria por el valor asegurado a partir del tercer día de hospitalización y hasta por treinta días, por cada año de vigencia de este seguro. El límite de renta diaria por hospitalización es de $20.000 (veinte mil pesos) diarios hasta treinta días. Asistencia: si sufres un accidente, te brindamos asesoría jurídica telefónica o en el sitio y acompañamiento ante el Tránsito o Centro de Conciliación. Además, asumimos los gastos por traslado médico hasta el centro hospitalario más cercano, hasta el límite de la cobertura, y ofrecemos el servicio de transporte para ti y tu bicicleta o patineta hasta tu domicilio habitual, en caso de que te vares o sufras un accidente."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿Quiénes se pueden asegurar? Este producto está dirigido principalmente a las personas que utilizan su bicicleta o patineta para el desplazamiento habitual en la ciudad, o como un medio de diversión y ejercicio no profesional. Las bicicletas que podemos asegurar son: tradicionales de pedal (ruta, montaña y urbana), plegables, eléctricas y de gasolina. No aseguramos bicicletas o motocicletas eléctricas que por norma legal requieran SOAT y matrícula ante los organismos de tránsito. El valor mínimo para asegurar una bici es de $600.000 (seiscientos mil pesos) y el valor máximo es de $30.000.000 (treinta millones de pesos). Es posible que necesites realizar la inspección virtual. Para las patinetas, se evalúa cada caso para definir el valor asegurado y si esta requiere inspección."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Tarifa del seguro: las tarifas se calculan de acuerdo con el tipo y el modelo de la bicicleta o patineta. Para conocer el valor, contacta a tu asesor o comunícate gratis desde tu celular al #888. ¿Cómo comprar el seguro? Si te interesa adquirir el seguro para tu bicicleta o patineta, contacta a tu asesor o comunícate gratis desde tu celular al #888. ¿Cómo hacer una reclamación? En caso de siniestro, comunícate con nosotros marcando gratis desde tu celular al #888, o escribe al WhatsApp 315 275 7888, opción 1."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Plazos y términos: la vigencia de este seguro será la establecida en la carátula y, al finalizar, se renovará por periodos iguales. Recuerda que en cualquier momento puedes solicitar que tu seguro no se renueve o que se dé por terminada la protección que este te brinda. Puedes pagar tu plan en línea sin moverte de casa a través del servicio de pago express."
+    }
+  ]
+}

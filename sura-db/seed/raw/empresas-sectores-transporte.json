@@ -1,0 +1,200 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/sectores/transporte",
+  "producto": {
+    "slug": "empresas-sectores-transporte",
+    "nombre": "Sector Transporte",
+    "ramo": "Sectores",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "Soluciones de Seguros SURA para el sector transporte que combinan seguros y servicios de asesoria para gestionar los riesgos y asegurar la operacion logistica y de movilidad de la empresa, acompanando toda la cadena de abastecimiento desde el origen hasta el destino.",
+    "resumen": "Seguros y asesoria gratuita para proteger la operacion logistica y el transporte de mercancias de las empresas.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor"]
+  },
+  "planes": [
+    { "slug": "plan-1", "nombre": "Plan 1", "orden": 1, "precio_desde": null },
+    { "slug": "plan-2", "nombre": "Plan 2", "orden": 2, "precio_desde": null },
+    { "slug": "plan-3", "nombre": "Plan 3", "orden": 3, "precio_desde": null }
+  ],
+  "coberturas": [
+    {
+      "slug": "transporte-de-mercancia-automatico",
+      "nombre": "Transporte de Mercancia Automatico",
+      "descripcion": "Solucion de seguro automatica para el transporte de mercancias de la empresa.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "cadena-de-abastecimiento",
+      "nombre": "Cadena de Abastecimiento",
+      "descripcion": "Aseguramos la continuidad de tu operacion, evitando interrupciones y protegiendo activos desde el origen hasta el destino.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "transporte-terrestre-de-carga",
+      "nombre": "Transporte Terrestre de Carga",
+      "descripcion": "Cubrimos danos a mercancias en rutas nacionales y de la Comunidad Andina (CAN), brindando seguridad en cada envio.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Rutas nacionales y de la Comunidad Andina (CAN)"
+    },
+    {
+      "slug": "agentes-de-carga",
+      "nombre": "Agentes de Carga",
+      "descripcion": "Solucion de seguro dirigida a agentes de carga.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "asesoria-de-inventarios",
+      "nombre": "Asesoria de inventarios",
+      "descripcion": "Espacio donde se contextualiza el proceso de control de inventarios de la empresa Pyme, sus procedimientos, politicas e indicadores, con analisis y plan de trabajo con recomendaciones para su optimizacion.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "asesoria-de-almacenamiento",
+      "nombre": "Asesoria de almacenamiento",
+      "descripcion": "Diagnostico de las operaciones de almacenamiento de la empresa Pyme tratando seguridad y oportunidades de optimizacion, con analisis y plan de trabajo con recomendaciones.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "evaluacion-de-riesgos-fisicos-por-variabilidad-climatica-y-amenazas-naturales",
+      "nombre": "Evaluacion de riesgos fisicos por variabilidad climatica y amenazas naturales",
+      "descripcion": "Identificar, analizar y calificar el riesgo fisico actual de cada instalacion, abarcando amenazas naturales e hidrometeorologicas, vulnerabilidades estructurales, operativas y organizacionales, y la exposicion de activos, personal y procesos criticos.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "formaciones-logisticas",
+      "nombre": "Formaciones logisticas",
+      "descripcion": "Formaciones en temas relacionados con riesgos logisticos para mejorar la competitividad empresarial, abordando la gestion integral de la seguridad y la eficiencia en la cadena de suministro y transporte. Cada formacion cuenta como un servicio.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Cada formacion cuenta como un servicio (+35 distintas)"
+    },
+    {
+      "slug": "calificacion-de-proveedores",
+      "nombre": "Calificacion de proveedores",
+      "descripcion": "Comprendemos las practicas de tus proveedores para implementar planes de acompanamiento que garanticen operaciones seguras, incluyendo reuniones, gestion de comunicacion, analisis de documentacion, entrevistas con lideres y evaluacion de practicas relevantes.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "entrega-de-buenas-practicas-y-protocolos",
+      "nombre": "Entrega de buenas practicas y protocolos",
+      "descripcion": "Informe con lineamientos y buenas practicas para el desarrollo de los procesos logisticos ajustados a la operacion de tu empresa, fomentando su cumplimiento mediante la difusion entre el personal involucrado.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "acompanamiento-satelital-para-hurto-de-mercancias",
+      "nombre": "Acompanamiento satelital para hurto de mercancias",
+      "descripcion": "Permite monitorear de forma continua el recorrido y la ubicacion de la mercancia mediante un dispositivo GPS dentro de la carga. Ante eventualidades o hurto, SURA apoya desde su linea de soporte y articula la gestion con la Policia Nacional, sin que esto represente garantia de recuperacion.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "SURA envia el GPS y lo recoge tras un mes"
+    },
+    {
+      "slug": "consulta-de-bases-de-datos-de-vehiculos-y-conductores",
+      "nombre": "Consulta de bases de datos de vehiculos y/o conductores",
+      "descripcion": "Informe con la verificacion de antecedentes de los vehiculos y conductores a los cuales entregaras tu mercancia, con informacion registrada ante entidades publicas y recomendaciones de seguridad para su despacho.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Maximo 10 consultas por servicio"
+    },
+    {
+      "slug": "consulta-de-edad-y-clasificacion-de-embarcaciones",
+      "nombre": "Consulta de edad y clasificacion de embarcaciones",
+      "descripcion": "Consultas sobre la edad y clasificacion de embarcaciones, identificando sus caracteristicas y posibles riesgos asociados, con recomendaciones para un efectivo transporte internacional de mercancias. La informacion no determina la asegurabilidad de la mercancia.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Cada consulta cuenta como un servicio"
+    },
+    {
+      "slug": "diagnostico-de-riesgos-logisticos",
+      "nombre": "Diagnostico de riesgos logisticos",
+      "descripcion": "Con base en el proceso de administracion de riesgos de la Norma ISO 31010, analizamos y evaluamos los riesgos logisticos de tus operaciones, entregando una matriz de riesgos y las medidas de tratamiento priorizadas para su gestion efectiva.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "inspeccion-en-puerto",
+      "nombre": "Inspeccion en puerto",
+      "descripcion": "Inspeccionamos las mercancias en distintos puntos de transferencia y generamos recomendaciones para mitigar riesgos de perdidas o danos. Hay inspectores en zonas portuarias de Buenaventura, Cartagena, Santa Marta, Barranquilla, Palermo y Bogota; para otras zonas las inspecciones son virtuales.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Movilizas las mercancias de tu empresa con seguridad. En SURA entendemos la importancia de esta labor. Por eso, disenamos una propuesta que combina seguros y servicios de asesoria para llevar tu empresa al siguiente nivel. Por que elegir SURA: Proteccion integral, seguros para todos los riesgos y actores de la cadena logistica. Asesoria gratuita, mejora tu competitividad empresarial. Expansion segura, crece hacia nuevos mercados con confianza. Nosotros cuidamos de tu empresa: sabemos que una empresa es una gran responsabilidad, pero no estas solo en esto. En SURA cuidamos de ti y de tu negocio."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Soluciones de seguro disponibles: Transporte de Mercancia Automatico. Cadena de Abastecimiento: aseguramos la continuidad de tu operacion, evitando interrupciones y protegiendo activos desde el origen hasta el destino. Transporte Terrestre de Carga: cubrimos danos a mercancias en rutas nacionales y de la Comunidad Andina (CAN), brindando seguridad en cada envio. Agentes de Carga: solucion dirigida a agentes de carga."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "En SURA valoramos tu fidelidad. Por eso queremos ofrecerte asesorias para potenciar el exito de tu empresa en cinco frentes. Modelo operativo: diagnostico de riesgos logisticos, formaciones logisticas (+35 distintas), inspecciones en puertos, consulta de bases de datos vehiculos, consulta de embarcaciones y asesoria logistica. Talento humano: asesoria en legislacion y responsabilidad civil, asesoria en medicion de riesgo psicosocial. Gestion financiera: asesoria en optimizacion de flujo de caja, planificacion de corto y mediano plazo. Gestion ambiental: taller huella de carbono, taller de analisis de aspectos e impactos ambientales. Internacionalizacion: diagnostico del proceso de internacionalizacion."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Servicios de acompanamiento disponibles para el sector logistico. Asesoria de inventarios: contextualiza el proceso de control de inventarios de la empresa Pyme, sus procedimientos, politicas e indicadores, con plan de trabajo de recomendaciones para su optimizacion. Asesoria de almacenamiento: diagnostico de las operaciones de almacenamiento tratando seguridad y oportunidades de optimizacion. Evaluacion de riesgos fisicos por variabilidad climatica y amenazas naturales: identificar, analizar y calificar el riesgo fisico actual de cada instalacion, abarcando amenazas naturales e hidrometeorologicas, vulnerabilidades estructurales, operativas y organizacionales, y la exposicion de activos, personal y procesos criticos. Formaciones logisticas: temas de riesgos logisticos para mejorar la competitividad empresarial; cada formacion cuenta como un servicio."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Calificacion de proveedores: comprendemos las practicas de tus proveedores para implementar planes de acompanamiento que garanticen operaciones seguras, con reuniones, gestion de comunicacion, analisis de documentacion, entrevistas con lideres y evaluacion de practicas. Entrega de buenas practicas y protocolos: informe con lineamientos y buenas practicas para los procesos logisticos ajustados a la operacion de tu empresa. Acompanamiento satelital para hurto de mercancias: monitoreo continuo del recorrido y ubicacion de la mercancia mediante un dispositivo GPS dentro de la carga; ante hurto SURA apoya desde su linea de soporte y articula la gestion con la Policia Nacional, sin garantia de recuperacion. SURA envia el GPS y lo recoge tras un mes."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Consulta de bases de datos de vehiculos y/o conductores: verificacion de antecedentes de los vehiculos y conductores a los cuales entregaras tu mercancia, con informacion ante entidades publicas y recomendaciones de seguridad. Maximo 10 consultas por servicio. Consulta de edad y clasificacion de embarcaciones: consultas sobre edad y clasificacion identificando caracteristicas y riesgos para un efectivo transporte internacional; cada consulta cuenta como un servicio. Diagnostico de riesgos logisticos: con base en la Norma ISO 31010 analizamos y evaluamos los riesgos logisticos, entregando una matriz de riesgos y medidas de tratamiento priorizadas. Inspeccion en puerto: inspeccionamos las mercancias en distintos puntos de transferencia con recomendaciones para mitigar perdidas o danos; hay inspectores en Buenaventura, Cartagena, Santa Marta, Barranquilla, Palermo y Bogota, para otras zonas inspecciones virtuales."
+    },
+    {
+      "seccion": "general",
+      "contenido": "El numero de servicios dependera del valor contratado de tu seguro. Plan 1: prima menor, $10.000.000, acceso a 2 servicios. Plan 2: prima entre $10.000.000 y $35.000.000, acceso a 4 servicios. Plan 3: prima superior a $35.000.000, acceso a 6 servicios. Nuestros servicios mas taquilleros: Diagnostico de riesgos logisticos, nos basamos en la Norma ISO 31010 para analizar, evaluar y entregarte una matriz con los riesgos logisticos de tus operaciones y las medidas de tratamiento asociadas. Consulta de base de datos, verificamos los antecedentes de los vehiculos y conductores a los cuales entregaras tu mercancia. Formaciones logisticas, creamos diferentes opciones para que elijas el plan que mas se acomoda a tu estilo de vida."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Preguntas frecuentes. Los servicios tienen algun costo? No, nuestras asesorias hacen parte de la propuesta de valor de SURA por tener contratada alguna de las cuatro soluciones mencionadas. A que servicios tengo acceso? Podras seleccionar entre 16 servicios asociados a temas de talento humano, modelo operativo, ambientales, financieros y de internacionalizacion para potenciar la competitividad de tu empresa. A cuantos servicios tengo acceso? De acuerdo con el valor de la prima que pagues, puedes acceder a tres (3), cinco (5) o diez (10) servicios. En que ciudad tienen atencion? Llegamos a todas las ciudades de Colombia. Quienes son los expertos que prestan los servicios? Es un equipo de expertos en talento humano, modelo operativo, ambientales, financieros e internacionalizacion para el sector logistico, que hacen parte de nuestro equipo de Empresas SURA."
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/hogar/mascotas",
+  "producto": {
+    "slug": "personas-hogar-mascotas",
+    "nombre": "Seguro de Mascotas SURA",
+    "ramo": "Hogar y Vivienda",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Sabemos que tus mascotas son una parte fundamental de tu Familia. Con esta solución SURA te respalda protegiendo tu patrimonio, en caso de que este se vea afectado por cualquier evento relacionado con tus perros o gatos, y te acompaña satisfaciendo tus necesidades y las de tus mascotas, a través de la prestación de diferentes servicios, para que puedas cuidarlos, atenderlos y consentirlos como se lo merecen.",
+    "resumen": "Seguro para perros y gatos que protege tu patrimonio y ofrece gastos veterinarios, responsabilidad civil y servicios de cuidado para tu mascota.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "presencial", "call_center"]
+  },
+  "planes": [
+    { "slug": "plan-global", "nombre": "Plan Global", "orden": 1, "precio_desde": null },
+    { "slug": "plan-clasico", "nombre": "Plan Clásico", "orden": 2, "precio_desde": null },
+    { "slug": "plan-basico", "nombre": "Plan Básico", "orden": 3, "precio_desde": null }
+  ],
+  "coberturas": [
+    {
+      "slug": "responsabilidad-civil-danos-a-terceros",
+      "nombre": "Responsabilidad civil por daños a terceros",
+      "descripcion": "Te protege en caso de que tu mascota cause daños materiales, lesiones o incluso la muerte a un tercero. SURA se encarga de los costos de reparación o compensación necesarios.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "gastos-veterinarios",
+      "nombre": "Gastos veterinarios",
+      "descripcion": "Cubre los gastos en los que incurras debido a enfermedad o accidente de tu mascota. Incluye consultas, tratamientos, hospitalización y medicación necesaria para garantizar la salud de tu mascota.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Deducible de 4 SMDLV (Salarios Mínimos Diarios Legales Vigentes)"
+    },
+    {
+      "slug": "gastos-exequiales-o-funerarios",
+      "nombre": "Gastos exequiales o funerarios",
+      "descripcion": "En caso de que tu mascota fallezca o sea necesario aplicarle la eutanasia, SURA ofrece un auxilio económico para cubrir los gastos funerarios, asegurando que tu mascota tenga un adiós digno.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "gastos-por-robo-o-perdida-de-mascota",
+      "nombre": "Gastos por robo o pérdida de mascota",
+      "descripcion": "Proporciona un auxilio económico si tu mascota es robada o desaparece, ayudándote a afrontar la situación y buscar soluciones.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "guarderia-por-hospitalizacion-o-viaje",
+      "nombre": "Guardería en caso de hospitalización o viaje del dueño",
+      "descripcion": null,
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "informes-de-vacunas",
+      "nombre": "Informes de vacunas para tu mascota",
+      "descripcion": null,
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "asistencia-legal-por-danos-a-terceros",
+      "nombre": "Asistencia legal en caso de presentar daños a terceros",
+      "descripcion": null,
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "orientacion-nutricional-veterinaria",
+      "nombre": "Orientación nutricional veterinaria",
+      "descripcion": null,
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "bano-para-tu-mascota",
+      "nombre": "Baño para tu mascota",
+      "descripcion": null,
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "entrega-de-medicamentos-a-domicilio",
+      "nombre": "Entrega de medicamentos a domicilio",
+      "descripcion": null,
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "orientacion-psicologica-por-fallecimiento-de-mascota",
+      "nombre": "Orientación psicológica al dueño por el fallecimiento de su mascota",
+      "descripcion": null,
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "refuerzo-antirrabico-anual",
+      "nombre": "Refuerzo antirrábico anual para tu mascota",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "referencia-y-coordinacion-de-servicios",
+      "nombre": "Referencia y coordinación de servicios para tu mascota",
+      "descripcion": null,
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "paseador-canino",
+      "nombre": "Paseador canino",
+      "descripcion": null,
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "pipeta-antipulgas",
+      "nombre": "Pipeta antipulgas",
+      "descripcion": "Incluida en Plan Global y Plan Clásico. No incluida en Plan Básico.",
+      "categoria": "salud",
+      "plan_slug": "plan-clasico",
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "traslado-por-emergencia",
+      "nombre": "Traslado de tu mascota por alguna emergencia",
+      "descripcion": "Incluida en Plan Global y Plan Clásico. No incluida en Plan Básico.",
+      "categoria": "asistencia",
+      "plan_slug": "plan-clasico",
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "esterilizacion",
+      "nombre": "Esterilización para tu mascota",
+      "descripcion": "Incluida únicamente en Plan Global. No incluida en Plan Clásico ni Plan Básico.",
+      "categoria": "salud",
+      "plan_slug": "plan-global",
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "urgencia-dental",
+      "nombre": "Urgencia dental para tu mascota",
+      "descripcion": "Incluida únicamente en Plan Global. No incluida en Plan Clásico ni Plan Básico.",
+      "categoria": "salud",
+      "plan_slug": "plan-global",
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "refuerzo-esquema-hexavalente-anual",
+      "nombre": "Refuerzo de esquema hexavalente anual",
+      "descripcion": "Incluida únicamente en Plan Global. No incluida en Plan Clásico ni Plan Básico.",
+      "categoria": "salud",
+      "plan_slug": "plan-global",
+      "tipo": "incluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "especies_asegurables": ["perros", "gatos"],
+      "edad_mascota_min": "3 meses",
+      "edad_mascota_max": "9 años",
+      "nota_edad": "Para asegurar a tu mascota por primera vez, esta debe tener entre 3 meses y 9 años de edad. Fuera de este rango, no se aceptan nuevas pólizas.",
+      "deducible_gastos_veterinarios": "4 SMDLV"
+    },
+    "descripcion": "Especies asegurables: perros y gatos. Para asegurar a tu mascota por primera vez, esta debe tener entre 3 meses y 9 años de edad. Fuera de este rango, no se aceptan nuevas pólizas para mascotas."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condicionado del Seguro de Mascotas SURA",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/otros/condicionado-seguro-mascotas.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Sabemos que quieres asegurarte de que tus mascotas siempre estén protegidas. En SURA te ofrecemos planes diseñados para tus fieles amigos. Sabemos que tus mascotas son una parte fundamental de tu Familia. Con esta solución SURA te respalda protegiendo tu patrimonio, en caso de que este se vea afectado por cualquier evento relacionado con tus perros o gatos, y te acompaña satisfaciendo tus necesidades y las de tus mascotas, a través de la prestación de diferentes servicios, para que puedas cuidarlos, atenderlos y consentirlos como se lo merecen. Con tu Seguro de Mascotas puedes acceder a respaldo económico para consultas médicas veterinarias, guardería en caso de hospitalización o viaje del dueño, y servicio de baño para tu mascota."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Para obtener información más completa te recomendamos consultar nuestro condicionado general. Tenemos 4 coberturas que podrás elegir con el Seguro de Mascotas SURA: Responsabilidad civil por daños a terceros: esta cobertura te protege en caso de que tu mascota cause daños materiales, lesiones o incluso la muerte a un tercero. SURA se encarga de los costos de reparación o compensación necesarios. Gastos veterinarios: cubre los gastos en los que incurras debido a enfermedad o accidente de tu mascota. Esto incluye consultas, tratamientos, hospitalización y medicación necesaria para garantizar la salud de tu mascota. Gastos exequiales o funerarios: en caso de que tu mascota fallezca o sea necesario aplicarle la eutanasia, SURA ofrece un auxilio económico para cubrir los gastos funerarios, asegurando que tu mascota tenga un adiós digno. Gastos por robo o pérdida de mascota: esta cobertura proporciona un auxilio económico si tu mascota es robada o desaparece, ayudándote a afrontar la situación y buscar soluciones."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Comparativa de servicios por plan (Plan Global, Plan Clásico, Plan Básico). Incluidos en los tres planes: guardería en caso de hospitalización o viaje del dueño; informes de vacunas para tu mascota; asistencia legal en caso de presentar daños a terceros; orientación nutricional veterinaria; baño para tu mascota; entrega de medicamentos a domicilio; orientación psicológica al dueño por el fallecimiento de su mascota; refuerzo antirrábico anual para tu mascota; referencia y coordinación de servicios para tu mascota; paseador canino. Incluidos en Plan Global y Plan Clásico (no en Básico): pipeta antipulgas; traslado de tu mascota por alguna emergencia. Incluidos únicamente en Plan Global: esterilización para tu mascota; urgencia dental para tu mascota; refuerzo de esquema hexavalente anual."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "Términos y condiciones. Especies asegurables: Perros y gatos. Aunque muchos animales pueden ser considerados mascotas, SURA limita la cobertura a estas dos especies. Edad de la mascota: para asegurar a tu mascota por primera vez, esta debe tener entre 3 meses y 9 años de edad. Fuera de este rango, no se aceptan nuevas pólizas para mascotas. Cobertura de gastos veterinarios: para la cobertura de gastos veterinarios, existe un deducible de 4 SMDLV (Salarios Mínimos Diarios Legales Vigentes). Esto significa que deberás cubrir este monto inicial antes de que el seguro comience a cubrir los gastos."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Qué debo hacer en caso de una reclamación? Puedes realizar la notificación de tu reclamación a través de varios canales: Sucursal virtual: ingresa a la página web de Seguros SURA (www.segurossura.com.co) y accede a la sucursal virtual utilizando tu usuario y contraseña. Llamada telefónica: desde tu celular, marca el número #888 (llamada sin costo) opciones 1 - 7. Línea de Atención al Cliente: si te encuentras en Medellín (604), Bogotá (601) o Cali (602), comunícate al 437 88 88. Si estás en el resto del país, marca el número 01 8000 51 8888. Contactando a tu asesor de seguros. ¿Cómo adquirir el Seguro de Mascotas SURA? Puedes preguntarle por los planes a tu asesor comercial, o también puedes adquirirlo por los demás canales de comercialización que tenemos para ti, pero recuerda que las ofertas pueden variar dependiendo del canal."
+    }
+  ]
+}

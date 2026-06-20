@@ -1,0 +1,270 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/construccion/obras/civiles/terminadas",
+  "producto": {
+    "slug": "empresas-construccion-obras-civiles-terminadas",
+    "nombre": "Seguro de Obras Civiles Terminadas",
+    "ramo": "Construcción",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "Aseguramos la operación de tus obras de infraestructura, para que sigan funcionando en el menor tiempo posible ante eventos inesperados. Protege empresas públicas o privadas, concesiones y asociaciones público-privadas encargadas de la operación de una obra de infraestructura frente a daños materiales, eventos de la naturaleza, hurto y actos malintencionados de terceros.",
+    "resumen": "Seguro para empresas que protege la operación de obras civiles de infraestructura terminadas ante eventos inesperados.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "presencial", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "danos-materiales-incendio-explosion",
+      "nombre": "Daños materiales por incendio y explosión",
+      "descripcion": "Incendio y explosión que no hayan sido ocasionados por actos malintencionados de otras personas.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-materiales-caida-aeronave",
+      "nombre": "Daños materiales por caída de aeronave",
+      "descripcion": "Caídas de aeronave o partes de ella.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-materiales-colision-vehiculos",
+      "nombre": "Daños materiales por colisión de vehículos",
+      "descripcion": "Colisión de vehículos terrestres o embarcaciones.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-materiales-inundacion-riesgos-geotecnicos",
+      "nombre": "Daños materiales por inundación y riesgos geotécnicos",
+      "descripcion": "Inundación y riesgos geotécnicos.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-eventos-naturaleza",
+      "nombre": "Daños por eventos de la naturaleza",
+      "descripcion": "Protegemos tu obra de construcción si sufre daños por eventos como rayo, terremoto, temblor de tierra, erupción volcánica u otros desastres naturales.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "hurto",
+      "nombre": "Hurto",
+      "descripcion": "En caso de un robo con violencia en la obra, te indemnizaremos con el valor de los bienes hurtados.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "actos-malintencionados-de-terceros",
+      "nombre": "Actos malintencionados de terceros",
+      "descripcion": "Cubrimos la obra de construcción en caso de asonada, motín, conmoción civil, huelga, actos malintencionados de terceros y terrorismo.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "rotura-de-maquinaria",
+      "nombre": "Rotura de maquinaria",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-extracontractual",
+      "nombre": "Responsabilidad civil por daños materiales o afectaciones a personas externas al proyecto",
+      "descripcion": "Responsabilidad civil por daños materiales o afectaciones a personas externas al proyecto.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "gastos-remocion-escombros",
+      "nombre": "Gastos de remoción de escombros y otros gastos asociados",
+      "descripcion": "Gastos de remoción de escombros, extinción del siniestro, preservación de los bienes, flete aéreo, honorarios profesionales.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "lucro-cesante",
+      "nombre": "Lucro cesante",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "riesgos-nucleares-atomicos",
+      "nombre": "Riesgos nucleares o atómicos",
+      "descripcion": "Riesgos nucleares o atómicos.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "hurto-simple-desaparicion-misteriosa",
+      "nombre": "Hurto simple o desaparición misteriosa",
+      "descripcion": "Hurto simple o desaparición misteriosa.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "guerra-invasion-hostilidades",
+      "nombre": "Guerra, invasión y hostilidades",
+      "descripcion": "Guerra, invasión, actos enemigos extranjeros, hostilidades y guerras civiles.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "dolo-culpa-grave",
+      "nombre": "Dolo o culpa grave",
+      "descripcion": "Dolo (intensión) o culpa grave.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "desgaste-deterioro-gradual",
+      "nombre": "Desgaste y deterioro gradual",
+      "descripcion": "Desgaste, pérdidas o daños por uso o antigüedad, abuso, deterioro gradual, vicio propio, oxidación o corrosiones.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-explosivos-componente-nuclear",
+      "nombre": "Daños por explosivos o componente nuclear",
+      "descripcion": "Daños por explosivos o cualquier componente nuclear.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "deterioro-abuso-bienes-asegurados",
+      "nombre": "Deterioro o abuso de bienes asegurados",
+      "descripcion": "Deterioro o abuso de estacionamientos, puertos, parques, viaductos, entre otros bienes asegurados.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-preexistentes-inicio-seguro",
+      "nombre": "Daños o defectos preexistentes al inicio del seguro",
+      "descripcion": "Daños o defectos de bienes asegurados existentes al iniciarse el seguro.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "dano-gradual-por-agua-intemperie",
+      "nombre": "Daño gradual por agua a la intemperie",
+      "descripcion": "El daño preexistente, gradual, paulatino y continuado que el agua haya ocasionado sobre los bienes expuestos a la intemperie.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "multas-demora-terminacion-contrato",
+      "nombre": "Multas por demora en la terminación del contrato",
+      "descripcion": "Multas por demora en la terminación del contrato para la construcción de alguna obra.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "error-omision-diseno-construccion",
+      "nombre": "Error u omisión de diseño y construcción",
+      "descripcion": "El error u omisión de diseño y construcción, así como la deficiencia en cálculos o procesos de construcción.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños públicas o privadas, concesiones y asociaciones público-privadas que estén encargas de la operación de una obra de infraestructura."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condiciones del seguro Obras Civiles Terminadas",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/ingenieria/obras-civiles-terminadas.pdf"
+    },
+    {
+      "tipo": "condicionado",
+      "titulo": "Condicionado de Póliza Obras Civiles - ANI",
+      "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/Empresas/ingenieria/poliza-de-obras-civiles-ani.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Aseguramos la operación de tus obras de infraestructura, para que sigan funcionando en el menor tiempo posible ante eventos inesperados."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? Empresas de todos los tamaños públicas o privadas, concesiones y asociaciones público-privadas que estén encargas de la operación de una obra de infraestructura."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Por qué elegir esta solución? Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos. Empresas SURA te acompañará para llevar tu empresa a otro nivel. Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos por medio de Empresas SURA."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Daños materiales causados por: incendio y explosión que no hayan sido ocasionados por actos malintencionados de otras personas; caídas de aeronave o partes de ella; colisión de vehículos terrestres o embarcaciones; inundación y riesgos geotécnicos. Daños por eventos de la naturaleza: protegemos tu obra de construcción si sufre daños por eventos como rayo, terremoto, temblor de tierra, erupción volcánica u otros desastres naturales. Hurto: en caso de un robo con violencia en la obra, te indemnizaremos con el valor de los bienes hurtados. Actos malintencionados de terceros: cubrimos la obra de construcción en caso de asonada, motín, conmoción civil, huelga, actos malintencionados de terceros y terrorismo."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Esta solución cuenta con coberturas adicionales, como: rotura de maquinaria; responsabilidad civil por daños materiales o afectaciones a personas externas al proyecto; gastos de remoción de escombros, extinción del siniestro, preservación de los bienes, flete aéreo, honorarios profesionales; lucro cesante."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Algunos de los eventos y riesgos que no cubrimos son: riesgos nucleares o atómicos; hurto simple o desaparición misteriosa; guerra, invasión, actos enemigos extranjeros, hostilidades y guerras civiles; dolo (intensión) o culpa grave; desgaste, pérdidas o daños por uso o antigüedad, abuso, deterioro gradual, vicio propio, oxidación o corrosiones; daños por explosivos o cualquier componente nuclear; deterioro o abuso de estacionamientos, puertos, parques, viaductos, entre otros bienes asegurados; daños o defectos de bienes asegurados existentes al iniciarse el seguro; el daño preexistente, gradual, paulatino y continuado que el agua haya ocasionado sobre los bienes expuestos a la intemperie; multas por demora en la terminación del contrato para la construcción de alguna obra; el error u omisión de diseño y construcción, así como la deficiencia en cálculos o procesos de construcción."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Después de presentar tu reclamación, te contactaremos entre cinco (5) y siete (7) días calendario para informarte cómo se gestiona el proceso y solicitarte la documentación necesaria. Una vez tengamos toda la documentación requerida, te enviaremos una respuesta en un plazo de siete (7) días hábiles. Recuerda que debes asumir un valor deducible, consúltalo en las condiciones de tu póliza."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cuáles son los medios de pago? Presenciales: bancos y redes aliadas. Digitales: Pago Express, débito automático y financiación. ¿Tienes dudas? Comunícate con nosotros al 01 8000 51 8888."
+    }
+  ]
+}

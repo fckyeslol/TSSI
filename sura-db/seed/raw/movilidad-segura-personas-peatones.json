@@ -1,0 +1,23 @@
+{
+  "tipo": "referencia",
+  "url": "https://www.sura.co/seguros/movilidad/segura/personas/peatones",
+  "categoria": "General",
+  "chunks": [
+    {
+      "seccion": "Sé un peatón responsable y camina seguro por la ciudad",
+      "contenido": "SURA te brinda soluciones para que cada desplazamiento a pie lo hagas con la tranquilidad de estar protegido."
+    },
+    {
+      "seccion": "Muévete como más te gusta, muévete a pie",
+      "contenido": "Hoy sabemos, por los cambios que ha tenido el mundo, que podemos desplazarnos sin importar la manera. Moverte a pie, además de ser una posibilidad que no implica ningún gasto económico, también te permite mejorar tu bienestar físico y tu salud. Atrévete a conocer nuevos espacios y a caminarlos con libertad. ¡Con SURA te acompañamos a moverte seguro mientras caminas por la ciudad!"
+    },
+    {
+      "seccion": "Recomendaciones de movilidad en pandemia",
+      "contenido": "Recomendaciones de movilidad en pandemia."
+    },
+    {
+      "seccion": "Camina seguro y evita accidentes en la vía",
+      "contenido": "Camina seguro y evita accidentes en la vía."
+    }
+  ]
+}

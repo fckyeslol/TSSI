@@ -1,0 +1,154 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/movilidad/soat/reclamaciones",
+  "producto": {
+    "slug": "personas-movilidad-soat-reclamaciones",
+    "nombre": "SOAT SURA - Reclamaciones",
+    "ramo": "Movilidad",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Página de canales y proceso de reclamación del SOAT SURA. Permite conocer los requisitos de cada amparo (gastos médicos y de transporte, incapacidad permanente y muerte) y realizar la reclamación de manera digital de forma rápida y sin complicaciones.",
+    "resumen": "Canales y proceso para reclamar el SOAT SURA por gastos médicos, incapacidad permanente o muerte.",
+    "es_digital": true,
+    "cotizador_url": "https://www.suraenlinea.com/soat/sura/seguro-obligatorio",
+    "canales": ["digital", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "gastos-medicos-y-de-transporte",
+      "nombre": "Gastos médicos y gastos de transporte",
+      "descripcion": "La reclamación la hará la entidad hospitalaria o prestadora del servicio de ambulancia.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "incapacidad-permanente",
+      "nombre": "Incapacidad permanente",
+      "descripcion": "La reclamación la hará quien fue víctima del accidente de tránsito. A partir del 1 de febrero de 2024 el pago se hará únicamente a favor del beneficiario legal.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "muerte-y-gastos-funerarios",
+      "nombre": "Muerte",
+      "descripcion": "La reclamación la harán los beneficiarios de la ley.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "incapacidad-temporal",
+      "nombre": "Incapacidad temporal",
+      "descripcion": "El SOAT no paga las incapacidades temporales (de duración por tiempo determinado, días o meses). Estas deben ser tramitadas por la EPS o ARL.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  "documentos": [
+    {
+      "tipo": "formato",
+      "titulo": "Proceso de calificación de pérdida de capacidad laboral (Calificación SOAT)",
+      "pdf_url": "https://www.segurossura.com.co/documentos/formularios-reclamacion-soat/proceso-calificacion-soat.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Manual radicación facturas",
+      "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/manual-radicacion-facturas.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Manual respuesta objeción",
+      "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/manual-respuestas-objecion.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Instructivo para presentación de reclamaciones con FURIPS 1 y 2",
+      "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/instructivo-reclamacion-anexo-tecnico-furips.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Respuesta a objeción (presentación de objeciones totales y parciales)",
+      "pdf_url": "http://www.segurossura.com.co/documentos/movilidad/presentacion-de-objeciones-totales%20y-parciales.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Radicación incapacidad página web (paso a paso digital)",
+      "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/paso-a-paso-radicacion-incapacidad-permanente-digital.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Incapacidad permanente (Conoce más)",
+      "pdf_url": "https://www.segurossura.com.co/documentos/formularios-reclamacion-soat/incapacidad-permanente.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Muerte (Conoce más)",
+      "pdf_url": "https://www.segurossura.com.co/documentos/formularios-reclamacion-soat/muerte.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Reclamaciones SOAT. ¿Tienes que realizar una reclamación por el SOAT? Conoce aquí nuestros canales de contacto. Hazlo de forma rápida y sin complicaciones con SURA."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Información importante: A partir del 1 de enero de 2025, deberá presentar sus reclamaciones derivadas de la prestación de servicios de salud, que afecten la póliza SOAT, bajo la estructura del anexo Técnico que indica la circular citada en el asunto. Teniendo en cuenta lo anterior, a partir de la fecha, la opción habilitada para presentación de dichas reclamaciones será PRESENTACIÓN CON FURIPS Y FURTRAN como se encuentra actualmente en la plataforma https://www.sis.co/. Para información complementaria, comuníquese con el canal de contacto: mesadeayudasoatsura@sis.co"
+    },
+    {
+      "seccion": "general",
+      "contenido": "¡Ahora puedes hacer la reclamación del SOAT de manera digital! Descubre todos los requisitos específicos de cada amparo. Solo tienes que ingresar en la ventana correspondiente según tu caso de reclamación al SOAT."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Proceso de calificación de pérdida de capacidad laboral. La calificación voluntaria de incapacidad permanente solo aplica en el trámite de reclamación de SOAT SURA por accidente de tránsito."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Gastos médicos y gastos de transporte: La reclamación la hará la entidad hospitalaria o prestadora del servicio de ambulancia. Documentos asociados: Manual radicación facturas, Manual respuesta objeción, Instructivo para presentación de reclamaciones con FURIPS 1 y 2, y Respuesta a objeción."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Incapacidad permanente: La reclamación la hará quien fue víctima del accidente de tránsito. Recuerda que a partir del 1 de febrero del 2024 el pago de las reclamaciones de SOAT de la cobertura de incapacidad permanente se hará únicamente a favor del beneficiario legal."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Muerte: La reclamación la harán los beneficiarios de la ley."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Gestiona tus reclamaciones. Señor reclamante: Te damos las herramientas para que autogestiones la reclamación por muerte o incapacidad permanente de tu SOAT. Elige la opción según el proceso que necesites llevar a cabo y sigue las instrucciones. Señor prestador: A continuación el portal de nuestro aliado SIS VIDA para que autogestiones la reclamación por gastos médicos y transporte. Da clic en el botón según el proceso que necesites llevar a cabo y sigue las instrucciones."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Ten en cuenta: El trámite para las reclamaciones por muerte o incapacidad permanente lo puedes hacer tú mismo, sin necesidad de acudir a intermediarios. Recuerda que, en caso de muerte, son los beneficiarios de ley quienes hacen la reclamación. Toda institución prestadora de servicios de salud está obligada a atenderte si eres víctima de un accidente de tránsito y, por ley, debes ser trasladado a la institución más cercana después del accidente. Tienes dos años para realizar la reclamación por muerte o incapacidad permanente después de ocurrido el hecho (para muerte después de ocurrido el fallecimiento, incapacidad permanente después de que te entreguen la calificación y gastos médicos y de transporte luego de ocurrido el accidente)."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "El SOAT no paga las incapacidades temporales, es decir, aquellas cuya duración es por un tiempo determinado (días o meses). Estas deben ser tramitadas por la EPS o ARL."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Si deseas obtener más información o resolver cualquier inquietud sobre el proceso de reclamaciones, ponte en contacto con: Para reclamaciones de gastos médicos y de transporte: mesadesayudasoatsura@sis.co o a la línea telefónica 323 2255445. Para reclamaciones de incapacidad permanente y de muerte y gastos funerarios: mesadeayudapnsoatsura@sis.co o a la línea telefónica 318 0277679. Certificados de tope de cobertura: debes radicar la solicitud a través del correo electrónico certificadossoatsura@sis.co"
+    },
+    {
+      "seccion": "general",
+      "contenido": "Compra tu SOAT. ¡Consigue tu SOAT en suraenlinea.com y recíbelo al instante en tu correo! Cotízalo aquí."
+    }
+  ]
+}

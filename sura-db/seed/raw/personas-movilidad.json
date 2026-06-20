@@ -1,0 +1,50 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/movilidad",
+  "producto": {
+    "slug": "personas-movilidad",
+    "nombre": "Seguros de Movilidad",
+    "ramo": "Movilidad",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "En SURA te acompañamos a moverte de forma segura, por eso creamos diferentes opciones para que elijas el plan que más se acomoda a tu estilo de vida.",
+    "resumen": "Opciones de seguros de movilidad para que te muevas seguro: carro, moto, bicicleta, patineta, SOAT y más.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["digital", "asesor"]
+  },
+  "planes": [
+    { "slug": "plan-muevete-libre", "nombre": "Plan Muévete Libre", "orden": 1, "precio_desde": null },
+    { "slug": "seguro-de-bicicletas", "nombre": "Seguro de Bicicletas", "orden": 2, "precio_desde": null },
+    { "slug": "plan-carros-electricos", "nombre": "Plan Carros Eléctricos", "orden": 3, "precio_desde": null },
+    { "slug": "seguro-de-autos", "nombre": "Seguro de Autos", "orden": 4, "precio_desde": null },
+    { "slug": "seguro-de-motos", "nombre": "Seguro de Motos", "orden": 5, "precio_desde": null },
+    { "slug": "soat", "nombre": "SOAT", "orden": 6, "precio_desde": null },
+    { "slug": "plan-utilitarios-y-pesados", "nombre": "Plan Utilitarios y Pesados", "orden": 7, "precio_desde": null },
+    { "slug": "seguro-de-viaje", "nombre": "Seguro de Viaje", "orden": 8, "precio_desde": null },
+    { "slug": "seguro-de-patinetas", "nombre": "Seguro de Patinetas", "orden": 9, "precio_desde": null }
+  ],
+  "coberturas": [],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Asegura tu movilidad. En SURA te acompañamos a moverte de forma segura, por eso creamos diferentes opciones para que elijas el plan que más se acomoda a tu estilo de vida. Te acompañamos con soluciones pensadas para ti. ¡Elige la opción que mejor se ajuste a tus necesidades!"
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Plan Muévete Libre: Te protegemos cuando vas caminando, en taxi, transporte público, bici, patineta o moto. Seguro de Bicicletas: ¿Usas tu bicicleta para transportarte o como pasatiempo? Este seguro está diseñado para ti. Plan Carros Eléctricos: En SURA queremos proteger tu aporte a la movilidad sostenible. Seguro de Autos: Sabemos que cuando compras un carro quieres también seguridad y protección para ti y para quienes te acompañan en el camino. Seguro de Motos: Cuando compras una moto quieres también seguridad, por eso te ofrecemos un apoyo no solo en caso de accidentes o robos."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "SOAT: Con el Seguro Obligatorio de Accidentes de Tránsito manejas tranquilo. Plan Utilitarios y Pesados: En SURA cuidamos tu trabajo y nos ocupamos de tu seguridad. Seguro de Viaje: Disfruta de tus viajes con tranquilidad con la certeza de estar protegido vayas a donde vayas. Seguro de Patinetas: Protege tu patineta como el medio de transporte que te genera libertad en tus desplazamientos."
+    }
+  ]
+}

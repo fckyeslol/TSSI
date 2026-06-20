@@ -1,0 +1,113 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/salud",
+  "producto": {
+    "slug": "personas-salud",
+    "nombre": "Salud SURA",
+    "ramo": "Salud",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Cuanto más sabemos de ti, mejor podemos protegerte. Por eso, te ofrecemos una variedad de programas y servicios diseñados para cuidarte a ti y a tus seres queridos. Salud SURA reúne pólizas de salud, sedes, directorios médicos, cobertura en el exterior, programas especiales y servicios en línea para cuidar tu bienestar.",
+    "resumen": "Pólizas y servicios de salud de SURA para cuidar tu bienestar y el de tu familia.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["digital", "asesor", "presencial"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "polizas-de-salud",
+      "nombre": "Pólizas de salud",
+      "descripcion": "Pólizas de salud de SURA. Conoce más descargando los términos y condiciones.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "sedes-salud-sura",
+      "nombre": "Sedes Salud SURA",
+      "descripcion": "Sedes exclusivas para la atención en salud de los asegurados.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "directorio-medico",
+      "nombre": "Directorio Médico",
+      "descripcion": "Acceso al directorio médico para encontrar los servicios que necesitas.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "cobertura-medica-en-el-exterior",
+      "nombre": "Cobertura en el exterior",
+      "descripcion": "Atención médica de emergencia o urgencia en el extranjero.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "plataforma-bienestar-longevo",
+      "nombre": "Longevo",
+      "descripcion": "Plataforma de Bienestar de SURA para transformar tus hábitos.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "servicios-en-linea",
+      "nombre": "Servicios en línea",
+      "descripcion": "Servicios en línea de Salud SURA. Conoce más descargando los términos y condiciones.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "programas-especiales-de-salud",
+      "nombre": "Programas especiales de salud",
+      "descripcion": "Acompañamiento de acuerdo con el momento de vida en el que te encuentres.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "toma-de-muestras-a-domicilio",
+      "nombre": "Toma de muestras a domicilio",
+      "descripcion": "Servicio de toma de muestras a domicilio.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Cuidamos tu salud. Cuanto más sabemos de ti, mejor podemos protegerte. Por eso, te ofrecemos una variedad de programas y servicios diseñados para cuidarte a ti y a tus seres queridos. Descubre más sobre estos servicios y trabajemos juntos por tu bienestar. Déjanos estar a tu lado con nuestros Seguros. ¡Elige la mejor opción para ti!"
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Pólizas de salud: conoce más descargando los términos y condiciones. Sedes Salud SURA: exclusivas para ti. Directorio Médico: encuentra los servicios que necesitas. Cobertura en el exterior: atención médica de emergencia o urgencia en el extranjero. Longevo: conoce la Plataforma de Bienestar de SURA para transformar tus hábitos."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Servicios en línea: conoce más descargando los términos y condiciones. Programas especiales de salud: te acompañamos de acuerdo con el momento de vida en el que te encuentres. Toma de muestras a domicilio: servicio disponible para los asegurados. Conoce nuestro seguro de arriendo digital y aprende más en nuestro Blog. Visita también el Centro de ayuda para resolver tus dudas."
+    }
+  ]
+}

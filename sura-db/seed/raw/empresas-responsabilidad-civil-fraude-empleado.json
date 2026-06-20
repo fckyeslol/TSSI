@@ -1,0 +1,156 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil/fraude/empleado",
+  "producto": {
+    "slug": "empresas-responsabilidad-civil-fraude-empleado",
+    "nombre": "Seguro de Fraude de Empleados",
+    "ramo": "Otros",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "Protegemos tu empresa ante pérdidas económicas causadas por fraudes o actos deshonestos cometidos por tus colaboradores.",
+    "resumen": "Cubre las pérdidas económicas de tu empresa por fraudes o actos deshonestos de tus empleados.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "infidelidad-empleados",
+      "nombre": "Infidelidad empleados",
+      "descripcion": "Cubre las pérdidas que sufra la empresa por la apropiación indebida de dinero u otros bienes por parte de un colaborador, como consecuencia de hurto, hurto calificado, falsedad en documento público o privado, o abuso de confianza.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "perdidas-trabajadores-no-identificados",
+      "nombre": "Pérdidas causadas por trabajadores no identificados",
+      "descripcion": "Cobertura adicional para pérdidas causadas por trabajadores no identificados.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "bienes-terceros-bajo-custodia",
+      "nombre": "Bienes de propiedad de terceros bajo custodia",
+      "descripcion": "Cobertura adicional para bienes de propiedad de terceros que estén bajo tu custodia.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "danos-bienes-cualquier-causa",
+      "nombre": "Daños que sufran los bienes por cualquier causa",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "mermas-inventarios",
+      "nombre": "Mermas inherentes a la condición física de los inventarios",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "abuso-confianza-uso-indebido",
+      "nombre": "Abuso de confianza sin apropiación (uso indebido)",
+      "descripcion": "Abuso de confianza cuando no implica apropiación sino uso indebido.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "pagos-erroneos-terceros",
+      "nombre": "Pérdidas por pagos realizados a terceros equivocadamente",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "creditos-terceros-no-pagados",
+      "nombre": "Créditos concedidos a terceros y no pagados",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "hurto-empleados-a-empresas-prestadoras-servicios",
+      "nombre": "Hurto causado por tus empleados a empresas que les prestan servicios",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "incumplimiento-controles-contables",
+      "nombre": "Pérdidas o daños por omisión de controles contables",
+      "descripcion": "Pérdidas o daños cuando se compruebe que la empresa se abstuvo, durante la vigencia de la póliza, de realizar corte de cuentas anual, cuadre de caja diario, arqueo mensual y conciliación mensual de cuentas bancarias.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "sectores_incluidos": ["sector real", "industrial", "servicios"],
+      "sectores_excluidos": [
+        "establecimientos financieros",
+        "corresponsales bancarios",
+        "fondos de empleados",
+        "comisionistas de bolsa",
+        "empresas del sector de hidrocarburos",
+        "transportes de valores",
+        "entidades promotoras de salud (EPS)"
+      ]
+    },
+    "descripcion": "Empresas de todos los tamaños del sector real, industrial y de servicios. Excepto establecimientos financieros, corresponsales bancarios, fondos de empleados, comisionistas de bolsa, empresas del sector de hidrocarburos, transportes de valores y entidades promotoras de salud (EPS)."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Términos y condiciones - Fraude de Empleados",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/fraude/fraude-empleados.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Fraude de Empleados. Protegemos tu empresa ante pérdidas económicas causadas por fraudes o actos deshonestos cometidos por tus colaboradores. ¿Por qué elegir esta solución? Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos por medio de Empresas SURA."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? Empresas de todos los tamaños del sector real, industrial y de servicios. Excepto establecimientos financieros, corresponsales bancarios, fondos de empleados, comisionistas de bolsa, empresas del sector de hidrocarburos, transportes de valores y entidades promotoras de salud (EPS)."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Infidelidad empleados: Te cubrimos las pérdidas que sufra la empresa por la apropiación indebida de dinero u otros bienes por parte de un colaborador y que se produzcan como consecuencia de: Hurto. Hurto calificado. Falsedad en documento público o privado. Abuso de confianza. Esta solución cuenta con coberturas adicionales, como: Pérdidas causadas por trabajadores no identificados. Bienes de propiedad de terceros que estén bajo tu custodia."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Daños que sufran los bienes por cualquier causa. Mermas inherentes a la condición física de los inventarios. Abuso de confianza cuando no implica apropiación sino uso indebido. Pérdidas que resulten de pagos realizados a terceros equivocadamente. Créditos concedidos a terceros y no pagados. Hurto causado por tus empleados a empresas que les prestan servicios. Pérdidas o daños cuando se compruebe que la empresa se abstuvo, durante la vigencia de la póliza, de realizar las siguientes conductas: Corte de cuentas por lo menos una vez al año. Cuadre de caja diario de las operaciones de cobradores, cajeros, mensajeros y vendedores ambulantes. Un arqueo por lo menos una vez al mes. Efectuar mensualmente la conciliación de cuentas bancarias."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Después de presentar tu reclamación, te contactaremos entre cinco (5) y siete (7) días calendario para informarte cómo se gestiona el proceso y solicitarte la documentación necesaria. Una vez tengamos toda la documentación requerida, te enviaremos una respuesta en un plazo de siete (7) días hábiles. Recuerda que debes asumir un valor deducible, consúltalo en las condiciones de tu póliza."
+    }
+  ]
+}

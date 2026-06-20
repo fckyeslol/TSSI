@@ -1,0 +1,20 @@
+services:
+  db:
+    image: pgvector/pgvector:pg17
+    container_name: sura-pg
+    environment:
+      POSTGRES_USER: sura
+      POSTGRES_PASSWORD: sura
+      POSTGRES_DB: sura
+    ports:
+      - "5433:5432"          # host 5433 -> evita chocar con un Postgres local en 5432
+    volumes:
+      - sura_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U sura -d sura"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+
+volumes:
+  sura_pgdata:

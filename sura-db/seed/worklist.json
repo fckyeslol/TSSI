@@ -1,0 +1,898 @@
+[
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-agro-cosecha.md",
+    "url": "https://www.sura.co/seguros/empresas/agro/cosecha",
+    "linea": "empresas",
+    "ramo": "Agro",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-agro-planta.md",
+    "url": "https://www.sura.co/seguros/empresas/agro/planta",
+    "linea": "empresas",
+    "ramo": "Agro",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-agro-bovino-bufalino.md",
+    "url": "https://www.sura.co/seguros/empresas/agro/bovino/bufalino",
+    "linea": "empresas",
+    "ramo": "Agro",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-colectivos-autos.md",
+    "url": "https://www.sura.co/seguros/empresas/colectivos/autos",
+    "linea": "empresas",
+    "ramo": "Colectivos",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-colectivos-vida-accidentes-personales.md",
+    "url": "https://www.sura.co/seguros/empresas/colectivos/vida/accidentes/personales",
+    "linea": "empresas",
+    "ramo": "Colectivos",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-colectivos-pension.md",
+    "url": "https://www.sura.co/seguros/empresas/colectivos/pension",
+    "linea": "empresas",
+    "ramo": "Colectivos",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/colectivos.md",
+    "url": "https://www.sura.co/seguros/colectivos",
+    "linea": "empresas",
+    "ramo": "Colectivos",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-construccion-seguro-construccion.md",
+    "url": "https://www.sura.co/seguros/empresas/construccion/seguro/construccion",
+    "linea": "empresas",
+    "ramo": "Construcción",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-construccion-equipo-electronico.md",
+    "url": "https://www.sura.co/seguros/empresas/construccion/equipo/electronico",
+    "linea": "empresas",
+    "ramo": "Construcción",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-construccion-maquinaria-equipo-contratistas.md",
+    "url": "https://www.sura.co/seguros/empresas/construccion/maquinaria/equipo/contratistas",
+    "linea": "empresas",
+    "ramo": "Construcción",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-construccion-montaje.md",
+    "url": "https://www.sura.co/seguros/empresas/construccion/montaje",
+    "linea": "empresas",
+    "ramo": "Construcción",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-construccion-obras-civiles-terminadas.md",
+    "url": "https://www.sura.co/seguros/empresas/construccion/obras/civiles/terminadas",
+    "linea": "empresas",
+    "ramo": "Construcción",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-cumplimiento-contratistas-proveedores.md",
+    "url": "https://www.sura.co/seguros/empresas/cumplimiento/contratistas/proveedores",
+    "linea": "empresas",
+    "ramo": "Cumplimiento",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-cumplimiento-arrendamiento.md",
+    "url": "https://www.sura.co/seguros/empresas/cumplimiento/arrendamiento",
+    "linea": "empresas",
+    "ramo": "Cumplimiento",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-cumplimiento-caucion-judicial.md",
+    "url": "https://www.sura.co/seguros/empresas/cumplimiento/caucion/judicial",
+    "linea": "empresas",
+    "ramo": "Cumplimiento",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-cumplimiento-servicios-publicos.md",
+    "url": "https://www.sura.co/seguros/empresas/cumplimiento/servicios/publicos",
+    "linea": "empresas",
+    "ramo": "Cumplimiento",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-cumplimiento-entidades-estatales.md",
+    "url": "https://www.sura.co/seguros/empresas/cumplimiento/entidades/estatales",
+    "linea": "empresas",
+    "ramo": "Cumplimiento",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-cumplimiento-particulares.md",
+    "url": "https://www.sura.co/seguros/empresas/cumplimiento/particulares",
+    "linea": "empresas",
+    "ramo": "Cumplimiento",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-cumplimiento-disposiciones-legales.md",
+    "url": "https://www.sura.co/seguros/empresas/cumplimiento/disposiciones/legales",
+    "linea": "empresas",
+    "ramo": "Cumplimiento",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-cumplimiento-grandes-beneficiarios.md",
+    "url": "https://www.sura.co/seguros/empresas/cumplimiento/grandes/beneficiarios",
+    "linea": "empresas",
+    "ramo": "Cumplimiento",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-energia-eficiencia-energetica.md",
+    "url": "https://www.sura.co/seguros/empresas/energia/eficiencia/energetica",
+    "linea": "empresas",
+    "ramo": "Energía",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-responsabilidad-civil.md",
+    "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil",
+    "linea": "empresas",
+    "ramo": "Otros",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-responsabilidad-civil-familiar.md",
+    "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil/familiar",
+    "linea": "empresas",
+    "ramo": "Otros",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-responsabilidad-civil-ambiental.md",
+    "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil/ambiental",
+    "linea": "empresas",
+    "ramo": "Otros",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-responsabilidad-civil-drones.md",
+    "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil/drones",
+    "linea": "empresas",
+    "ramo": "Otros",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-responsabilidad-civil-talleres.md",
+    "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil/talleres",
+    "linea": "empresas",
+    "ramo": "Otros",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-responsabilidad-civil-fraude-empleado.md",
+    "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil/fraude/empleado",
+    "linea": "empresas",
+    "ramo": "Otros",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-responsabilidad-civil-clinicas-hospitales.md",
+    "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil/clinicas/hospitales",
+    "linea": "empresas",
+    "ramo": "Otros",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-responsabilidad-civil-parqueaderos.md",
+    "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil/parqueaderos",
+    "linea": "empresas",
+    "ramo": "Otros",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-responsabilidad-civil-danos-terceros.md",
+    "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil/danos/terceros",
+    "linea": "empresas",
+    "ramo": "Otros",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-responsabilidad-civil-responsabilidad-empleador.md",
+    "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil/responsabilidad/empleador",
+    "linea": "empresas",
+    "ramo": "Otros",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-corporativos-pymes-multirriesgo-copropiedades.md",
+    "url": "https://www.sura.co/seguros/empresas/corporativos/pymes/multirriesgo/copropiedades",
+    "linea": "empresas",
+    "ramo": "Otros",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-politica-suscripcion-asg.md",
+    "url": "https://www.sura.co/seguros/empresas/politica/suscripcion/asg",
+    "linea": "empresas",
+    "ramo": "Otros",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-sura.md",
+    "url": "https://www.sura.co/seguros/empresas/sura",
+    "linea": "empresas",
+    "ramo": "Otros",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-sectores-transporte.md",
+    "url": "https://www.sura.co/seguros/empresas/sectores/transporte",
+    "linea": "empresas",
+    "ramo": "Sectores",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-transporte-mercancias-automatico.md",
+    "url": "https://www.sura.co/seguros/empresas/transporte/mercancias/automatico",
+    "linea": "empresas",
+    "ramo": "Transporte",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-transporte-mercancias-especifico.md",
+    "url": "https://www.sura.co/seguros/empresas/transporte/mercancias/especifico",
+    "linea": "empresas",
+    "ramo": "Transporte",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-transporte-carga-proyectos.md",
+    "url": "https://www.sura.co/seguros/empresas/transporte/carga/proyectos",
+    "linea": "empresas",
+    "ramo": "Transporte",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-transporte-cadena-abastecimiento.md",
+    "url": "https://www.sura.co/seguros/empresas/transporte/cadena/abastecimiento",
+    "linea": "empresas",
+    "ramo": "Transporte",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/empresas-transporte-terrestres-carga.md",
+    "url": "https://www.sura.co/seguros/empresas/transporte/terrestres/carga",
+    "linea": "empresas",
+    "ramo": "Transporte",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/canales-venta-affinity.md",
+    "url": "https://www.sura.co/seguros/canales/venta/affinity",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/app.md",
+    "url": "https://www.sura.co/seguros/app",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/canales-venta-asesores.md",
+    "url": "https://www.sura.co/seguros/canales/venta/asesores",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/centro-de-ayuda-asistencias.md",
+    "url": "https://www.sura.co/seguros/centro/de/ayuda/asistencias",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/canales-venta-bancaseguros.md",
+    "url": "https://www.sura.co/seguros/canales/venta/bancaseguros",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/digitales-blackfriday.md",
+    "url": "https://www.sura.co/seguros/digitales/blackfriday",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/canales-venta-corredores.md",
+    "url": "https://www.sura.co/seguros/canales/venta/corredores",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/medios-pago-debito-automatico.md",
+    "url": "https://www.sura.co/seguros/medios/pago/debito/automatico",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/medios-pago-desembolsos.md",
+    "url": "https://www.sura.co/seguros/medios/pago/desembolsos",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/canales-venta-digital.md",
+    "url": "https://www.sura.co/seguros/canales/venta/digital",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/medios-pago-financiacion.md",
+    "url": "https://www.sura.co/seguros/medios/pago/financiacion",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/mantenimiento-pago-express.md",
+    "url": "https://www.sura.co/seguros/mantenimiento/pago/express",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/medios-pago.md",
+    "url": "https://www.sura.co/seguros/medios/pago",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/movilidad-segura-personas-transporte-publico.md",
+    "url": "https://www.sura.co/seguros/movilidad/segura/personas/transporte/publico",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/medios-pago-en-linea.md",
+    "url": "https://www.sura.co/seguros/medios/pago/en/linea",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/medios-pago-presenciales.md",
+    "url": "https://www.sura.co/seguros/medios/pago/presenciales",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/promocion-verano.md",
+    "url": "https://www.sura.co/seguros/promocion/verano",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/canales-venta-proteccion.md",
+    "url": "https://www.sura.co/seguros/canales/venta/proteccion",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/canales-venta-retail.md",
+    "url": "https://www.sura.co/seguros/canales/venta/retail",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/movilidad-segura-personas-peatones.md",
+    "url": "https://www.sura.co/seguros/movilidad/segura/personas/peatones",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/digitales.md",
+    "url": "https://www.sura.co/seguros/digitales",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/index.md",
+    "url": "https://www.sura.co/seguros",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/canales-venta.md",
+    "url": "https://www.sura.co/seguros/canales/venta",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/movilidad-segura-personas-conductor-moto.md",
+    "url": "https://www.sura.co/seguros/movilidad/segura/personas/conductor/moto",
+    "linea": "ref",
+    "ramo": "General",
+    "tipo": "referencia"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-hogar-arrendamiento-tradicional.md",
+    "url": "https://www.sura.co/seguros/personas/hogar/arrendamiento/tradicional",
+    "linea": "personas",
+    "ramo": "Hogar y Vivienda",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-hogar-hogar.md",
+    "url": "https://www.sura.co/seguros/personas/hogar/hogar",
+    "linea": "personas",
+    "ramo": "Hogar y Vivienda",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-hogar-arrendamiento.md",
+    "url": "https://www.sura.co/seguros/personas/hogar/arrendamiento",
+    "linea": "personas",
+    "ramo": "Hogar y Vivienda",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-hogar-mascotas.md",
+    "url": "https://www.sura.co/seguros/personas/hogar/mascotas",
+    "linea": "personas",
+    "ramo": "Hogar y Vivienda",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-hogar.md",
+    "url": "https://www.sura.co/seguros/personas/hogar",
+    "linea": "personas",
+    "ramo": "Hogar y Vivienda",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-movilidad-peritaje.md",
+    "url": "https://www.sura.co/seguros/personas/movilidad/peritaje",
+    "linea": "personas",
+    "ramo": "Movilidad",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-movilidad.md",
+    "url": "https://www.sura.co/seguros/personas/movilidad",
+    "linea": "personas",
+    "ramo": "Movilidad",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-movilidad-soat-reclamaciones.md",
+    "url": "https://www.sura.co/seguros/personas/movilidad/soat/reclamaciones",
+    "linea": "personas",
+    "ramo": "Movilidad",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-movilidad-bicicletas-patinetas.md",
+    "url": "https://www.sura.co/seguros/personas/movilidad/bicicletas/patinetas",
+    "linea": "personas",
+    "ramo": "Movilidad",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-movilidad-autos-digital.md",
+    "url": "https://www.sura.co/seguros/personas/movilidad/autos/digital",
+    "linea": "personas",
+    "ramo": "Movilidad",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-movilidad-motos.md",
+    "url": "https://www.sura.co/seguros/personas/movilidad/motos",
+    "linea": "personas",
+    "ramo": "Movilidad",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-movilidad-motos-digital.md",
+    "url": "https://www.sura.co/seguros/personas/movilidad/motos/digital",
+    "linea": "personas",
+    "ramo": "Movilidad",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-responsabilidad-civil-profesionales-salud.md",
+    "url": "https://www.sura.co/seguros/personas/responsabilidad/civil/profesionales/salud",
+    "linea": "personas",
+    "ramo": "Otros",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-salud-como-cuidarte.md",
+    "url": "https://www.sura.co/seguros/personas/salud/como/cuidarte",
+    "linea": "personas",
+    "ramo": "Salud",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-salud-plan-salud-modular.md",
+    "url": "https://www.sura.co/seguros/personas/salud/plan/salud/modular",
+    "linea": "personas",
+    "ramo": "Salud",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-salud-poliza-clasica.md",
+    "url": "https://www.sura.co/seguros/personas/salud/poliza/clasica",
+    "linea": "personas",
+    "ramo": "Salud",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-salud-poliza-evoluciona.md",
+    "url": "https://www.sura.co/seguros/personas/salud/poliza/evoluciona",
+    "linea": "personas",
+    "ramo": "Salud",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-salud-poliza-global.md",
+    "url": "https://www.sura.co/seguros/personas/salud/poliza/global",
+    "linea": "personas",
+    "ramo": "Salud",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-salud-poliza.md",
+    "url": "https://www.sura.co/seguros/personas/salud/poliza",
+    "linea": "personas",
+    "ramo": "Salud",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-salud-salud-para-dos.md",
+    "url": "https://www.sura.co/seguros/personas/salud/salud/para/dos",
+    "linea": "personas",
+    "ramo": "Salud",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-salud-salud-para-todos.md",
+    "url": "https://www.sura.co/seguros/personas/salud/salud/para/todos",
+    "linea": "personas",
+    "ramo": "Salud",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-salud.md",
+    "url": "https://www.sura.co/seguros/personas/salud",
+    "linea": "personas",
+    "ramo": "Salud",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-salud-enfermedades-graves.md",
+    "url": "https://www.sura.co/seguros/personas/salud/enfermedades/graves",
+    "linea": "personas",
+    "ramo": "Salud",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-salud-mascotas-digital.md",
+    "url": "https://www.sura.co/seguros/personas/salud/mascotas/digital",
+    "linea": "personas",
+    "ramo": "Salud",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-salud-viajes.md",
+    "url": "https://www.sura.co/seguros/personas/salud/viajes",
+    "linea": "personas",
+    "ramo": "Salud",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-salud-viajes-digital.md",
+    "url": "https://www.sura.co/seguros/personas/salud/viajes/digital",
+    "linea": "personas",
+    "ramo": "Salud",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-salud-renta-diaria.md",
+    "url": "https://www.sura.co/seguros/personas/salud/renta/diaria",
+    "linea": "personas",
+    "ramo": "Salud",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-vida-credito-protegido.md",
+    "url": "https://www.sura.co/seguros/personas/vida/credito/protegido",
+    "linea": "personas",
+    "ramo": "Vida",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-vida-accidentes-personales.md",
+    "url": "https://www.sura.co/seguros/personas/vida/accidentes/personales",
+    "linea": "personas",
+    "ramo": "Vida",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-vida-educacion.md",
+    "url": "https://www.sura.co/seguros/personas/vida/educacion",
+    "linea": "personas",
+    "ramo": "Vida",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-vida-exequias.md",
+    "url": "https://www.sura.co/seguros/personas/vida/exequias",
+    "linea": "personas",
+    "ramo": "Vida",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-vida-pension.md",
+    "url": "https://www.sura.co/seguros/personas/vida/pension",
+    "linea": "personas",
+    "ramo": "Vida",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-vida-seguro-de-vida.md",
+    "url": "https://www.sura.co/seguros/personas/vida/seguro/de/vida",
+    "linea": "personas",
+    "ramo": "Vida",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas/personas-vida.md",
+    "url": "https://www.sura.co/seguros/personas/vida",
+    "linea": "personas",
+    "ramo": "Vida",
+    "tipo": "producto"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-afiliacion.md",
+    "url": "https://www.sura.co/arl/afiliacion",
+    "linea": "arl",
+    "ramo": "Afiliación",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-afiliacion-ingreso-retiro-trabajadores.md",
+    "url": "https://www.sura.co/arl/afiliacion/ingreso/retiro/trabajadores",
+    "linea": "arl",
+    "ramo": "Afiliación",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-afiliacion-empresa.md",
+    "url": "https://www.sura.co/arl/afiliacion/empresa",
+    "linea": "arl",
+    "ramo": "Afiliación",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-afiliacion-independiente.md",
+    "url": "https://www.sura.co/arl/afiliacion/independiente",
+    "linea": "arl",
+    "ramo": "Afiliación",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-afiliacion-verificacion.md",
+    "url": "https://www.sura.co/arl/afiliacion/verificacion",
+    "linea": "arl",
+    "ramo": "Afiliación",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-certificados-cobertura-exterior-asistencia-empleado.md",
+    "url": "https://www.sura.co/arl/certificados/cobertura/exterior/asistencia/empleado",
+    "linea": "arl",
+    "ramo": "Certificados",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-certificados-cobertura-empresa-carta-licencia.md",
+    "url": "https://www.sura.co/arl/certificados/cobertura/empresa/carta/licencia",
+    "linea": "arl",
+    "ramo": "Certificados",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-certificados.md",
+    "url": "https://www.sura.co/arl/certificados",
+    "linea": "arl",
+    "ramo": "Certificados",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-certificados-cobertura-exterior.md",
+    "url": "https://www.sura.co/arl/certificados/cobertura/exterior",
+    "linea": "arl",
+    "ramo": "Certificados",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-certificados-carne-afiliacion.md",
+    "url": "https://www.sura.co/arl/certificados/carne/afiliacion",
+    "linea": "arl",
+    "ramo": "Certificados",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-certificados-validar.md",
+    "url": "https://www.sura.co/arl/certificados/validar",
+    "linea": "arl",
+    "ramo": "Certificados",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-educacion.md",
+    "url": "https://www.sura.co/arl/educacion",
+    "linea": "arl",
+    "ramo": "Educación",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-educacion-guias-recomendaciones-encuesta-actores-viales.md",
+    "url": "https://www.sura.co/arl/educacion/guias/recomendaciones/encuesta/actores/viales",
+    "linea": "arl",
+    "ramo": "Educación",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-centro-de-ayuda-acompanamiento-salud-y-seguridad-en-el-trabajo.md",
+    "url": "https://www.sura.co/arl/centro/de/ayuda/acompanamiento/salud/y/seguridad/en/el/trabajo",
+    "linea": "arl",
+    "ramo": "General ARL",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl.md",
+    "url": "https://www.sura.co/arl",
+    "linea": "arl",
+    "ramo": "General ARL",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-centro-de-ayuda-oficinas.md",
+    "url": "https://www.sura.co/arl/centro/de/ayuda/oficinas",
+    "linea": "arl",
+    "ramo": "General ARL",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-gestion-financiera-radica-tus-reembolsos.md",
+    "url": "https://www.sura.co/arl/gestion/financiera/radica/tus/reembolsos",
+    "linea": "arl",
+    "ramo": "General ARL",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-gestion-financiera-recaudo-cartera.md",
+    "url": "https://www.sura.co/arl/gestion/financiera/recaudo/cartera",
+    "linea": "arl",
+    "ramo": "General ARL",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-accidente-de-trabajo-reporte.md",
+    "url": "https://www.sura.co/arl/accidente/de/trabajo/reporte",
+    "linea": "arl",
+    "ramo": "General ARL",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-centro-de-ayuda-solicitud-clave-personal.md",
+    "url": "https://www.sura.co/arl/centro/de/ayuda/solicitud/clave/personal",
+    "linea": "arl",
+    "ramo": "General ARL",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-sst-centro-de-documentacion-ergonomia-estiramientos-para-trabajos-de-pie.md",
+    "url": "https://www.sura.co/arl/sst/centro/de/documentacion/ergonomia/estiramientos/para/trabajos/de/pie",
+    "linea": "arl",
+    "ramo": "SST (Seguridad y Salud en el Trabajo)",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-sst-centro-de-documentacion-ergonomia.md",
+    "url": "https://www.sura.co/arl/sst/centro/de/documentacion/ergonomia",
+    "linea": "arl",
+    "ramo": "SST (Seguridad y Salud en el Trabajo)",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-sst-centro-de-documentacion-ergonomia-la-posicion-mas-sana.md",
+    "url": "https://www.sura.co/arl/sst/centro/de/documentacion/ergonomia/la/posicion/mas/sana",
+    "linea": "arl",
+    "ramo": "SST (Seguridad y Salud en el Trabajo)",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-sst-centro-de-documentacion-ergonomia-soportes-lumbares.md",
+    "url": "https://www.sura.co/arl/sst/centro/de/documentacion/ergonomia/soportes/lumbares",
+    "linea": "arl",
+    "ramo": "SST (Seguridad y Salud en el Trabajo)",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-sst-centro-de-documentacion-ergonomia-trabajo-en-posicion-sentado.md",
+    "url": "https://www.sura.co/arl/sst/centro/de/documentacion/ergonomia/trabajo/en/posicion/sentado",
+    "linea": "arl",
+    "ramo": "SST (Seguridad y Salud en el Trabajo)",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-sst-centro-de-documentacion-ergonomia-correcto-uso-puesto-de-trabajo-i.md",
+    "url": "https://www.sura.co/arl/sst/centro/de/documentacion/ergonomia/correcto/uso/puesto/de/trabajo/i",
+    "linea": "arl",
+    "ramo": "SST (Seguridad y Salud en el Trabajo)",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-sst-centro-de-documentacion-ergonomia-uso-correcto-puesto-de-trabajo-ii.md",
+    "url": "https://www.sura.co/arl/sst/centro/de/documentacion/ergonomia/uso/correcto/puesto/de/trabajo/ii",
+    "linea": "arl",
+    "ramo": "SST (Seguridad y Salud en el Trabajo)",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-sst-centro-de-documentacion-ergonomia-uso-correcto-puesto-de-trabajo-iii.md",
+    "url": "https://www.sura.co/arl/sst/centro/de/documentacion/ergonomia/uso/correcto/puesto/de/trabajo/iii",
+    "linea": "arl",
+    "ramo": "SST (Seguridad y Salud en el Trabajo)",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-tramites-formatos.md",
+    "url": "https://www.sura.co/arl/tramites/formatos",
+    "linea": "arl",
+    "ramo": "Trámites",
+    "tipo": "proceso"
+  },
+  {
+    "archivo": "C:/Users/mateo/TSI/seguros-sura/paginas-arl/arl-tramites-radicar-incapacidad.md",
+    "url": "https://www.sura.co/arl/tramites/radicar/incapacidad",
+    "linea": "arl",
+    "ramo": "Trámites",
+    "tipo": "proceso"
+  }
+]

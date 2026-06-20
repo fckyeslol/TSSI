@@ -1,0 +1,830 @@
+[
+  {
+    "producto_slug": "colectivos",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Solución dirigida a grandes empresas que buscan asegurar su patrimonio y el bienestar de sus empleados, así como a entidades aliadas (empresas de servicios públicos, cajas de compensación y entidades financieras)."
+  },
+  {
+    "producto_slug": "empresas-agro-bovino-bufalino",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Ganaderos de todos los tamaños."
+  },
+  {
+    "producto_slug": "empresas-agro-cosecha",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Agricultores de todos los tamaños."
+  },
+  {
+    "producto_slug": "empresas-agro-planta",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Agricultores de todos los tamaños."
+  },
+  {
+    "producto_slug": "empresas-colectivos-autos",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "minimo_vehiculos": 7
+    },
+    "descripcion": "Sin importar el tamaño de tu empresa, podrán ser asegurados los vehículos de los empleados de tu empresa y sus familiares, según condiciones; siempre que se cumpla un mínimo de siete (7) carros para conformar la póliza colectiva. También aseguramos otros tipos de vehículos (utilitarios, livianos y pesados) que apoyen la operación de tu empresa, como motos, bicicletas, patinetas eléctricas y otros."
+  },
+  {
+    "producto_slug": "empresas-colectivos-pension",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Dirigido a empresas que quieran ofrecer a sus empleados una alternativa para construir un capital que complemente su pensión. Aporte mínimo de cuotas mensuales de $100.000 o sus equivalentes trimestrales, semestrales o anuales."
+  },
+  {
+    "producto_slug": "empresas-colectivos-vida-accidentes-personales",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "A personas que hacen parte de un colectivo laboral y que, por la naturaleza de su trabajo, están expuestas a riesgos accidentales."
+  },
+  {
+    "producto_slug": "empresas-construccion-equipo-electronico",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "equipos_asegurables": "Equipos de cómputo, control, comunicaciones, sistematización y, en general, aquellos de esencia electrónica utilizados en tu negocio.",
+      "deberes_asegurado": [
+        "Mantener tus equipos en buen estado.",
+        "No someter tus equipos electrónicos a sobrecargas de forma habitual.",
+        "No utilizar tus bienes en labores para las que no son adecuados.",
+        "Proteger los equipos con red de puesta a tierra, supresores de picos y regulador de voltaje."
+      ]
+    },
+    "descripcion": "Útil para empresas y profesionales que dependen de tecnología avanzada y equipos especializados en su operativa diaria. Puedes asegurar equipos de cómputo, control, comunicaciones, sistematización y, en general, aquellos de esencia electrónica utilizados en tu negocio."
+  },
+  {
+    "producto_slug": "empresas-construccion-maquinaria-equipo-contratistas",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños y personas naturales que cuenten con maquinaria de los sectores construcción, agrícola, industrial, entre otros. Algunas de las máquinas y equipos que este seguro protege son: maquinaria amarilla (retroexcavadoras, buldóceres y vibrocompactadoras), maquinaria agrícola y forestal, equipo de levantamiento de cargas, y maquinaria instalada sobre chasis."
+  },
+  {
+    "producto_slug": "empresas-construccion-montaje",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños y personas naturales que vayan a iniciar un montaje, ya sea de maquinaria de gran tamaño, plantas o estructuras metálicas de todo tipo."
+  },
+  {
+    "producto_slug": "empresas-construccion-obras-civiles-terminadas",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños públicas o privadas, concesiones y asociaciones público-privadas que estén encargas de la operación de una obra de infraestructura."
+  },
+  {
+    "producto_slug": "empresas-construccion-seguro-construccion",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños y personas naturales que vayan a iniciar un proyecto de construcción."
+  },
+  {
+    "producto_slug": "empresas-corporativos-pymes-multirriesgo-copropiedades",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "ley_675_2001": "Aplica a toda propiedad horizontal (perteneciente a dos o más propietarios), obligada a asegurar los bienes comunes."
+    },
+    "descripcion": "Dirigido a copropiedades comerciales o industriales y sus áreas comunes; propiedades horizontales obligadas por la Ley 675 de 2001 a cubrir sus bienes comunes contra riesgos como incendios y terremotos."
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-arrendamiento",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Dirigido a empresas arrendadoras. El seguro está disponible de manera individual (un seguro por cada propiedad arrendada) y colectiva (incluida en un seguro colectivo que toman las agencias inmobiliarias para cubrir los riesgos de sus contratos de arrendamiento)."
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-caucion-judicial",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños y personas naturales que estén involucrados en un proceso jurídico o administrativo."
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-contratistas-proveedores",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños y personas naturales que firmen un contrato con tu empresa y deben garantizar su cumplimiento."
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-disposiciones-legales",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "El tomador son las empresas de todos los tamaños y personas naturales. La entidad estatal será la asegurada."
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-entidades-estatales",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "El tomador son las empresas de todos los tamaños y personas naturales que celebren contratos con entidades estatales para prestar un servicio, producir algo, construir una obra, entre otros. La entidad estatal será la asegurada."
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-grandes-beneficiarios",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños y personas naturales que firmen un contrato con tu empresa."
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-particulares",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "El tomador son las empresas de todos los tamaños y personas naturales que sean contratados formalmente para prestar un servicio, producir algo, construir una obra, entre otros. El contratante será el asegurado."
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-servicios-publicos",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "El tomador son las empresas de todos los tamaños y personas naturales que sean contratadas formalmente para prestar un servicio, producir algo, construir una obra, entre otros. La empresa de servicios públicos será la asegurada."
+  },
+  {
+    "producto_slug": "empresas-energia-eficiencia-energetica",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños y personas naturales que hayan sido contratados para realizar un proyecto de eficiencia energética o generación de energía y deban garantizar su cumplimiento. Los proyectos asegurables incluyen: energía solar, iluminación, sistemas de refrigeración, cogeneración y otros equipos como motores, calderas y turbinas."
+  },
+  {
+    "producto_slug": "empresas-politica-suscripcion-asg",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "lineas_de_negocio": [
+        "Movilidad",
+        "Propiedad y patrimoniales",
+        "Riesgos logísticos y marítimos",
+        "Cumplimiento e ingeniería",
+        "Vida y salud"
+      ]
+    },
+    "descripcion": "Esta política aplica a los procesos de suscripción de las siguientes líneas de negocio de Seguros SURA Colombia: Movilidad; Propiedad y patrimoniales; Riesgos logísticos y marítimos; Cumplimiento e ingeniería; Vida y salud. También es un insumo clave para el diseño de nuevas soluciones y servicios de gestión de riesgos."
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-ambiental",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños cuyas actividades económicas puedan generar una contaminación accidental, ya sea súbita o gradual, que afecte directamente su propio predio o el de terceros."
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-clinicas-hospitales",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Clínicas y hospitales legalmente habilitados para prestar servicios de salud."
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-danos-terceros",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Cualquier empresa que desee protegerse ante la responsabilidad civil y quiera preservar su patrimonio. La empresa debe ser apta luego de un análisis de riesgo realizado por SURA."
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-drones",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "cumplimiento_regulatorio": "Cumplir con la reglamentación requerida por parte de la Aeronáutica Civil",
+      "uso": "Uso de drones en el desarrollo de la actividad económica"
+    },
+    "descripcion": "A empresas de todos los tamaños y a personas naturales que usen drones en el desarrollo de su actividad económica cumpliendo con la reglamentación requerida por parte de la Aeronáutica Civil, y que, durante su uso puedan causar daños a terceros."
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-familiar",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "perfiles": [
+        "Familias con hijos",
+        "Personas con mascotas",
+        "Personas que vivan en predios arrendados"
+      ],
+      "alcance_familiar": "Asegurado principal y su familia en primer grado de consanguinidad que residan en el mismo predio: cónyuge, compañero permanente, padres e hijos, así como las mascotas del grupo familiar (perros y gatos)."
+    },
+    "descripcion": "A las personas y sus familias: familias con hijos, personas con mascotas y personas que vivan en predios arrendados. En este seguro se cubre al asegurado principal y su familia en primer grado de consanguinidad, que residan en el mismo predio: cónyuge, compañero permanente, padres e hijos, así como también las mascotas del grupo familiar (perros y gatos)."
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-fraude-empleado",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "sectores_incluidos": [
+        "sector real",
+        "industrial",
+        "servicios"
+      ],
+      "sectores_excluidos": [
+        "establecimientos financieros",
+        "corresponsales bancarios",
+        "fondos de empleados",
+        "comisionistas de bolsa",
+        "empresas del sector de hidrocarburos",
+        "transportes de valores",
+        "entidades promotoras de salud (EPS)"
+      ]
+    },
+    "descripcion": "Empresas de todos los tamaños del sector real, industrial y de servicios. Excepto establecimientos financieros, corresponsales bancarios, fondos de empleados, comisionistas de bolsa, empresas del sector de hidrocarburos, transportes de valores y entidades promotoras de salud (EPS)."
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-parqueaderos",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "A parqueaderos públicos y privados que estén cerrados, vigilados, regulados, con control de acceso y de seguridad."
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-responsabilidad-empleador",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "A empresas de todos los tamaños y a personas naturales que desarrollen una actividad empresarial."
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-talleres",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "A talleres y concesionarios de carros o motos, que cuenten con los debidos permisos y licencias que se requieren para operar."
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  {
+    "producto_slug": "empresas-sectores-transporte",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  {
+    "producto_slug": "empresas-sura",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "equipos_asegurables": "Equipos de cómputo, control, comunicaciones, sistematización y, en general, aquellos de esencia electrónica utilizados en tu negocio.",
+      "deberes_asegurado": [
+        "Mantener tus equipos en buen estado.",
+        "No someter tus equipos electrónicos a sobrecargas de forma habitual.",
+        "No utilizar tus bienes en labores para las que no son adecuados.",
+        "Proteger los equipos con red de puesta a tierra, supresores de picos y regulador de voltaje."
+      ]
+    },
+    "descripcion": "Dirigido a empresas y profesionales que dependen de tecnología avanzada y equipos especializados en su operativa diaria. Se pueden asegurar equipos de cómputo, control, comunicaciones, sistematización y, en general, aquellos de esencia electrónica utilizados en el negocio."
+  },
+  {
+    "producto_slug": "empresas-transporte-cadena-abastecimiento",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "A empresa generadora de carga dedicada a la fabricación, distribución mayorista, minorista, exportación, importación, entre otros. Te acompañamos cuando: transportas mercancías (materia prima, producto en proceso, producto terminado) de un punto a otro a nivel nacional e internacional; quieres generar confianza con tus proveedores y clientes garantizando la protección de la mercancía en todo el trayecto."
+  },
+  {
+    "producto_slug": "empresas-transporte-carga-proyectos",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "A propietarios, inversionistas, financiadores y contratistas principales encargados de realizar la construcción de proyectos. Esta solución está orientada a grandes proyectos de ingeniería, como plantas de generación de energía, de tratamiento de aguas, refinerías, obras mineras, ferroviarias, industriales y similares."
+  },
+  {
+    "producto_slug": "empresas-transporte-mercancias-automatico",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "A empresas dedicadas a la producción, distribución, importación o exportación de bienes."
+  },
+  {
+    "producto_slug": "empresas-transporte-mercancias-especifico",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "A empresas que realicen envíos ocasionales de productos terminados o materias primas."
+  },
+  {
+    "producto_slug": "empresas-transporte-terrestres-carga",
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "A compañías transportadoras legalmente constituidas en Colombia y con habilitación vigente por el Ministerio de Transporte en la modalidad de carga."
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "tomador": "Propietario",
+      "tipo_tomador": "Natural / Jurídica",
+      "afianzado": "Inquilino",
+      "asegurado_beneficiario": "Propietario",
+      "tipo_inmueble": "Residencial / Comercial",
+      "valor_maximo_canon_mensual": "Sin límite"
+    },
+    "descripcion": null
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento",
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "digital": {
+        "valor_arriendo_max": "Hasta 5 millones de pesos mensuales",
+        "uso_inmueble": "Solo residencial",
+        "duracion_contrato": "3, 6 o 12 meses",
+        "tipo_persona": "Natural (propietario e inquilino)",
+        "codeudor": "Si el inquilino es apto para el seguro 100% digital no necesitará codeudor; de lo contrario será dirigido al plan individual por oficina.",
+        "requisitos": [
+          "Correo electrónico del inquilino.",
+          "Número de matrícula inmobiliaria."
+        ]
+      },
+      "tradicional": {
+        "valor_arriendo_max": "Sin límite",
+        "uso_inmueble": "Residencial y Comercial",
+        "duracion_contrato": "Desde 1 mes en adelante",
+        "tipo_persona": "Natural y jurídica",
+        "codeudor": "Dependiendo del valor del canon podrás necesitar codeudor; existen planes en los que no se necesita, consúltalo con la oficina de tu ciudad.",
+        "requisitos": [
+          "Diligenciamiento de formularios por parte del inquilino.",
+          "Presentación de un codeudor.",
+          "Copia de la cédula de ciudadanía tanto del inquilino como del codeudor.",
+          "Documentos que demuestren solvencia económica.",
+          "Certificado de tradición y libertad reciente, no mayor a 30 días."
+        ]
+      }
+    },
+    "descripcion": "Producto dirigido a propietarios que arriendan inmuebles. La modalidad digital aplica a personas naturales (propietario e inquilino) con arriendos residenciales de hasta 5 millones mensuales; la modalidad tradicional aplica a personas naturales y jurídicas, uso residencial y comercial, sin límite de canon."
+  },
+  {
+    "producto_slug": "personas-hogar-hogar",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  {
+    "producto_slug": "personas-hogar-mascotas",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "especies_asegurables": [
+        "perros",
+        "gatos"
+      ],
+      "edad_mascota_min": "3 meses",
+      "edad_mascota_max": "9 años",
+      "nota_edad": "Para asegurar a tu mascota por primera vez, esta debe tener entre 3 meses y 9 años de edad. Fuera de este rango, no se aceptan nuevas pólizas.",
+      "deducible_gastos_veterinarios": "4 SMDLV"
+    },
+    "descripcion": "Especies asegurables: perros y gatos. Para asegurar a tu mascota por primera vez, esta debe tener entre 3 meses y 9 años de edad. Fuera de este rango, no se aceptan nuevas pólizas para mascotas."
+  },
+  {
+    "producto_slug": "personas-hogar",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  {
+    "producto_slug": "personas-movilidad-autos-digital",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  {
+    "producto_slug": "personas-movilidad-bicicletas-patinetas",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "bicicletas_aseguradas": [
+        "Tradicionales de pedal (ruta, montaña y urbana)",
+        "Plegables",
+        "Eléctricas",
+        "De gasolina"
+      ],
+      "valor_minimo_bici": "$600.000 (seiscientos mil pesos)",
+      "valor_maximo_bici": "$30.000.000 (treinta millones de pesos)",
+      "exclusion": "No aseguramos bicicletas o motocicletas eléctricas que por norma legal requieran SOAT y matrícula ante los organismos de tránsito.",
+      "inspeccion": "Es posible que necesites realizar la inspección virtual. Para patinetas se evalúa cada caso para definir el valor asegurado y si requiere inspección."
+    },
+    "descripcion": "Este producto está dirigido principalmente a las personas que utilizan su bicicleta o patineta para el desplazamiento habitual en la ciudad, o como un medio de diversión y ejercicio no profesional."
+  },
+  {
+    "producto_slug": "personas-movilidad-motos-digital",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  {
+    "producto_slug": "personas-movilidad-motos",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "tipo_moto": "Moto de alto cilindraje (mayor que 250 cc) o de bajo cilindraje (igual o menor que 250 cc), incluye motos eléctricas"
+    },
+    "descripcion": null
+  },
+  {
+    "producto_slug": "personas-movilidad-peritaje",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "requiere_seguro_sura": false,
+      "vehiculos": [
+        "autos",
+        "motos"
+      ],
+      "modalidad": "presencial en Centros de Servicios",
+      "ciudades": [
+        "Bogotá",
+        "Cali",
+        "Medellín",
+        "Pereira",
+        "Rionegro"
+      ]
+    },
+    "descripcion": "Servicio dirigido a quienes venden o adquieren un vehículo usado (auto o moto). Para este servicio no es necesario tener el seguro SURA. Se atiende de forma presencial en los Centros de Servicios de Bogotá, Cali, Medellín, Pereira y Rionegro."
+  },
+  {
+    "producto_slug": "personas-movilidad-soat-reclamaciones",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  {
+    "producto_slug": "personas-movilidad",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  {
+    "producto_slug": "personas-responsabilidad-civil-profesionales-salud",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Las personas que trabajen en el sector de la salud, como médicos, enfermeras, odontólogos, auxiliares y terapeutas, entre otros, que busquen proteger su patrimonio."
+  },
+  {
+    "producto_slug": "personas-salud-como-cuidarte",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  {
+    "producto_slug": "personas-salud-enfermedades-graves",
+    "tipo_persona": "natural",
+    "edad_min": 0,
+    "edad_max": 59,
+    "condiciones": {
+      "edad_ingreso": "Entre 14 y 59 años (la solicitud indica entre 0 y 59 años)",
+      "edad_permanencia": "Asegurado hasta los 70 años, con renovación automática",
+      "requisitos": [
+        "Completar la solicitud",
+        "Llenar y firmar la declaración de asegurabilidad",
+        "Adjuntar la información médica y financiera necesaria"
+      ],
+      "criterios": "Debe cumplir con las políticas de suscripción y los criterios médicos establecidos por SURA"
+    },
+    "descripcion": "El seguro está disponible para todas las personas que quieran tener respaldo económico en caso de ser diagnosticadas con una enfermedad grave cubierta, siempre y cuando cumplan con las políticas de suscripción y los criterios médicos establecidos por SURA. Para adquirir el seguro necesitas: completar la solicitud, tener entre 0 y 59 años, llenar y firmar la declaración de asegurabilidad y adjuntar la información médica y financiera necesaria."
+  },
+  {
+    "producto_slug": "personas-salud-mascotas-digital",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "edad_ingreso_meses_min": 4,
+      "edad_ingreso_anos_max": 7,
+      "continuidad": "Al cumplir 8 años la mascota puede continuar asegurada sin límite de edad con ajuste de la prima por edad",
+      "especies": [
+        "perros",
+        "gatos"
+      ],
+      "max_mascotas_por_poliza": 5,
+      "ciudades_cobertura": [
+        "Bogotá (la Sabana)",
+        "Medellín (Área Metropolitana y Rionegro)",
+        "Barranquilla",
+        "Cali",
+        "Manizales",
+        "Pereira"
+      ],
+      "carencia_general_dias": 15,
+      "carencia_especializada_meses": 3,
+      "personas_juridicas": "No pueden ser tomadores de pólizas familiares de Salud para Mascotas"
+    },
+    "descripcion": "Cualquier persona natural (no empresas) puede asegurar a su perro o gato, siempre que cumpla con las validaciones internas de SURA. Se pueden ingresar perros o gatos desde los 4 meses hasta los 7 años; al cumplir 8 años continúan asegurados sin límite de edad con ajuste de prima. Las personas jurídicas no pueden ser tomadores. En una misma póliza se pueden asegurar hasta 5 mascotas. Es un plan de salud en red cerrada con cobertura en Bogotá (la Sabana), Medellín (Área Metropolitana y Rionegro), Barranquilla, Cali, Manizales y Pereira."
+  },
+  {
+    "producto_slug": "personas-salud-plan-salud-modular",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  {
+    "producto_slug": "personas-salud-poliza-clasica",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": 70,
+    "condiciones": {
+      "residencia": "Residir en Colombia",
+      "edad": "Menor de 70 años al ingreso",
+      "eps": "Afiliación vigente a una EPS del Régimen Contributivo del Sistema de Seguridad Social en Salud",
+      "permanencia": "La permanencia se mantiene sin importar la edad, excepto en seguros colectivos donde hijos y hermanos solteros dependientes solo permanecen hasta el fin de la vigencia en la que cumplan 35 años",
+      "traslado_exterior": "El seguro termina automáticamente en caso de traslado permanente al exterior, salvo aceptación por escrito de exclusión de cobertura en el exterior",
+      "salud": "No sufrir ninguna enfermedad grave o de alto costo al momento de la adquisición"
+    },
+    "descripcion": "Si resides en Colombia, tienes menos de 70 años y cuentas con afiliación vigente a una EPS del Régimen Contributivo del Sistema de Seguridad Social en Salud, puedes adquirir esta solución."
+  },
+  {
+    "producto_slug": "personas-salud-poliza-evoluciona",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": 69,
+    "condiciones": {
+      "residencia": "Colombia",
+      "edad_ingreso": "Menores de 70 años",
+      "afiliacion_eps": "Afiliación vigente a una EPS del Régimen Contributivo del Sistema de Seguridad Social en Salud",
+      "permanencia": "La permanencia se mantendrá sin importar su edad, excepto en los seguros colectivos, en los cuales los hijos y hermanos solteros dependientes del afiliado solo podrán permanecer hasta que termine la vigencia en la que cumplan 35 años.",
+      "traslado_exterior": "En caso de traslado al exterior, el seguro termina automáticamente, salvo aceptación por escrito de la exclusión de cobertura en el exterior propuesta por SURA."
+    },
+    "descripcion": "Si resides en Colombia, tienes menos de 70 años y cuentas con afiliación vigente a una EPS del Régimen Contributivo del Sistema de Seguridad Social en Salud, puedes adquirir este plan."
+  },
+  {
+    "producto_slug": "personas-salud-poliza-global",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": 63,
+    "condiciones": {
+      "residencia": "Residencia en Colombia",
+      "edad_ingreso": "Menor de 63 anos al momento de la contratacion",
+      "permanencia": "Sin edad maxima para permanecer una vez ingresado (salvo seguros colectivos)",
+      "dependientes_colectivos": "Hijos y hermanos solteros dependientes pueden permanecer hasta el fin de la vigencia en que cumplen 35 anos",
+      "afiliacion_eps": "Estar afiliado vigente a una EPS del regimen contributivo de salud en Colombia",
+      "traslado_exterior": "El seguro termina automaticamente si el asegurado se traslada a vivir al exterior, salvo aceptacion por escrito de exclusion de cobertura internacional"
+    },
+    "descripcion": "Para acceder a los beneficios del plan se debe: 1. Residir en Colombia. 2. Tener edad maxima de 63 anos para ser elegible. 3. Estar afiliado de forma vigente a traves de una EPS del regimen contributivo de salud en Colombia."
+  },
+  {
+    "producto_slug": "personas-salud-poliza",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "afiliacion_eps": "El asegurado debe estar afiliado y mantenerse activo en una EPS del Régimen Contributivo (Ley 1438, artículos 37 y 41)."
+    },
+    "descripcion": null
+  },
+  {
+    "producto_slug": "personas-salud-renta-diaria",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": 59,
+    "condiciones": {
+      "valor_asegurable_min": "$50.000 diarios",
+      "valor_asegurable_max": "$200.000 diarios",
+      "suma_grupo_familiar": "La suma elegida debe ser la misma para todo el grupo familiar",
+      "plan_segun_afiliacion": "Plan Renta Diaria POS si solo tiene afiliacion al POS; Plan Renta Diaria PAS si ya tiene medicina prepagada, seguro de salud o Plan Complementario de Salud"
+    },
+    "descripcion": "Si tienes 59 anos o menos, este plan es para ti. Puedes asegurar entre $50.000 y $200.000 diarios, y la suma elegida debe ser la misma para todo el grupo familiar."
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-dos",
+    "tipo_persona": "natural",
+    "edad_min": 0,
+    "edad_max": 100,
+    "condiciones": {
+      "edad_afiliado_principal": "El afiliado principal debe ser mayor de 18 anos.",
+      "perfiles": "Aplica para independientes, PYMES y regimenes especiales como magisterio y fuerzas armadas.",
+      "copagos": "Sin copagos.",
+      "personas_cubiertas": "Puede compartir las coberturas con una persona registrada como beneficiario."
+    },
+    "descripcion": "No tiene limite de edad. Podran asegurarse personas entre los 0 y 100 anos. El afiliado principal debera ser mayor de 18 anos. Aplica para independientes, PYMES y regimenes especiales como magisterio y fuerzas armadas, sin copagos."
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-todos",
+    "tipo_persona": "natural",
+    "edad_min": 0,
+    "edad_max": 59,
+    "condiciones": {
+      "afiliacion_eps": "Afiliados a EPS SURA regimen contributivo",
+      "edad_ingreso": "3 meses a 59 anos",
+      "ciudades_cobertura": [
+        "Bogota",
+        "Chia",
+        "Medellin",
+        "Rionegro",
+        "Cali",
+        "Manizales",
+        "Pereira",
+        "Armenia",
+        "Barranquilla",
+        "Bucaramanga",
+        "Marinilla",
+        "La Ceja",
+        "Palmira",
+        "Santa Marta"
+      ]
+    },
+    "descripcion": "Dirigido a afiliados a EPS SURA del regimen contributivo, con edad de ingreso de 3 meses a 59 anos, en las ciudades con cobertura."
+  },
+  {
+    "producto_slug": "personas-salud-viajes-digital",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  {
+    "producto_slug": "personas-salud-viajes",
+    "tipo_persona": "natural",
+    "edad_min": 0,
+    "edad_max": 74,
+    "condiciones": {
+      "seguro_internacional": "Disponible para clientes entre 0 y 74 años",
+      "seguro_nacional": "Sin ningún límite de edad",
+      "evaluacion_medica": "No se requiere evaluación médica ni declaración de asegurabilidad"
+    },
+    "descripcion": "Las personas que quieren disfrutar al máximo un viaje nacional o internacional, terrestre o aéreo, solas o en compañía de sus seres queridos, con el respaldo de SURA. Las coberturas están disponibles para clientes que tengan entre 0 y 74 años en el caso de seguro internacional, y sin ningún límite de edad para el nacional. No se requiere evaluación médica ni declaración de asegurabilidad."
+  },
+  {
+    "producto_slug": "personas-salud",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  {
+    "producto_slug": "personas-vida-accidentes-personales",
+    "tipo_persona": "natural",
+    "edad_min": 14,
+    "edad_max": 65,
+    "condiciones": {
+      "politicas_suscripcion": "De acuerdo con las politicas de suscripcion de Seguros SURA y los criterios de evaluacion medica establecidos.",
+      "edad_terminacion": "El seguro se termina si cumples 75 anos."
+    },
+    "descripcion": "El Seguro de Accidentes Personales esta disponible para todas las personas a partir de los 14 anos y hasta los 65 anos de edad, de acuerdo con las politicas de suscripcion de Seguros SURA y los criterios de evaluacion medica establecidos."
+  },
+  {
+    "producto_slug": "personas-vida-credito-protegido",
+    "tipo_persona": "natural",
+    "edad_min": 18,
+    "edad_max": 70,
+    "condiciones": {
+      "edad_minima_ingreso": "18 años",
+      "edad_maxima_ingreso": "70 años",
+      "edad_maxima_permanencia_vida": "80 años",
+      "edad_maxima_permanencia_incapacidad": "75 años",
+      "edad_maxima_permanencia_auxilio_exequias": "80 años"
+    },
+    "descripcion": "Edades de ingreso y permanencia: Vida (ingreso de 18 a 70 años, permanencia hasta 80 años); Incapacidad total y permanente por enfermedad o accidente (ingreso de 18 a 70 años, permanencia hasta 75 años); Auxilio de exequias (ingreso de 18 a 70 años, permanencia hasta 80 años). Si cumples la edad máxima de permanencia en cualquiera de las coberturas, sigues asegurado hasta que termine la vigencia actual de tu seguro."
+  },
+  {
+    "producto_slug": "personas-vida-educacion",
+    "tipo_persona": "natural",
+    "edad_min": 18,
+    "edad_max": 70,
+    "condiciones": {
+      "evaluacion_medica_cobertura_principal": false,
+      "declaracion_asegurabilidad_cobertura_principal": false,
+      "requisitos_coberturas_opcionales": [
+        "Diligenciar la solicitud",
+        "Cumplir con la edad requerida de acuerdo con las políticas establecidas",
+        "Diligenciar y firmar la declaración de asegurabilidad",
+        "Adjuntar la información médica y financiera requerida"
+      ],
+      "rango_edad_coberturas_opcionales": "18 a 70 años"
+    },
+    "descripcion": "Todas las personas que desean construir un patrimonio que respalde el cumplimiento de sus metas educativas y las de sus seres queridos. El Seguro de Educación de SURA te da la libertad de elegir a los beneficiarios, es fácil de adquirir y no requiere evaluación médica o declaración de asegurabilidad. Las coberturas opcionales están disponibles para cualquier persona interesada que tenga entre 18 y 70 años de edad, según las políticas de suscripción de SURA y los criterios de evaluación médica establecidos."
+  },
+  {
+    "producto_slug": "personas-vida-exequias",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  {
+    "producto_slug": "personas-vida-pension",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "asegurables": [
+        "titular",
+        "cónyuge",
+        "hijo",
+        "ser querido familiar o no familiar"
+      ],
+      "max_asegurados": 5,
+      "evaluacion_medica": false,
+      "declaracion_asegurabilidad": false,
+      "libre_eleccion_beneficiarios": true
+    },
+    "descripcion": "El Seguro de Pensión está disponible para todas las personas que desean construir un patrimonio: para ti, para tu cónyuge, para tu hijo o para un ser querido que puede ser o no tu familiar. Te damos la libertad de elegir los beneficiarios y no requieres evaluación médica o declaración de asegurabilidad para adquirir el producto. Puedes definir hasta 5 asegurados en caso de que alguno falte."
+  },
+  {
+    "producto_slug": "personas-vida-seguro-de-vida",
+    "tipo_persona": "natural",
+    "edad_min": 14,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Cualquier persona a partir de los 14 años puede adquirir su seguro de vida Plan Vive con las coberturas que mejor se adapten a su situación y estilo de vida."
+  },
+  {
+    "producto_slug": "personas-vida",
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  }
+]

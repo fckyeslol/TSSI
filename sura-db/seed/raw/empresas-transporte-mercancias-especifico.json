@@ -1,0 +1,328 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/transporte/mercancias/especifico",
+  "producto": {
+    "slug": "empresas-transporte-mercancias-especifico",
+    "nombre": "Seguro de Transporte de Mercancías Específico",
+    "ramo": "Transporte",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "Protegemos la mercancía de tu envío específico frente a riesgos durante su transporte, para que llegue seguro sin importar el modo o destino. Está dirigido a empresas que realicen envíos ocasionales de productos terminados o materias primas, cubriendo operaciones urbanas, nacionales, importaciones y exportaciones en los diferentes modos de transporte (aéreo, marítimo, terrestre, férreo y fluvial).",
+    "resumen": "Seguro para empresas que protege la mercancía de un envío específico u ocasional frente a riesgos durante su transporte en cualquier modo o destino.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "todo-riesgo-transporte-mercancias",
+      "nombre": "Pérdidas y daños de los bienes movilizados durante el transporte",
+      "descripcion": "Hurto, extravío, accidente del vehículo transportador, incendio, rayo, explosión y, en general, todos los riesgos de pérdidas y daños de los bienes movilizados con ocasión del transporte en operaciones urbanas, nacionales, importaciones y exportaciones en los diferentes modos de transporte (aéreo, marítimo, terrestre, férreo y fluvial).",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "averia-gruesa-salvamento-colision-maritimo",
+      "nombre": "Avería gruesa, gastos de salvamento y responsabilidad por colisión (transporte marítimo)",
+      "descripcion": "En el transporte marítimo se ampara la avería gruesa (acción o inversión extraordinaria para salvar los bienes en riesgo), los gastos de salvamento y la responsabilidad en las partes involucradas por colisión.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "auxilio-indemnizacion-importaciones-exportaciones",
+      "nombre": "Auxilio del 10% para importaciones y exportaciones",
+      "descripcion": "Para importaciones y exportaciones, se brinda un auxilio del 10 % sobre el valor de la indemnización (luego de aplicar el deducible).",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "10 % sobre el valor de la indemnización (luego de aplicar el deducible)"
+    },
+    {
+      "slug": "gastos-preservacion-bienes",
+      "nombre": "Gastos para preservar los bienes movilizados",
+      "descripcion": "Cubrimos los gastos para preservar los bienes movilizados de una pérdida o daño mayor a causa de un riesgo amparado por el seguro.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Máximo el 10% del valor asegurado"
+    },
+    {
+      "slug": "gastos-remocion-escombros",
+      "nombre": "Gastos de remoción de escombros y disposición final",
+      "descripcion": "Gastos de remoción de escombros, desmantelamiento, destrucción y disposición final de elementos que hayan sufrido afectaciones por un riesgo amparado por el seguro.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "mercancias-refrigeradas-y-granel",
+      "nombre": "Pérdidas y daños de mercancías refrigeradas y a granel",
+      "descripcion": "Pérdidas y daños de mercancías refrigeradas y a granel (sin ningún empaque).",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "permanencias-estadias-en-transito",
+      "nombre": "Permanencias o estadías de mercancías durante el tránsito",
+      "descripcion": "Permanencias o estadías de las mercancías en puertos, aeropuertos y otros sitios durante el curso ordinario de tránsito.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "proteccion-contenedores",
+      "nombre": "Protección de contenedores",
+      "descripcion": "Protegeremos los contenedores utilizados en el transporte de las mercancías aseguradas y por los que su empresa sea responsable.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "operaciones-cargue-descargue",
+      "nombre": "Pérdidas y daños durante operaciones de cargue y descargue",
+      "descripcion": "Pérdidas y daños durante las operaciones de cargue y descargue.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "huelguistas-y-personas-malintencionadas",
+      "nombre": "Acciones de huelguistas y personas malintencionadas",
+      "descripcion": "Cobertura adicional para acciones de huelguistas y personas malintencionadas.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "guerra-y-rebelion",
+      "nombre": "Eventos de guerra internacional, guerra civil o rebelión",
+      "descripcion": "Cobertura adicional para eventos de guerra internacional, guerra civil o rebelión.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "maquinaria-y-bienes-usados",
+      "nombre": "Protección de maquinaria y bienes usados",
+      "descripcion": "Cobertura adicional para la protección de maquinaria y bienes usados.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "huelga-asonada-motin-conmocion-civil",
+      "nombre": "Huelga, suspensión de trabajo, disturbios laborales, asonada, motín y conmoción civil",
+      "descripcion": "Huelga, suspensión de trabajo, disturbios laborales, asonada, motín y conmoción civil.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "infidelidad-actos-deshonestos",
+      "nombre": "Infidelidad y acciones deshonestas de administradores y trabajadores",
+      "descripcion": "Infidelidad y acciones deshonestas por parte de administradores y trabajadores al servicio del asegurado.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "lucro-cesante",
+      "nombre": "Lucro cesante",
+      "descripcion": "Dejar de percibir ingresos por no poder ejecutar las actividades económicas de su empresa.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil",
+      "nombre": "Responsabilidad civil de cualquier tipo",
+      "descripcion": "Responsabilidad civil de cualquier tipo.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "multas-y-sanciones",
+      "nombre": "Multas o sanciones",
+      "descripcion": "Multas o sanciones.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "toma-de-muestras-autoridades",
+      "nombre": "Toma de muestras y demás actos de las autoridades competentes",
+      "descripcion": "Toma de muestras y demás actos de las autoridades competentes.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "vicio-propio-descomposicion-combustion",
+      "nombre": "Vicio propio, descomposición natural y combustión espontánea",
+      "descripcion": "Vicio propio, descomposición natural y combustión espontánea de los bienes movilizados.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-por-condensacion",
+      "nombre": "Daños por condensación",
+      "descripcion": "Daños por condensación.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "deterioro-por-transcurso-del-tiempo",
+      "nombre": "Deterioros causados por el simple transcurso del tiempo",
+      "descripcion": "Deterioros causados por el simple transcurso del tiempo.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "energia-nuclear-contaminacion-radioactiva",
+      "nombre": "Riesgos de energía nuclear y contaminación radioactiva",
+      "descripcion": "Riesgos de energía nuclear y contaminación radioactiva.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "contaminacion-polucion-paulatina",
+      "nombre": "Contaminación y polución paulatina",
+      "descripcion": "Contaminación y polución paulatina.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "errores-faltantes-despacho",
+      "nombre": "Errores o faltantes en el despacho o bienes despachados en mal estado",
+      "descripcion": "Errores o faltantes en el despacho o por haber despachado los bienes en mal estado.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "insuficiencia-empaque",
+      "nombre": "Insuficiencia del empaque o preparación indebida de los bienes",
+      "descripcion": "Insuficiencia del empaque o haber preparado indebidamente los bienes para los riesgos ordinarios de tránsito.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "demoras-perdida-de-mercado",
+      "nombre": "Demoras o pérdidas de mercado",
+      "descripcion": "Demoras o pérdidas de mercado.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "ataques-ciberneticos-ti",
+      "nombre": "Ataques cibernéticos y riesgos de tecnología de la información",
+      "descripcion": "Ataques cibernéticos y riesgos de tecnología de la información.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "asbesto",
+      "nombre": "Pérdidas relacionadas con el asbesto",
+      "descripcion": "Pérdidas relacionadas directa o indirectamente con el asbesto.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "vehiculos-mayores-25-anos",
+      "nombre": "Transporte en vehículos terrestres con más de 25 años",
+      "descripcion": "Transporte en vehículos terrestres con una edad superior a 25 años, salvo que hayan sido repotenciados.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "A empresas que realicen envíos ocasionales de productos terminados o materias primas."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Términos y condiciones - Transporte de Mercancías Específico",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/transporte-mercancias-especifico.PDF"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Transporte de Mercancías Específico. Protegemos la mercancía de tu envío específico frente a riesgos durante su transporte, para que llegue seguro sin importar el modo o destino."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? A empresas que realicen envíos ocasionales de productos terminados o materias primas."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Por qué elegir esta solución? En Empresas SURA te acompañamos en el logro de los objetivos de tu empresa. Trabajamos desde siete áreas clave buscando impactos positivos en tu rentabilidad y sostenibilidad, destacándote en tu mercado objetivo, cuidando el bienestar de tus colaboradores, y gestionando la atracción y fidelización de tus clientes."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Hurto, extravío, accidente del vehículo transportador, incendio, rayo, explosión y, en general, todos los riesgos de pérdidas y daños de los bienes movilizados con ocasión del transporte en operaciones urbanas, nacionales, importaciones y exportaciones en los diferentes modos de transporte (aéreo, marítimo, terrestre, férreo y fluvial). En el transporte marítimo se ampara la avería gruesa (acción o inversión extraordinaria para salvar los bienes en riesgo), los gastos de salvamento y la responsabilidad en las partes involucradas por colisión. Para importaciones y exportaciones, se brinda un auxilio del 10 % sobre el valor de la indemnización (luego de aplicar el deducible). Cubrimos los gastos para preservar los bienes movilizados de una pérdida o daño mayor a causa de un riesgo amparado por el seguro (máximo el 10% del valor asegurado). Gastos de remoción de escombros, desmantelamiento, destrucción y disposición final de elementos que hayan sufrido afectaciones por un riesgo amparado por el seguro."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Pérdidas y daños de mercancías refrigeradas y a granel (sin ningún empaque). Permanencias o estadías de las mercancías en puertos, aeropuertos y otros sitios durante el curso ordinario de tránsito. Protegeremos los contenedores utilizados en el transporte de las mercancías aseguradas y por los que su empresa sea responsable. Pérdidas y daños durante las operaciones de cargue y descargue. Esta solución cuenta con coberturas adicionales, como: acciones de huelguistas y personas malintencionadas; eventos de guerra internacional, guerra civil o rebelión; protección de maquinaria y bienes usados."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Huelga, suspensión de trabajo, disturbios laborales, asonada, motín y conmoción civil. Infidelidad y acciones deshonestas por parte de administradores y trabajadores al servicio del asegurado. Lucro cesante (dejar de percibir ingresos por no poder ejecutar las actividades económicas de su empresa). Responsabilidad civil de cualquier tipo. Multas o sanciones. Toma de muestras y demás actos de las autoridades competentes. Vicio propio, descomposición natural y combustión espontánea de los bienes movilizados. Daños por condensación. Deterioros causados por el simple transcurso del tiempo. Riesgos de energía nuclear y contaminación radioactiva. Contaminación y polución paulatina."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "Errores o faltantes en el despacho o por haber despachado los bienes en mal estado. Insuficiencia del empaque o haber preparado indebidamente los bienes para los riesgos ordinarios de tránsito. Demoras o pérdidas de mercado. Ataques cibernéticos y riesgos de tecnología de la información. Pérdidas relacionadas directa o indirectamente con el asbesto. Transporte en vehículos terrestres con una edad superior a 25 años, salvo que hayan sido repotenciados."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Llamando a las líneas de atención locales: Medellín 604 437 8888; Bogotá 601 437 8888; Cali 602 437 8888; en el resto del país al 01 8000 518 888. Ingresando a www.sura.com.co en la opción 'Ingresa a tu cuenta'. Contactando a tu asesor de seguros. Medios de pago: presenciales (bancos y redes aliadas) y digitales (Pago Express, débito automático y financiación)."
+    }
+  ]
+}

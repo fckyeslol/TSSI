@@ -1,0 +1,154 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/vida/credito/protegido",
+  "producto": {
+    "slug": "personas-vida-credito-protegido",
+    "nombre": "Plan Crédito Protegido",
+    "ramo": "Vida",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "El Plan Crédito Protegido es un seguro de vida que respalda tu deuda con la entidad financiera en caso de fallecimiento o de una incapacidad total y permanente. A la hora de solicitar un crédito o préstamo, cualquier entidad financiera te exige un seguro de vida en caso de que no puedas cumplir con la deuda. Cubre el capital más los intereses corrientes y moratorios, y si después del pago queda parte del valor asegurado, este se entrega a ti o a tus beneficiarios.",
+    "resumen": "Seguro de vida que paga tu crédito o préstamo en caso de fallecimiento o incapacidad total y permanente, devolviendo el excedente a ti o tus beneficiarios.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center", "bancaseguros"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "vida",
+      "nombre": "Vida",
+      "descripcion": "Si llegas a fallecer, pagamos al beneficiario oneroso (entidad financiera) la deuda que tengas en ese momento (capital más intereses corrientes y moratorios). Si después del pago queda parte del valor asegurado, se entrega a los beneficiarios que hayas designado.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Igual a la deuda con la entidad financiera (valor asegurado constante)"
+    },
+    {
+      "slug": "incapacidad-total-y-permanente",
+      "nombre": "Incapacidad total y permanente por enfermedad o accidente",
+      "descripcion": "Si por un accidente o una enfermedad pierdes el 50 % o más de tu capacidad laboral, asumimos la deuda que tengas con la entidad financiera a la fecha del siniestro. Si queda parte del valor asegurado, se te entrega.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Igual a la deuda con la entidad financiera; aplica con pérdida del 50 % o más de capacidad laboral"
+    },
+    {
+      "slug": "auxilio-de-exequias",
+      "nombre": "Auxilio de exequias",
+      "descripcion": "Si llegas a fallecer, pagamos a tus beneficiarios siete millones de pesos para destinarlos a los gastos funerarios.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "$ 7.000.000"
+    },
+    {
+      "slug": "fondo-de-ahorro",
+      "nombre": "Fondo de ahorro",
+      "descripcion": "Además de la prima de tu seguro, tienes la posibilidad de hacer un pago adicional para ahorrar y obtener rendimiento. Este dinero lo puedes retirar cuando desees o usarlo para pagar las primas del Plan Crédito Protegido que tengas en mora.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "preexistencias",
+      "nombre": "Accidentes y enfermedades preexistentes",
+      "descripcion": "Accidentes ocurridos y enfermedades adquiridas antes de que hayas tomado este seguro, aunque hayas declarado los padecimientos.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "lesiones-autoinfligidas",
+      "nombre": "Lesiones autoinfligidas",
+      "descripcion": "Lesiones que te hayas provocado intencionalmente, estando o no en uso de tus facultades mentales.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "deportes-riesgosos",
+      "nombre": "Práctica de deportes riesgosos",
+      "descripcion": "La práctica de deportes riesgosos como parapentismo, montañismo, paracaidismo, escalada de montañas, rafting, downhill, esquí en hielo, entre otros que no hayas declarado al contratar este seguro o durante su vigencia.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "exclusion-auxilio-exequias-enfermedad-carencia",
+      "nombre": "Auxilio de exequias por enfermedad en periodo de carencia",
+      "descripcion": "Para el auxilio de exequias: no habrá indemnización cuando la muerte sea por una enfermedad que adquiriste dentro de los sesenta días siguientes al momento en que contrataste la cobertura.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": 18,
+    "edad_max": 70,
+    "condiciones": {
+      "edad_minima_ingreso": "18 años",
+      "edad_maxima_ingreso": "70 años",
+      "edad_maxima_permanencia_vida": "80 años",
+      "edad_maxima_permanencia_incapacidad": "75 años",
+      "edad_maxima_permanencia_auxilio_exequias": "80 años"
+    },
+    "descripcion": "Edades de ingreso y permanencia: Vida (ingreso de 18 a 70 años, permanencia hasta 80 años); Incapacidad total y permanente por enfermedad o accidente (ingreso de 18 a 70 años, permanencia hasta 75 años); Auxilio de exequias (ingreso de 18 a 70 años, permanencia hasta 80 años). Si cumples la edad máxima de permanencia en cualquiera de las coberturas, sigues asegurado hasta que termine la vigencia actual de tu seguro."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Exclusiones del Plan Crédito Protegido",
+      "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/vida/plan-credito-protegido.pdf"
+    },
+    {
+      "tipo": "clausulado",
+      "titulo": "Clausulado Plan Crédito Protegido",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vida/plan-credito-protegido.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "A la hora de solicitar un crédito o préstamo, cualquier entidad financiera te exige un seguro de vida, en caso de que no puedas cumplir con la deuda. En SURA creemos en tus proyectos y te acompañamos con una solución a tu medida. En SURA te acompañamos a moverte de forma segura, por eso creamos diferentes opciones para que elijas el plan que más se acomoda a tu estilo de vida. ¿Sueñas con tener casa propia, un vehículo o un título universitario que expanda tus oportunidades laborales? Para alcanzar metas como estas, podrías requerir el apoyo económico de una entidad financiera, la cual te exigirá un seguro de vida antes de aprobar el crédito o préstamo que solicites. Esto es en caso de que ocurra algo que te impida cumplir con el pago. Para esas situaciones que pueden afectar tu capacidad de trabajar, tu autonomía y libertad, influyendo en tu bienestar y el de tu familia, desde SURA te acompañamos con el Plan Crédito Protegido, un seguro que cubre tu deuda en caso de fallecimiento o de una incapacidad total y permanente. Si sobra dinero, te lo damos a ti o se lo entregamos a tus beneficiarios."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Vida: Si llegas a fallecer, pagamos al beneficiario oneroso (entidad financiera) la deuda que tengas en ese momento. Si después del pago queda una parte del valor asegurado, le entregamos ese dinero a los beneficiarios que hayas designado. Pagamos el capital más los intereses corrientes y moratorios (si los hay). Incapacidad total y permanente por enfermedad o accidente: Si por un accidente o una enfermedad pierdes el 50 % o más de tu capacidad laboral, asumimos la deuda que tengas con la entidad financiera a la fecha del siniestro. Si queda parte del valor asegurado, te lo entregamos. Asumimos el valor que debas a la fecha en que Seguros SURA informe a la entidad bancaria que fue aceptada tu reclamación."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Coberturas opcionales. Auxilio de exequias: Si llegas a fallecer, pagamos a tus beneficiarios $ 7.000.000 (siete millones de pesos) para que sean destinados a los gastos funerarios. Fondo de ahorro: Además de la prima de tu seguro, tienes la posibilidad de hacer un pago adicional para ahorrar y obtener rendimiento. Este dinero lo puedes retirar cuando desees o usarlo para pagar las primas del Plan Crédito Protegido que tengas en mora."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Accidentes ocurridos y enfermedades adquiridas antes de que hayas tomado este seguro (aunque hayas declarado los padecimientos). Lesiones que te hayas provocado intencionalmente, estando o no en uso de tus facultades mentales. La práctica de deportes riesgosos como parapentismo, montañismo, paracaidismo, escalada de montañas, rafting, downhill, esquí en hielo, entre otros que no hayas declarado al contratar este seguro o durante su vigencia. Para el auxilio de exequias: no habrá indemnización cuando la muerte sea por una enfermedad que adquiriste dentro de los sesenta días siguientes al momento en que contrataste la cobertura. Te invitamos a consultar las exclusiones completas del Plan Crédito Protegido en el condicionado."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "Edades de ingreso y permanencia. Si cumples la edad máxima de permanencia en cualquiera de las coberturas, sigues asegurado hasta que termine la vigencia actual de tu seguro. Vida: edad mínima de ingreso 18 años, edad máxima de ingreso 70 años, edad máxima de permanencia 80 años. Incapacidad total y permanente por enfermedad o accidente: edad mínima de ingreso 18 años, edad máxima de ingreso 70 años, edad máxima de permanencia 75 años. Auxilio de exequias: edad mínima de ingreso 18 años, edad máxima de ingreso 70 años, edad máxima de permanencia 80 años."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cuál es el valor asegurado? Es igual a tu deuda con la entidad financiera. Si tu crédito es de $ 100.000.000 (cien millones de pesos), entonces ese es el valor asegurado para cada cobertura. Ten en cuenta que es constante, es decir, no disminuye a medida que pagues la deuda y no puedes aumentarlo después de contratar el seguro. Si el valor asegurado llega a ser menor que el total de la deuda, Seguros SURA solo te indemniza hasta su límite. Si deseas reducir el valor asegurado, debes aportar un certificado de la entidad bancaria con la que tienes el crédito."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Plazos y términos. El seguro comienza a protegerte a la hora 24 del día en que ha sido expedido (la fecha sale en la carátula del seguro). Su vigencia es anual, con renovación automática hasta que canceles tu deuda con la entidad bancaria. Si cumples 80 años y todavía estás pagando tu préstamo, el Plan Crédito Protegido pasa a ser otro seguro de vida que sigue respaldando tu deuda con el mismo valor asegurado y una nueva tarifa. Si terminas de pagar tu crédito y no tienes esa edad, te damos la opción de tomar un plan distinto para continuar amparado. El Plan Crédito Protegido se termina cuando: acabes de pagar tu deuda con el banco o si este no te aprobó el préstamo; no cumplas con los pagos; Seguros SURA te indemnice en cualquiera de las coberturas; cumplas la edad máxima de permanencia en las coberturas; conviertas tu Plan Crédito Protegido en otro seguro de vida. Debes cancelar el Plan Crédito Protegido cuando termines de pagar tu deuda. Si posteriormente te seguimos haciendo cobros, nuestra obligación es devolverte el dinero, no indemnizarte. El Plan Crédito Protegido te respalda por homicidio y suicidio desde el comienzo de su vigencia. Tú o tus beneficiarios tienen dos años para hacer una reclamación desde el momento en que conozcan, o hayan debido conocer, la ocurrencia de un evento cubierto."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo hacer una reclamación? En caso de un siniestro, tú o tus beneficiarios pueden hacer una reclamación siguiendo este procedimiento: Infórmanos del evento a través de la sucursal virtual personal de segurossura.com.co, contactando a tu asesor de seguros, llamando sin costo desde tu celular a la línea de atención #888, o comunicándote a la línea de atención de SURA: Bogotá 601 437 8888, Cali 602 437 8888, Medellín 604 437 8888, otras ciudades del país 01 8000 051 8888. Aporta los documentos que acrediten la ocurrencia del hecho y el saldo de tu deuda. Pagaremos la indemnización al mes siguiente a la fecha en que se compruebe el siniestro."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Tarifa del seguro. Esta depende del valor del crédito que solicitaste a la entidad financiera y, por ende, del valor asegurado. El pago puede ser anual, semestral, trimestral o mensual."
+    }
+  ]
+}

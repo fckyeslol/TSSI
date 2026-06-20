@@ -1,0 +1,314 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/salud/enfermedades/graves",
+  "producto": {
+    "slug": "personas-salud-enfermedades-graves",
+    "nombre": "Seguro de Enfermedades Graves SURA",
+    "ramo": "Salud",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Con este seguro consolidas el capital necesario para mantener tu calidad de vida en caso de sufrir una enfermedad grave como cáncer, alzheimer, parkinson, entre otras cubiertas. Si eres diagnosticado con una enfermedad de alto costo cubierta, SURA te entrega el valor asegurado para que puedas acceder al tratamiento y tu familia y tú conserven su calidad de vida. Puedes adquirir el respaldo por el valor que elijas y asegurar también a tu grupo familiar (pareja, padres e hijos) para obtener un descuento.",
+    "resumen": "Seguro que entrega un capital al ser diagnosticado con una enfermedad grave de alto costo, protegiéndote a ti y a tu grupo familiar.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "cancer-y-leucemia",
+      "nombre": "Cáncer y leucemia",
+      "descripcion": "Estas enfermedades se caracterizan por el crecimiento descontrolado de células malignas y la invasión de tejidos.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "infarto-del-miocardio",
+      "nombre": "Infarto del miocardio",
+      "descripcion": "El infarto del miocardio se produce por el bloqueo de una o más arterias coronarias, lo que causa la muerte de una porción del corazón. El diagnóstico se establece a partir de síntomas como dolor de pecho, cambios en el electrocardiograma y elevación de enzimas cardíacas.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "enfermedad-cerebrovascular",
+      "nombre": "Enfermedad cerebrovascular",
+      "descripcion": "Cubrimos la enfermedad cerebrovascular causada por una hemorragia o un infarto en el tejido cerebral, que puede resultar en déficit neurológico.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "insuficiencia-renal-cronica",
+      "nombre": "Insuficiencia renal crónica",
+      "descripcion": "La insuficiencia debe ser permanente e irreversible en ambos riñones y que como consecuencia requieras hemodiálisis, diálisis peritoneal o trasplante de riñón.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "paralisis-de-miembros",
+      "nombre": "Parálisis de miembros superiores o inferiores",
+      "descripcion": "Se refiere a la pérdida completa e irreversible de la función de los miembros superiores o inferiores, causada por enfermedad o accidente.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "perdida-de-miembros",
+      "nombre": "Pérdida de miembros superiores o inferiores",
+      "descripcion": "Se refiere a la amputación quirúrgica o traumática de miembros superiores o inferiores, como resultado de una enfermedad o accidente.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "perdida-total-de-la-audicion",
+      "nombre": "Pérdida total de la audición",
+      "descripcion": "Se refiere a la pérdida permanente e irreversible de la audición en ambos oídos, como resultado de un accidente o una enfermedad.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "perdida-total-de-la-vision",
+      "nombre": "Pérdida total de la visión",
+      "descripcion": "Se refiere a la pérdida total, permanente e incorregible de la visión en ambos ojos.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "esclerosis-multiple",
+      "nombre": "Esclerosis múltiple",
+      "descripcion": "La esclerosis múltiple es una enfermedad inflamatoria crónica caracterizada por la formación de lesiones desmielinizantes en el sistema nervioso central.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "estado-de-coma",
+      "nombre": "Estado de coma",
+      "descripcion": "Se refiere a un estado de inconsciencia total que debe durar al menos 96 horas. El coma no puede ser resultado del consumo de alcohol o sustancias tóxicas.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "revascularizacion-arterial-coronaria",
+      "nombre": "Revascularización arterial coronaria",
+      "descripcion": "Es una cirugía de corazón abierto que se realiza para corregir el estrechamiento o la obstrucción de una o más arterias coronarias. Esta intervención requiere la colocación de al menos dos injertos o puentes para restaurar el flujo sanguíneo adecuado al corazón.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "trasplante-de-organo-mayor",
+      "nombre": "Trasplante de órgano mayor",
+      "descripcion": "Te respaldamos en caso de que recibas un trasplante de órgano mayor, que incluye el restablecimiento de conexiones vasculares, arteriales y venosas. Los órganos trasplantados que cubrimos son: hígado, corazón, médula ósea, páncreas, pulmón e intestino delgado.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "traumatismo-mayor-de-cabeza",
+      "nombre": "Traumatismo mayor de cabeza",
+      "descripcion": "Se refiere a un trastorno de la función cerebral debido a un impacto o lesión grave en la cabeza. No se cubre este evento si fue causado por un accidente en moto.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "reemplazo-total-de-valvula-del-corazon",
+      "nombre": "Reemplazo total de válvula del corazón",
+      "descripcion": "Respaldamos la primera ocurrencia de reemplazo de una o más válvulas del corazón mediante cirugía abierta.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "tumor-cerebral-benigno",
+      "nombre": "Tumor cerebral benigno",
+      "descripcion": "Se refiere al crecimiento de células tumorales benignas en el encéfalo, que requieren tratamiento mediante cirugía o radioterapia y pueden causar secuelas neurológicas permanentes.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "esclerosis-lateral-amiotrofica-ela",
+      "nombre": "Esclerosis lateral amiotrófica (ELA)",
+      "descripcion": "Es una enfermedad neurológica progresiva que afecta las células nerviosas motoras en la corteza cerebral y la médula espinal. Esta condición causa atrofia muscular, debilidad y eventualmente insuficiencia respiratoria.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "enfermedad-de-alzheimer",
+      "nombre": "Enfermedad de Alzheimer",
+      "descripcion": "Cubrimos el diagnóstico definitivo de la enfermedad de alzheimer antes de los 70 años de edad.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "enfermedad-de-parkinson",
+      "nombre": "Enfermedad de Parkinson",
+      "descripcion": "Cubrimos el diagnóstico inequívoco de la enfermedad primaria idiopática de parkinson antes de los 70 años de edad.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "cirugia-de-la-aorta",
+      "nombre": "Cirugía de la Aorta",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "quemaduras-graves-tercer-grado",
+      "nombre": "Quemaduras Graves (Tercer grado)",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "intentos-de-suicidio",
+      "nombre": "Intentos de suicidio",
+      "descripcion": "No se cubren situaciones consecuencia directa o indirecta de intentos de suicidio, ya sea que estés consciente o no en ese momento.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "enfermedades-anomalias-o-condiciones-de-nacimiento",
+      "nombre": "Enfermedades, anomalías o condiciones de nacimiento",
+      "descripcion": "No se cubren situaciones consecuencia directa o indirecta de enfermedades, anomalías o condiciones de nacimiento.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "enfermedades-preexistentes",
+      "nombre": "Enfermedades preexistentes",
+      "descripcion": "No se cubren enfermedades preexistentes antes de contratar el seguro.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "lesiones-autoinfligidas",
+      "nombre": "Lesiones autoinfligidas",
+      "descripcion": "No se cubren situaciones consecuencia directa o indirecta de lesiones autoinfligidas.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "uso-de-vehiculos-o-aviones-como-tripulante-aereo",
+      "nombre": "Uso de vehículos o aviones como piloto o tripulante aéreo",
+      "descripcion": "No se cubren situaciones derivadas del uso de vehículos o aviones si eres piloto, estudiante de vuelo, mecánico aeronáutico o tripulante, incluso si estás bajo un régimen especial de seguridad social.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "enfermedades-no-cubiertas-en-poliza-basica",
+      "nombre": "Enfermedades no cubiertas explícitamente en la póliza básica",
+      "descripcion": "No se cubren enfermedades que no estén explícitamente cubiertas en la póliza básica.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": 0,
+    "edad_max": 59,
+    "condiciones": {
+      "edad_ingreso": "Entre 14 y 59 años (la solicitud indica entre 0 y 59 años)",
+      "edad_permanencia": "Asegurado hasta los 70 años, con renovación automática",
+      "requisitos": [
+        "Completar la solicitud",
+        "Llenar y firmar la declaración de asegurabilidad",
+        "Adjuntar la información médica y financiera necesaria"
+      ],
+      "criterios": "Debe cumplir con las políticas de suscripción y los criterios médicos establecidos por SURA"
+    },
+    "descripcion": "El seguro está disponible para todas las personas que quieran tener respaldo económico en caso de ser diagnosticadas con una enfermedad grave cubierta, siempre y cuando cumplan con las políticas de suscripción y los criterios médicos establecidos por SURA. Para adquirir el seguro necesitas: completar la solicitud, tener entre 0 y 59 años, llenar y firmar la declaración de asegurabilidad y adjuntar la información médica y financiera necesaria."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condicionado Seguro de Enfermedades Graves",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/seguro-enfermedades-graves.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Enfermedades Graves: Precaución y Respaldo SURA. Con SURA vive más tranquilo sabiendo que cuentas con nuestro apoyo en los momentos más difíciles. Estamos aquí para respaldarte si eres diagnosticado una enfermedad de alto costo. Con tu Seguro de Enfermedades Graves SURA puedes: asegurarte entre los 14 y 59 años, contar con capital para tratar enfermedades graves tanto tuyas como de tu grupo familiar, asegurarte hasta los 70 años, y recuperarte sin que tu calidad de vida y la de tu familia se vean afectadas."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Adquiere este respaldo por el valor que elijas y asegura también a tu grupo familiar para obtener un descuento al incluir a tu pareja, padres e hijos. Con este seguro consolidarás el capital necesario para mantener tu calidad de vida en caso de sufrir una enfermedad grave como cáncer, alzheimer, parkinson, entre otras que están cubiertas. Así te sentirás protegido y tranquilo."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Si alguna vez te diagnostican alguna de las siguientes enfermedades, te entregamos el valor asegurado para que puedas acceder al tratamiento y tu familia y tú conserven su calidad de vida. Las enfermedades cubiertas son: Cáncer y leucemia (crecimiento descontrolado de células malignas e invasión de tejidos); Infarto del miocardio (bloqueo de una o más arterias coronarias que causa la muerte de una porción del corazón); Enfermedad cerebrovascular (causada por hemorragia o infarto en el tejido cerebral con posible déficit neurológico); Insuficiencia renal crónica (permanente e irreversible en ambos riñones que requiera hemodiálisis, diálisis peritoneal o trasplante); Parálisis de miembros superiores o inferiores (pérdida completa e irreversible de su función por enfermedad o accidente); Pérdida de miembros superiores o inferiores (amputación quirúrgica o traumática por enfermedad o accidente)."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Pérdida total de la audición (pérdida permanente e irreversible en ambos oídos por accidente o enfermedad); Pérdida total de la visión (pérdida total, permanente e incorregible en ambos ojos); Esclerosis múltiple (enfermedad inflamatoria crónica con lesiones desmielinizantes en el sistema nervioso central); Estado de coma (inconsciencia total de al menos 96 horas, no por consumo de alcohol o sustancias tóxicas); Revascularización arterial coronaria (cirugía de corazón abierto con al menos dos injertos o puentes); Trasplante de órgano mayor (hígado, corazón, médula ósea, páncreas, pulmón e intestino delgado); Traumatismo mayor de cabeza (trastorno de la función cerebral por impacto o lesión grave, no cubierto si fue por accidente en moto); Reemplazo total de válvula del corazón (primera ocurrencia mediante cirugía abierta); Tumor cerebral benigno (crecimiento de células tumorales benignas en el encéfalo con tratamiento quirúrgico o radioterapia)."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Esclerosis lateral amiotrófica (ELA): enfermedad neurológica progresiva que afecta las células nerviosas motoras en la corteza cerebral y la médula espinal, causando atrofia muscular, debilidad y eventualmente insuficiencia respiratoria. Enfermedad de Alzheimer: cubrimos el diagnóstico definitivo antes de los 70 años de edad. Enfermedad de Parkinson: cubrimos el diagnóstico inequívoco de la enfermedad primaria idiopática antes de los 70 años de edad. Cirugía de la Aorta. Quemaduras Graves (Tercer grado). Consulta siempre en las condiciones de tu seguro las coberturas de tu póliza."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Este seguro no cubre situaciones que sean consecuencia directa o indirecta de: intentos de suicidio, ya sea que estés consciente o no en ese momento; enfermedades, anomalías o condiciones de nacimiento; enfermedades preexistentes antes de contratar el seguro; lesiones autoinfligidas; uso de vehículos o aviones si eres piloto, estudiante de vuelo, mecánico aeronáutico o tripulante, incluso si estás bajo un régimen especial de seguridad social; y enfermedades que no estén explícitamente cubiertas en la póliza básica. Puedes revisar todas las exclusiones detalladas en las condiciones de la póliza del seguro."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿Quién puede asegurarse? El seguro está disponible para todas las personas que quieran tener respaldo económico en caso de ser diagnosticadas con una enfermedad grave cubierta, siempre y cuando cumplan con las políticas de suscripción y los criterios médicos establecidos por SURA. Para adquirir el seguro necesitas: completar la solicitud; tener entre 0 y 59 años; llenar y firmar la declaración de asegurabilidad; y adjuntar la información médica y financiera necesaria."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Para iniciar tu reclamo, comunícate con nuestra línea de atención. Nuestros expertos te guiarán y te acompañarán en todo el proceso. Llama gratis desde tu celular al #888. Si te encuentras en Medellín, Cali o Bogotá, marca al 437 88 88. En el resto del país, llama al 01 8000 51 8888. Prepara la documentación requerida según la enfermedad o el incidente que hayas experimentado tú o los asegurados."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Plazos y términos. Tu seguro se renueva automáticamente hasta que cumplas 70 años, siguiendo las condiciones acordadas cuando tomaste la póliza. Si decides cancelar el seguro, puedes hacerlo en cualquier momento notificándonos por escrito a SURA. Para conocer mejor esta solución, descarga los términos y condiciones."
+    }
+  ]
+}

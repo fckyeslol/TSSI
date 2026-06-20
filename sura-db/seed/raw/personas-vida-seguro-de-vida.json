@@ -1,0 +1,167 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/vida/seguro/de/vida",
+  "producto": {
+    "slug": "personas-vida-seguro-de-vida",
+    "nombre": "Seguro de Vida",
+    "ramo": "Vida",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Garantizar y mantener tu independencia económica frente a cualquier imprevisto es importante para ti, al igual que disponer de un fondo de ahorro para hacer realidad tus sueños, así como los de tus seres queridos. Por ello, con nuestro Seguro de Vida Plan Vive, puedes estar tranquilo mientras proteges tus ingresos. Tienes la opción de contratar un fondo de ahorro para concretar tus proyectos a corto plazo o complementarlo con el Seguro de Pensión para asegurar tu calidad de vida en la etapa de retiro. De esta manera, te aseguras de disfrutar plenamente de la vida, alcanzando todas tus metas y compartiendo momentos especiales con tus seres queridos. Cualquier persona a partir de los 14 años puede adquirir su seguro de vida Plan Vive con las coberturas que mejor se adapten a su situación y estilo de vida.",
+    "resumen": "Seguro de vida que protege tus ingresos y los de tus seres queridos, con opción de ahorro y coberturas ajustables a tu momento de vida.",
+    "es_digital": true,
+    "cotizador_url": "https://www.segurossura.com.co/paginas/vida/inicio.aspx?utm_source=referral&utm_medium=segurossura&utm_term=cotizador-ss&utm_content=boton&utm_campaign=vida-segurossura",
+    "canales": ["digital", "asesor"]
+  },
+  "planes": [
+    { "slug": "plan-vive", "nombre": "Plan Vive", "orden": 1, "precio_desde": null },
+    { "slug": "plan-credito-protegido", "nombre": "Plan crédito protegido", "orden": 2, "precio_desde": null },
+    { "slug": "plan-prorrogado", "nombre": "Plan Prorrogado", "orden": 3, "precio_desde": null },
+    { "slug": "plan-saldado", "nombre": "Plan Saldado", "orden": 4, "precio_desde": null },
+    { "slug": "plan-ordinario-de-vida", "nombre": "Plan Ordinario de Vida", "orden": 5, "precio_desde": null }
+  ],
+  "coberturas": [
+    {
+      "slug": "fallecimiento",
+      "nombre": "Respaldo económico por fallecimiento",
+      "descripcion": "Proporcionar respaldo económico a tus beneficiarios en caso de fallecimiento.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "saldo-deuda-credito",
+      "nombre": "Cobertura de saldo de deuda",
+      "descripcion": "Cubrir el monto de la deuda que no hayas alcanzado a pagar a tu beneficiario oneroso en caso de muerte o invalidez.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "enfermedades-graves",
+      "nombre": "Enfermedades graves",
+      "descripcion": "Respaldo económico en caso de que seas diagnosticado con enfermedades graves.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "cancer",
+      "nombre": "Cáncer",
+      "descripcion": "Respaldo económico en caso de que seas diagnosticado con cáncer.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "auxilio-exequias",
+      "nombre": "Auxilio de exequias",
+      "descripcion": "Le damos a tus familiares un auxilio de exequias.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "ahorro",
+      "nombre": "Posibilidad de ahorro",
+      "descripcion": "Posibilidad de ahorro.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "devolucion-de-dinero",
+      "nombre": "Devolución de dinero",
+      "descripcion": "Devolución de dinero si decides cancelar el seguro en algún momento.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "aseguramiento-de-por-vida-pago-unico",
+      "nombre": "Aseguramiento de por vida mediante pago único",
+      "descripcion": "Posibilidad de asegurarte de por vida mediante un único pago.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "muerte-accidental",
+      "nombre": "Muerte accidental",
+      "descripcion": "Darles a tus beneficiarios un dinero adicional en caso de muerte accidental.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "invalidez-y-desmembramiento-por-accidente",
+      "nombre": "Invalidez y desmembramiento por accidente",
+      "descripcion": "Darte dinero en caso de invalidez y desmembramiento por accidente.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "invalidez-y-desmembramiento-por-enfermedad",
+      "nombre": "Invalidez y desmembramiento por enfermedad",
+      "descripcion": "Entregar dinero en caso de invalidez y desmembramiento por enfermedad.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "reembolso-gastos-medicos-por-accidente",
+      "nombre": "Reembolso de gastos médicos por accidente",
+      "descripcion": "Te reembolsamos los gastos médicos derivados de accidentes (ideal si no tienes EPS).",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": 14,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Cualquier persona a partir de los 14 años puede adquirir su seguro de vida Plan Vive con las coberturas que mejor se adapten a su situación y estilo de vida."
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Vida: para todo lo que quieres alcanzar. Porque entendemos que tus sueños y tu autonomía son fundamentales para tu bienestar, te acompañamos de manera incondicional para que vivas plenamente cada momento."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Garantizar y mantener tu independencia económica frente a cualquier imprevisto es importante para ti, al igual que disponer de un fondo de ahorro para hacer realidad tus sueños, así como los de tus seres queridos. Por ello, con nuestro Seguro de Vida Plan Vive, puedes estar tranquilo mientras proteges tus ingresos. Tienes la opción de contratar un fondo de ahorro para concretar tus proyectos a corto plazo o complementarlo con el Seguro de Pensión para asegurar tu calidad de vida en la etapa de retiro. De esta manera, te aseguras de disfrutar plenamente de la vida, alcanzando todas tus metas y compartiendo momentos especiales con tus seres queridos."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "Cualquier persona a partir de los 14 años puede adquirir su seguro de vida Plan Vive con las coberturas que mejor se adapten a su situación y estilo de vida. Recuerda que puedes realizar tus reclamaciones a través de la sucursal virtual personal, y dar seguimiento a las mismas por medio de la plataforma o por la App Seguros SURA, disponible para tu celular."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¡Encuentra la opción perfecta para ti! Con SURA, los beneficios están a tu alcance. Recuerda que puedes ajustar las condiciones según tu momento de vida. ¿Qué te ofrecemos? Proporcionar respaldo económico a tus beneficiarios en caso de fallecimiento. Cubrir el monto de la deuda que no hayas alcanzado a pagar a tu beneficiario oneroso en caso de muerte o invalidez. Respaldo económico en caso de que seas diagnosticado con enfermedades graves. Respaldo económico en caso de que seas diagnosticado con cáncer. Le damos a tus familiares un auxilio de exequias. Posibilidad de ahorro. Devolución de dinero si decides cancelar el seguro en algún momento."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Posibilidad de asegurarte de por vida mediante un único pago. Darles a tus beneficiarios un dinero adicional en caso de muerte accidental. Darte dinero en caso de invalidez y desmembramiento por accidente. Entregar dinero en caso de invalidez y desmembramiento por enfermedad. Te reembolsamos los gastos médicos derivados de accidentes (ideal si no tienes EPS). Estas coberturas se distribuyen entre los planes disponibles: Plan Vive, Plan crédito protegido, Plan Prorrogado, Plan Saldado y Plan Ordinario de Vida."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Con nuestro seguro, disfruta Vive Más SURA. Llama al #888 sin costo desde tu celular o escríbenos vía WhatsApp al 315 275 7888. ¿Necesitas asesoría para elegir tu seguro? Déjanos tus datos para que un asesor se comunique contigo y resuelva tus dudas."
+    }
+  ]
+}

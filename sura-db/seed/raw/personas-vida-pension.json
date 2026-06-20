@@ -1,0 +1,118 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/vida/pension",
+  "producto": {
+    "slug": "personas-vida-pension",
+    "nombre": "Seguro de Pensión",
+    "ramo": "Vida",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Con este seguro, adquieres una cultura de planeación financiera y al mismo tiempo aseguras los ingresos que, en unos años, complementarán tu pensión. Te garantiza un capital de respaldo para que tus seres queridos y tú disfruten de calidad de vida en el futuro. Tú defines por cuánto tiempo quieres pagar el Seguro de Pensión y la periodicidad más cómoda: una suma única o a cuotas mensuales de mínimo $100.000, o sus equivalentes trimestrales, semestrales o anuales. El ingreso mensual que recibirás en el futuro no pierde valor en el tiempo y el riesgo financiero lo asume SURA.",
+    "resumen": "Seguro de ahorro y pensión que complementa tus ingresos futuros con un capital de respaldo y rentas mensuales que no pierden valor en el tiempo.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "renta-mensual-pension",
+      "nombre": "Renta mensual de pensión",
+      "descripcion": "Ingreso mensual que recibirás en el futuro para complementar o anticipar tu pensión; no pierde valor en el tiempo y aumenta cada enero según el IPC de los últimos 12 meses decretado por el DANE.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Costo mínimo de la cobertura principal: $100.000 mensuales o equivalente en otras periodicidades. Período de desembolsos mínimo un mes y máximo 20 años."
+    },
+    {
+      "slug": "capital-de-respaldo",
+      "nombre": "Capital de respaldo",
+      "descripcion": "Capital que garantiza calidad de vida a futuro para el asegurado y sus seres queridos, asumiendo SURA el riesgo financiero.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "abonos-adicionales",
+      "nombre": "Abonos adicionales",
+      "descripcion": "Posibilidad de hacer dos tipos de abonos adicionales, programados desde la contratación o en el momento en que se desee aportar durante el período de pago de primas.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "modificacion-periodo-estudio",
+      "nombre": "Modificación del período de estudio",
+      "descripcion": "Permite aplazar o adelantar la fecha de inicio del período de estudio por máximo un año, ampliar o reducir el período de estudio, y modificar la periodicidad en la que se recibe el ingreso adquirido durante ese período.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Aplazamiento o adelanto de la fecha de inicio por un tiempo máximo de un año."
+    },
+    {
+      "slug": "sin-exclusiones",
+      "nombre": "Sin exclusiones",
+      "descripcion": "Este seguro no tiene exclusiones.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "asegurables": ["titular", "cónyuge", "hijo", "ser querido familiar o no familiar"],
+      "max_asegurados": 5,
+      "evaluacion_medica": false,
+      "declaracion_asegurabilidad": false,
+      "libre_eleccion_beneficiarios": true
+    },
+    "descripcion": "El Seguro de Pensión está disponible para todas las personas que desean construir un patrimonio: para ti, para tu cónyuge, para tu hijo o para un ser querido que puede ser o no tu familiar. Te damos la libertad de elegir los beneficiarios y no requieres evaluación médica o declaración de asegurabilidad para adquirir el producto. Puedes definir hasta 5 asegurados en caso de que alguno falte."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condiciones del Seguro de Pensión",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/empleados/seguro-pension.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Pensión: un futuro con respaldo. Si quieres planear tus sueños a mediano y largo plazo desde ya, este seguro es tu mejor aliado para lograrlo. Con este seguro, adquieres una cultura de planeación financiera y al mismo tiempo aseguras los ingresos que, en unos años, complementarán tu pensión. Queremos garantizarte un capital de respaldo para que tus seres queridos y tú disfruten de calidad de vida en el futuro. Tú defines por cuánto tiempo quieres pagar el Seguro de Pensión y la periodicidad más cómoda: una suma única o a cuotas mensuales de mínimo $100.000 (cien mil pesos), o sus equivalentes trimestrales, semestrales, o anuales. El ingreso mensual que recibirás en el futuro no pierde valor en el tiempo y el riesgo financiero lo asumimos nosotros. Además, eliges por cuánto tiempo prefieres recibir tus desembolsos y si los anticipas a tu pensión o si simplemente esperas a que esta llegue para complementarla. Conoce más de esta protección que te da garantías fiscales, jurídicas y financieras. El ingreso mensual aumenta en enero de cada año de acuerdo al incremento del Índice de Precios al Consumidor (IPC) de los últimos 12 meses decretados por el DANE."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Facilidades que te ofrecemos. Abonos adicionales: tendrás la posibilidad de hacer dos tipos de abonos adicionales, programarlo desde el momento que contratas el Seguro o en el momento en el que quieres realizar el aporte durante el período de pago de primas. Modificación del periodo de estudio: con esta opción puedes aplazar o adelantar la fecha de inicio de tu período de estudio por un tiempo máximo de un año; ampliar o reducir el período de estudio; modificar la periodicidad en la que recibirás el valor del ingreso adquirido durante el período de estudio."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Para qué un seguro de pensión? Con este seguro puedes cumplir un objetivo específico, como complementar los ingresos en tu etapa de retiro, comprar una casa, viajar o, en general, hacer realidad cualquier sueño en compañía de tus seres queridos."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Este seguro no tiene exclusiones."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿Quién se puede asegurar? El Seguro de Pensión está disponible para todas las personas que desean construir un patrimonio: para ti, para tu cónyuge, para tu hijo o para un ser querido que puede ser o no tu familiar. Te damos la libertad de elegir los beneficiarios y no requieres evaluación médica o declaración de asegurabilidad para adquirir el producto. El seguro lo puede recibir otro ser querido que quieras definir como beneficiario. Además, puedes definir hasta 5 asegurados en caso de que alguno falte."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Tarifa del seguro. El valor será definido de acuerdo con los siguientes factores: edad de los asegurados; valor de la renta deseada; plazos establecidos para los pagos y los desembolsos de las rentas mensuales. El costo mínimo de la cobertura principal es $100.000 (cien mil pesos) mensuales o el equivalente en otras periodicidades. En caso de que no pagues la cuota mensual del seguro, SURA no lo cancela y en cualquier momento puedes ponerte al día con lo que tienes pendiente. Si no puedes pagar y no te pones al día, al momento de los desembolsos te entregaremos el valor que hayas logrado acumular."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Qué debes hacer previo a recibir los desembolsos? El Seguro de Pensión te ofrece un respaldo efectivo y oportuno a partir del momento en que hayas definido recibir la renta. Un mes antes de iniciar los desembolsos, habrá una comunicación de la Compañía a ti y a tu asesor, invitándote a definir el nombre de la persona que recibirá la renta, así como la cuenta bancaria en la que deseas que esta sea consignada. El seguro lo puede recibir otro ser querido que quieras definir como beneficiario."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Plazos y términos. El Seguro de Pensión es temporal y tiene una duración máxima de 35 años desde el inicio de su vigencia hasta el último desembolso. Podrás hacer los pagos durante un máximo de 25 años. La duración del período de desembolsos será mínimo un mes y máximo 20 años. Siempre deberá haber un mínimo de un año de espera entre el último pago y el primer desembolso."
+    }
+  ]
+}

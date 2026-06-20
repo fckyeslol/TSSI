@@ -1,0 +1,107 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/salud/como/cuidarte",
+  "producto": {
+    "slug": "personas-salud-como-cuidarte",
+    "nombre": "Cómo cuidarte - Servicios para tu bienestar (Seguro de Salud SURA)",
+    "ramo": "Salud",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Página de servicios de bienestar para clientes del Seguro de Salud de SURA. Reúne información y servicios para tener un estilo de vida saludable y cuidar la salud, incluyendo plan de recompensas, centro de experiencias para el bienestar, atención virtual en salud y programas de bienestar.",
+    "resumen": "Servicios de bienestar y acompañamiento en salud para clientes del Seguro de Salud SURA.",
+    "es_digital": true,
+    "cotizador_url": null,
+    "canales": ["digital"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "plan-de-recompensas",
+      "nombre": "Plan de recompensas",
+      "descripcion": "Programa que recompensa el cumplimiento de metas; los comportamientos saludables permiten acumular puntos.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "centro-de-experiencias-para-el-bienestar",
+      "nombre": "Centro de experiencias para el bienestar",
+      "descripcion": "Lugar interactivo para descubrir qué hábitos modificar y cuáles fortalecer, y proyectar el estado de salud al que se desea llegar.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "tu-bienestar-al-dia",
+      "nombre": "Tu bienestar al día",
+      "descripcion": "Acompañamiento en la gestión de la salud para estar siempre un paso adelante.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "programas-de-bienestar",
+      "nombre": "Programas de bienestar",
+      "descripcion": null,
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "atencion-virtual-en-salud",
+      "nombre": "Atención virtual en salud",
+      "descripcion": "Como cliente del Seguro de Salud se puede evaluar el estado de salud desde cualquier lugar.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "plan-nuevamente",
+      "nombre": "Plan nuevamente",
+      "descripcion": "Serie de servicios para que el cliente y sus seres queridos tengan una vida activa, saludable y segura.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "¡Contamos con estos servicios para tu bienestar! Encuentra información y servicios para tener un estilo de vida saludable. Encuentra información y servicios para cuidar tu salud."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Plan de recompensas. Valoramos tu esfuerzo y en SURA te recompensamos por el cumplimiento de tus metas, por eso hemos dispuesto un programa en el que tus comportamientos saludables te permitirán acumular puntos."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Centro de experiencias para el bienestar. Entre más conocemos de ti, más podemos saber lo que te hace bien. Por eso hemos creado un lugar interactivo para que descubras qué hábitos debes modificar y cuáles fortalecer, y por si fuera poco, proyectar el estado de salud al que deseas llegar."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Tu bienestar al día. En SURA siempre estamos dispuestos a acompañarte en la gestión de tu salud para que siempre estés un paso adelante."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Atención virtual en salud. Como cliente del Seguro de Salud podrás evaluar tu estado de salud desde el lugar en el que estés. ¡Ponte en línea con tu bienestar!"
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Plan nuevamente. Un buen estado de salud es la mejor huella del paso del tiempo. Por eso queremos estar contigo y tus seres queridos con una serie de servicios que les permitirán tener una vida activa, saludable y segura."
+    }
+  ]
+}

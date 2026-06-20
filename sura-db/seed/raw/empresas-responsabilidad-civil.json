@@ -1,0 +1,171 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil",
+  "producto": {
+    "slug": "empresas-responsabilidad-civil",
+    "nombre": "Pólizas de Responsabilidad Civil",
+    "ramo": "Otros",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "En el ejercicio de su actividad económica, las empresas están expuestas a riesgos que pueden ocasionar daños a terceros. Seguros SURA ofrece un portafolio de pólizas de Responsabilidad Civil para empresas que protege el patrimonio de la organización ante reclamaciones por daños materiales, lesiones personales y perjuicios causados a terceros en distintos sectores y actividades.",
+    "resumen": "Portafolio de pólizas de Responsabilidad Civil para empresas que protege el patrimonio ante daños causados a terceros.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "responsabilidad-civil-profesional",
+      "nombre": "Responsabilidad Civil Profesional",
+      "descripcion": "Aquella que surge cuando le causas un daño a un tercero en el ejercicio de tu actividad profesional u oficio.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-familiar",
+      "nombre": "Responsabilidad Civil Familiar",
+      "descripcion": "Protege tu patrimonio y tranquilidad ante daños involuntarios que tú o tu familia puedan causar a terceros en la vida cotidiana.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-danos-terceros",
+      "nombre": "RC por Daños a terceros",
+      "descripcion": "Protege el patrimonio de tu empresa con una solución integral ante los riesgos de tu actividad económica que pueden ocasionar daños a terceros.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-extracontractual-derivada-de-cumplimiento",
+      "nombre": "Extracontractual Derivada de Cumplimiento",
+      "descripcion": "Ejecuta tus contratos con tranquilidad, sin preocuparte por los posibles daños que le puedas ocasionar a terceros durante el proceso.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-drones",
+      "nombre": "Drones",
+      "descripcion": "Protege tu patrimonio en caso de que tus drones ocasionen daños materiales o lesiones personales a terceros en su operación.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-clinicas-hospitales",
+      "nombre": "Clínicas y hospitales",
+      "descripcion": "Protege a las entidades que prestan servicios de salud, comprometidas con la vida y el bienestar de las personas.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "proteccion-legal-empresarial",
+      "nombre": "Protección Legal Empresarial",
+      "descripcion": "Acompañamiento especializado ante inconvenientes jurídicos con clientes, empleados, proveedores o el Estado.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-profesional-veterinarios",
+      "nombre": "Profesional para Veterinarios",
+      "descripcion": "Te respaldamos para que cuides y cures con el corazón.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-hoteles",
+      "nombre": "Hoteles",
+      "descripcion": "Protege ante posibles eventualidades que se puedan presentar en tus instalaciones o en los tours que ofreces, cuidando la vida y el bienestar de los huéspedes.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-talleres",
+      "nombre": "Talleres",
+      "descripcion": "Protege tu patrimonio frente a los eventos de alto riesgo de los talleres que pueden causar daño a sus clientes.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-parqueaderos",
+      "nombre": "Parqueaderos",
+      "descripcion": "Respaldo para propietarios de parqueaderos públicos o privados expuestos a ocasionar daños o pérdidas a otras personas.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-empleadores",
+      "nombre": "Empleadores",
+      "descripcion": "Acompaña a la empresa en su obligación de garantizar que los empleados desarrollen sus labores de forma segura, cuidando el patrimonio.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "sostenibilidad-legal",
+      "nombre": "Sostenibilidad Legal",
+      "descripcion": "Protege a la empresa frente a eventuales riesgos en materia legal.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-ambiental",
+      "nombre": "Ambiental",
+      "descripcion": "Protege tu negocio ante daños ambientales que puedas ocasionar en el ejercicio de tu labor y que afecten a terceras personas.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Pólizas de Responsabilidad Civil. En el ejercicio de tu actividad económica, tu empresa está expuesta a algunos riesgos que pueden ocasionar daños a terceros. Protege tu patrimonio con una solución integral y a la medida de tus necesidades."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Responsabilidad Civil Profesional: la Responsabilidad Civil Profesional es aquella que surge cuando le causas un daño a un tercero en el ejercicio de tu actividad profesional u oficio. Responsabilidad Civil Familiar: protegemos tu patrimonio y tranquilidad ante daños involuntarios que tú o tu familia puedan causar a terceros en la vida cotidiana. RC por Daños a terceros: en el ejercicio de tu actividad económica, tu empresa está expuesta a algunos riesgos que pueden ocasionar daños a terceros. Protege tu patrimonio con una solución integral y a la medida de tus necesidades. Extracontractual Derivada de Cumplimiento: ejecuta tus contratos con total tranquilidad, sin preocuparte por los posibles daños que le puedas ocasionar a terceros durante el proceso."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Drones: explora los cielos con confianza. Protege tu patrimonio en caso de que tus drones ocasionen daños materiales o lesiones personales a terceros en su operación. Clínicas y hospitales: la vida y el bienestar de las personas es el compromiso de las entidades que prestan servicios de salud. Protección Legal Empresarial: las empresas pueden enfrentarse a inconvenientes jurídicos con clientes, empleados, proveedores o el Estado; en estos casos es importante contar con un acompañamiento especializado. Profesional para Veterinarios: te respaldamos para que cuides y cures con el corazón. Hoteles: la vida y el bienestar de los huéspedes son tu responsabilidad, por eso Seguros SURA te protege ante posibles eventualidades que se puedan presentar en tus instalaciones o en los tours que ofrecen."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Talleres: en los talleres se realizan actividades de alto riesgo que pueden causar daño a sus clientes. Proteja su patrimonio frente a estos eventos que afectan su tranquilidad. Parqueaderos: como propietario de un parqueadero público o privado, está expuesto a ocasionar daños o pérdidas a otras personas; en estos casos contar con el respaldo de SURA le genera tranquilidad. Empleadores: tu empresa está en la obligación de garantizar que tus empleados desarrollen sus labores de forma segura. Este seguro te acompaña para que cuides tu patrimonio. Sostenibilidad Legal: ¿quisieras tener tu empresa protegida frente a eventuales riesgos en materia legal? Descubre cómo te podemos acompañar. Ambiental: en el ejercicio de tu labor puedes ocasionar daños ambientales que afecten a terceras personas. ¡Protege tu negocio!"
+    }
+  ]
+}

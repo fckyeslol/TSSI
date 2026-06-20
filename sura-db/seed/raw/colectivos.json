@@ -1,0 +1,162 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/colectivos",
+  "producto": {
+    "slug": "colectivos",
+    "nombre": "Seguros Colectivos",
+    "ramo": "Colectivos",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "Una solución para grandes empresas que buscan asegurar su patrimonio y el bienestar de sus empleados. Para este canal, SURA cuenta con compañías especializadas en atender la protección integral de la empresa y sus empleados, y genera alianzas con empresas de servicios públicos, cajas de compensación, entidades financieras y corredores autorizados para ofrecer soluciones de seguros ajustadas a las necesidades de cada organización.",
+    "resumen": "Soluciones de seguros colectivos para grandes empresas que protegen su patrimonio y el bienestar de sus empleados.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "corredores", "affinity"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "hogar-colectivo",
+      "nombre": "Hogar Colectivo",
+      "descripcion": "Alianzas con empresas de servicios públicos, cajas de compensación, entre otras, para ofrecer soluciones de seguros de hogar ajustadas a tus necesidades.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "salud",
+      "nombre": "Salud",
+      "descripcion": "Soluciones integrales de salud a la medida, con acompañamiento personalizado de asesores de seguros buscando tu tranquilidad y bienestar.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "vida",
+      "nombre": "Vida",
+      "descripcion": "Protección de vida a través de alianzas con distintas entidades financieras del país.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "autos",
+      "nombre": "Autos",
+      "descripcion": "Protección integral de movilidad para grandes empresas y sus empleados, atendida por compañías especializadas y corredores autorizados.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "pension",
+      "nombre": "Pensión",
+      "descripcion": "Portafolio de servicios de pensión disponible a través de corresponsales de seguros y diferentes puntos de comercio.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "renta",
+      "nombre": "Renta",
+      "descripcion": "Portafolio de seguros de renta disponible de forma directa, ágil y en línea a través de los canales digitales suraenlinea.com y wesura.com.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "previsional-invalidez-y-sobrevivencia",
+      "nombre": "Previsional invalidez y sobrevivencia",
+      "descripcion": "Seguro previsional de invalidez y sobrevivencia.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-familiar",
+      "nombre": "Responsabilidad civil Familiar",
+      "descripcion": null,
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-profesionales-de-la-salud",
+      "nombre": "Responsabilidad civil Profesionales de la salud",
+      "descripcion": null,
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-profesionales-veterinarios",
+      "nombre": "Responsabilidad civil Profesionales Veterinarios",
+      "descripcion": "Alianzas con almacenes de grandes superficies y diferentes industrias para ofrecer responsabilidad civil a profesionales veterinarios.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-profesional",
+      "nombre": "Responsabilidad civil Profesional",
+      "descripcion": "Gestión de los riesgos e incertidumbres asociadas con tu labor o tu futuro, protegiéndote a ti y a tu familia.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "arrendamiento",
+      "nombre": "Arrendamiento",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "asegura-tu-talento",
+      "nombre": "Asegura tu talento",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Solución dirigida a grandes empresas que buscan asegurar su patrimonio y el bienestar de sus empleados, así como a entidades aliadas (empresas de servicios públicos, cajas de compensación y entidades financieras)."
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguros Colectivos de SURA es una solución para grandes empresas que buscan asegurar su patrimonio y el bienestar de sus empleados. Para este canal, SURA cuenta con compañías especializadas en atender la protección integral de la empresa y sus empleados. Identifica a todos los corredores autorizados."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Hogar Colectivo: SURA genera alianzas con empresas de servicios públicos, cajas de compensación, entre otras, para estar más cerca de ti y ofrecerte soluciones de seguros ajustadas a tus necesidades. Salud: los asesores de seguros ofrecen soluciones integrales y a tu medida, a través de un acompañamiento personalizado, buscando siempre tu tranquilidad y bienestar. Vida: a través de alianzas con distintas entidades financieras del país, SURA busca estar más cerca de ti y brindarte la protección que necesites."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Autos: una solución para grandes empresas que buscan asegurar su patrimonio y el bienestar de sus empleados, con compañías especializadas en atender la protección integral de la empresa y sus empleados, e identificación de corredores autorizados. Pensión: SURA llega al lugar donde te encuentres con sus corresponsales de seguros, quienes están a tu disposición para compartir el portafolio de servicios a través de diferentes puntos de comercio (tiendas en tu barrio, personas naturales, etc.). Renta: SURA cuenta con suraenlinea.com y wesura.com, sus canales de venta digitales para acceder al portafolio de seguros de forma directa, ágil y en línea."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "El portafolio colectivo también incluye soluciones de Previsional invalidez y sobrevivencia, Responsabilidad civil Familiar, Responsabilidad civil para Profesionales de la salud, Responsabilidad civil para Profesionales Veterinarios y Responsabilidad civil Profesional, con la cual SURA busca ayudarte a gestionar los riesgos y las incertidumbres asociadas con tu labor o con tu futuro, protegiéndote a ti y a tu familia. Para los profesionales veterinarios, SURA desarrolla alianzas con almacenes de grandes superficies y diferentes industrias. Complementan la oferta los productos de Arrendamiento y Asegura tu talento."
+    }
+  ]
+}

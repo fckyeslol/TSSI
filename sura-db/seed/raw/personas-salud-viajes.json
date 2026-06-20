@@ -1,0 +1,178 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/salud/viajes",
+  "producto": {
+    "slug": "personas-salud-viajes",
+    "nombre": "Seguro de Viaje",
+    "ramo": "Salud",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "El Seguro de Viaje de SURA te acompaña si durante tu viaje tienes un accidente o una enfermedad, coordinando los servicios médicos que requieras. Funciona en todo el mundo y te cubre en casos de emergencia justificada, con asistencia 24/7, cobertura global, respaldo de SURA y pago inmediato de las coberturas. Te paga el valor asegurado si se pierde o demora tu equipaje, te roban tus documentos o cancelas tu viaje.",
+    "resumen": "Seguro de viaje nacional e internacional con gastos médicos, asistencia 24/7 y cobertura global, ideal para viajeros.",
+    "es_digital": true,
+    "cotizador_url": "https://www.sura.co/seguros/personas/salud/viajes/digital",
+    "canales": ["digital", "asesor", "presencial"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "gastos-medicos-por-accidente-y-enfermedad",
+      "nombre": "Seguro de Salud (gastos médicos)",
+      "descripcion": "Cobertura principal de gastos médicos que brinda atención integral en caso de un imprevisto de salud durante el viaje, sin que tengas que asumir pagos o trámites en el lugar donde te encuentres.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "35.000 dólares para gastos médicos por accidente y enfermedad"
+    },
+    {
+      "slug": "equipaje",
+      "nombre": "Equipaje",
+      "descripcion": "Si pierdes tu equipaje o este se retrasa, te indemnizamos con el monto contratado. En caso de retraso, la indemnización será inmediata.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "acompanante",
+      "nombre": "Acompañante",
+      "descripcion": "Cubrimos el traslado y hospedaje de un acompañante durante tu enfermedad o accidente, si así lo requieres.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "8.000 dólares para acompañamiento en viaje"
+    },
+    {
+      "slug": "cancelacion-de-vuelo-o-viaje",
+      "nombre": "Cancelación de vuelo o viaje",
+      "descripcion": "En caso de que tu aerolínea cancele el vuelo, te reconocemos el valor contratado. Incluye la cancelación voluntaria por causa laboral, médica o de otro tipo, siempre que sea debidamente justificada.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "200 dólares para cancelación de viaje"
+    },
+    {
+      "slug": "gastos-por-robo-de-documentos",
+      "nombre": "Gastos por robo de documentos",
+      "descripcion": "Si te roban los documentos durante el viaje, te indemnizamos por el valor de los gastos que hayas asumido para reponerlos.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "enfermedades-preexistentes",
+      "nombre": "Enfermedades preexistentes",
+      "descripcion": "Cubrimos enfermedades preexistentes durante el viaje.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Hasta 10.000 dólares"
+    },
+    {
+      "slug": "extension-de-viaje-hospedaje-y-desplazamiento",
+      "nombre": "Hospedaje y desplazamiento por extensión del viaje",
+      "descripcion": "Asumimos el hospedaje y desplazamiento tuyo y de un acompañante si debes extender el viaje por alguna situación médica.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "repatriacion-por-fallecimiento",
+      "nombre": "Repatriación por fallecimiento",
+      "descripcion": "Asumimos el costo de una repatriación en caso de fallecimiento.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "orientacion-medica-telefonica",
+      "nombre": "Orientación médica telefónica",
+      "descripcion": "Recibe atención médica por medio de llamada telefónica desde donde estés para ser atendido por un experto y, de acuerdo con tu estado de salud, te orientamos de la mejor manera.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": 0,
+    "edad_max": 74,
+    "condiciones": {
+      "seguro_internacional": "Disponible para clientes entre 0 y 74 años",
+      "seguro_nacional": "Sin ningún límite de edad",
+      "evaluacion_medica": "No se requiere evaluación médica ni declaración de asegurabilidad"
+    },
+    "descripcion": "Las personas que quieren disfrutar al máximo un viaje nacional o internacional, terrestre o aéreo, solas o en compañía de sus seres queridos, con el respaldo de SURA. Las coberturas están disponibles para clientes que tengan entre 0 y 74 años en el caso de seguro internacional, y sin ningún límite de edad para el nacional. No se requiere evaluación médica ni declaración de asegurabilidad."
+  },
+  "documentos": [
+    {
+      "tipo": "formato",
+      "titulo": "Brochure Seguro de Viajes - Español",
+      "pdf_url": "https://www.sura.co/documents/d/seguros/brochure-seguro-de-viajes-espaniol"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Brochure Seguro de Viajes - Inglés",
+      "pdf_url": "https://www.sura.co/documents/d/seguros/brochure-seguro-de-viajes-ingles"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Proceso de reclamación Seguro de Viajes",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/viajes/proceso-de-reclamacion.pdf"
+    },
+    {
+      "tipo": "anexo",
+      "titulo": "Condiciones de viaje a Estados Unidos - SURA",
+      "pdf_url": "https://comunicaciones.segurossura.com.co/MercadeoPersonas/recursos/SEGUROS/Ccondiciones-de-viaje-EEUU_SURA.pdf"
+    },
+    {
+      "tipo": "condicionado",
+      "titulo": "Coberturas Seguro de Viaje Internacional",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/viajes/condicionado-seguro-viaje-internacional.pdf"
+    },
+    {
+      "tipo": "condicionado",
+      "titulo": "Coberturas Seguro de Viaje Nacional Aéreo",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/viajes/condicionado-seguro-viaje-nacional.pdf"
+    },
+    {
+      "tipo": "condicionado",
+      "titulo": "Coberturas Seguro de Viaje Nacional Terrestre",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/viajes/condicionado-seguro-viaje-nacional-terrestre.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Viaje: las experiencias que sueñas con el mejor respaldo. Si explorar nuevos lugares es lo que más te gusta, tenemos la opción ideal para ti. Es hora de recorrer el mundo con la tranquilidad de estar siempre protegido. Con este seguro de viaje tienes: Asistencia 24/7, Cobertura global, Respaldo de SURA y Pago inmediato de nuestras coberturas. En SURA te acompañamos si durante tu viaje tienes un accidente o una enfermedad, coordinando los servicios médicos que requieras. Si no te sientes bien, recibe atención médica por medio de llamada telefónica desde donde estés para ser atendido por un experto y, de acuerdo con tu estado de salud, te orientamos de la mejor manera. Te pagamos el valor asegurado si afrontas alguna de las siguientes situaciones: se te pierde o demora tu equipaje, te roban tus documentos o cancelas tu viaje. Por el WhatsApp +57 315 275 7888 opciones 1-4 puedes hacer estas reclamaciones y pedir asistencia."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "El Seguro de Viaje de SURA funciona en el mundo y te cubre en casos de emergencia justificada. Además de los beneficios mencionados, también asumiremos: El hospedaje y desplazamiento tuyo y de un acompañante si debes extender el viaje por alguna situación médica. El costo de una repatriación en caso de fallecimiento."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Cobertura principal - Seguro de Salud: La cobertura de gastos médicos del Seguro de Viaje de SURA te brinda atención integral. En caso de que sufras un imprevisto de salud, no tendrás que asumir pagos o trámites en el lugar donde te encuentres: nosotros nos haremos cargo de todo. Otras coberturas: 1. Equipaje: Si pierdes tu equipaje o este se retrasa, te indemnizamos con el monto contratado. En caso de retraso, la indemnización será inmediata. 2. Acompañante: Cubrimos el traslado y hospedaje de un acompañante durante tu enfermedad o accidente, si así lo requieres. 3. Cancelación de vuelo o viaje: En caso de que tu aerolínea cancele el vuelo, te reconocemos el valor contratado. Esta cobertura incluye la cancelación voluntaria por causa laboral, médica o de otro tipo, siempre y cuando sea debidamente justificada. 4. Gastos por robo de documentos: Si te roban los documentos durante el viaje, te indemnizamos por el valor de los gastos que hayas asumido para reponerlos."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Qué facilidades te ofrecemos? Líneas de atención gratuitas en cinco países y asesoría ágil por WhatsApp. Adicionalmente, cubrimos enfermedades preexistentes por hasta 10.000 dólares. Coberturas con valores asegurados independientes: 35.000 dólares para gastos médicos por accidente y enfermedad. 8.000 dólares para acompañamiento en viaje. 200 dólares para cancelación de viaje."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿Quiénes se pueden asegurar? Las personas que, como tú, quieren disfrutar al máximo un viaje nacional o internacional, terrestre o aéreo, solas o en compañía de sus seres queridos. Todo con la tranquilidad que da el respaldo de SURA. Las coberturas están disponibles para clientes que tengan entre 0 y 74 años en el caso de seguro internacional, y sin ningún límite de edad para el nacional. No se requiere evaluación médica ni declaración de asegurabilidad."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Tarifas: El valor del seguro nacional e internacional depende de los días que dure tu viaje. ¿Cómo comprar tu seguro? Puedes hacerlo de manera 100 % digital. Para cotizar y adquirir el seguro, entra al cotizador digital de SURA."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo hacer una reclamación? Procura comunicarte lo más pronto posible si sufres una enfermedad o un accidente. Tenemos a tu disposición líneas nacionales e internacionales, además de acompañamiento por WhatsApp en tu idioma. Desde Bogotá: 601 437 8888. Desde Cali: 602 437 8888. Desde Medellín: 604 437 8888. Desde otras ciudades de Colombia: 01 8000 51 8888. Desde USA, Puerto Rico y Canadá: 1 833 740 2955. Desde México: 800 880 0146. Desde España: 900 998 233. Desde República Dominicana: 1 800 7510206. Desde Panamá: 008005700983. Desde cualquier celular sin costo: #888. Línea de WhatsApp: +57 315 275 78 88, opciones 1-4."
+    }
+  ]
+}

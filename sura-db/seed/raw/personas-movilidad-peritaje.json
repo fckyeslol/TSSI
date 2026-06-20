@@ -1,0 +1,242 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/movilidad/peritaje",
+  "producto": {
+    "slug": "personas-movilidad-peritaje",
+    "nombre": "Peritaje SURA para autos y motos",
+    "ramo": "Movilidad",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "El peritaje es un proceso realizado por expertos responsables de una detallada revisión técnica de cada uno de los elementos de tu vehículo, con el objetivo de verificar el adecuado funcionamiento y estado de sus sistemas eléctrico, mecánico y estructural, así como del grado de originalidad en sus componentes. Por lo general, se realiza cuando vendes o adquieres un vehículo usado.",
+    "resumen": "Revisión técnica experta de autos y motos usados en los Centros de Servicios SURA; no requiere tener seguro SURA.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["presencial", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "trayectoria-alineacion-frenado-suspension",
+      "nombre": "Trayectoria de alineación, frenado y suspensión delantera y trasera",
+      "descripcion": "Prueba de pista en la que el vehículo se pone en movimiento para evaluar características como trayectoria de alineación, frenado y suspensión delantera y trasera.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de autos"
+    },
+    {
+      "slug": "aspectos-estructurales-autos",
+      "nombre": "Aspectos estructurales",
+      "descripcion": "Con el automóvil en unos elevadores, los expertos revisan la originalidad y estado de la carrocería, chasis y pintura, así como posibles fugas de líquidos como agua, aceite o refrigerante.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de autos"
+    },
+    {
+      "slug": "prueba-caja-y-motor",
+      "nombre": "Prueba de caja y motor",
+      "descripcion": "Permite conocer el estado real del motor del vehículo que vas a comprar; se adquiere por un costo adicional.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Peritaje de autos - servicio adicional con costo"
+    },
+    {
+      "slug": "computador-autos",
+      "nombre": "Computador",
+      "descripcion": "El controlador de las funciones electrónicas del vehículo se conecta a un escáner para identificar las fallas que pueda tener. Si son borrables, se eliminan; en caso contrario, se recomienda la remisión a un concesionario.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de autos"
+    },
+    {
+      "slug": "llantas-autos",
+      "nombre": "Llantas",
+      "descripcion": "Se miden el aire y la profundidad de las llantas para determinar su vida útil o, de ser pertinente, recomendar su cambio.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de autos"
+    },
+    {
+      "slug": "aire-acondicionado",
+      "nombre": "Aire acondicionado",
+      "descripcion": "Se chequea su funcionamiento general, es decir, que sus niveles de potencia, temperatura y rejillas trabajen correctamente.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de autos"
+    },
+    {
+      "slug": "pintura-autos",
+      "nombre": "Pintura",
+      "descripcion": "Mediante la observación de su textura y acabados, con un medidor de espesores o un micrómetro se establece si la pintura es original o el vehículo fue repintado y, en ese caso, si el proceso fue adecuado.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de autos"
+    },
+    {
+      "slug": "vidrios-y-retrovisores",
+      "nombre": "Vidrios y retrovisores",
+      "descripcion": "En los laterales se observa el funcionamiento de los mandos (manuales o eléctricos) y que el cristal no esté roto o rayado. El vidrio trasero y panorámico se inspeccionan con especial atención, pues su mal estado puede ser causa de sanciones de tránsito.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de autos"
+    },
+    {
+      "slug": "suspension-y-frenos-autos",
+      "nombre": "Suspensión y frenos",
+      "descripcion": "En una pista se comprueban los niveles de eficacia. Un sensor electrónico reporta si un amortiguador está húmedo o golpeado, o si las pastillas de frenos deben cambiarse o están bajas de líquido. También se examinan los discos y pastas.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de autos"
+    },
+    {
+      "slug": "luces-autos",
+      "nombre": "Luces",
+      "descripcion": "Se verifica que prendan y apaguen correctamente y que funcionen el cambio de luces bajas, altas, exploradoras, direccionales, de reversa y traseras que anuncian el frenado.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de autos"
+    },
+    {
+      "slug": "antecedentes-multas-e-infracciones-autos",
+      "nombre": "Antecedentes, multas e infracciones",
+      "descripcion": "Con el apoyo de Ajustev, aliado de SURA en asesorías jurídicas y técnicas, se consulta y cruza información de las secretarías de movilidad para revisar antecedentes, multas e infracciones, tarjeta de propiedad y seriales del motor y el chasis, comprobando que no estén alterados o regrabados y, en caso de estarlo, que esté autorizado por los entes de control.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de autos"
+    },
+    {
+      "slug": "aspectos-estructurales-motos",
+      "nombre": "Aspectos estructurales (moto)",
+      "descripcion": "Inspección visual del chasis, basculante y carenado. Aplican condiciones.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de motos"
+    },
+    {
+      "slug": "computador-motos",
+      "nombre": "Computador (moto)",
+      "descripcion": "Mediante un escáner se realiza un diagnóstico computarizado que evalúa las posibles fallas de la moto en las unidades electrónicas. Aplican condiciones según el tipo de vehículo. Servicio adicional que solo se presta en Medellín y se debe solicitar en el peritaje.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Peritaje de motos - servicio adicional, solo en Medellín"
+    },
+    {
+      "slug": "llantas-motos",
+      "nombre": "Llantas (moto)",
+      "descripcion": "Se verifica la profundidad, desgaste, estado y caducidad de las llantas para determinar su vida útil o, si es pertinente, su cambio.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de motos"
+    },
+    {
+      "slug": "pintura-motos",
+      "nombre": "Pintura (moto)",
+      "descripcion": "Mediante una detallada observación se evalúa el acabado de la pintura y, con el medidor de espesor, la calidad de la reparación del vehículo (si aplica).",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de motos"
+    },
+    {
+      "slug": "retrovisores-motos",
+      "nombre": "Retrovisores (moto)",
+      "descripcion": "Chequeo de su funcionamiento, adhesión al manubrio y que sean graduables, además de que no estén rotos o rayados.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de motos"
+    },
+    {
+      "slug": "suspension-y-frenos-motos",
+      "nombre": "Suspensión y frenos (moto)",
+      "descripcion": "Se revisa que en la estructura de la suspensión no haya fugas ni golpes que afecten el funcionamiento de la moto.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de motos"
+    },
+    {
+      "slug": "luces-motos",
+      "nombre": "Luces (moto)",
+      "descripcion": "Se verifica que prendan y apaguen correctamente y que funcionen el cambio de luces bajas, altas, direccionales y traseras que anuncian el frenado.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de motos"
+    },
+    {
+      "slug": "antecedentes-multas-e-infracciones-motos",
+      "nombre": "Antecedentes, multas e infracciones (moto)",
+      "descripcion": "Se revisan las bases de datos del RUNT, Fasecolda y la Policía Nacional para chequear si el vehículo tiene embargos, auditorías o registro de hurtos. Se valida la originalidad de la tarjeta de propiedad y los números de identificación del vehículo, comprobando que no estén alterados o regrabados y, en caso de estarlo, que esté autorizado por los entes de control.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Peritaje de motos"
+    },
+    {
+      "slug": "componentes-internos-caja-y-motor-moto",
+      "nombre": "Componentes internos de la caja de velocidad y del motor (moto)",
+      "descripcion": "El peritaje de moto no incluye la revisión del estado de los componentes internos de la caja de velocidad y del motor (ni su compresión).",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": "Peritaje de motos"
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "requiere_seguro_sura": false,
+      "vehiculos": ["autos", "motos"],
+      "modalidad": "presencial en Centros de Servicios",
+      "ciudades": ["Bogotá", "Cali", "Medellín", "Pereira", "Rionegro"]
+    },
+    "descripcion": "Servicio dirigido a quienes venden o adquieren un vehículo usado (auto o moto). Para este servicio no es necesario tener el seguro SURA. Se atiende de forma presencial en los Centros de Servicios de Bogotá, Cali, Medellín, Pereira y Rionegro."
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Peritaje SURA para autos y motos. Acude a nuestros Centros de Servicios en Bogotá, Cali, Medellín, Pereira y Rionegro para realizar el peritaje SURA. Recuerda que para este servicio no es necesario tener nuestro seguro. ¡Haz el peritaje SURA para que el negocio salga bien!"
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Qué es un peritaje? El peritaje es un proceso realizado por expertos responsables de una detallada revisión técnica de cada uno de los elementos de tu vehículo, con el objetivo de verificar el adecuado funcionamiento y estado de sus sistemas eléctrico, mecánico y estructural, así como del grado de originalidad en sus componentes. Por lo general, se realiza cuando vendes o adquieres un vehículo usado. Haz el peritaje con SURA para que el negocio salga bien. Escribe al WhatsApp de SURA: 315 275 78 88."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué se revisa en el peritaje de autos de SURA? 1) Trayectoria de alineación, frenado y suspensión delantera y trasera: prueba de pista en la que el vehículo se pone en movimiento para evaluar trayectoria de alineación, frenado y suspensión delantera y trasera. 2) Aspectos estructurales: con el automóvil en elevadores, los expertos revisan la originalidad y estado de la carrocería, chasis y pintura, así como posibles fugas de líquidos como agua, aceite o refrigerante. 3) Prueba de caja y motor: para conocer el estado real del motor del vehículo que vas a comprar, se adquiere por un costo adicional. 4) Computador: el controlador de las funciones electrónicas se conecta a un escáner para identificar fallas; si son borrables, se eliminan, en caso contrario se recomienda remisión a un concesionario. 5) Llantas: se miden el aire y la profundidad para determinar su vida útil o recomendar su cambio. 6) Aire acondicionado: se chequea su funcionamiento general (potencia, temperatura y rejillas)."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Peritaje de autos SURA (continuación). 7) Pintura: mediante observación de textura y acabados, con un medidor de espesores o un micrómetro se establece si la pintura es original o el vehículo fue repintado, y si el proceso fue adecuado. 8) Vidrios y retrovisores: en los laterales se observa el funcionamiento de los mandos (manuales o eléctricos) y que el cristal no esté roto o rayado; el vidrio trasero y panorámico se inspeccionan con especial atención, pues su mal estado puede ser causa de sanciones de tránsito. 9) Suspensión y frenos: en pista se comprueban los niveles de eficacia; un sensor electrónico reporta si un amortiguador está húmedo o golpeado, o si las pastillas deben cambiarse o están bajas de líquido; también se examinan discos y pastas. 10) Luces: se verifica que prendan y apaguen correctamente, y que funcionen luces bajas, altas, exploradoras, direccionales, de reversa y traseras. 11) Antecedentes, multas e infracciones: con apoyo de Ajustev se consulta y cruza información de las secretarías de movilidad para revisar antecedentes, multas e infracciones, tarjeta de propiedad y seriales del motor y chasis, comprobando que no estén alterados o regrabados."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué se revisa en el peritaje SURA de una moto? 1) Aspectos estructurales: inspección visual del chasis, basculante y carenado (aplican condiciones). 2) Computador: mediante un escáner se realiza un diagnóstico computarizado que evalúa posibles fallas en las unidades electrónicas; aplican condiciones según el tipo de vehículo; es un servicio adicional que solo se presta en Medellín y debe solicitarse en el peritaje. 3) Llantas: se verifica profundidad, desgaste, estado y caducidad para determinar su vida útil o su cambio. 4) Pintura: se evalúa el acabado y, con medidor de espesor, la calidad de la reparación (si aplica). 5) Retrovisores: se chequea funcionamiento, adhesión al manubrio, que sean graduables y que no estén rotos o rayados. 6) Suspensión y frenos: se revisa que en la estructura de la suspensión no haya fugas ni golpes. 7) Luces: que prendan y apaguen correctamente y que funcionen luces bajas, altas, direccionales y traseras. 8) Antecedentes, multas e infracciones: se revisan las bases del RUNT, Fasecolda y la Policía Nacional para chequear embargos, auditorías o registro de hurtos, y validar la originalidad de la tarjeta de propiedad y los números de identificación del vehículo."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "Este peritaje de moto no incluye: revisión del estado de los componentes internos de la caja de velocidad y del motor (ni su compresión)."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Centros de Servicios SURA para agendar el peritaje. Medellín: calle 10 n.° 50-347, teléfono 604 444 3776, WhatsApp 315 275 7888, lunes a viernes 7:00 a. m. a 4:00 p. m. y sábados 8:00 a. m. a 12:30 p. m. Cali: Av. 2N n.° 3N-20, teléfono 602 609 2730, lunes a viernes 8:00 a. m. a 5:30 p. m. y sábados 8:00 a. m. a 12:00 m. Bogotá: Av. 19 n.° 137-21, WhatsApp 315 275 7888 opciones 1-1-3-8, lunes a viernes 8:30 a. m. a 5:00 p. m. y sábados 8:00 a. m. a 12:30 p. m. Pereira: Av. 30 de Agosto n.° 40-27, teléfono 606 336 1969, lunes a viernes 7:30 a. m. a 5:00 p. m. y sábados 8:00 a. m. a 12:30 p. m. Rionegro: carrera 50 n.° 43A-47, no requiere agendar cita. Horario de atención virtual: lunes a viernes 7:30 a. m. a 5:30 p. m. y sábados 8:00 a. m. a 3:00 p. m."
+    }
+  ]
+}

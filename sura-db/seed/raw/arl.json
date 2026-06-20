@@ -1,0 +1,38 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl",
+  "proceso": {
+    "slug": "arl",
+    "nombre": "Afiliación a la ARL SURA",
+    "linea": "arl",
+    "tipo": "afiliacion",
+    "dirigido_a": "ambas",
+    "descripcion": "ARL Sura previene, atiende y protege a los trabajadores de los efectos causados por accidentes y enfermedades laborales. La página operativa permite iniciar la afiliación en línea (empresa o independiente), consultar si se está afiliado, consultar el estado del trámite de afiliación y acceder a servicios relacionados como certificados, reporte de accidentes y gestión financiera.",
+    "pasos": [
+      { "orden": 1, "titulo": "Inicia la afiliación en línea", "detalle": "Disfruta de todos los programas y servicios que tenemos para ti y tus colaboradores para la salud y seguridad en tu lugar de trabajo." },
+      { "orden": 2, "titulo": "Afíliate según tu perfil (empresa o independiente)", "detalle": "Empresa: inicia el proceso de afiliación en línea protegiendo a tus colaboradores. Independiente: responde las preguntas del formulario y conoce la opción que debes elegir para afiliarte como independiente voluntario o prestador de servicios." },
+      { "orden": 3, "titulo": "Consulta si estás afiliado a la ARL", "detalle": "Tipo y número de identificación de la empresa o del colaborador." },
+      { "orden": 4, "titulo": "Consulta el estado de tu afiliación", "detalle": "Consulta el estado actual del trámite de afiliación." }
+    ],
+    "url": "https://www.sura.co/arl"
+  },
+  "documentos": [
+    { "tipo": "formato", "titulo": "Formulario para descargar (FURAT) - Reporte de accidente de trabajo", "pdf_url": "https://www.arlsura.com/formularios/furat.xls" },
+    { "tipo": "certificado", "titulo": "Derechos y deberes ARL (Bienvenido a la ARL)", "pdf_url": "https://www.arlsura.com/files/bienvenida/derechos-deberes-arl.pdf" },
+    { "tipo": "formato", "titulo": "Guía estado de cuenta integral", "pdf_url": "https://www.arlsura.com/formularios/guia-estado-cuenta-integral.pdf" },
+    { "tipo": "formato", "titulo": "Guía mora independientes (estado de cuenta)", "pdf_url": "https://comunicaciones.segurossura.com.co/MercadeoEmpresas/Mails/ARL/OT_1108_Mail%20mora%20independientes_pdf.pdf" },
+    { "tipo": "formato", "titulo": "Volante campaña de préstamos a pensionados", "pdf_url": "https://www.arlsura.com/files/volante-campa%C3%B1a-de-prestamos.pdf" }
+  ],
+  "chunks": [
+    { "seccion": "general", "contenido": "ARL Sura previene, atiende y protege a los trabajadores de los efectos causados por accidentes y enfermedades laborales. ¡Descubre nuestros servicios aquí!" },
+    { "seccion": "general", "contenido": "Inicia la afiliación en línea. Disfruta de todos los programas y servicios que tenemos para ti y tus colaboradores para la salud y seguridad en tu lugar de trabajo." },
+    { "seccion": "general", "contenido": "Inicia el proceso de afiliación en línea. Queremos acompañarte en tu crecimiento, protegiendo el activo más valioso de tu empresa, a tus colaboradores. ¿Cómo puedo afiliar a mi empresa? Encuentra el paso a paso para iniciar la afiliación de tu empresa. Beneficios de afiliar a tu empresa: acompañamos a tu empresa con unidades estratégicas de negocios." },
+    { "seccion": "general", "contenido": "Afíliate como independiente. Responde las preguntas que encuentras en el formulario y conoce la opción que debes elegir para realizar tu afiliación como independiente voluntario o prestador de servicios. Si eres independiente voluntario, conoce lo que debes tener en cuenta durante este proceso." },
+    { "seccion": "requisitos", "contenido": "Requisitos para tu afiliación: encuentra toda la documentación para afiliarte como independiente." },
+    { "seccion": "requisitos", "contenido": "Bienvenido a la ARL. Si ya estás afiliado, esta información es importante para ti, así comprenderás tus responsabilidades y coberturas relacionadas con tu seguridad y protección en tu lugar de trabajo." },
+    { "seccion": "pasos", "contenido": "Consulta si estás afiliado a la ARL. Tipo y número de identificación de la empresa o del colaborador. Consulta el estado de tu afiliación: consulta el estado actual del trámite de afiliación." },
+    { "seccion": "general", "contenido": "Solicitud de certificados y carné. Certificado de afiliación: solicítalo en línea, descárgalo fácil y rápido sin desplazamientos. Carné de afiliación: genera desde cualquier lugar tu carné de afiliación. Cobertura exterior empleados: te brindamos asistencia médica en tu actividad laboral en el exterior. Cobertura exterior empresas: protege a tus colaboradores con asistencia médica en el exterior. Validar certificados expedidos: el código único del certificado es para consultar tus certificados. Si estás pensionado: descarga tus certificados, colillas, constancia de pago de EPS." },
+    { "seccion": "general", "contenido": "En caso de un accidente de trabajo. Recuerda reportarlo a la ARL y a la EPS de forma simultánea, durante los siguientes dos días hábiles de haber ocurrido el accidente en el trabajo. ¿Cómo reportar un accidente de trabajo? Conoce el paso a paso que debes seguir en caso de un accidente de trabajo. Gestiona tus incapacidades y reembolsos: ahora puedes hacerlo en línea. Recuerda que debes adjuntar los documentos legibles para un proceso exitoso." },
+    { "seccion": "general", "contenido": "Gestión financiera. Conoce todas las operaciones administrativas que puedes realizar en línea: medios de pago, estado de cuenta, devolución de recaudo, solicita tu estado de cuenta, préstamos a pensionados y caja de compensación." }
+  ]
+}

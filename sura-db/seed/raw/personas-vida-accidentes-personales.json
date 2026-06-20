@@ -1,0 +1,187 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/vida/accidentes/personales",
+  "producto": {
+    "slug": "personas-vida-accidentes-personales",
+    "nombre": "Seguro de Accidentes Personales",
+    "ramo": "Vida",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Con el Seguro de Accidentes Personales SURA te respaldamos en caso de que sufras un accidente. Te indemnizamos a ti o a tus beneficiarios en caso de invalidez o fallecimiento como resultado de un accidente. Tambien puedes contratar coberturas adicionales como renta diaria por incapacidad y reembolso de gastos medicos en los que incurras a causa de un accidente y que tu EPS o seguro de salud no cubran.",
+    "resumen": "Seguro que indemniza al asegurado o a sus beneficiarios en caso de invalidez, desmembracion o fallecimiento por accidente, con coberturas opcionales de renta diaria y gastos de curacion.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center", "digital"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "muerte-accidental",
+      "nombre": "Muerte accidental",
+      "descripcion": "Si falleces en un accidente o como producto de el, entregamos a tus beneficiarios una indemnizacion por el valor contratado, siempre y cuando la muerte ocurra dentro de los 180 dias siguientes al hecho.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Valor asegurado contratado; muerte dentro de los 180 dias siguientes al accidente"
+    },
+    {
+      "slug": "invalidez-desmembracion-inutilizacion-por-accidente",
+      "nombre": "Invalidez, desmembracion o inutilizacion por accidente",
+      "descripcion": "En caso de un accidente que ocasione invalidez total o perdida funcional de ciertos organos o partes del cuerpo, entregamos una indemnizacion equivalente al porcentaje de invalidez que establezca Seguros SURA.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Indemnizacion equivalente al porcentaje de invalidez establecido por Seguros SURA"
+    },
+    {
+      "slug": "invalidez-desmembracion-inutilizacion-por-enfermedad",
+      "nombre": "Invalidez, desmembracion o inutilizacion (cobertura opcional)",
+      "descripcion": "Te indemnizamos en caso de adquirir alguna enfermedad que te cause invalidez, inutilizacion o alguna desmembracion en tu cuerpo.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "gastos-de-curacion",
+      "nombre": "Gastos de curacion",
+      "descripcion": "Te reembolsamos el dinero que gastes como consecuencia de un accidente: hospitalizacion, medicamentos, elementos de curacion, derechos de sala de cirugia, honorarios medicos u odontologicos, anestesia, examenes de laboratorio, transfusiones de sangre, rayos X, servicios de enfermeria, ambulancias, gastos de fisioterapia, entre otros.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "renta-diaria-por-accidente",
+      "nombre": "Renta diaria por accidente",
+      "descripcion": "Si sufres un accidente que te ocasione una incapacidad medica, te entregamos un respaldo economico diario por el valor que contrates, dependiendo del diagnostico medico.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Valor diario contratado, segun diagnostico medico"
+    },
+    {
+      "slug": "dolo-culpa-grave-acto-voluntario",
+      "nombre": "Siniestro por dolo, culpa grave o acto voluntario",
+      "descripcion": "No cubre cuando en el siniestro haya habido dolo, culpa grave o se haya ocasionado por un acto voluntario.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "intoxicaciones-lumbalgias-espasmos-hernias",
+      "nombre": "Intoxicaciones, lumbalgias, espasmos musculares y hernias",
+      "descripcion": "No cubre intoxicaciones, lumbalgias, espasmos musculares y hernias de cualquier clase.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "enfermedades-congenitas-preexistencias",
+      "nombre": "Enfermedades congenitas, defectos fisicos y preexistencias",
+      "descripcion": "No cubre enfermedades congenitas o lesiones, defectos fisicos y enfermedades originadas o adquiridas antes de la contratacion de la cobertura, salvo que no las conocieras. Aplica asi declares que padeces la enfermedad antes de contratar la cobertura.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "mala-fe-en-la-reclamacion",
+      "nombre": "Mala fe en la reclamacion",
+      "descripcion": "No cubre cuando haya mala fe del asegurado o beneficiario en la reclamacion o en la comprobacion del derecho al pago del siniestro.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "reclamacion-fuera-de-prescripcion",
+      "nombre": "Reclamacion fuera de los terminos de prescripcion",
+      "descripcion": "No cubre cuando la reclamacion se realice por fuera de los terminos de prescripcion.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "exclusiones-especificas-por-cobertura",
+      "nombre": "Exclusiones definidas para cada cobertura",
+      "descripcion": "No cubre cuando apliquen las exclusiones definidas para cada cobertura.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "reticencia-declaracion-asegurabilidad",
+      "nombre": "Reticencia en la declaracion de asegurabilidad",
+      "descripcion": "No cubre cuando exista reticencia por parte del asegurado al momento de diligenciar la declaracion de asegurabilidad.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": 14,
+    "edad_max": 65,
+    "condiciones": {
+      "politicas_suscripcion": "De acuerdo con las politicas de suscripcion de Seguros SURA y los criterios de evaluacion medica establecidos.",
+      "edad_terminacion": "El seguro se termina si cumples 75 anos."
+    },
+    "descripcion": "El Seguro de Accidentes Personales esta disponible para todas las personas a partir de los 14 anos y hasta los 65 anos de edad, de acuerdo con las politicas de suscripcion de Seguros SURA y los criterios de evaluacion medica establecidos."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condicionado Seguro de Accidentes Personales",
+      "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/vida/accidentes-personales.pdf"
+    },
+    {
+      "tipo": "condicionado",
+      "titulo": "Condicionado Seguro de Proteccion Personal",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vida/seguro-proteccion-personal-accidentes-soat.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Accidentes Personales: apoyo en todo momento. Nuestra prioridad es brindarte el mejor apoyo en los momentos mas desafiantes. Con esta solucion te respaldamos en caso de que sufras un accidente. Sabemos que para ti es importante contar con la proteccion adecuada ante cualquier riesgo, por eso en SURA creamos la solucion ideal. Con el Seguro de Accidentes Personales te indemnizamos a ti o a tus beneficiarios en caso de invalidez o fallecimiento, como resultado de un accidente. Tambien tienes la posibilidad de contratar coberturas adicionales. Por ejemplo, si te incapacitan, recibiras una renta por cada dia que no puedas trabajar o realizar tus actividades cotidianas con normalidad. Adicionalmente, te reembolsaremos los gastos medicos en los que incurras a causa de un accidente y que tu EPS o tu seguro de salud no cubran."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Con el Seguro de Accidentes Personales puedes: Tener la tranquilidad de que tus beneficiarios recibiran una indemnizacion en caso de que fallezcas en un accidente o como consecuencia de este. Recibir una renta diaria durante el tiempo que tarde tu recuperacion para que tu y tus seres queridos no pierdan su calidad de vida. Contar con apoyo economico por invalidez o desmembracion a causa de un accidente. Solicitar reembolsos por los gastos medicos en los que incurras como consecuencia de un accidente."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Que cubrimos? Coberturas principales. Muerte accidental: Si llegas a fallecer en un accidente o como producto de el, entregaremos a tus beneficiarios una indemnizacion por el valor que contrataste desde un principio, siempre y cuando la muerte ocurra dentro de los 180 dias siguientes al hecho. Invalidez, desmembracion o inutilizacion por accidente: En caso de que sufras un accidente que te ocasione invalidez total o perdida funcional de ciertos organos o partes de tu cuerpo, te entregaremos una indemnizacion equivalente al porcentaje de invalidez que establezca Seguros SURA. De esta manera, podras conservar tu independencia economica y asumir los gastos que pueda traer consigo este hecho."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Coberturas opcionales. Invalidez, desmembracion o inutilizacion por accidente: Te indemnizamos en caso de adquirir alguna enfermedad que te cause invalidez, inutilizacion o alguna desmembracion en tu cuerpo. Gastos de curacion: Te reembolsamos el dinero que gastes como consecuencia de un accidente. Por ejemplo: hospitalizacion, medicamentos, elementos de curacion, derechos de sala de cirugia, honorarios medicos u odontologicos, anestesia, examenes de laboratorio, transfusiones de sangre, rayos X, servicios de enfermeria, ambulancias, gastos de fisioterapia, entre otros. Renta diaria por accidente: Si llegas a sufrir un accidente que te ocasione una incapacidad medica, te entregamos un respaldo economico diario por el valor que contrates, dependiendo del diagnostico medico."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "Este seguro no cubre: Cuando en el siniestro haya habido dolo, culpa grave o se haya ocasionado por un acto voluntario. Intoxicaciones, lumbalgias, espasmos musculares y hernias de cualquier clase. Enfermedades congenitas o lesiones, defectos fisicos y enfermedades originadas o adquiridas antes de la contratacion de la cobertura, salvo que no las conocieras. Esta exclusion aplica asi declares que padeces la enfermedad antes de contratar la cobertura. Cuando haya mala fe del asegurado o beneficiario en la reclamacion o en la comprobacion del derecho al pago del siniestro. Cuando la reclamacion se realice por fuera de los terminos de prescripcion. Cuando apliquen las exclusiones definidas para cada cobertura. Cuando exista reticencia por parte del asegurado al momento de diligenciar la declaracion de asegurabilidad."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "Quienes se pueden asegurar? El Seguro de Accidentes Personales esta disponible para todas las personas a partir de los 14 anos y hasta los 65 anos de edad, de acuerdo con las politicas de suscripcion de Seguros SURA y los criterios de evaluacion medica establecidos."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Tarifa del seguro. El valor sera definido de acuerdo con los siguientes factores: Valor asegurado contratado. Crecimiento del capital de respaldo contratado."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Como hacer una reclamacion? Puedes informarnos sobre la ocurrencia de un siniestro por cualquiera de estos canales: Ingresa con tu usuario y contrasena a la sucursal virtual de www.segurossura.com.co. Contacta a tu asesor. Llama sin costo desde tu celular al #888. Comunicate a la linea de atencion de SURA: Bogota 601 437 8888, Cali 602 437 8888, Medellin 604 437 8888, Otras ciudades del pais 01 8000 051 8888. Recuerda que deberas proporcionar a Seguros SURA la informacion solicitada."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Terminos y condiciones. La proteccion comienza a partir de la hora 24 de la fecha en la que se expida el seguro. La vigencia es anual con renovacion automatica. El seguro se termina si lo solicitas por escrito a SURA o si la Compania te lo informa, si no pagas dentro del mes siguiente a la fecha limite; si cumples 75 anos o si se te paga una indemnizacion superior al 50% del valor asegurado. Puedes solicitar el aumento o la disminucion de los valores asegurados de las coberturas cuando lo desees."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/agro/cosecha",
+  "producto": {
+    "slug": "empresas-agro-cosecha",
+    "nombre": "Seguro Agrícola de Cosecha",
+    "ramo": "Agro",
+    "linea": "empresas",
+    "tipo_persona": "ambas",
+    "descripcion": "Protegemos sus cultivos contra eventos naturales como excesos de lluvias, sequías, vientos fuertes y más. Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos por medio de Empresas SURA, eligiendo las coberturas que se ajusten a tu necesidad.",
+    "resumen": "Seguro que protege los cultivos de agricultores de todos los tamaños frente a eventos naturales que afectan la cosecha.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "perdida-costos-invertidos-por-eventos-naturales",
+      "nombre": "Eventos naturales que afectan la cosecha",
+      "descripcion": "Eventos naturales que causen pérdida de los costos invertidos y afecten la cosecha histórica del cultivo (excesos de lluvias, sequías, vientos fuertes y más).",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "plagas",
+      "nombre": "Plagas",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "enfermedades",
+      "nombre": "Enfermedades",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "calidad-de-la-cosecha",
+      "nombre": "Calidad de la cosecha",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "actos-mal-intencionados-de-terceros",
+      "nombre": "Actos mal intencionados de terceros",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "hurto-de-la-produccion",
+      "nombre": "Hurto de la producción",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Agricultores de todos los tamaños."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Términos y condiciones - Agrícola de Cosecha",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/agricola/agricola-de-cosecha.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Protegemos sus cultivos contra eventos naturales como excesos de lluvias, sequías, vientos fuertes y más. ¿Por qué elegir esta solución? Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos por medio de Empresas SURA. Podrás elegir las coberturas que se ajusten a tu necesidad."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? Agricultores de todos los tamaños."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Eventos naturales que causen pérdida de los costos invertidos y afecten la cosecha histórica del cultivo."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Plagas. Enfermedades. Calidad de la cosecha. Actos mal intencionados de terceros. Hurto de la producción. Entre otros eventos no cubiertos."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Contacta a tu asesor o marca desde tu celular #888. Términos y condiciones: para conocer mejor esta solución, descarga los términos y condiciones. Medios de pago: presenciales (bancos y redes aliadas) y digitales (Pago Express, débito automático y financiados)."
+    }
+  ]
+}

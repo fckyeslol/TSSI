@@ -1,0 +1,33 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/afiliacion/ingreso/retiro/trabajadores",
+  "proceso": {
+    "slug": "arl-afiliacion-ingreso-retiro-trabajadores",
+    "nombre": "Ingreso y retiro de trabajadores ARL",
+    "linea": "arl",
+    "tipo": "afiliacion",
+    "dirigido_a": "juridica",
+    "descripcion": "Proceso para afiliar (ingresar) y retirar empleados de la ARL SURA, con formularios de ingreso de trabajadores y estudiantes, formulario de retiro de trabajadores e instructivo de apoyo.",
+    "pasos": [
+      { "orden": 1, "titulo": "¿Cómo afilio a un empleado?", "detalle": "Consulta el video guía sobre el proceso de afiliación (ingreso) de un empleado: https://www.youtube.com/embed/NLF-hwKjfG8" },
+      { "orden": 2, "titulo": "¿Cómo retiro a un empleado?", "detalle": "Consulta el video guía sobre el proceso de retiro de un empleado: https://www.youtube.com/embed/n_cnU38Izhg" },
+      { "orden": 3, "titulo": "Descarga el formulario de ingreso de trabajadores y estudiantes", "detalle": "Plantilla de afiliación masiva: https://www.sura.co/documents/d/arl/plantilla_afiliacion_masiva" },
+      { "orden": 4, "titulo": "Descarga el formulario de retiro de trabajadores", "detalle": "Plantilla de desafiliación masiva: https://www.sura.co/documents/d/arl/plantilla_desafiliacion_masiva" },
+      { "orden": 5, "titulo": "Descarga el instructivo", "detalle": "Instructivo de ingreso y retiro de trabajadores ARL SURA: https://sura.lxc.liferay.com/documents/d/arl/instructivo-ingreso-y-retiro-de-trabajadores-arl-sura" }
+    ],
+    "url": "https://www.sura.co/arl/afiliacion/ingreso/retiro/trabajadores"
+  },
+  "documentos": [
+    { "tipo": "formato", "titulo": "Formulario ingreso de trabajadores y estudiantes", "pdf_url": "https://www.sura.co/documents/d/arl/plantilla_afiliacion_masiva" },
+    { "tipo": "formato", "titulo": "Formulario de retiro de trabajadores", "pdf_url": "https://www.sura.co/documents/d/arl/plantilla_desafiliacion_masiva" },
+    { "tipo": "formato", "titulo": "Instructivo de ingreso y retiro de trabajadores ARL SURA", "pdf_url": "https://sura.lxc.liferay.com/documents/d/arl/instructivo-ingreso-y-retiro-de-trabajadores-arl-sura" }
+  ],
+  "chunks": [
+    { "seccion": "general", "contenido": "¿Cómo afilio a un empleado? Proceso de la línea ARL (Riesgos Laborales) › Afiliación para el ingreso y retiro de trabajadores en SURA." },
+    { "seccion": "pasos", "contenido": "¿Cómo afilio a un empleado? Video guía: https://www.youtube.com/embed/NLF-hwKjfG8" },
+    { "seccion": "pasos", "contenido": "¿Cómo retiro a un empleado? Video guía: https://www.youtube.com/embed/n_cnU38Izhg" },
+    { "seccion": "requisitos", "contenido": "Formulario ingreso de trabajadores y estudiantes. Descargar: https://www.sura.co/documents/d/arl/plantilla_afiliacion_masiva" },
+    { "seccion": "requisitos", "contenido": "Formulario de retiro de trabajadores. Descargar: https://www.sura.co/documents/d/arl/plantilla_desafiliacion_masiva" },
+    { "seccion": "requisitos", "contenido": "Descarga el instructivo aquí: https://sura.lxc.liferay.com/documents/d/arl/instructivo-ingreso-y-retiro-de-trabajadores-arl-sura" }
+  ]
+}

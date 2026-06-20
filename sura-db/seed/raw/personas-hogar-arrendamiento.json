@@ -1,0 +1,140 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/hogar/arrendamiento",
+  "producto": {
+    "slug": "personas-hogar-arrendamiento",
+    "nombre": "Seguro de Arrendamiento",
+    "ramo": "Hogar y Vivienda",
+    "linea": "personas",
+    "tipo_persona": "ambas",
+    "descripcion": "En SURA, sabemos lo importante que es para ti recibir el pago mensual de tus inquilinos. Por eso, nuestro Seguro de Arrendamiento está diseñado para brindarte bienestar y tranquilidad en caso de que tu inquilino no cumpla con sus obligaciones. Si alguna vez esto sucede, ¡no te preocupes! Te respaldamos y garantizamos que siempre recibas tus ingresos.",
+    "resumen": "Seguro que garantiza el pago del arriendo y las obligaciones del inquilino en caso de incumplimiento.",
+    "es_digital": true,
+    "cotizador_url": "https://www.sura.co/seguros/personas/hogar/arrendamiento/digital",
+    "canales": ["digital", "presencial", "asesor"]
+  },
+  "planes": [
+    { "slug": "arrendamiento-digital-arma-tu-plan", "nombre": "Arrendamiento digital - Arma tu Plan", "orden": 1, "precio_desde": null },
+    { "slug": "arrendamiento-digital-plus", "nombre": "Arrendamiento digital - Plus", "orden": 2, "precio_desde": null },
+    { "slug": "arrendamiento-digital-esencial", "nombre": "Arrendamiento digital - Esencial", "orden": 3, "precio_desde": null },
+    { "slug": "arrendamiento-tradicional-global", "nombre": "Arrendamiento tradicional - Global", "orden": 4, "precio_desde": null },
+    { "slug": "arrendamiento-tradicional-clasico", "nombre": "Arrendamiento tradicional - Clásico", "orden": 5, "precio_desde": null },
+    { "slug": "arrendamiento-tradicional-basico", "nombre": "Arrendamiento tradicional - Básico", "orden": 6, "precio_desde": null }
+  ],
+  "coberturas": [
+    {
+      "slug": "pago-del-arriendo-por-incumplimiento",
+      "nombre": "Pago del arriendo en caso de incumplimiento del inquilino",
+      "descripcion": "Pago del arriendo en caso de incumplimiento por parte de tu inquilino.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "pago-cuotas-de-administracion",
+      "nombre": "Pago de cuotas de administración",
+      "descripcion": "Pago de cuotas de administración.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "asistencia-domiciliaria",
+      "nombre": "Asistencia domiciliaria",
+      "descripcion": "Asistencia domiciliaria, incluyendo servicios de plomería, electricidad, cerrajería, reemplazo de vidrios, gastos de traslado y asistencia jurídica telefónica.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "servicios-publicos-domiciliarios-pendientes",
+      "nombre": "Cubrimiento de servicios públicos domiciliarios pendientes",
+      "descripcion": "Cubrimiento de servicios públicos domiciliarios pendientes en la entrega del inmueble.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "reparacion-danos-y-faltantes-inventario",
+      "nombre": "Reparación de daños y faltantes en el inventario",
+      "descripcion": "Reparación de daños y faltantes en el inventario.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "asistencia-domiciliaria",
+      "nombre": "Asistencia domiciliaria (opcional - tradicional)",
+      "descripcion": "Asistencia domiciliaria, incluyendo servicios de plomería, electricidad, cerrajería, reemplazo de vidrios, gastos de traslado y asistencia jurídica telefónica.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "digital": {
+        "valor_arriendo_max": "Hasta 5 millones de pesos mensuales",
+        "uso_inmueble": "Solo residencial",
+        "duracion_contrato": "3, 6 o 12 meses",
+        "tipo_persona": "Natural (propietario e inquilino)",
+        "codeudor": "Si el inquilino es apto para el seguro 100% digital no necesitará codeudor; de lo contrario será dirigido al plan individual por oficina.",
+        "requisitos": [
+          "Correo electrónico del inquilino.",
+          "Número de matrícula inmobiliaria."
+        ]
+      },
+      "tradicional": {
+        "valor_arriendo_max": "Sin límite",
+        "uso_inmueble": "Residencial y Comercial",
+        "duracion_contrato": "Desde 1 mes en adelante",
+        "tipo_persona": "Natural y jurídica",
+        "codeudor": "Dependiendo del valor del canon podrás necesitar codeudor; existen planes en los que no se necesita, consúltalo con la oficina de tu ciudad.",
+        "requisitos": [
+          "Diligenciamiento de formularios por parte del inquilino.",
+          "Presentación de un codeudor.",
+          "Copia de la cédula de ciudadanía tanto del inquilino como del codeudor.",
+          "Documentos que demuestren solvencia económica.",
+          "Certificado de tradición y libertad reciente, no mayor a 30 días."
+        ]
+      }
+    },
+    "descripcion": "Producto dirigido a propietarios que arriendan inmuebles. La modalidad digital aplica a personas naturales (propietario e inquilino) con arriendos residenciales de hasta 5 millones mensuales; la modalidad tradicional aplica a personas naturales y jurídicas, uso residencial y comercial, sin límite de canon."
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "¡Protege tus ingresos! En SURA, sabemos lo importante que es para ti recibir el pago mensual de tus inquilinos. Por eso, nuestro Seguro de Arrendamiento está diseñado para brindarte bienestar y tranquilidad en caso de que tu inquilino no cumpla con sus obligaciones. Si alguna vez esto sucede, ¡no te preocupes! Te respaldamos y garantizamos que siempre recibas tus ingresos. Elige la opción que más se adapte a tus necesidades."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Arrendamiento digital. Medio para adquirirlo: Digital y desde cualquier dispositivo. Modalidad: Individual. Planes: Arma tu Plan, Plus, Esencial. Por el valor del canon no necesitas codeudores: si tu inquilino es apto para el seguro 100% digital no necesitará codeudor. Si por algún motivo debe presentar uno, serás dirigido al plan individual por oficina. Valor del arriendo del inmueble: hasta 5 millones de pesos mensuales. Uso del inmueble: solo residencial. Duración del contrato: 3, 6 o 12 meses. Tipo de persona: Natural (propietario e inquilino). Reclamaciones: 100% digital, desde cualquier dispositivo."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Arrendamiento (tradicional). Medio para adquirirlo: presencial o digital, en la oficina de tu ciudad. Modalidad: Individual, colectiva. Planes: Global, clásico o básico. Dependiendo del valor del canon podrás necesitar codeudor: contamos con diferentes planes en los que no necesitas codeudor, consúltalo con la oficina de tu ciudad. Valor del arriendo del inmueble: sin límite. Uso del inmueble: Residencial y Comercial. Duración del contrato: desde 1 mes en adelante. Tipo de persona: Natural y jurídica. Reclamaciones: contactando a la oficina donde lo contrataste."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Detalles arrendamiento digital. Coberturas: Pago del arriendo en caso de incumplimiento por parte de tu inquilino. Pago de cuotas de administración. Asistencia domiciliaria, incluyendo servicios de plomería, electricidad, cerrajería, reemplazo de vidrios, gastos de traslado y asistencia jurídica telefónica. Requisitos: correo electrónico del inquilino; número de matrícula inmobiliaria. Límite de indemnización: en caso de reclamación, la cobertura se mantendrá hasta que se restituya el inmueble o hasta que el inquilino efectúe el pago de sus obligaciones, con un límite máximo de indemnización de 12 meses. El seguro debe estar vigente y al corriente de pago."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Detalles arrendamiento tradicional. Cobertura básica: Pago del arriendo en caso de incumplimiento por parte de tu inquilino. Pago de cuotas de administración. Cubrimiento de servicios públicos domiciliarios pendientes en la entrega del inmueble. Cobertura opcional: Reparación de daños y faltantes en el inventario. Asistencia domiciliaria, incluyendo servicios de plomería, electricidad, cerrajería, reemplazo de vidrios, gastos de traslado y asistencia jurídica telefónica."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "Requisitos arrendamiento tradicional: diligenciamiento de formularios por parte del inquilino; presentación de un codeudor; copia de la cédula de ciudadanía tanto del inquilino como del codeudor; documentos que demuestren solvencia económica; certificado de tradición y libertad reciente, no mayor a 30 días. Límite de indemnización: en caso de reclamación, la cobertura se mantendrá hasta que se restituya el inmueble o hasta que el inquilino efectúe el pago de sus obligaciones, con un límite máximo de indemnización de 36 meses, de acuerdo al plan que selecciones. El seguro debe estar vigente y al día en los pagos. Si en algún punto del proceso digital no cumples con los requisitos, podrás continuar tu proceso con el producto tradicional."
+    }
+  ]
+}

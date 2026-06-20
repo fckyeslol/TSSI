@@ -1,0 +1,94 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/movilidad/autos/digital",
+  "producto": {
+    "slug": "personas-movilidad-autos-digital",
+    "nombre": "Seguro automóvil digital",
+    "ramo": "Movilidad",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Asegura tu carro 100% digital. Complementa el SOAT y conduce con la tranquilidad de estar protegido, con planes que se adaptan a tu estilo de vida. Luego de comprar el seguro tendrás 48 horas para realizar la inspección, con la opción de hacerla de manera virtual.",
+    "resumen": "Seguro de carro 100% digital que complementa el SOAT con planes Clásico, Básico y Global.",
+    "es_digital": true,
+    "cotizador_url": "https://ecomm.sura.co/seguros/movilidad/autos/cotizador",
+    "canales": ["digital"]
+  },
+  "planes": [
+    { "slug": "plan-clasico", "nombre": "Plan Clásico", "orden": 1, "precio_desde": null },
+    { "slug": "plan-basico", "nombre": "Plan Básico", "orden": 2, "precio_desde": null },
+    { "slug": "plan-global", "nombre": "Plan Global", "orden": 3, "precio_desde": null }
+  ],
+  "coberturas": [
+    {
+      "slug": "responsabilidad-civil-extracontractual",
+      "nombre": "Daños a terceros por accidente",
+      "descripcion": "Si te chocas manejando tu carro o un carro que no es tuyo, pagamos el daño que causes a personas u otro objeto de ese carro.",
+      "categoria": "responsabilidad",
+      "plan_slug": "plan-clasico",
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "vehiculo-de-reemplazo",
+      "nombre": "Movilidad tras un siniestro",
+      "descripcion": "Si no puedes usar tu auto después de un siniestro, te damos alternativas para que puedas movilizarte.",
+      "categoria": "asistencia",
+      "plan_slug": "plan-clasico",
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "grua-y-reparacion-en-talleres-aliados",
+      "nombre": "Reparación en talleres aliados",
+      "descripcion": "Si tu auto necesita reparación después de un accidente, lo llevamos a talleres aliados y nos encargamos de que quede en buenas manos.",
+      "categoria": "asistencia",
+      "plan_slug": "plan-clasico",
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "reparacion-danos-menores-vidrios-llantas-accesorios",
+      "nombre": "Daños menores: vidrios, llantas y accesorios",
+      "descripcion": "Si tienes un daño menor en tu auto, como un choque leve o un vidrio roto, te ayudamos con la reparación o cambio de piezas con vidrios, llantas o accesorios.",
+      "categoria": "patrimonial",
+      "plan_slug": "plan-clasico",
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "soat",
+      "nombre": "SOAT",
+      "descripcion": "Este seguro no incluye SOAT, lo complementa.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro automóvil digital. Más música, menos estrés. Asegura tu carro 100% digital. Planes que se adaptan a tu estilo de vida: Plan Clásico, Plan Básico y Plan Global."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Plan Clásico: Complementa el SOAT y conduce con la tranquilidad de estar protegido. Compra tu seguro para carros con el Plan Clásico y tendrás 48 horas para realizar la inspección. ¡Tranquilo! Tienes la opción de realizarla de manera virtual. Luego de comprar tu seguro de carros con el Plan Clásico, tendrás 48 horas para realizar la inspección. ¡Tranquilo! Tienes la opción de realizarla de manera virtual."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Si te chocas manejando tu carro o un carro que no es tuyo: Pagamos el daño que causes a personas u otro objeto de ese carro. Si no puedes usar tu auto después de un siniestro: Te damos alternativas para que puedas movilizarte. Si tu auto necesita reparación después de un accidente: Lo llevamos a talleres aliados y nos encargamos de que quede en buenas manos. Si tienes un daño menor en tu auto, como un choque leve o un vidrio roto: Te ayudamos con la reparación o cambio de piezas con vidrios, llantas o accesorios."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "Este seguro no incluye SOAT, lo complementa. Si lo que deseas comprar es el SOAT, debes adquirirlo por separado."
+    }
+  ]
+}

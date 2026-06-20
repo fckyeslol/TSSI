@@ -1,0 +1,110 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/politica/suscripcion/asg",
+  "producto": {
+    "slug": "empresas-politica-suscripcion-asg",
+    "nombre": "Suscripción con criterios ASG",
+    "ramo": "Otros",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "En SURA entendemos que los criterios Ambientales, Sociales y de Gobernanza (ASG) tienen impacto en empresas de cualquier tamaño y sector. Su análisis es crucial para una gestión integral del riesgo y para contribuir a su competitividad en el tiempo. La suscripción ASG busca ampliar la mirada a criterios no financieros que pueden impactar lo financiero y que influyen en la sostenibilidad de las empresas en el corto, mediano y largo plazo.",
+    "resumen": "Política de suscripción de SURA que integra criterios Ambientales, Sociales y de Gobernanza (ASG) en el aseguramiento de empresas.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "armas-controversiales",
+      "nombre": "Armas controversiales",
+      "descripcion": "Minas antipersona, armas nucleares, armas de racimo, armas biológicas y químicas, municiones de uranio empobrecido, municiones de fósforo blanco.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": "Vinculación directa con la actividad"
+    },
+    {
+      "slug": "tabaco",
+      "nombre": "Tabaco",
+      "descripcion": "Empresas cuya actividad principal sea la siembra, producción, manufactura o distribución mayorista de productos derivados del tabaco, o aquellas que obtengan más del 10% de sus ingresos de dichas actividades. No se incluye el comercio minorista general que venda productos de tabaco como parte de una oferta más amplia.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": "Actividad principal o más del 10% de los ingresos"
+    },
+    {
+      "slug": "pornografia",
+      "nombre": "Pornografía",
+      "descripcion": "Actividades relacionadas con la producción y comercialización de pornografía.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": "Vinculación directa con la actividad"
+    },
+    {
+      "slug": "carbon-termico",
+      "nombre": "Carbón térmico",
+      "descripcion": "Nuevas minas de carbón o nuevas plantas de generación de energía a base de carbón térmico.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": "Vinculación directa con la actividad"
+    },
+    {
+      "slug": "hidrocarburos-no-convencionales",
+      "nombre": "Hidrocarburos no convencionales",
+      "descripcion": "Arenas bituminosas, petróleo y gas ártico, petróleo y gas de aguas ultra profundas (UDW) o la generación energética basada en estos.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": "Vinculación directa con la actividad"
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "lineas_de_negocio": [
+        "Movilidad",
+        "Propiedad y patrimoniales",
+        "Riesgos logísticos y marítimos",
+        "Cumplimiento e ingeniería",
+        "Vida y salud"
+      ]
+    },
+    "descripcion": "Esta política aplica a los procesos de suscripción de las siguientes líneas de negocio de Seguros SURA Colombia: Movilidad; Propiedad y patrimoniales; Riesgos logísticos y marítimos; Cumplimiento e ingeniería; Vida y salud. También es un insumo clave para el diseño de nuevas soluciones y servicios de gestión de riesgos."
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "En SURA entendemos que los criterios Ambientales, Sociales y de Gobernanza (ASG) tienen impacto en empresas de cualquier tamaño y sector. Su análisis es crucial para una gestión integral del riesgo y para contribuir a su competitividad en el tiempo. El análisis de estos riesgos no es nuevo. Riesgos como los climáticos, los relacionados con la seguridad y salud en el trabajo o la prevención del lavado de activos y financiación de terrorismo, han sido tradicionalmente considerados en el proceso de suscripción y hacen parte de los criterios ASG. La suscripción ASG busca ampliar la mirada a otros criterios no financieros que pueden impactar lo financiero y que influyen en la sostenibilidad de las empresas en el corto, mediano y largo plazo. Esta política NO tiene como objetivo principal la exclusión de sectores, sino comprender el nivel de riesgo y la madurez de los clientes, para orientar nuestras decisiones de aseguramiento y acompañarlos en sus procesos de fortalecimiento y transición. Está alineada con nuestra Política de Sostenibilidad y con estándares nacionales e internacionales en materia de seguros sostenibles."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aplica esta política? Esta política aplica a los procesos de suscripción de las siguientes líneas de negocio de Seguros SURA Colombia: Movilidad; Propiedad y patrimoniales; Riesgos logísticos y marítimos; Cumplimiento e ingeniería; Vida y salud. También es un insumo clave para el diseño de nuevas soluciones y servicios de gestión de riesgos."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Qué riesgos ASG tenemos en cuenta? Ambiental: Evaluamos riesgos físicos y de transición relacionados con factores ambientales como emisiones, uso de agua y energía, gestión de residuos, biodiversidad, sustancias peligrosas y bienestar animal. También analizamos cómo estos factores pueden impactar o verse impactados por la actividad de la empresa. Social: Analizamos los impactos positivos o negativos que la actividad empresarial puede generar sobre sus grupos de interés, incluyendo derechos humanos, condiciones laborales, salud y seguridad, desarrollo comunitario, privacidad de datos, contextos de orden público y aspectos relacionados con diversidad equidad e inclusión. Gobernanza: Revisamos cómo se administra la organización, su ética empresarial, transparencia, cumplimiento normativo, gestión de riesgos y relacionamiento con grupos de interés. Estos temas no son los únicos que analizamos. El enfoque se ajusta según la actividad económica y el sector de cada cliente, identificando los factores ASG que realmente son materiales para su operación. También consideramos riesgos emergentes asociados a nuevas regulaciones, cambios tecnológicos y expectativas sociales."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo integramos los criterios ASG en la suscripción? 4.1 Priorización por sectores: Realizamos un análisis más profundo a sectores con mayor impacto ASG, que clasificamos en niveles de riesgo alto, medio y bajo, según su materialidad y contexto. Que un sector tenga un mayor nivel de impacto no significa que no sea asegurable. Significa que esperamos una gestión del riesgo y un nivel de madurez acordes con la naturaleza de su actividad. 4.2 Evaluación del nivel de madurez ASG: Evaluamos cómo cada empresa gestiona sus riesgos ASG y su capacidad para identificar, mitigar y adaptarse a los impactos derivados de su actividad. De manera general, las empresas pueden ubicarse en: Estándares mínimos, asociados principalmente al cumplimiento normativo; Mejores prácticas, alineadas con estándares, certificaciones o marcos reconocidos. Esto nos permite ajustar condiciones de aseguramiento y, cuando es necesario, definir planes de acompañamiento para fortalecer la gestión del riesgo."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "4.3 Exclusiones: En coherencia con nuestros principios corporativos de respeto, responsabilidad, transparencia y equidad, SURA se abstiene de suscribir negocios en empresas, proyectos o vehículos que tengan vinculación directa con las siguientes actividades: Armas controversiales (minas antipersona, armas nucleares, armas de racimo, armas biológicas y químicas, municiones de uranio empobrecido, municiones de fósforo blanco); Tabaco (empresas cuya actividad principal sea la siembra, producción, manufactura o distribución mayorista de productos derivados del tabaco, o aquellas que obtengan más del 10% de sus ingresos de dichas actividades; no se incluye el comercio minorista general); Pornografía (actividades relacionadas con la producción y comercialización de pornografía); Carbón térmico (nuevas minas de carbón o nuevas plantas de generación de energía a base de carbón térmico); Hidrocarburos no convencionales (arenas bituminosas, petróleo y gas ártico, petróleo y gas de aguas ultra profundas (UDW) o la generación energética basada en estos). La evaluación considera el nivel de exposición de la empresa a estas actividades dentro de su modelo de negocio y su peso relativo en ingresos y operaciones. En casos específicos, podremos analizar empresas con compromisos verificables de transición y avances demostrables."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "4.4 Impulso a proyectos de impacto ambiental y social positivo: Además de definir actividades excluidas, promovemos activamente soluciones aseguradoras que apoyen la transición hacia modelos productivos más resilientes y responsables. Promovemos activamente actividades alineadas con la Taxonomía Verde de Colombia y con nuestra Taxonomía interna de Seguros Sostenibles."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Acompañamiento, seguimiento y toma de decisiones: En SURA hacemos seguimiento a los compromisos ASG definidos en el proceso de suscripción y documentamos las decisiones para garantizar coherencia, trazabilidad y consistencia. Cuando un caso requiere un análisis más detallado, activamos instancias internas de revisión que nos permiten evaluar situaciones de mayor complejidad con criterios técnicos y de gobierno adecuados. A través de este proceso trabajamos con nuestros clientes en planes de fortalecimiento y mejora, acompañando sus procesos de transición de acuerdo con la realidad del país, el sector económico y el segmento empresarial. Transparencia, gobierno y divulgación: Esta política es pública y refleja nuestro compromiso con la transparencia. Su implementación, seguimiento y mejora continua están a cargo del Comité ASG, que realiza una revisión anual y comunica los avances en nuestro Reporte Integrado de Sostenibilidad."
+    }
+  ]
+}

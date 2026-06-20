@@ -1,0 +1,9 @@
+{
+  "tipo": "referencia",
+  "url": "https://www.sura.co/arl/sst/centro-de-documentacion/ergonomia/soportes-lumbares",
+  "categoria": "SST (Seguridad y Salud en el Trabajo)",
+  "chunks": [
+    { "seccion": "general", "contenido": "Soportes lumbares (SURATEP). La lumbalgia es un síndrome documentado como problema de salud relacionado con la actividad laboral, asociado al levantamiento y manipulación de cargas de manera no apropiada, movimientos repetitivos de la columna o mantener una misma posición por tiempo prolongado. Está dentro de las enfermedades relacionadas con el trabajo y es de gran importancia epidemiológica por su frecuencia en población adulta. Los altos índices de incapacidad y ausentismo laboral asociados disminuyen la productividad de las empresas." },
+    { "seccion": "prevencion", "contenido": "La capacitación del personal en higiene postural y manejo adecuado de cargas, junto con mejoras en los lugares de trabajo, tiene gran valor preventivo frente a patologías de origen lumbar. Sobre los elementos de protección personal para prevención de lumbalgia no existen suficientes estudios concluyentes, aunque el uso de soportes lumbares se ha popularizado en los últimos años. Tasas de prevalencia acumulada en grupo laboral entre 23% y 60% en países como EE.UU., Reino Unido, Escandinavia y Canadá." }
+  ]
+}

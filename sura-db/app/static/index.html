@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Asistente Seguros SURA</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="app">
+    <!-- Rail lateral -->
+    <aside class="rail">
+      <div class="brand">
+        <div class="brand-mark">S</div>
+        <div>
+          <div class="brand-name">Seguros SURA</div>
+          <div class="brand-sub">Asistente · IA local</div>
+        </div>
+      </div>
+
+      <div class="rail-section">
+        <p class="rail-label">Base de conocimiento</p>
+        <div class="stats" id="stats">
+          <div class="stat"><span class="stat-num" data-k="productos">—</span><span class="stat-lbl">Productos</span></div>
+          <div class="stat"><span class="stat-num" data-k="coberturas">—</span><span class="stat-lbl">Coberturas</span></div>
+          <div class="stat"><span class="stat-num" data-k="procesos">—</span><span class="stat-lbl">Procesos ARL</span></div>
+          <div class="stat"><span class="stat-num" data-k="fragmentos">—</span><span class="stat-lbl">Fragmentos</span></div>
+        </div>
+      </div>
+
+      <div class="rail-section">
+        <p class="rail-label">Cómo funciona</p>
+        <ul class="how">
+          <li><span class="dot d1"></span>Búsqueda híbrida (vector + texto)</li>
+          <li><span class="dot d2"></span>Herramientas SQL (detalle, comparar)</li>
+          <li><span class="dot d3"></span>Respuesta citada, sin inventar</li>
+        </ul>
+      </div>
+
+      <div class="rail-foot">
+        <span class="pill-live"><span class="live-dot"></span>100% local</span>
+        <span class="rail-engine" id="engine">pgvector · Ollama</span>
+      </div>
+    </aside>
+
+    <!-- Conversación -->
+    <main class="chat">
+      <header class="chat-head">
+        <div>
+          <h1>¿En qué te puedo ayudar?</h1>
+          <p class="chat-head-sub">Pregunta sobre seguros de personas, empresas o ARL.</p>
+        </div>
+        <button class="btn-ghost" id="clearBtn" title="Nueva conversación">↺ Nueva</button>
+      </header>
+
+      <section class="messages" id="messages">
+        <!-- estado inicial -->
+        <div class="welcome" id="welcome">
+          <div class="welcome-icon">🛡️</div>
+          <h2>Asistente de Seguros</h2>
+          <p>Respondo con la información oficial del portafolio SURA. Prueba con:</p>
+          <div class="chips" id="chips"></div>
+        </div>
+      </section>
+
+      <footer class="composer">
+        <div class="composer-box">
+          <textarea id="input" rows="1" placeholder="Escribe tu pregunta…" autocomplete="off"></textarea>
+          <button id="sendBtn" class="btn-send" aria-label="Enviar">
+            <svg viewBox="0 0 24 24" width="20" height="20"><path fill="currentColor" d="M3.4 20.4l17.45-7.48a1 1 0 0 0 0-1.84L3.4 3.6a.993.993 0 0 0-1.39.91L2 9.12c0 .5.37.93.87.99L17 12 2.87 13.88c-.5.07-.87.5-.87 1l.01 4.61c0 .71.73 1.2 1.39.91z"/></svg>
+          </button>
+        </div>
+        <p class="composer-hint">Enter para enviar · Shift+Enter para salto de línea · Respuestas generadas localmente, verifica con un asesor.</p>
+      </footer>
+    </main>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

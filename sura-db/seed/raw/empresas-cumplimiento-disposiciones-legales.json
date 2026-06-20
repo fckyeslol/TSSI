@@ -1,0 +1,77 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/cumplimiento/disposiciones/legales",
+  "producto": {
+    "slug": "empresas-cumplimiento-disposiciones-legales",
+    "nombre": "Seguro de Cumplimiento de Disposiciones Legales",
+    "ramo": "Cumplimiento",
+    "linea": "empresas",
+    "tipo_persona": "ambas",
+    "descripcion": "Protegemos el patrimonio de una entidad estatal frente a los perjuicios que puede generarle el incumplimiento de las obligaciones que tenga tu empresa, contempladas en leyes, decretos, ordenanzas, acuerdos, resoluciones, entre otras normas.",
+    "resumen": "Seguro que protege a una entidad estatal frente a los perjuicios por el incumplimiento de obligaciones legales por parte de tu empresa.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "disposicion-legal",
+      "nombre": "Disposición legal",
+      "descripcion": "Cubrimos los perjuicios que puede ocasionar a la entidad estatal u organismo público por el incumplimiento de obligaciones derivadas de leyes, decretos, resoluciones, reglamentos, ordenanzas, entre otros.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "fuerza-mayor-caso-fortuito",
+      "nombre": "Eventos de fuerza mayor o caso fortuito",
+      "descripcion": "Eventos de fuerza mayor, caso fortuito o cualquier otra causal que exonere a tu empresa del cumplimiento de la obligación.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "El tomador son las empresas de todos los tamaños y personas naturales. La entidad estatal será la asegurada."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Términos y condiciones - Disposiciones Legales",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/cumplimiento/disposiciones-legales.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Protegemos el patrimonio de una entidad estatal frente a los perjuicios que puede generarle el incumplimiento de las obligaciones que tenga tu empresa, contempladas en leyes, decretos, ordenanzas, acuerdos, resoluciones, entre otras normas."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? El tomador son las empresas de todos los tamaños y personas naturales. La entidad estatal será la asegurada."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Por qué elegir esta solución? Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos por medio de Empresas SURA."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Disposición legal: Cubrimos los perjuicios que puede ocasionar a la entidad estatal u organismo público por el incumplimiento de obligaciones derivadas de leyes, decretos, resoluciones, reglamentos, ordenanzas, entre otros."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Eventos de fuerza mayor, caso fortuito o cualquier otra causal que exonere a tu empresa del cumplimiento de la obligación."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Después de presentar tu reclamación, te contactaremos entre cinco (5) y siete (7) días calendario para informarte cómo se gestiona el proceso y solicitarte la documentación necesaria. Una vez tengamos toda la documentación, te enviaremos una respuesta en un plazo de diez (10) días hábiles."
+    }
+  ]
+}

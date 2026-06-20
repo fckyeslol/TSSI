@@ -1,0 +1,43 @@
+{
+  "tipo": "referencia",
+  "url": "https://www.sura.co/seguros/medios/pago/en/linea",
+  "categoria": "General",
+  "chunks": [
+    {
+      "seccion": "Pago en línea",
+      "contenido": "Pagar tus seguros en línea es posible, para que siempre estés protegido."
+    },
+    {
+      "seccion": "Pagos digitales",
+      "contenido": "Si tienes cuenta bancaria, puedes pagar tus seguros en línea desde el lugar donde te encuentres, a través de: Pago Express; WhatsApp. *Si realizas la gestión de tus seguros o soluciones por medio de suraenlínea.com o nuestros canales aliados, también encontrarás alternativas de pago digitales disponibles para ti."
+    },
+    {
+      "seccion": "Pago Express",
+      "contenido": "Con Pago Express encuentras una experiencia intuitiva que se acomoda a tus preferencias y estilo de vida, conoce las herramientas que tenemos disponibles dentro de la plataforma: Botón de Pagos Bancolombia; Otros medios de pago; Botón de Pagos PSE; Pagos con tarjetas de crédito. Si deseas realizar la transacción y pagar ingresa a la plataforma. Si tienes alguna otra pregunta sobre Pago Express, puedes resolver tus dudas en el manual de Pago Express. Debes tener en cuenta que: Una vez adquieres tu seguro tienes 30 días para realizar el pago. Los pagos con tarjeta de crédito no aplican para los seguros financiados. Cuando realizas tus pagos en línea, quedan registrados al instante en nuestro sistema."
+    },
+    {
+      "seccion": "Botón de Pago Bancolombia",
+      "contenido": "Ahora los clientes con cuentas de ahorro o corriente Bancolombia podrán realizar sus pagos desde Pago Express y suraenlinea.com, directamente desde Bancolombia, sin pasar por el botón de pagos en línea PSE. También puedes mirar el paso a paso en el instructivo disponible."
+    },
+    {
+      "seccion": "Otros medios de pago",
+      "contenido": "En esta opción, puedes realizar tus pagos con cuentas de ahorro, corriente o con una o varias tarjetas de crédito a través de nuestra pasarela de pagos."
+    },
+    {
+      "seccion": "Pagos con botón de pagos PSE",
+      "contenido": "Si deseas pagar las soluciones que tienes con SURA desde tu cuenta débito ahorros o corriente y no eres cliente Bancolombia, utiliza el botón de pagos PSE. Puedes conocer el paso a paso en el manual disponible."
+    },
+    {
+      "seccion": "Pagos con tarjeta de crédito",
+      "contenido": "Si deseas pagar las soluciones que tienes con SURA con una o varias tarjetas de crédito y quieres saber cómo hacerlo, consulta el manual disponible. Si tienes alguna otra pregunta sobre Pago Express, puedes resolver tus dudas en el manual de Pago Express."
+    },
+    {
+      "seccion": "Pago por WhatsApp",
+      "contenido": "Conoce cómo pagar tus seguros con WhatsApp. Para pagar por WhatsApp ingresa al número 573152757888 (api.whatsapp.com/send?phone=573152757888)."
+    },
+    {
+      "seccion": "Medios y formas de pago disponibles",
+      "contenido": "Medios y formas de pago disponibles: Presenciales; Digitales; Débito automático; Financiados; Desembolsos."
+    }
+  ]
+}

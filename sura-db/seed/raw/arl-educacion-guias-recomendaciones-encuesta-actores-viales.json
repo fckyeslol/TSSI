@@ -1,0 +1,49 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/educacion/guias/recomendaciones/encuesta/actores/viales",
+  "proceso": {
+    "slug": "arl-educacion-guias-recomendaciones-encuesta-actores-viales",
+    "nombre": "Realiza la encuesta de actores viales",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "natural",
+    "descripcion": "Encuesta de actores viales (Encuesta Conductores - Ingreso) dirigida a conductores, en la cual la persona ingresa sus datos para iniciar la encuesta en el marco de las guias y recomendaciones de movilidad de la ARL.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Ingresar datos personales",
+        "detalle": "Ingrese su numero de documento y su fecha de nacimiento (dia, mes y ano)."
+      },
+      {
+        "orden": 2,
+        "titulo": "Verificar reCAPTCHA",
+        "detalle": "Complete la verificacion reCAPTCHA (\"I'm not a robot\")."
+      },
+      {
+        "orden": 3,
+        "titulo": "Continuar",
+        "detalle": "Haga clic en el boton \"Continuar\" para acceder a la encuesta."
+      }
+    ],
+    "url": "https://www.sura.co/arl/educacion/guias/recomendaciones/encuesta/actores/viales"
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Realiza la encuesta de actores viales"
+    },
+    {
+      "seccion": "general",
+      "contenido": "Encuesta Conductores - Ingreso"
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Por favor ingrese sus datos y haga clic en el boton \"Continuar\". Documento: Fecha de Nacimiento: (dia / mes / ano). reCAPTCHA: Recaptcha requires verification. I'm not a robot. Continuar."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Encuesta actores viales - Ingreso"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/certificados/validar",
+  "proceso": {
+    "slug": "arl-certificados-validar",
+    "nombre": "Validar Certificados Expedidos - ARL SURA",
+    "linea": "arl",
+    "tipo": "certificado",
+    "dirigido_a": "ambas",
+    "descripcion": "En ARL SURA contamos con una herramienta para que puedas consultar y validar fácilmente los certificados que has expedido. Permite la consulta de certificados por código único.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Ingresar el código del certificado",
+        "detalle": "Digita el código del certificado en el campo 'Código del certificado' del formulario de consulta de certificados por código único."
+      },
+      {
+        "orden": 2,
+        "titulo": "Descargar",
+        "detalle": "Haz clic en 'Descargar' para validar y obtener el certificado consultado."
+      }
+    ],
+    "url": "https://www.sura.co/arl/certificados/validar"
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Validar Certificados Expedidos - ARL SURA. Línea: ARL (Riesgos Laborales) › Certificados. En ARL SURA contamos con una herramienta para que puedas consultar y validar fácilmente los certificados que has expedido. ¡Haz clic ahora!"
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Consulta de certificados por código único. Servicios en líne@. Código del certificado*. Descargar."
+    }
+  ]
+}

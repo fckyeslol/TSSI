@@ -1,0 +1,197 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/vida/educacion",
+  "producto": {
+    "slug": "personas-vida-educacion",
+    "nombre": "Seguro de Educación",
+    "ramo": "Vida",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Con el Seguro de Educación de SURA puedes estructurar un plan de pagos que te permita construir el capital necesario para cubrir los costos de tu educación o la de tus seres queridos en el futuro. Esta solución te ayuda a cubrir gastos de matrícula y manutención para estudios primarios, secundarios, no convencionales y universitarios, ya sean de pregrado o posgrado. También aplica para educación en el exterior, como viajes de intercambio. Está libre de cualquier obligación financiera: si dejas de pagarlo no se cancela, no adquieres una deuda, y te desembolsamos el capital que hayas acumulado en las fechas acordadas.",
+    "resumen": "Seguro de vida-ahorro que acumula capital para pagar matrícula y manutención de estudios, libre de obligación financiera.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "costos-de-matricula",
+      "nombre": "Costos de matrícula",
+      "descripcion": "Con pagos periódicos de cuotas o incluso un solo pago, construyes el capital para cubrir tus gastos educativos o los de tus seres queridos. Tú acumulas el respaldo económico y luego SURA lo desembolsa para pagar la matrícula. El desembolso no pierde valor con el tiempo (aumenta en enero de cada año según el IPC del DANE) y el riesgo financiero es asumido por la Compañía.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Costo mínimo de la cobertura principal: $100.000 mensuales o el equivalente en otras periodicidades"
+    },
+    {
+      "slug": "gastos-de-manutencion",
+      "nombre": "Gastos de manutención",
+      "descripcion": "Podrás programar pagos mensuales para cubrir gastos de manutención durante el periodo de estudio, tales como alimentación, vivienda o transporte.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "plan-vida-escolar",
+      "nombre": "Plan Vida Escolar",
+      "descripcion": "Si llegas a fallecer o a sufrir una invalidez total o permanente antes de comenzar los desembolsos de la cobertura principal (renta educativa), garantizamos que la persona para la que hayas tomado el seguro reciba una cantidad de dinero mensual que podrá utilizar para asumir los gastos escolares de formación preescolar, primaria o secundaria.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "plan-vida-complemento",
+      "nombre": "Plan Vida Complemento",
+      "descripcion": "Si aún no has finalizado el plan de pagos de la cobertura principal (renta educativa) y falleces o sufres una invalidez total o permanente, este plan terminará de pagar por ti, garantizando que tus seres queridos tengan acceso a la educación.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "muerte-por-suicidio-primer-ano",
+      "nombre": "Muerte por suicidio dentro de los doce meses siguientes",
+      "descripcion": "Muerte por suicidio, estando o no el tomador del Seguro de Educación en uso de sus facultades mentales, dentro de los doce meses siguientes a la contratación de esta cobertura o al aumento de los valores asegurados de la misma. Aplica a las coberturas Vida Escolar y Vida Complemento.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "deportes-extremos-conduccion-artefactos-aereos",
+      "nombre": "Conducción de vehículos o artefactos aéreos en deportes extremos",
+      "descripcion": "Conducción de vehículos o artefactos aéreos como parapentes, ultralivianos, paracaídas y planeadores usados en deportes extremos, entre otros. Aplica a la cobertura de incapacidad total y permanente de Vida Escolar y Vida Complemento.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "actos-de-guerra-y-conmocion-social",
+      "nombre": "Actos de guerra y conmoción social",
+      "descripcion": "Actos de guerra interior o exterior, revolución, rebelión, sedición, asonada o actos violentos motivados por conmoción social o por aplicación de la ley marcial. Aplica a la cobertura de incapacidad total y permanente de Vida Escolar y Vida Complemento.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "servicio-militar-naval-aereo-policia",
+      "nombre": "Prestación del servicio militar, naval, aéreo o de policía",
+      "descripcion": "Prestación del servicio militar, naval, aéreo o de policía. Aplica a la cobertura de incapacidad total y permanente de Vida Escolar y Vida Complemento.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "fision-fusion-nuclear-radioactividad",
+      "nombre": "Fisión o fusión nuclear o radioactividad",
+      "descripcion": "Fisión o fusión nuclear o radioactividad. Aplica a la cobertura de incapacidad total y permanente de Vida Escolar y Vida Complemento.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "enfermedades-preexistentes-congenitas",
+      "nombre": "Enfermedades congénitas o preexistentes",
+      "descripcion": "Enfermedades congénitas o lesiones, defectos físicos y enfermedades originadas, ocurridas o adquiridas antes de la contratación de la cobertura, incluso si el tomador del Seguro de Educación no las conocía. Aplica a la cobertura de incapacidad total y permanente de Vida Escolar y Vida Complemento.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "intento-suicidio-invalidez-intencional",
+      "nombre": "Intento de suicidio o invalidez provocada intencionalmente",
+      "descripcion": "Intento de suicidio o invalidez provocados intencionalmente. Aplica a la cobertura de incapacidad total y permanente de Vida Escolar y Vida Complemento.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": 18,
+    "edad_max": 70,
+    "condiciones": {
+      "evaluacion_medica_cobertura_principal": false,
+      "declaracion_asegurabilidad_cobertura_principal": false,
+      "requisitos_coberturas_opcionales": [
+        "Diligenciar la solicitud",
+        "Cumplir con la edad requerida de acuerdo con las políticas establecidas",
+        "Diligenciar y firmar la declaración de asegurabilidad",
+        "Adjuntar la información médica y financiera requerida"
+      ],
+      "rango_edad_coberturas_opcionales": "18 a 70 años"
+    },
+    "descripcion": "Todas las personas que desean construir un patrimonio que respalde el cumplimiento de sus metas educativas y las de sus seres queridos. El Seguro de Educación de SURA te da la libertad de elegir a los beneficiarios, es fácil de adquirir y no requiere evaluación médica o declaración de asegurabilidad. Las coberturas opcionales están disponibles para cualquier persona interesada que tenga entre 18 y 70 años de edad, según las políticas de suscripción de SURA y los criterios de evaluación médica establecidos."
+  },
+  "documentos": [
+    {
+      "tipo": "clausulado",
+      "titulo": "Condicionado Seguro de Educación",
+      "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/futuro/educacion.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Guía para pago del Seguro de Educación con cesantías",
+      "pdf_url": "https://www.segurossura.com.co/documentos/formas-pago/guia-para-pago-seguro-de-educacion-con-cesantias.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Educación: respaldamos tus proyectos desde que son sueños. Planea desde hoy tu proyecto educativo y el de tus seres queridos. Con esta solución podrás: lograr tus metas educativas y las de tus seres queridos; tener un seguro libre de cualquier obligación financiera; estructurar un plan de pagos y construir un capital para estudios; y acumular el respaldo económico que te desembolsaremos para la matrícula."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Con el Seguro de Educación de SURA puedes estructurar un plan de pagos que te permita construir el capital necesario para cubrir los costos de tu educación o la de tus seres queridos en el futuro. Esta solución te ayuda a cubrir gastos de matrícula y manutención para estudios primarios, secundarios, no convencionales y universitarios, ya sean de pregrado o posgrado. También aplica para educación en el exterior, como viajes de intercambio. Ten en cuenta que este seguro está libre de cualquier obligación financiera, lo que quiere decir que si en algún momento dejas de pagarlo, no se cancela, no adquieres una deuda, y te desembolsamos el capital que hayas acumulado en las fechas acordadas."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Cobertura principal — Costos de matrícula: con pagos periódicos de cuotas o incluso un solo pago, construyes el capital para cubrir tus gastos educativos o los de tus seres queridos. Funciona de manera sencilla: tú acumulas el respaldo económico y luego nosotros lo desembolsamos para pagar la matrícula de los semestres, en caso de que sea una universidad. Tu desembolso no pierde valor con el tiempo y el riesgo financiero es asumido por nuestra Compañía. El desembolso aumenta en enero de cada año, de acuerdo con el incremento del Índice de Precios al Consumidor (IPC), últimos doce meses decretados por el DANE."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Coberturas opcionales. Gastos de manutención: podrás programar pagos mensuales para cubrir gastos de manutención durante el periodo de estudio, tales como alimentación, vivienda o transporte. Plan Vida Escolar: si llegas a fallecer o a sufrir una invalidez total o permanente antes de comenzar los desembolsos de la cobertura principal (renta educativa), garantizamos que la persona para la que hayas tomado el seguro reciba una cantidad de dinero mensual para asumir los gastos escolares de formación preescolar, primaria o secundaria. Por ejemplo: si tu plan educativo es para asegurar la universidad de tu hijo y falleces cuando apenas está en el colegio, le entregaremos un dinero mensual hasta que comience su carrera. Plan Vida Complemento: si aún no has finalizado el plan de pagos de la cobertura principal (renta educativa) y falleces o sufres una invalidez total o permanente, este plan terminará de pagar por ti, garantizando que tus seres queridos tengan acceso a la educación."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Facilidades que te ofrecemos. Abonos adicionales: tendrás la posibilidad de hacer dos tipos de abonos adicionales: desde el momento en que contratas el seguro, o durante el periodo de pago de primas. Modificación del periodo de estudio: podrás aplazar o adelantar la fecha de inicio de tu periodo de estudio por un tiempo máximo de un año; ampliar o reducir el periodo de estudio; y modificar la frecuencia con la que recibirás el valor del ingreso adquirido durante el periodo de estudio."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "Este seguro no tiene exclusiones para su cobertura principal. Las coberturas opcionales tienen exclusiones. Para las coberturas Vida Escolar y Vida Complemento: muerte por suicidio, estando o no el tomador del Seguro de Educación en uso de sus facultades mentales, dentro de los doce meses siguientes a la contratación de esta cobertura o al aumento de los valores asegurados de la misma."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "Para la cobertura de incapacidad total y permanente de Vida Escolar y Vida Complemento: conducción de vehículos o artefactos aéreos como parapentes, ultralivianos, paracaídas y planeadores usados en deportes extremos, entre otros; actos de guerra interior o exterior, revolución, rebelión, sedición, asonada o actos violentos motivados por conmoción social o por aplicación de la ley marcial; prestación del servicio militar, naval, aéreo o de policía; fisión o fusión nuclear o radioactividad; enfermedades congénitas o lesiones, defectos físicos y enfermedades originadas, ocurridas o adquiridas antes de la contratación de la cobertura, incluso si el tomador no las conocía; intento de suicidio o invalidez provocados intencionalmente."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿Quiénes se pueden asegurar? Todas las personas que desean construir un patrimonio que respalde el cumplimiento de sus metas educativas y las de sus seres queridos. El Seguro de Educación de SURA te da la libertad de elegir a los beneficiarios, es fácil de adquirir y no requiere evaluación médica o declaración de asegurabilidad. Las coberturas opcionales están disponibles para cualquier persona interesada que tenga entre 18 y 70 años de edad, según las políticas de suscripción de SURA y los criterios de evaluación médica establecidos. Los requisitos para adquirir dichas coberturas opcionales son: diligenciar la solicitud; cumplir con la edad requerida de acuerdo con las políticas establecidas; diligenciar y firmar la declaración de asegurabilidad; y adjuntar la información médica y financiera requerida."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Tarifa. El valor del seguro será definido de acuerdo con los siguientes factores: edad de las personas aseguradas; valor de la renta educativa deseada; plazos establecidos para los pagos y los desembolsos de las rentas mensuales. El costo mínimo de la cobertura principal es de $100.000 (cien mil pesos) mensuales o el equivalente en otras periodicidades. En caso de que no pagues la cuota mensual del seguro, SURA no lo cancela y en cualquier momento puedes ponerte al día con las cuotas pendientes. Si no puedes pagar, te entregaremos la renta que hayas logrado acumular."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo hacer una reclamación? El Seguro de Educación te ofrece un respaldo efectivo y oportuno desde que hayas definido recibir la renta educativa periódica. Un mes antes de iniciar los desembolsos, te llegará una comunicación de la Compañía, por medio de tu asesor de seguros, invitándote a definir el nombre de la persona que recibirá la renta educativa, así como la cuenta bancaria en la que deseas que esta sea consignada. La persona o institución que recibirá la renta será definida por el tomador al momento del desembolso."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Plazos y términos. El Seguro de Educación es temporal y tiene una duración máxima de veinticinco años, desde el inicio de su vigencia y hasta el último desembolso. Podrás hacer tus pagos durante máximo quince años, mientras que el periodo de desembolsos será de un mínimo de un mes y un máximo de siete años. Siempre deberá haber mínimo un año de espera entre el último pago y el primer desembolso. El no pago de las coberturas opcionales dentro del mes siguiente a la fecha límite producirá la terminación de estas. La vigencia de las coberturas opcionales es anual; al finalizar este periodo se renuevan automáticamente por el mismo tiempo. Si no deseas la renovación, debes avisar a Seguros SURA por escrito. Si la Compañía decide no realizar dicha renovación, te informaremos por escrito treinta días antes de que termine la vigencia de las coberturas."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Formas de pago. Realiza tus pagos de forma mensual, trimestral, semestral o anual, así como abonos adicionales con previa generación del recibo de cobro, por cualquiera de los medios de pago disponibles. Paga tu Seguro de Educación con tus cesantías: requisitos del proceso: certificado de existencia y de representación legal de SURA (opción 'Seguros de Vida Suramericana S.A.'); copia del contrato del Seguro de Educación de SURA; copia de la factura de tu Seguro de Educación; registros civiles o declaraciones extra juicio según correspondan, que deberás presentar ante la entidad administradora de cesantías; y si deseas adquirir un Seguro de Educación para alguien que depende de ti, certificado expedido por la autoridad competente que determine los factores físicos o psicológicos de la situación de dependencia."
+    }
+  ]
+}

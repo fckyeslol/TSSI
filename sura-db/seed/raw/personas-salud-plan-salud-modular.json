@@ -1,0 +1,154 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/salud/plan/salud/modular",
+  "producto": {
+    "slug": "personas-salud-plan-salud-modular",
+    "nombre": "Plan de Salud Modular",
+    "ramo": "Salud",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Una forma flexible de proteger tu salud y la de tu familia, combinando coberturas esenciales con modulos adicionales que eliges segun tus necesidades, tu momento de vida y tu presupuesto. Un plan de salud flexible con coberturas que se adaptan a tu momento actual.",
+    "resumen": "Plan de salud flexible que combina coberturas basicas esenciales con modulos opcionales que eliges segun tu etapa de vida y presupuesto.",
+    "es_digital": false,
+    "cotizador_url": "https://www.sura.co/seguros/personas/salud/plan-salud-modular#cotiza",
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "urgencias",
+      "nombre": "Urgencias",
+      "descripcion": "Atencion ilimitada por enfermedad o accidente.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Ilimitada"
+    },
+    {
+      "slug": "terapias",
+      "nombre": "Terapias",
+      "descripcion": "Terapias ambulatorias: Fisica, Lenguaje, Ocupacional y respiratoria. Terapias intrahospitalarias ilimitadas.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Ambulatorias hasta 70 por vigencia; intrahospitalarias ilimitadas"
+    },
+    {
+      "slug": "consulta-externa",
+      "nombre": "Consulta externa ilimitada",
+      "descripcion": "Neurologia, endocrinologia, gastroenterologia, cardiologia, ginecologia, urologia, dermatologia, medicina interna y mas.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Ilimitada"
+    },
+    {
+      "slug": "examenes-diagnosticos",
+      "nombre": "Examenes diagnosticos",
+      "descripcion": "Examenes de laboratorio ilimitados y ayudas diagnosticas ilimitadas.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Ilimitados"
+    },
+    {
+      "slug": "consulta-prioritaria",
+      "nombre": "Consulta prioritaria",
+      "descripcion": "Medicina general (virtual y presencial), pediatria (virtual y presencial) y medicamentos (vademecum cerrado).",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Medicamentos con vademecum cerrado"
+    },
+    {
+      "slug": "hospitalizacion",
+      "nombre": "Hospitalizacion",
+      "descripcion": "Hospitalizacion en habitacion individual ilimitada, UCE-UCI, cirugia hospitalaria, hospitalizacion psiquiatrica y hospitalizacion domiciliaria.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Habitacion individual ilimitada"
+    },
+    {
+      "slug": "bienestar",
+      "nombre": "Bienestar",
+      "descripcion": "Acceso a la Plataforma de Bienestar Longevo, un beneficio pensado para acompanarte en tu bienestar integral.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "cirugia-ambulatoria",
+      "nombre": "Cirugia ambulatoria",
+      "descripcion": "Incluye cirugia, honorarios medicos, manejo de complicaciones, infiltraciones y procedimientos menores.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "atencion-domiciliaria",
+      "nombre": "Atencion domiciliaria",
+      "descripcion": "Atencion ilimitada, sujeta a zona de cobertura.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Ilimitada, sujeta a zona de cobertura"
+    },
+    {
+      "slug": "enfermedades-de-alto-costo",
+      "nombre": "Enfermedades de alto costo",
+      "descripcion": "Trasplantes de organo solido, enfermedad renal cronica, cancer y VIH/SIDA.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "maternidad",
+      "nombre": "Maternidad",
+      "descripcion": "Atencion integral de la mujer y atencion del recien nacido hasta los 30 dias de vida.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Recien nacido hasta los 30 dias de vida"
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condicionado Plan de Salud Modular",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/condicionado-plan-salud-modular.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Plan de Salud Modular. Un plan que se adapta a ti, hoy y manana. Un plan de salud no es igual para todos. Por eso, creamos el Plan de Salud Modular: una forma flexible de proteger tu salud y la de tu familia, combinando coberturas esenciales con modulos adicionales que eliges segun tus necesidades, tu momento de vida y tu presupuesto. Porque tu salud cambia y tu plan se adapta a ti. Recuerda que este medio no es para realizar afiliaciones o consultas sobre EPS o ARL."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Que incluyen tus coberturas basicas. Desde $229.847 mensuales (aplican condiciones). Urgencias: atencion ilimitada por enfermedad o accidente. Terapias: terapias ambulatorias (Fisica, Lenguaje, Ocupacional y respiratoria) hasta 70 por vigencia; terapias intrahospitalarias ilimitadas. Consulta externa ilimitada: neurologia, endocrinologia, gastroenterologia, cardiologia, ginecologia, urologia, dermatologia, medicina interna y mas. Examenes diagnosticos: examenes de laboratorio ilimitados; ayudas diagnosticas ilimitadas. Consulta prioritaria: medicina general virtual y presencial; pediatria virtual y presencial; medicamentos (vademecum cerrado). Hospitalizacion: hospitalizacion en habitacion individual ilimitada, UCE-UCI, cirugia hospitalaria, hospitalizacion psiquiatrica y hospitalizacion domiciliaria. Bienestar: acceso a la Plataforma de Bienestar Longevo, un beneficio pensado para acompanarte en tu bienestar integral."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Coberturas opcionales. Cirugia ambulatoria: incluye cirugia, honorarios medicos, manejo de complicaciones, infiltraciones y procedimientos menores. Atencion domiciliaria: atencion ilimitada, sujeta a zona de cobertura. Enfermedades de alto costo: trasplantes de organo solido, enfermedad renal cronica, cancer y VIH/SIDA. Maternidad: atencion integral de la mujer y atencion del recien nacido hasta los 30 dias de vida. Cuentas con unas coberturas basicas pero tambien puedes ampliar tu proteccion con algunos modulos extra. Tu decides."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Elige lo que necesitas: elige las coberturas y el respaldo que mejor responden a tu estilo de vida, para que tengas la tranquilidad de contar con lo que realmente necesitas. Ajusta las coberturas segun tu etapa de vida: un plan de salud flexible con coberturas que se adaptan a tu momento actual, acompanandote en cada paso con el respaldo que necesitas para vivir con mas bienestar. Protege tu salud y tu tranquilidad: cuenta con el respaldo que necesitas para tu bienestar, anticiparte a imprevistos y sentir la seguridad de estar protegido en cada etapa de tu vida. Controla tu inversion en salud: accede a beneficios, atencion y respaldo medico con modulos que te ayudan a organizar mejor tus gastos y a tomar decisiones inteligentes para tu tranquilidad y la de tu familia. Define un monto fijo que puedas destinar para tu salud, segun tus necesidades."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Terminos y condiciones. Consulta todas las coberturas y caracteristicas de tu plan para que siempre estes informado. Condicionado: consulta las condiciones y todas las caracteristicas de tu Plan de Salud Modular. Para mas informacion comunicate al #888."
+    }
+  ]
+}

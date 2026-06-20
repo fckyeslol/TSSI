@@ -1,0 +1,222 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/hogar/arrendamiento/tradicional",
+  "producto": {
+    "slug": "personas-hogar-arrendamiento-tradicional",
+    "nombre": "Seguro de Arrendamiento",
+    "ramo": "Hogar y Vivienda",
+    "linea": "personas",
+    "tipo_persona": "ambas",
+    "descripcion": "En SURA cuidamos tus ingresos. Sabemos lo importante que es recibir el pago mensual de tus inmuebles, por eso contamos con Oficinas Especializadas en Arrendamiento en todo el país. Si tu inquilino no cumple, tenemos el plan ideal para acompañarte en todo el proceso, con respaldo legal y para que siempre recibas tu renta, con tranquilidad y respaldo.",
+    "resumen": "Garantiza tus ingresos como arrendador con respaldo legal y asistencia para tu inmueble si tu inquilino incumple el pago del canon.",
+    "es_digital": false,
+    "cotizador_url": "https://www.sura.co/documents/d/seguros/cotizador-arrendamiento",
+    "canales": ["presencial", "digital", "asesor"]
+  },
+  "planes": [
+    { "slug": "plan-basico", "nombre": "Plan Básico", "orden": 1, "precio_desde": null },
+    { "slug": "plan-clasico", "nombre": "Plan Clásico", "orden": 2, "precio_desde": null },
+    { "slug": "plan-global", "nombre": "Plan Global", "orden": 3, "precio_desde": null }
+  ],
+  "coberturas": [
+    {
+      "slug": "canon-de-arrendamiento",
+      "nombre": "Canon de arrendamiento",
+      "descripcion": "Si tu inquilino no cumple con sus responsabilidades según lo acordado, te pagamos el canon de arrendamiento más la cuota de administración (si la tienes incluida en tu contrato).",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Plan Básico: vigencia de la póliza; Plan Clásico: 12 cánones; Plan Global: 36 cánones"
+    },
+    {
+      "slug": "cuota-de-administracion",
+      "nombre": "Cuota de administración",
+      "descripcion": "Pago de la cuota de administración cuando el inquilino incumple, siempre y cuando esté incluida en el contrato.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Plan Básico: vigencia de la póliza; Plan Clásico: 12; Plan Global: 36"
+    },
+    {
+      "slug": "servicios-publicos",
+      "nombre": "Servicios públicos",
+      "descripcion": "Por incumplimiento en el pago de los servicios públicos, el propietario asume el gasto pero se le reembolsa una parte según el valor contratado. Cuando cortan los servicios, estos se reinstalan y reconectan, pero no aplica cuando se pierde la línea telefónica.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Incluida en Plan Clásico y Plan Global"
+    },
+    {
+      "slug": "danos-y-faltantes",
+      "nombre": "Daños y faltantes",
+      "descripcion": "Pago de los daños y faltantes de los bienes anclados a la estructura del inmueble incluidos en el inventario inicial del contrato, comprobados al momento de la entrega. No aplican daños por desgaste natural como pintura, fisuras, humedades o techos deteriorados.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Opcional en Plan Clásico y Plan Global"
+    },
+    {
+      "slug": "asistencia-domiciliaria",
+      "nombre": "Asistencia domiciliaria",
+      "descripcion": "Asistencia para el cuidado y protección del inmueble rentado: plomería, electricidad, cerrajería, reemplazo de vidrios, gastos de traslado y asesoría jurídica telefónica, entre otros.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Opcional en Plan Básico, Plan Clásico y Plan Global"
+    },
+    {
+      "slug": "restitucion-del-inmueble",
+      "nombre": "Restitución del inmueble",
+      "descripcion": "Acompañamiento en el proceso de restitución del inmueble.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Plan Básico: No; Plan Clásico: Sí; Plan Global: Sí"
+    },
+    {
+      "slug": "clausulas-penales-multas-e-intereses",
+      "nombre": "Cláusulas penales, multas e intereses",
+      "descripcion": "Cláusulas penales, multas, intereses sobre cánones de arrendamiento, cuotas de administración extraordinarias o cualquier otra sanción económica.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "primer-mes-de-vigencia-del-contrato",
+      "nombre": "Primer mes de vigencia del contrato",
+      "descripcion": "El primer mes de vigencia del contrato de arrendamiento se encuentra excluido dentro de las coberturas de canon y administración.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-extracontractual",
+      "nombre": "Responsabilidad civil por daños a terceros o modificaciones al contrato",
+      "descripcion": "Responsabilidad civil por daños a terceros o modificaciones al contrato.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "hechos-fuera-de-vigencia",
+      "nombre": "Hechos ocurridos fuera de la vigencia del contrato",
+      "descripcion": "Hechos ocurridos fuera de la vigencia del contrato.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "tomador": "Propietario",
+      "tipo_tomador": "Natural / Jurídica",
+      "afianzado": "Inquilino",
+      "asegurado_beneficiario": "Propietario",
+      "tipo_inmueble": "Residencial / Comercial",
+      "valor_maximo_canon_mensual": "Sin límite"
+    },
+    "descripcion": null
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condicionado Seguro de Arrendamiento",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/condicionado-seguro-de-arrendamiento.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Solicitudes de codeudor",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/solicitud-codeudor.PDF"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Solicitudes de persona jurídica",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/solicitud-arrendamiento-juridica.PDF"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Solicitudes de persona natural",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/solicitud-arrendamiento-natural.PDF"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Solicitud de ingreso arrendatario vigente (Colectivo)",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/seguro-arrendamiento-colectivo.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Solicitud de Aviso de cambio de valor asegurado",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/aviso-cambio-valor-asegurado.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Solicitud de Aviso de reclamación",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/aviso-reclamacion.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Solicitud Aviso de retiro",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/aviso-retiro.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Solicitud de ingreso arrendador vigente",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/ingreso-arrendador.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Formato inscripción de cuentas",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/formato-inscripcion-de-cuentas.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Formato de orden de contrato",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/formato-orden-de-contrato.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Arrendamiento. En SURA cuidamos tus ingresos. Sabemos lo importante que es recibir el pago mensual de tus inmuebles, por eso contamos con Oficinas Especializadas en Arrendamiento en todo el país. Si tu inquilino no cumple, ¡no te preocupes! Tenemos el plan ideal para acompañarte en todo el proceso, respaldo legal y que siempre recibas tu renta, con tranquilidad y respaldo. Elige la opción que mejor se adapte a ti."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Con tu Seguro de Arrendamiento SURA podrás: Garantizar tus ingresos como arrendador si tu inquilino incumple con el pago del canon de arrendamiento y cuotas de administración. Contar con coberturas adicionales como Servicios Públicos y Daños y Faltantes. Contar con la mejor asistencia para el cuidado y protección de tu propiedad. Podrás contar con Servicios de plomería, electricidad, cerrajería, reemplazo de vidrios, gastos de traslado y asistencia jurídica telefónica, entre otros. Te brindamos tranquilidad, respaldo legal y soluciones prácticas en todas las etapas del proceso."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Si tu inquilino no cumple con sus responsabilidades según lo acordado, nosotros te pagaremos el canon de arrendamiento más la cuota de administración, siempre y cuando tengas esta última incluida en tu contrato. Como es posible que también haya problemas por incumplimiento con el pago de los servicios públicos, tú debes hacerte cargo de esos gastos, pero con la tranquilidad de saber que luego te reembolsaremos una parte de ese dinero según el valor que contrates. Además, cuando cortan los servicios públicos, estos se reinstalan y reconectan, pero no aplica cuando se pierde la línea telefónica. Te pagamos los daños y faltantes de los bienes anclados a la estructura del inmueble que incluyas en el inventario inicial del contrato, siempre y cuando se comprueben al momento de la entrega del inmueble. Ten en cuenta que no aplican daños por desgaste natural, como pintura, fisuras, humedades o techos deteriorados. Asistencia para el cuidado y protección de tu inmueble rentado, podrás contar con diferentes servicios como plomería, electricidad, cerrajería, reemplazo de vidrios, asesoría jurídica telefónica, entre otros."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Comparativo de planes. Plan Básico: Coberturas básicas Canon y Administración; coberturas opcionales Asistencia domiciliaria; límite de indemnización vigencia de la póliza; restitución del inmueble No. Plan Clásico: Coberturas básicas Canon, Administración y Servicios Públicos; coberturas opcionales Daños y faltantes y Asistencia domiciliaria; límite de indemnización 12; restitución del inmueble Sí. Plan Global: Coberturas básicas Canon, Administración y Servicios Públicos; coberturas opcionales Daños y faltantes y Asistencia domiciliaria; límite de indemnización 36; restitución del inmueble Sí. En todos los planes el tomador es el Propietario (tipo tomador Natural / Jurídica), el afianzado es el Inquilino y el asegurado/beneficiario es el Propietario. Tipo de inmueble Residencial / Comercial. Valor máximo del canon mensual: sin límite."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Cláusulas penales, multas, intereses sobre cánones de arrendamiento, cuotas de administración extraordinarias o cualquier otra sanción económica. El primer mes de vigencia del contrato de arrendamiento se encuentra excluido dentro de las coberturas de canon y administración. Responsabilidad civil por daños a terceros o modificaciones al contrato. Hechos ocurridos fuera de la vigencia del contrato. Para más información sobre las exclusiones de cada uno de los planes del Seguro de Arrendamiento, consulta el condicionado de Seguro de Arrendamiento."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo adquirir este seguro? Si eres Dueño del Inmueble: Podrás escoger la Oficina de Arrendamiento más cercana y realizar tu proceso presencial o digital. Conoce todas las condiciones, coberturas y exclusiones del Seguro de arrendamiento. Si eres inquilino: Presenta la solicitud directamente en nuestras oficinas para realizar el proceso. En caso de ser requerido deberá diligenciar la solicitud, que puedes solicitar directamente en nuestras oficinas o descargar (codeudor, persona jurídica o persona natural)."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo solicitar asistencia domiciliaria? El Dueño del inmueble o el Inquilino podrán solicitar asistencia domiciliaria llamando sin costo al #888 desde su celular, al 437 88 88 si están en Bogotá, Medellín o Cali, o al 01 8000 51 8888 en el resto del país. ¿Cómo hacer una reclamación? Para realizar una reclamación puedes comunicarte desde tu celular al #888 o con la oficina en la que compraste tu póliza."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Reclamaciones por cobertura. Canon de arrendamiento y cuota de administración: debes realizar la reclamación dentro de los cinco primeros días siguientes al vencimiento de los quince días calendario de la fecha que debía pagar el inquilino, notificando a la oficina donde adquiriste tu seguro. Servicios públicos domiciliarios: debes presentar la reclamación dentro de los 60 días siguientes a la fecha en la cual se entregó o restituyó el inmueble arrendado, adjuntando los soportes originales como factura, constancia de pago u otro que confirme el pago del dinero adeudado. Daños y faltantes al inventario: debes presentar el inventario inicial y final firmado por ti y por el arrendatario, que den cuenta de los daños y faltantes, además de la factura del pago de los costos que asumiste para reemplazarlos o repararlos."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Cómo pagar tu Seguro Arrendamiento. En el seguro individual el pago de la prima deberá realizarse de forma anticipada anual en cuanto inicie y se legalice el contrato de arrendamiento. Formas de pago disponibles: presenciales, digitales, débito automático, financiados y desembolsos. Cotiza tu seguro: descarga el archivo para conocer los valores aproximados en el Cotizador."
+    }
+  ]
+}

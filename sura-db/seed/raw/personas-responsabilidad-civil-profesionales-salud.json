@@ -1,0 +1,176 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/responsabilidad/civil/profesionales/salud",
+  "producto": {
+    "slug": "personas-responsabilidad-civil-profesionales-salud",
+    "nombre": "Seguro de Responsabilidad Civil para Profesionales de la Salud",
+    "ramo": "Otros",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Al trabajar como profesional de la salud, es tu responsabilidad preservar la vida, la salud, las buenas condiciones físicas o mentales, y la integridad corporal de tus pacientes. Si por algún motivo vulneras alguno de estos derechos, tu paciente o las personas afectadas pueden reclamar una indemnización. En SURA creamos el Seguro de Responsabilidad Civil para Profesionales de la Salud, con el cual buscamos proteger tu patrimonio y acompañarte en este tipo de situaciones. Así podrás ejercer tu profesión con mayor tranquilidad.",
+    "resumen": "Protege el patrimonio de los profesionales de la salud ante reclamaciones por errores u omisiones cometidos en la prestación de su servicio.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "responsabilidad-civil-profesional",
+      "nombre": "Responsabilidad civil profesional",
+      "descripcion": "Respaldo ante reclamaciones presentadas como consecuencia de: suministro de medicamentos, errores en el diagnóstico, información equivocada, actuación sin el consentimiento del paciente, descuido en su evolución, elementos extraños dejados en el cuerpo del paciente y otros eventos.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "errores-omisiones-dictamenes-periciales",
+      "nombre": "Errores y omisiones en dictámenes periciales",
+      "descripcion": "SURA pagará los perjuicios ocasionados en caso de que cometas un error u omisión al actuar como perito en un proceso judicial.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-tratamiento-datos-personales",
+      "nombre": "Responsabilidad civil por fallas en el tratamiento de datos sensibles o personales",
+      "descripcion": "Podrás hacer uso de esta cobertura cuando la información de tus pacientes sea revelada por una falla en el tratamiento de sus datos, y esto les cause algún daño.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "gastos-defensa-reclamaciones-tribunal-etica-medica",
+      "nombre": "Gastos de defensa por reclamaciones civiles o de Tribunal de Ética Médica",
+      "descripcion": "SURA cubrirá los gastos de defensa si un tercero hace una reclamación por un evento que cubra este seguro. También te acompañará en caso que inicien un proceso disciplinario contra ti ante el Tribunal de Ética Médica.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-del-empleador",
+      "nombre": "Responsabilidad del empleador",
+      "descripcion": "Respaldo por muerte o lesiones personales causadas a tus empleados, contratistas o subcontratistas, como consecuencia de accidentes de trabajo que estos sufran por tu culpa. Esta cobertura opera en exceso de las prestaciones del Sistema de Seguridad Social o de cualquier otro seguro contratado.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-uso-equipos-especiales",
+      "nombre": "Responsabilidad civil por el uso de equipos especiales",
+      "descripcion": "SURA te acompañará en caso de una reclamación por daños ocasionados a tus pacientes cuando utilices equipos como: radiografía con fines de diagnóstico, rayos X para terapéutica, tomografía por ordenador (escáner), radiación por isótopos para terapéutica, generación de rayos láser y medicina nuclear, siempre que dichos equipos no estén sujetos a un seguro obligatorio de responsabilidad civil por daños nucleares previsto por la ley.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "ejercicio-sin-habilitacion-legal",
+      "nombre": "Ejercicio de la profesión sin habilitación legal",
+      "descripcion": "No cubre cuando ejerzas tu profesión sin estar legalmente habilitado.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "fin-diferente-diagnostico-tratamiento",
+      "nombre": "Profesión con fin diferente al diagnóstico o tratamiento",
+      "descripcion": "No cubre si tu profesión tiene un fin diferente al diagnóstico o tratamiento.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "cirugias-plasticas-tratamientos-esteticos",
+      "nombre": "Cirugías plásticas o tratamientos estéticos",
+      "descripcion": "No cubre cuando se trate de cirugías plásticas o tratamientos estéticos. Esta exclusión no aplica para cirugías reconstructivas posteriores a un accidente, y correctivas de anomalías congénitas.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "resultado-de-intervencion",
+      "nombre": "Reclamación por resultado de una intervención",
+      "descripcion": "No cubre cuando la reclamación se dé por el resultado de una intervención.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-bajo-influencia-alcohol-sustancias",
+      "nombre": "Daños bajo influencia de alcohol o sustancias alucinógenas",
+      "descripcion": "No cubre si causas daños estando bajo la influencia de bebidas alcohólicas o sustancias alucinógenas.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "violacion-secreto-profesional",
+      "nombre": "Violación del secreto profesional",
+      "descripcion": "No cubre cuando causes un perjuicio al violar un secreto profesional.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "procedimientos-equipos-en-fase-experimental",
+      "nombre": "Medicamentos, equipos o procedimientos en fase experimental",
+      "descripcion": "No cubre cuando uses medicamentos, máquinas, equipos o procedimientos en fase experimental, o no cumplas las reglas de la técnica para utilizarlos.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Las personas que trabajen en el sector de la salud, como médicos, enfermeras, odontólogos, auxiliares y terapeutas, entre otros, que busquen proteger su patrimonio."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Clausulado RC Profesionales de la Salud",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/otros/rc-profesionales-salud.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Con este seguro protegerás tu patrimonio en caso de que cometas un error u omisión durante la prestación de tu servicio y ejercerás tu profesión con tranquilidad. Al trabajar como profesional de la salud, es tu responsabilidad preservar la vida, la salud, las buenas condiciones físicas o mentales, y la integridad corporal de tus pacientes. Si por algún motivo vulneras alguno de estos derechos, tu paciente o las personas afectadas pueden reclamar una indemnización. En SURA creamos el Seguro de Responsabilidad Civil para Profesionales de la Salud, con el cual buscamos proteger tu patrimonio y acompañarte en este tipo de situaciones. Así podrás ejercer tu profesión con mayor tranquilidad."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Coberturas principales. Responsabilidad civil profesional: contarás con respaldo ante las reclamaciones que te presenten como consecuencia de suministro de medicamentos, errores en el diagnóstico, información equivocada, actuación sin el consentimiento de tu paciente, descuido en su evolución, elementos extraños dejados en el cuerpo de tu paciente y otros eventos. Errores y omisiones en dictámenes periciales: SURA pagará los perjuicios ocasionados en caso de que cometas un error u omisión al actuar como perito en un proceso judicial. Responsabilidad civil por fallas en el tratamiento de datos sensibles o personales: podrás hacer uso de esta cobertura cuando la información de tus pacientes sea revelada por una falla en el tratamiento de sus datos, y esto les cause algún daño. Gastos de defensa por reclamaciones civiles o de Tribunal de Ética Médica: SURA cubrirá los gastos de defensa si un tercero hace una reclamación por un evento que cubra este seguro. También te acompañará en caso que inicien un proceso disciplinario contra ti ante el Tribunal de Ética Médica."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Coberturas opcionales. Responsabilidad del empleador: contarás con un respaldo por muerte o lesiones personales causadas a tus empleados, contratistas o subcontratistas, como consecuencia de accidentes de trabajo que estos sufran por tu culpa. Esta cobertura opera en exceso de las prestaciones del Sistema de Seguridad Social o de cualquier otro seguro contratado. Responsabilidad civil por el uso de equipos especiales: SURA te acompañará en caso de una reclamación por daños ocasionados a tus pacientes cuando utilices los siguientes equipos: radiografía con fines de diagnóstico, rayos X para terapéutica, tomografía por ordenador (escáner), radiación por isótopos para terapéutica, generación de rayos láser, medicina nuclear, incluyendo las materias radiactivas necesarias, siempre y cuando dichos equipos y materias no estén sujetos a un seguro obligatorio de responsabilidad civil por daños nucleares previsto por la ley."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "Este seguro no cubrirá los siguientes eventos: cuando ejerzas tu profesión sin estar legalmente habilitado; si tu profesión tiene un fin diferente al diagnóstico o tratamiento; cuando se trate de cirugías plásticas o tratamientos estéticos (esta exclusión no aplica para cirugías reconstructivas posteriores a un accidente, y correctivas de anomalías congénitas); cuando la reclamación se dé por el resultado de una intervención; si causas daños estando bajo la influencia de bebidas alcohólicas o sustancias alucinógenas; cuando causes un perjuicio al violar un secreto profesional; cuando uses medicamentos, máquinas, equipos o procedimientos en fase experimental, o no cumplas las reglas de la técnica para utilizarlos."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿Quiénes se pueden asegurar? Las personas que trabajen en el sector de la salud, como médicos, enfermeras, odontólogos, auxiliares y terapeutas, entre otros, que busquen proteger su patrimonio."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Tarifas: el costo de tu seguro se calculará de acuerdo con tu especialidad y valor asegurado que decidas tomar. ¿Cómo hacer una reclamación? Contacta a tu asesor o comunícate a nuestra línea de atención: Bogotá 601 437 8888, Cali 602 437 8888, Medellín 604 437 8888, otras ciudades del país 01 8000 051 8888, o llama sin costo desde tu celular al #888. Plazos y términos: el seguro será cancelado si el pago de la prima no se realiza dentro de los 45 días siguientes al inicio de su vigencia; el seguro puede ser cancelado de forma unilateral por Seguros SURA o la empresa asegurada; el seguro tiene vigencia por un año sin renovación automática."
+    }
+  ]
+}

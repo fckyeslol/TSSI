@@ -1,0 +1,172 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/cumplimiento/particulares",
+  "producto": {
+    "slug": "empresas-cumplimiento-particulares",
+    "nombre": "Seguro de Cumplimiento a Favor de Particulares",
+    "ramo": "Cumplimiento",
+    "linea": "empresas",
+    "tipo_persona": "ambas",
+    "descripcion": "Respaldamos el incumplimiento que pueda llegar a tener tu empresa frente a los compromisos adquiridos con personas jurídicas o naturales.",
+    "resumen": "Seguro que respalda el incumplimiento de tu empresa frente a contratos con particulares (personas naturales o jurídicas).",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "presencial", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "seriedad-de-la-oferta",
+      "nombre": "Seriedad de la oferta",
+      "descripcion": "Asumimos los perjuicios asociados al daño emergente que sufra el contratante durante el proceso de selección de sus contratistas o proveedores si tu empresa retira su propuesta sin justa causa, no firma el contrato, no entrega el seguro de cumplimiento o no modifica la garantía de seriedad de la oferta cuando el proceso se extienda.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "pago-anticipado",
+      "nombre": "Pago anticipado",
+      "descripcion": "Pagamos el valor del daño emergente que tu empresa cause al contratante por la no devolución del pago anticipado, en caso de incumplimiento de tus obligaciones contractuales.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "buen-manejo-y-correcta-inversion-del-anticipo",
+      "nombre": "Buen manejo, correcta inversión del anticipo",
+      "descripcion": "Respaldamos los pagos que te hayan anticipado en caso de que estos no los hayas invertido correctamente en la ejecución del contrato.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "cumplimiento-del-contrato",
+      "nombre": "Cumplimiento",
+      "descripcion": "Garantizamos el cumplimiento del contrato e indemnizamos los perjuicios que tu empresa le cause a la empresa contratante.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "pago-de-salarios-prestaciones-sociales-e-indemnizaciones-laborales",
+      "nombre": "Pago de salarios, prestaciones sociales e indemnizaciones laborales",
+      "descripcion": "Respaldamos el pago de salarios, prestaciones sociales e indemnizaciones laborales que tu empresa incumpla con el personal que ejecuta el proyecto, siempre y cuando el contratante sea solidariamente responsable.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "estabilidad-de-la-obra",
+      "nombre": "Estabilidad de la obra",
+      "descripcion": "Respondemos al contratante por el daño emergente que se produzca debido al deterioro de la obra entregada por tu empresa, siempre que la obra haya estado en condiciones normales de uso, haya sido recibida a total satisfacción y no pueda cumplir la finalidad para la cual se realizó.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "calidad-del-bien-o-servicio",
+      "nombre": "Calidad del bien o servicio",
+      "descripcion": "Apoyamos al contratante en caso de que los bienes suministrados o el servicio prestado por tu empresa tengan una calidad deficiente, de acuerdo con las especificaciones y requisitos del contrato y las condiciones de calidad e idoneidad establecidas en el Estatuto del Consumidor u otras normas técnicas.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "provision-de-repuestos-y-accesorios",
+      "nombre": "Provisión de repuestos y accesorios",
+      "descripcion": "Si tu empresa no provee al contratante los repuestos y accesorios descritos en el contrato, le pagaremos al contratante el daño emergente que esto le genere.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "causa-extrana-fuerza-mayor-o-caso-fortuito",
+      "nombre": "Eventos constitutivos de causa extraña",
+      "descripcion": "Eventos constitutivos de causa extraña como fuerza mayor o caso fortuito, involucramiento de un tercero, culpa exclusiva de la víctima y cualquier otro hecho que, de acuerdo con la ley o el contrato, exoneren al contratista u oferente.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "sanciones-clausulas-penales-o-multas",
+      "nombre": "Sanciones, cláusulas penales o multas",
+      "descripcion": "Sanciones, cláusulas penales o multas impuestas al contratista.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-a-terceros",
+      "nombre": "Daños causados a terceros",
+      "descripcion": "Cualquier daño causado a terceros.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "accidente-de-trabajo-o-enfermedad-profesional",
+      "nombre": "Indemnizaciones por accidente de trabajo o enfermedad profesional",
+      "descripcion": "Indemnizaciones por accidente de trabajo o enfermedad profesional del personal a cargo del contratista que estén vinculados con la ejecución del contrato.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "lucro-cesante",
+      "nombre": "Lucro cesante",
+      "descripcion": "Lucro cesante (pérdida de ganancia o utilidad económica por afectaciones relacionadas con este seguro).",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "El tomador son las empresas de todos los tamaños y personas naturales que sean contratados formalmente para prestar un servicio, producir algo, construir una obra, entre otros. El contratante será el asegurado."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Términos y condiciones - Seguro de Cumplimiento a Favor de Particulares",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/cumplimiento/particulares.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Cumplimiento a Favor de Particulares. Respaldamos el incumplimiento que pueda llegar a tener tu empresa frente a los compromisos adquiridos con personas jurídicas o naturales. ¿A quién aseguramos? El tomador son las empresas de todos los tamaños y personas naturales que sean contratados formalmente para prestar un servicio, producir algo, construir una obra, entre otros. El contratante será el asegurado. ¿Por qué elegir esta solución? Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos por medio de Empresas SURA."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Seriedad de la oferta: Asumimos los perjuicios asociados al daño emergente que sufra el contratante durante el proceso de selección de sus contratistas o proveedores si tu empresa retira su propuesta sin justa causa después de finalizado el proceso, no firma el contrato una vez salga favorecido, no entrega el seguro de cumplimiento (requisito para la firma del contrato), o no modifica la garantía de seriedad de la oferta cuando el proceso de selección se extienda por otro periodo. Pago anticipado: Pagamos el valor del daño emergente que tu empresa cause al contratante por la no devolución del pago anticipado, en caso de incumplimiento de tus obligaciones contractuales. Buen manejo, correcta inversión del anticipo: Respaldamos los pagos que te hayan anticipado en caso de que estos no los hayas invertido correctamente en la ejecución del contrato. Cumplimiento: Garantizamos el cumplimiento del contrato e indemnizamos los perjuicios que tu empresa le cause a la empresa contratante."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Pago de salarios, prestaciones sociales e indemnizaciones laborales: Respaldamos el pago de salarios, prestaciones sociales e indemnizaciones laborales que tu empresa incumpla con el personal que ejecuta el proyecto, siempre y cuando el contratante sea solidariamente responsable. Estabilidad de la obra: Respondemos al contratante por el daño emergente que se produzca debido al deterioro de la obra entregada por tu empresa. Esta cobertura dependerá de que la obra haya estado en condiciones normales de uso al momento de sufrir el daño, haya sido recibida a total satisfacción y no pueda cumplir la finalidad para la cual se realizó. Calidad del bien o servicio: Apoyamos al contratante en caso de que los bienes suministrados o el servicio prestado por tu empresa tengan una calidad deficiente, de acuerdo con las especificaciones y los requisitos nombrados en el contrato y las condiciones de calidad e idoneidad establecidas en el Estatuto del Consumidor u otras normas técnicas. Provisión de repuestos y accesorios: Si tu empresa no provee al contratante los repuestos y accesorios descritos en el contrato, le pagaremos al contratante el daño emergente que esto le genere."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Eventos constitutivos de causa extraña como fuerza mayor o caso fortuito, involucramiento de un tercero, culpa exclusiva de la víctima y cualquier otro hecho que, de acuerdo con la ley o el contrato, exoneren al contratista u oferente. Sanciones, cláusulas penales o multas impuestas al contratista. Cualquier daño causado a terceros. Indemnizaciones por accidente de trabajo o enfermedad profesional del personal a cargo del contratista y que estén vinculados con la ejecución del contrato. Lucro cesante (pérdida de ganancia o utilidad económica por afectaciones relacionadas con este seguro)."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Después de presentar tu reclamación, te contactaremos entre cinco (5) y siete (7) días calendario para informarte cómo se gestiona el proceso y solicitarte la documentación necesaria. Una vez tengamos toda la documentación, te enviaremos una respuesta en un plazo de diez (10) días hábiles. ¿Cuáles son los medios de pago? Presenciales: Bancos y redes aliadas. Digitales: Pago Express y débito automático."
+    }
+  ]
+}

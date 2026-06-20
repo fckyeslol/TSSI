@@ -1,0 +1,19 @@
+{
+  "tipo": "referencia",
+  "url": "https://www.sura.co/seguros/medios/pago/presenciales",
+  "categoria": "General",
+  "chunks": [
+    {
+      "seccion": "Pagos presenciales",
+      "contenido": "Acércate a una oficina de cualquiera de los bancos o corresponsales aliados para realizar tus pagos con código de barras o con un número de convenio."
+    },
+    {
+      "seccion": "Pagos con código de barras",
+      "contenido": "Genera el código a través de Pago Express y realiza tus pagos en sucursales bancarias y corresponsales con las que tenemos convenio.\n\nTen en cuenta:\n- Cuando generas el código de barras, este tiene una vigencia de tres (3) días.\n- Aunque en algunos corresponsales y redes aliadas cuentan con la tecnología para leer el código de barras desde el celular, debes llevar el documento impreso a cualquiera de los puntos de pago.\n- Los pagos que realices en el Banco de Bogotá se verán reflejados de inmediato. En las otras entidades será al siguiente día hábil."
+    },
+    {
+      "seccion": "Pagos con número de convenio",
+      "contenido": "Convenios para Bancolombia y Banco de Bogotá según tipo de seguro:\n\n- Seguro de pago anual, semestral, trimestral o mensual (Generales): Bancolombia solución 32217; Banco de Bogotá oficinas banco 001, corresponsales 7701.\n- Vida: Bancolombia solución 34803; Banco de Bogotá sucursal bancaria 002, corresponsales 7000.\n- Renta Educativa: Bancolombia solución 37863.\n- Renta Pensional: Bancolombia solución 37862.\n- Financiación: Bancolombia solución 2201; Banco de Bogotá oficinas banco 018, corresponsales 5489.\n- PAC: Bancolombia solución 69858; Banco de Bogotá oficinas banco 021, corresponsales 3425.\n\nPara Davivienda y BBVA (oficinas de banco):\n- Seguros Generales: Davivienda y BBVA en oficinas de banco.\n- Seguros de Vida: Davivienda y BBVA mediante código de barras.\n- Financiación SURA: Davivienda y BBVA mediante código de barras.\n- PAC: no aplica en Davivienda; BBVA mediante código de barras.\n\nPara conocer la ubicación de los corresponsales y oficinas del Banco de Bogotá, consulta el buscador de puntos del Banco de Bogotá."
+    }
+  ]
+}

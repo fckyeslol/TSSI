@@ -1,0 +1,21 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/gestion/financiera/radica/tus/reembolsos",
+  "proceso": {
+    "slug": "arl-gestion-financiera-radica-tus-reembolsos",
+    "nombre": "Radicación de reembolsos",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "ambas",
+    "descripcion": null,
+    "pasos": [],
+    "url": "https://www.sura.co/arl/gestion/financiera/radica/tus/reembolsos"
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Radicación de reembolsos"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/vida",
+  "producto": {
+    "slug": "personas-vida",
+    "nombre": "Seguros de Vida SURA",
+    "ramo": "Vida",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Sabemos que amas la vida, que disfrutas haciendo felices a tus seres queridos y regalándote instantes inolvidables. Sabemos que quieres seguir aprendiendo, explorando el mundo y viviendo experiencias únicas. En SURA queremos ser parte de cada uno de esos momentos con el respaldo que necesitas para aprovecharlos al máximo.",
+    "resumen": "Portafolio de seguros de vida de SURA para acompañarte y proteger a tus seres queridos en cada momento.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["digital", "asesor"]
+  },
+  "planes": [
+    { "slug": "seguro-de-vida", "nombre": "Seguro de Vida", "orden": 1, "precio_desde": null },
+    { "slug": "seguro-de-exequias", "nombre": "Seguro de Exequias", "orden": 2, "precio_desde": null },
+    { "slug": "seguro-de-accidentes-personales", "nombre": "Seguro de Accidentes Personales", "orden": 3, "precio_desde": null },
+    { "slug": "seguro-colectivo-de-vida", "nombre": "Seguro Colectivo de Vida", "orden": 4, "precio_desde": null },
+    { "slug": "plan-credito-protegido", "nombre": "Plan Crédito Protegido", "orden": 5, "precio_desde": null },
+    { "slug": "seguro-de-educacion", "nombre": "Seguro de Educación", "orden": 6, "precio_desde": null },
+    { "slug": "seguro-de-pension", "nombre": "Seguro de Pensión", "orden": 7, "precio_desde": null },
+    { "slug": "seguro-de-rentas-vitalicias", "nombre": "Seguro de Rentas Vitalicias", "orden": 8, "precio_desde": null },
+    { "slug": "soat", "nombre": "SOAT", "orden": 9, "precio_desde": null }
+  ],
+  "coberturas": [],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Asegura tu vida. Sabemos que amas la vida, que disfrutas haciendo felices a tus seres queridos y regalándote instantes inolvidables. Sabemos que quieres seguir aprendiendo, explorando el mundo y viviendo experiencias únicas. En SURA queremos ser parte de cada uno de esos momentos con el respaldo que necesitas para aprovecharlos al máximo. Te acompañamos con soluciones pensadas para ti. ¡Elige la opción que mejor se ajuste a tus necesidades!"
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Longevo: Conoce la Plataforma de Bienestar de SURA para transformar tus hábitos. Aplica para Vida Individual, Vida Grupo, Seguro de Renta pensión y Educativa. Seguro de Vida: Porque cumplir tus sueños y vivir con autonomía es esencial para alcanzar tu plenitud. Seguro de Exequias: Nos encargamos de los gastos ante el fallecimiento de un ser querido para que puedas concentrarte en lo importante. Seguro de Accidentes Personales: Te acompañamos en cada momento, especialmente en los más retadores. Seguro Colectivo de Vida: Alcanza tus metas y sueños con tranquilidad y autonomía."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Plan Crédito Protegido: Nosotros creemos en tus sueños y te damos tranquilidad. Seguro de Educación: Queremos que planees desde hoy un respaldo económico que cubra los gastos educativos propios, de tus hijos u otros seres queridos. Seguro de Pensión: Planea tu futuro a mediano o largo plazo con el mejor aliado. Seguro de Rentas Vitalicias: Asegura tu bienestar y el de tu familia desde el momento en que te pensiones. SOAT: Cómpralo 100 % digital y recíbelo en tu correo electrónico."
+    }
+  ]
+}

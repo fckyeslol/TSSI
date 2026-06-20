@@ -1,0 +1,145 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/energia/eficiencia/energetica",
+  "producto": {
+    "slug": "empresas-energia-eficiencia-energetica",
+    "nombre": "Seguro de Cumplimiento de Eficiencia Energética y Generación de Energía",
+    "ramo": "Energía",
+    "linea": "empresas",
+    "tipo_persona": "ambas",
+    "descripcion": "Garantizamos el cumplimiento de la promesa de ahorro o generación de energía de tus proyectos de eficiencia energética o generación de energía, asegurando que tu inversión esté protegida.",
+    "resumen": "Seguro que garantiza el cumplimiento de la promesa de ahorro o generación de energía en proyectos de eficiencia energética o generación de energía.",
+    "es_digital": false,
+    "cotizador_url": "https://www.segurossura.com.co/documentos/informacion-proyecto-energia.xlsx",
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "cumplimiento-ahorro-eficiencia-energetica",
+      "nombre": "Para proyectos de eficiencia energética",
+      "descripcion": "Garantizamos el cumplimiento entre el ahorro energético prometido y el ahorro efectivo del proyecto.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "cumplimiento-generacion-energia",
+      "nombre": "Proyectos de generación de energía",
+      "descripcion": "Garantizamos el cumplimiento entre la generación prometida y la generación efectiva del proyecto.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-materiales-o-sustraccion-sistema",
+      "nombre": "Daños materiales o sustracción del sistema",
+      "descripcion": "Daños materiales o sustracción del sistema, o sus partes, que impida una generación de energía durante un determinado periodo de tiempo.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "fuerza-mayor-caso-fortuito",
+      "nombre": "Fuerza mayor o caso fortuito",
+      "descripcion": "Fuerza mayor, caso fortuito u otras causas que exonere de responsabilidad al contratista.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "sanciones-clausulas-penales-multas",
+      "nombre": "Sanciones, cláusulas penales o multas",
+      "descripcion": "Sanciones, cláusulas penales o multas impuestas al contratista.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-extracontractual",
+      "nombre": "Responsabilidad civil extracontractual",
+      "descripcion": "Responsabilidad civil extracontractual que el contratista le haya podido generar a su empresa como contratante.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "perjuicios-falta-otros-seguros-contratista",
+      "nombre": "Perjuicios por no contratar otros seguros",
+      "descripcion": "Perjuicios derivados de que el contratista no haya contratado otros seguros para respaldar el proyecto.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "uso-indebido-o-falta-mantenimiento-equipos",
+      "nombre": "Uso indebido o falta de mantenimiento de equipos",
+      "descripcion": "Uso indebido o falta de mantenimiento, por parte del contratante, de los equipos de eficiencia energética suministrados por el contratista.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "lucro-cesante",
+      "nombre": "Lucro cesante",
+      "descripcion": "Lucro cesante (ingresos que la compañía deje de percibir por daños u otras afectaciones).",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños y personas naturales que hayan sido contratados para realizar un proyecto de eficiencia energética o generación de energía y deban garantizar su cumplimiento. Los proyectos asegurables incluyen: energía solar, iluminación, sistemas de refrigeración, cogeneración y otros equipos como motores, calderas y turbinas."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condiciones del seguro de Eficiencia Energética",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/cumplimiento/eficiencia-energetica.pdf"
+    },
+    {
+      "tipo": "formato",
+      "titulo": "Cotizador del seguro - Información proyecto energía",
+      "pdf_url": "https://www.segurossura.com.co/documentos/informacion-proyecto-energia.xlsx"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Garantizamos el cumplimiento de la promesa de ahorro o generación de energía de tus proyectos de eficiencia energética o generación de energía, asegurando que tu inversión esté protegida."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? Empresas de todos los tamaños y personas naturales que hayan sido contratados para realizar un proyecto de eficiencia energética o generación de energía y deban garantizar su cumplimiento. Los proyectos asegurables incluyen: Energía solar, Iluminación, Sistemas de refrigeración, Cogeneración y Otros equipos como motores, calderas y turbinas."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Por qué elegir esta solución? Garantizamos que la promesa de ahorro o de generación de energía que se realice en un proyecto se cumpla y, en caso de no cumplirse, contarás con los recursos económicos que te respaldan. Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos por medio de Empresas SURA. Disfrutarás de un portafolio exclusivo de servicios en gestión de riesgos para el sector energético."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Para proyectos de eficiencia energética: Garantizamos el cumplimiento entre el ahorro energético prometido y el ahorro efectivo del proyecto. Proyectos de generación de energía: Garantizamos el cumplimiento entre la generación prometida y la generación efectiva del proyecto."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Daños materiales o sustracción del sistema, o sus partes, que impida una generación de energía durante un determinado periodo de tiempo. Fuerza mayor, caso fortuito u otras causas que exonere de responsabilidad al contratista. Sanciones, cláusulas penales o multas impuestas al contratista. Responsabilidad civil extracontractual que el contratista le haya podido generar a su empresa como contratante. Perjuicios derivados de que el contratista no haya contratado otros seguros para respaldar el proyecto. Uso indebido o falta de mantenimiento, por parte del contratante, de los equipos de eficiencia energética suministrados por el contratista. Lucro cesante (ingresos que la compañía deje de percibir por daños u otras afectaciones)."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Después de presentar tu reclamación, te contactaremos entre cinco (5) y siete (7) días calendario para informarte cómo se gestiona el proceso y solicitarte la documentación necesaria. Una vez tengamos toda la documentación, te enviaremos una respuesta en un plazo de diez (10) días hábiles."
+    }
+  ]
+}

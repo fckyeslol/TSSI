@@ -1,0 +1,686 @@
+[
+  {
+    "proceso_slug": "arl-afiliacion-ingreso-retiro-trabajadores",
+    "tipo": "formato",
+    "titulo": "Formulario ingreso de trabajadores y estudiantes",
+    "pdf_url": "https://www.sura.co/documents/d/arl/plantilla_afiliacion_masiva"
+  },
+  {
+    "proceso_slug": "arl-afiliacion-ingreso-retiro-trabajadores",
+    "tipo": "formato",
+    "titulo": "Formulario de retiro de trabajadores",
+    "pdf_url": "https://www.sura.co/documents/d/arl/plantilla_desafiliacion_masiva"
+  },
+  {
+    "proceso_slug": "arl-afiliacion-ingreso-retiro-trabajadores",
+    "tipo": "formato",
+    "titulo": "Instructivo de ingreso y retiro de trabajadores ARL SURA",
+    "pdf_url": "https://sura.lxc.liferay.com/documents/d/arl/instructivo-ingreso-y-retiro-de-trabajadores-arl-sura"
+  },
+  {
+    "proceso_slug": "arl-certificados-cobertura-exterior",
+    "tipo": "certificado",
+    "titulo": "Requisitos de reembolsos",
+    "pdf_url": "https://www.arlsura.com/files/cobertura-en-el-exterior/requisitos-reembolsos.pdf"
+  },
+  {
+    "proceso_slug": "arl-certificados-cobertura-exterior",
+    "tipo": "certificado",
+    "titulo": "Datos bancarios",
+    "pdf_url": "https://www.arlsura.com/files/cobertura-en-el-exterior/datos-bancarios.pdf"
+  },
+  {
+    "proceso_slug": "arl-certificados",
+    "tipo": "formato",
+    "titulo": "Instructivo carné con o sin logo de la empresa",
+    "pdf_url": "https://www.sura.co/documents/d/arl/instructivo_carne"
+  },
+  {
+    "proceso_slug": "arl-tramites-formatos",
+    "tipo": "formato",
+    "titulo": "Investigación de la enfermedad calificada como laboral",
+    "pdf_url": "https://www.arlsura.com/files/f_investigacion_el_v2.xlsx"
+  },
+  {
+    "proceso_slug": "arl-tramites-formatos",
+    "tipo": "formato",
+    "titulo": "Formulario para el reporte accidente de trabajo (FURAT)",
+    "pdf_url": "https://www.arlsura.com/formularios/furat.xls"
+  },
+  {
+    "proceso_slug": "arl-tramites-formatos",
+    "tipo": "formato",
+    "titulo": "Reembolso de prestaciones asistenciales (trabajador)",
+    "pdf_url": "https://www.arlsura.com/formularios/formato_reembolso_persona.pdf"
+  },
+  {
+    "proceso_slug": "arl-tramites-formatos",
+    "tipo": "formato",
+    "titulo": "Investigación accidentes e incidentes para la empresa",
+    "pdf_url": "https://www.arlsura.com/formularios/investigacion_accidentes.xls"
+  },
+  {
+    "proceso_slug": "arl-tramites-radicar-incapacidad",
+    "tipo": "formato",
+    "titulo": "Instructivo SURA incapacidades v2",
+    "pdf_url": "https://www.sura.co/documents/d/arl/instructivo-sura-incapacidades-v2"
+  },
+  {
+    "proceso_slug": "arl",
+    "tipo": "formato",
+    "titulo": "Formulario para descargar (FURAT) - Reporte de accidente de trabajo",
+    "pdf_url": "https://www.arlsura.com/formularios/furat.xls"
+  },
+  {
+    "proceso_slug": "arl",
+    "tipo": "certificado",
+    "titulo": "Derechos y deberes ARL (Bienvenido a la ARL)",
+    "pdf_url": "https://www.arlsura.com/files/bienvenida/derechos-deberes-arl.pdf"
+  },
+  {
+    "proceso_slug": "arl",
+    "tipo": "formato",
+    "titulo": "Guía estado de cuenta integral",
+    "pdf_url": "https://www.arlsura.com/formularios/guia-estado-cuenta-integral.pdf"
+  },
+  {
+    "proceso_slug": "arl",
+    "tipo": "formato",
+    "titulo": "Guía mora independientes (estado de cuenta)",
+    "pdf_url": "https://comunicaciones.segurossura.com.co/MercadeoEmpresas/Mails/ARL/OT_1108_Mail%20mora%20independientes_pdf.pdf"
+  },
+  {
+    "proceso_slug": "arl",
+    "tipo": "formato",
+    "titulo": "Volante campaña de préstamos a pensionados",
+    "pdf_url": "https://www.arlsura.com/files/volante-campa%C3%B1a-de-prestamos.pdf"
+  },
+  {
+    "producto_slug": "empresas-agro-bovino-bufalino",
+    "tipo": "condicionado",
+    "titulo": "Condiciones del seguro Bovino y Bufalino",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/agricola/seguro-bovino-y-bufalino.pdf"
+  },
+  {
+    "producto_slug": "empresas-agro-cosecha",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - Agrícola de Cosecha",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/agricola/agricola-de-cosecha.pdf"
+  },
+  {
+    "producto_slug": "empresas-agro-planta",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - Agrícola de Planta",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/agricola/agricola-de-planta.pdf"
+  },
+  {
+    "producto_slug": "empresas-colectivos-autos",
+    "tipo": "anexo",
+    "titulo": "Brochure Seguro de Autos",
+    "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/brochure-seguro-autos.pdf"
+  },
+  {
+    "producto_slug": "empresas-colectivos-autos",
+    "tipo": "formato",
+    "titulo": "Proceso de reclamaciones Autos",
+    "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/proceso-reclamaciones-autos.pdf"
+  },
+  {
+    "producto_slug": "empresas-colectivos-pension",
+    "tipo": "condicionado",
+    "titulo": "Consulta aquí las condiciones del seguro",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vehiculos/plan-seguro-uso-autos.pdf"
+  },
+  {
+    "producto_slug": "empresas-colectivos-vida-accidentes-personales",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - Accidentes Personales Colectivo",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vida/accidentes-personales-colectivo.pdf"
+  },
+  {
+    "producto_slug": "empresas-construccion-equipo-electronico",
+    "tipo": "condicionado",
+    "titulo": "Condicionado Seguro de Equipo Electrónico",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/bienes-y-patrimonio/equipo-electronico.pdf"
+  },
+  {
+    "producto_slug": "empresas-construccion-maquinaria-equipo-contratistas",
+    "tipo": "anexo",
+    "titulo": "Guía Seguros de Maquinaria y Equipo de contratistas",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/ingenieria/guias/guia-seguros-de-maquinaria-y-equipo-contratistas.pdf"
+  },
+  {
+    "producto_slug": "empresas-construccion-maquinaria-equipo-contratistas",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - Seguro Maquinaria y Equipo de contratistas",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/ingenieria/seguro-maquinaria-equipo-contratistas.pdf"
+  },
+  {
+    "producto_slug": "empresas-construccion-montaje",
+    "tipo": "condicionado",
+    "titulo": "Condiciones del seguro de Montaje",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/ingenieria/montaje.pdf"
+  },
+  {
+    "producto_slug": "empresas-construccion-obras-civiles-terminadas",
+    "tipo": "condicionado",
+    "titulo": "Condiciones del seguro Obras Civiles Terminadas",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/ingenieria/obras-civiles-terminadas.pdf"
+  },
+  {
+    "producto_slug": "empresas-construccion-obras-civiles-terminadas",
+    "tipo": "condicionado",
+    "titulo": "Condicionado de Póliza Obras Civiles - ANI",
+    "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/Empresas/ingenieria/poliza-de-obras-civiles-ani.pdf"
+  },
+  {
+    "producto_slug": "empresas-construccion-seguro-construccion",
+    "tipo": "condicionado",
+    "titulo": "Condicionado Seguro de Construcción",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/ingenieria/construccion.pdf"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-arrendamiento",
+    "tipo": "condicionado",
+    "titulo": "Condicionado general - Seguro de Arrendamiento",
+    "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/vivienda/arrendamiento.pdf"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-caucion-judicial",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - Caución Judicial",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/cumplimiento/caucion-judicial.pdf"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-contratistas-proveedores",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - Cumplimiento para proveedores y contratistas",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/cumplimiento/contratistas-proveedores.pdf"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-disposiciones-legales",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - Disposiciones Legales",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/cumplimiento/disposiciones-legales.pdf"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-entidades-estatales",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - Cumplimiento a favor de Entidades Estatales",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/cumplimiento/entidades-estatales.pdf"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-grandes-beneficiarios",
+    "tipo": "condicionado",
+    "titulo": "Consulta aquí las condiciones del seguro",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/agricola/seguro-bovino-y-bufalino.pdf"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-particulares",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - Seguro de Cumplimiento a Favor de Particulares",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/cumplimiento/particulares.pdf"
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-servicios-publicos",
+    "tipo": "condicionado",
+    "titulo": "Condiciones del seguro - Empresas de Servicios Públicos Domiciliarios",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/cumplimiento/empresas-servicios-publicos-domiciliarios.pdf"
+  },
+  {
+    "producto_slug": "empresas-energia-eficiencia-energetica",
+    "tipo": "condicionado",
+    "titulo": "Condiciones del seguro de Eficiencia Energética",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/cumplimiento/eficiencia-energetica.pdf"
+  },
+  {
+    "producto_slug": "empresas-energia-eficiencia-energetica",
+    "tipo": "formato",
+    "titulo": "Cotizador del seguro - Información proyecto energía",
+    "pdf_url": "https://www.segurossura.com.co/documentos/informacion-proyecto-energia.xlsx"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-clinicas-hospitales",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - Responsabilidad Civil Clínicas y Hospitales",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/responsabilidad-civil/clinicas-y-hospitales.pdf"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-danos-terceros",
+    "tipo": "condicionado",
+    "titulo": "Condicionado RC por Daños a Terceros",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/responsabilidad-civil/rc-por-danos-a-terceros.pdf"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-danos-terceros",
+    "tipo": "clausulado",
+    "titulo": "Clausulado RC por Daños a Terceros",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/responsabilidad-civil/rc-por-danos-a-terceros.pdf"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-drones",
+    "tipo": "condicionado",
+    "titulo": "Seguro de Responsabilidad Civil por daños a terceros - Términos y condiciones",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/responsabilidad-civil/seguro-de-responsabilidad-civil-por-da%C3%B1os-a-terceros.pdf"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-familiar",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - RC Familiar",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/otros/rc-familiar.pdf"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-fraude-empleado",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - Fraude de Empleados",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/fraude/fraude-empleados.pdf"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-parqueaderos",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - RC para Parqueaderos",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/responsabilidad-civil/rc-para-parqueaderos.pdf"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-responsabilidad-empleador",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - RC del Empleador",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/responsabilidad-civil/rc-del-empleador.pdf"
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-talleres",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - RC para Talleres",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/responsabilidad-civil/rc-para-talleres.pdf"
+  },
+  {
+    "producto_slug": "empresas-sura",
+    "tipo": "condicionado",
+    "titulo": "Condicionado Seguro de Equipo Electrónico",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/bienes-y-patrimonio/equipo-electronico.pdf"
+  },
+  {
+    "producto_slug": "empresas-transporte-cadena-abastecimiento",
+    "tipo": "condicionado",
+    "titulo": "Condiciones generales, cláusula A",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/transporte-mercancias-general-clausula-a.pdf"
+  },
+  {
+    "producto_slug": "empresas-transporte-cadena-abastecimiento",
+    "tipo": "condicionado",
+    "titulo": "Condiciones cláusula C",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/transporte-mercancias-clausula-c.pdf"
+  },
+  {
+    "producto_slug": "empresas-transporte-carga-proyectos",
+    "tipo": "condicionado",
+    "titulo": "Condicionado cláusula A (todo riesgo)",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/transporte-de-mercancias-a.pdf"
+  },
+  {
+    "producto_slug": "empresas-transporte-carga-proyectos",
+    "tipo": "condicionado",
+    "titulo": "Condicionado cláusula C (riesgos nombrados)",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/transporte-de-mercancias-c.pdf"
+  },
+  {
+    "producto_slug": "empresas-transporte-mercancias-automatico",
+    "tipo": "clausulado",
+    "titulo": "Clausulado Empresarial",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/transporte-mercancias-automatico.PDF"
+  },
+  {
+    "producto_slug": "empresas-transporte-mercancias-automatico",
+    "tipo": "clausulado",
+    "titulo": "Clausulado A y C",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/Transporte-mercancias-a-c.pdf"
+  },
+  {
+    "producto_slug": "empresas-transporte-mercancias-especifico",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - Transporte de Mercancías Específico",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/transporte-mercancias-especifico.PDF"
+  },
+  {
+    "producto_slug": "empresas-transporte-terrestres-carga",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - Transporte de carga terrestre",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/transporte-de-carga-terrestre.PDF"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "tipo": "condicionado",
+    "titulo": "Condicionado Seguro de Arrendamiento",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/condicionado-seguro-de-arrendamiento.pdf"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "tipo": "formato",
+    "titulo": "Solicitudes de codeudor",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/solicitud-codeudor.PDF"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "tipo": "formato",
+    "titulo": "Solicitudes de persona jurídica",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/solicitud-arrendamiento-juridica.PDF"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "tipo": "formato",
+    "titulo": "Solicitudes de persona natural",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/solicitud-arrendamiento-natural.PDF"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "tipo": "formato",
+    "titulo": "Solicitud de ingreso arrendatario vigente (Colectivo)",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/seguro-arrendamiento-colectivo.pdf"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "tipo": "formato",
+    "titulo": "Solicitud de Aviso de cambio de valor asegurado",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/aviso-cambio-valor-asegurado.pdf"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "tipo": "formato",
+    "titulo": "Solicitud de Aviso de reclamación",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/aviso-reclamacion.pdf"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "tipo": "formato",
+    "titulo": "Solicitud Aviso de retiro",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/aviso-retiro.pdf"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "tipo": "formato",
+    "titulo": "Solicitud de ingreso arrendador vigente",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/ingreso-arrendador.pdf"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "tipo": "formato",
+    "titulo": "Formato inscripción de cuentas",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/formato-inscripcion-de-cuentas.pdf"
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "tipo": "formato",
+    "titulo": "Formato de orden de contrato",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vivienda/formato-orden-de-contrato.pdf"
+  },
+  {
+    "producto_slug": "personas-hogar-mascotas",
+    "tipo": "condicionado",
+    "titulo": "Condicionado del Seguro de Mascotas SURA",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/otros/condicionado-seguro-mascotas.pdf"
+  },
+  {
+    "producto_slug": "personas-movilidad-bicicletas-patinetas",
+    "tipo": "anexo",
+    "titulo": "Brochure Seguro de Bicis y Patinetas",
+    "pdf_url": "https://www.sura.co/documents/d/seguros/brochure-seguro-de-bicis-y-patinetas"
+  },
+  {
+    "producto_slug": "personas-movilidad-bicicletas-patinetas",
+    "tipo": "clausulado",
+    "titulo": "Condicionado solución bicicletas",
+    "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/vehiculos/condicionado-solucion-bicicletas.pdf"
+  },
+  {
+    "producto_slug": "personas-movilidad-bicicletas-patinetas",
+    "tipo": "formato",
+    "titulo": "Proceso de reclamaciones",
+    "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/proceso-reclamaciones-autos.pdf"
+  },
+  {
+    "producto_slug": "personas-movilidad-motos",
+    "tipo": "condicionado",
+    "titulo": "Términos y condiciones - Plan Motos",
+    "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/vehiculos/plan-motos.pdf"
+  },
+  {
+    "producto_slug": "personas-movilidad-motos",
+    "tipo": "anexo",
+    "titulo": "Proceso de reclamaciones - Autos/Motos",
+    "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/proceso-reclamaciones-autos.pdf"
+  },
+  {
+    "producto_slug": "personas-movilidad-motos",
+    "tipo": "anexo",
+    "titulo": "Información importante - Servicios de movilidad COVID-19",
+    "pdf_url": "https://comunicaciones.segurossura.com.co/MercadeoPersonas/recursos/coronavirus/covid_19_movilidad_enlaces.pdf"
+  },
+  {
+    "producto_slug": "personas-movilidad-soat-reclamaciones",
+    "tipo": "formato",
+    "titulo": "Proceso de calificación de pérdida de capacidad laboral (Calificación SOAT)",
+    "pdf_url": "https://www.segurossura.com.co/documentos/formularios-reclamacion-soat/proceso-calificacion-soat.pdf"
+  },
+  {
+    "producto_slug": "personas-movilidad-soat-reclamaciones",
+    "tipo": "formato",
+    "titulo": "Manual radicación facturas",
+    "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/manual-radicacion-facturas.pdf"
+  },
+  {
+    "producto_slug": "personas-movilidad-soat-reclamaciones",
+    "tipo": "formato",
+    "titulo": "Manual respuesta objeción",
+    "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/manual-respuestas-objecion.pdf"
+  },
+  {
+    "producto_slug": "personas-movilidad-soat-reclamaciones",
+    "tipo": "formato",
+    "titulo": "Instructivo para presentación de reclamaciones con FURIPS 1 y 2",
+    "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/instructivo-reclamacion-anexo-tecnico-furips.pdf"
+  },
+  {
+    "producto_slug": "personas-movilidad-soat-reclamaciones",
+    "tipo": "formato",
+    "titulo": "Respuesta a objeción (presentación de objeciones totales y parciales)",
+    "pdf_url": "http://www.segurossura.com.co/documentos/movilidad/presentacion-de-objeciones-totales%20y-parciales.pdf"
+  },
+  {
+    "producto_slug": "personas-movilidad-soat-reclamaciones",
+    "tipo": "formato",
+    "titulo": "Radicación incapacidad página web (paso a paso digital)",
+    "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/paso-a-paso-radicacion-incapacidad-permanente-digital.pdf"
+  },
+  {
+    "producto_slug": "personas-movilidad-soat-reclamaciones",
+    "tipo": "formato",
+    "titulo": "Incapacidad permanente (Conoce más)",
+    "pdf_url": "https://www.segurossura.com.co/documentos/formularios-reclamacion-soat/incapacidad-permanente.pdf"
+  },
+  {
+    "producto_slug": "personas-movilidad-soat-reclamaciones",
+    "tipo": "formato",
+    "titulo": "Muerte (Conoce más)",
+    "pdf_url": "https://www.segurossura.com.co/documentos/formularios-reclamacion-soat/muerte.pdf"
+  },
+  {
+    "producto_slug": "personas-responsabilidad-civil-profesionales-salud",
+    "tipo": "condicionado",
+    "titulo": "Clausulado RC Profesionales de la Salud",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/otros/rc-profesionales-salud.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-enfermedades-graves",
+    "tipo": "condicionado",
+    "titulo": "Condicionado Seguro de Enfermedades Graves",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/seguro-enfermedades-graves.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-mascotas-digital",
+    "tipo": "condicionado",
+    "titulo": "Condicionado Salud Animal F-13-18-0190-008",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/condicionado-salud-animal-f-13-18-0190-008.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-plan-salud-modular",
+    "tipo": "condicionado",
+    "titulo": "Condicionado Plan de Salud Modular",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/condicionado-plan-salud-modular.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-poliza-clasica",
+    "tipo": "condicionado",
+    "titulo": "Plan Salud Clásico - Términos y condiciones",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/plan-salud-clasico.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-poliza-evoluciona",
+    "tipo": "condicionado",
+    "titulo": "Condicionado Plan Salud Evoluciona",
+    "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/salud/plan-salud-evoluciona.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-poliza-evoluciona",
+    "tipo": "clausulado",
+    "titulo": "Términos y condiciones Plan Salud Evoluciona",
+    "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/salud/plan-salud-evoluciona.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-poliza-global",
+    "tipo": "condicionado",
+    "titulo": "Condiciones generales Plan Salud Global",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/plan-salud-global.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-renta-diaria",
+    "tipo": "condicionado",
+    "titulo": "Condiciones del Seguro Plan Renta Diaria",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/seguro-plan-renta-diaria.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-dos",
+    "tipo": "condicionado",
+    "titulo": "Condicionado Plan Salud para Dos - Plan Estandar",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/clausulado-salud-para-dos-plan-estandar.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-dos",
+    "tipo": "condicionado",
+    "titulo": "Condicionado Plan Salud para Dos - Plan Plus",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/clausulado-salud-para-dos-plan-plus.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-todos",
+    "tipo": "clausulado",
+    "titulo": "Clausulado Salud para Todos - Plan Esencial",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/clausulado-salud-para-todos-plan-esencial.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-todos",
+    "tipo": "clausulado",
+    "titulo": "Clausulado Salud para Todos - Plan Clasico",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/clausulado-salud-para-todos-plan-clasico.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-todos",
+    "tipo": "clausulado",
+    "titulo": "Clausulado Salud para Todos - Plan Preferencial",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/clausulado-salud-para-todos-plan-preferencial.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-todos",
+    "tipo": "clausulado",
+    "titulo": "Clausulado Salud para Todos - Plan Estandar 2024",
+    "pdf_url": "https://www.sura.co/documents/d/seguros/clausulado-salud-para-todos-plan-estandar-2024"
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-todos",
+    "tipo": "clausulado",
+    "titulo": "Clausulado Salud para Todos - Plan Plus 2024",
+    "pdf_url": "https://www.sura.co/documents/d/seguros/clausulado-salud-para-todos-plan-plus-2024"
+  },
+  {
+    "producto_slug": "personas-salud-viajes",
+    "tipo": "formato",
+    "titulo": "Brochure Seguro de Viajes - Español",
+    "pdf_url": "https://www.sura.co/documents/d/seguros/brochure-seguro-de-viajes-espaniol"
+  },
+  {
+    "producto_slug": "personas-salud-viajes",
+    "tipo": "formato",
+    "titulo": "Brochure Seguro de Viajes - Inglés",
+    "pdf_url": "https://www.sura.co/documents/d/seguros/brochure-seguro-de-viajes-ingles"
+  },
+  {
+    "producto_slug": "personas-salud-viajes",
+    "tipo": "formato",
+    "titulo": "Proceso de reclamación Seguro de Viajes",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/viajes/proceso-de-reclamacion.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-viajes",
+    "tipo": "anexo",
+    "titulo": "Condiciones de viaje a Estados Unidos - SURA",
+    "pdf_url": "https://comunicaciones.segurossura.com.co/MercadeoPersonas/recursos/SEGUROS/Ccondiciones-de-viaje-EEUU_SURA.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-viajes",
+    "tipo": "condicionado",
+    "titulo": "Coberturas Seguro de Viaje Internacional",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/viajes/condicionado-seguro-viaje-internacional.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-viajes",
+    "tipo": "condicionado",
+    "titulo": "Coberturas Seguro de Viaje Nacional Aéreo",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/viajes/condicionado-seguro-viaje-nacional.pdf"
+  },
+  {
+    "producto_slug": "personas-salud-viajes",
+    "tipo": "condicionado",
+    "titulo": "Coberturas Seguro de Viaje Nacional Terrestre",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/viajes/condicionado-seguro-viaje-nacional-terrestre.pdf"
+  },
+  {
+    "producto_slug": "personas-vida-accidentes-personales",
+    "tipo": "condicionado",
+    "titulo": "Condicionado Seguro de Accidentes Personales",
+    "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/vida/accidentes-personales.pdf"
+  },
+  {
+    "producto_slug": "personas-vida-accidentes-personales",
+    "tipo": "condicionado",
+    "titulo": "Condicionado Seguro de Proteccion Personal",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vida/seguro-proteccion-personal-accidentes-soat.pdf"
+  },
+  {
+    "producto_slug": "personas-vida-credito-protegido",
+    "tipo": "condicionado",
+    "titulo": "Exclusiones del Plan Crédito Protegido",
+    "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/vida/plan-credito-protegido.pdf"
+  },
+  {
+    "producto_slug": "personas-vida-credito-protegido",
+    "tipo": "clausulado",
+    "titulo": "Clausulado Plan Crédito Protegido",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/vida/plan-credito-protegido.pdf"
+  },
+  {
+    "producto_slug": "personas-vida-educacion",
+    "tipo": "clausulado",
+    "titulo": "Condicionado Seguro de Educación",
+    "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/futuro/educacion.pdf"
+  },
+  {
+    "producto_slug": "personas-vida-educacion",
+    "tipo": "formato",
+    "titulo": "Guía para pago del Seguro de Educación con cesantías",
+    "pdf_url": "https://www.segurossura.com.co/documentos/formas-pago/guia-para-pago-seguro-de-educacion-con-cesantias.pdf"
+  },
+  {
+    "producto_slug": "personas-vida-pension",
+    "tipo": "condicionado",
+    "titulo": "Condiciones del Seguro de Pensión",
+    "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/empleados/seguro-pension.pdf"
+  }
+]

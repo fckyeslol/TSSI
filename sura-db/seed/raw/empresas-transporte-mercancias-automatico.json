@@ -1,0 +1,154 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/transporte/mercancias/automatico",
+  "producto": {
+    "slug": "empresas-transporte-mercancias-automatico",
+    "nombre": "Seguro de Transporte de Mercancías Automático",
+    "ramo": "Transporte",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "Protegemos tus productos y materias primas durante su transporte, cubriendo pérdidas o daños que puedan afectar tu operación. Está dirigido a empresas dedicadas a la producción, distribución, importación o exportación de bienes, con un valor asegurado por documento de transporte y no por vehículo transportador.",
+    "resumen": "Seguro empresarial que protege mercancías y materias primas durante su transporte ante pérdidas o daños.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "cobertura-todo-riesgo-clausula-a-institute-cargo-clauses",
+      "nombre": "Cobertura todo riesgo (Cláusula A del Institute Cargo Clauses)",
+      "descripcion": "Asumimos todo riesgo, excepto exclusiones, armonizada con los condicionados más utilizados a nivel internacional.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "cobertura-movilizaciones",
+      "nombre": "Cobertura para movilizaciones",
+      "descripcion": "Asumimos las movilizaciones en vehículos propios, terceros y a través de empresas de transporte habilitadas.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "dias-permanencia-almacenamientos-intermedios",
+      "nombre": "Más días de permanencia",
+      "descripcion": "Te brindamos hasta 90 días de cobertura en los almacenamientos intermedios necesarios que se den entre el origen y el destino de tus mercancías.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Hasta 90 días en almacenamientos intermedios"
+    },
+    {
+      "slug": "clausulas-de-gastos",
+      "nombre": "Diferentes cláusulas de gastos",
+      "descripcion": "Te acompañamos en esos gastos ordinarios demostrados, disposición final de bienes siniestrados, entre otros.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "huelga-asonada-motin-conmocion-civil",
+      "nombre": "Huelga, suspensión de trabajo, disturbios laborales, asonada, motín y conmoción civil",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "infidelidad-actos-deshonestos-administradores-trabajadores",
+      "nombre": "Infidelidad y acciones deshonestas por parte de administradores y trabajadores al servicio del asegurado",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "lucro-cesante",
+      "nombre": "Lucro cesante",
+      "descripcion": "Dejar de percibir ingresos por no poder ejecutar las actividades económicas de su empresa.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil",
+      "nombre": "Responsabilidad civil de cualquier tipo",
+      "descripcion": null,
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "multas-o-sanciones",
+      "nombre": "Multas o sanciones",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "actos-de-autoridades-competentes",
+      "nombre": "Actos de las autoridades competentes",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "A empresas dedicadas a la producción, distribución, importación o exportación de bienes."
+  },
+  "documentos": [
+    {
+      "tipo": "clausulado",
+      "titulo": "Clausulado Empresarial",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/transporte-mercancias-automatico.PDF"
+    },
+    {
+      "tipo": "clausulado",
+      "titulo": "Clausulado A y C",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/transporte/Transporte-mercancias-a-c.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Transporte de Mercancías Automático. Protegemos tus productos y materias primas durante su transporte, cubriendo pérdidas o daños que puedan afectar tu operación."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? A empresas dedicadas a la producción, distribución, importación o exportación de bienes."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Por qué elegir esta solución? Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos. Empresas SURA te acompañará para llevar tu empresa a otro nivel. El valor asegurado es por documento de transporte y no por vehículo transportador, así te brindamos tranquilidad ante posibles acumulaciones que puedas tener y no estén bajo tu control. Contarás con acompañamiento en internacionalización para que puedas ampliar tu mercado y llegar a nuevos clientes en el exterior."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Cobertura todo riesgo (Cláusula A del Institute Cargo Clauses): Asumimos todo riesgo, excepto exclusiones, armonizada con los condicionados más utilizados a nivel internacional. Cobertura para movilizaciones: Asumimos las movilizaciones en vehículos propios, terceros y a través de empresas de transporte habilitadas. Más días de permanencia: Te brindamos hasta 90 días de cobertura en los almacenamientos intermedios necesarios que se den entre el origen y el destino de tus mercancías. Diferentes cláusulas de gastos: Te acompañamos en esos gastos ordinarios demostrados, disposición final de bienes siniestrados, entre otros."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Huelga, suspensión de trabajo, disturbios laborales, asonada, motín y conmoción civil. Infidelidad y acciones deshonestas por parte de administradores y trabajadores al servicio del asegurado. Lucro cesante (dejar de percibir ingresos por no poder ejecutar las actividades económicas de su empresa). Responsabilidad civil de cualquier tipo. Multas o sanciones. Actos de las autoridades competentes."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Para presentar tu reclamación, deberás soportar el daño y su valor. SURA te indicará qué documentación específica necesitas. Nos contactaremos contigo en los cinco (5) días siguientes al aviso de tu reclamación y una vez contemos con todos los soportes, te daremos una respuesta en un plazo de siete (7) días hábiles siguientes. Recuerda que debes asumir un deducible en cada reclamación, el cual encuentras en tus condiciones particulares. Dependiendo de la complejidad y de las particularidades de tu reclamación, analizaremos: Si eres un transportador de carga o un generador de carga, partiendo del contrato de transporte que tengas y los Incoterms. El costo de la mercancía, el seguro y flete para determinar el valor de la pérdida (remesa, manifiesto, lista de empaque y factura de fletes)."
+    }
+  ]
+}

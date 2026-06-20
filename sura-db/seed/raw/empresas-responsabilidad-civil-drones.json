@@ -1,0 +1,192 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/responsabilidad/civil/drones",
+  "producto": {
+    "slug": "empresas-responsabilidad-civil-drones",
+    "nombre": "Responsabilidad Civil para Drones",
+    "ramo": "Otros",
+    "linea": "empresas",
+    "tipo_persona": "ambas",
+    "descripcion": "Protegemos tu patrimonio ante daños a terceros causados durante la operación de drones en tu actividad económica. Dirigido a empresas de todos los tamaños y a personas naturales que usen drones en el desarrollo de su actividad económica cumpliendo con la reglamentación de la Aeronáutica Civil.",
+    "resumen": "Seguro que protege tu patrimonio ante daños a terceros causados por la operación de drones en tu actividad económica.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "presencial", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "predios-y-operaciones",
+      "nombre": "Predios y operaciones",
+      "descripcion": "Daños que causes a terceros y a sus bienes por las lesiones corporales, daños materiales por contacto directo con las aeronaves aseguradas o por cualquier objeto que se desprenda de las mismas durante el desarrollo de la actividad empresarial.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "gastos-de-defensa-procesos-civiles-y-penales",
+      "nombre": "Gastos de defensa en procesos civiles y penales",
+      "descripcion": "Pagamos los gastos de defensa en procesos civiles o penales, cuando un tercero afectado por un accidente donde eres responsable te reclama o demanda.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-a-la-aeronave",
+      "nombre": "Daños a la aeronave",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "incumplimiento-de-la-regulacion-local",
+      "nombre": "Incumplimiento de la regulación local",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "robo-o-tentativa-de-robo-de-la-aeronave",
+      "nombre": "Robo o tentativa de robo de la aeronave de cualquier lugar",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "uso-militar-de-la-aeronave",
+      "nombre": "Uso militar de la aeronave",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "uso-en-actividades-deportivas-o-recreacion",
+      "nombre": "Uso en actividades deportivas y/o de recreación",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "reclamacion-derivada-de-vuelo-autonomo",
+      "nombre": "Cualquier reclamación derivada de un vuelo autónomo de la aeronave",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-a-bien-propio-o-bajo-cuidado-del-asegurado",
+      "nombre": "Daños a cualquier bien propio o que esté bajo cuidado, control y custodia del asegurado",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "uso-de-la-aeronave-para-fines-ilegales",
+      "nombre": "Uso de la aeronave para fines ilegales",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "pilotaje-sin-certificacion-o-por-operador-no-registrado",
+      "nombre": "Uso y/o pilotaje de la aeronave por personas que carezcan de las certificaciones para manejarla o diferente al operador registrado",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-por-volar-con-bateria-insuficiente",
+      "nombre": "Daños ocasionados por volar con batería insuficiente",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-a-gasoductos-u-oleoductos",
+      "nombre": "Daños ocasionados a gasoductos u oleoductos",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "vuelos-que-no-cumplan-la-regulacion-vigente",
+      "nombre": "Vuelos que no cumplan con la regulación vigente",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "cumplimiento_regulatorio": "Cumplir con la reglamentación requerida por parte de la Aeronáutica Civil",
+      "uso": "Uso de drones en el desarrollo de la actividad económica"
+    },
+    "descripcion": "A empresas de todos los tamaños y a personas naturales que usen drones en el desarrollo de su actividad económica cumpliendo con la reglamentación requerida por parte de la Aeronáutica Civil, y que, durante su uso puedan causar daños a terceros."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Seguro de Responsabilidad Civil por daños a terceros - Términos y condiciones",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/responsabilidad-civil/seguro-de-responsabilidad-civil-por-da%C3%B1os-a-terceros.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Responsabilidad Civil para Drones. Protegemos tu patrimonio ante daños a terceros causados durante la operación de drones en tu actividad económica."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? A empresas de todos los tamaños y a personas naturales que usen drones en el desarrollo de su actividad económica cumpliendo con la reglamentación requerida por parte de la Aeronáutica Civil, y que, durante su uso puedan causar daños a terceros."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Por qué elegir esta solución? Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos. Empresas SURA te acompañará para llevar tu empresa a otro nivel. Contarás con una amplia cobertura, sin límites en los perjuicios por daños a bienes, lucro cesante, daños morales o afectaciones a la salud de las personas. Somos de las pocas aseguradoras que ofrecen esta solución, acompañándote en la protección de tu patrimonio."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Predios y operaciones: Daños que causes a terceros y a sus bienes por las lesiones corporales, daños materiales por contacto directo con las aeronaves aseguradas o por cualquier objeto que se desprenda de las mismas durante el desarrollo de la actividad empresarial. Gastos de defensa en procesos civiles y penales: Pagamos los gastos de defensa en procesos civiles o penales, cuando un tercero afectado por un accidente donde eres responsable te reclama o demanda."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Daños a la aeronave. Incumplimiento de la regulación local. Robo o tentativa de Robo de la aeronave de cualquier lugar. Uso militar de la aeronave. Uso en actividades deportivas y/o de recreación. Cualquier reclamación derivada de un vuelo autónomo de la aeronave. Daños a cualquier bien propio o que esté bajo cuidado control y custodia del asegurado. Uso de la aeronave para fines ilegales. Uso y/o pilotaje de la aeronave por personas que carezcan de las certificaciones para manejarla o diferente al operador registrado. Daños ocasionados por volar con batería insuficiente. Daños ocasionados a gasoductos u oleoductos. Vuelos que no cumplan con la regulación vigente."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo puedo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Después de presentar tu reclamación, te contactaremos entre cinco (5) y siete (7) días calendario para informarte cómo se gestiona el proceso y solicitarte la documentación necesaria. Una vez tengamos toda la documentación requerida, te enviaremos una respuesta en un plazo de siete (7) días hábiles. Recuerda que debes asumir un valor deducible, consúltalo en las condiciones de tu póliza. Dependiendo de la complejidad y de las particularidades de tu reclamación: Te apoyamos telefónicamente con abogados que podrán ayudarte en tu representación y defensa ante un proceso jurídico. Realizamos un análisis detallado con la información relevante sobre cuáles fueron los hechos y las fechas relevantes para analizar tu responsabilidad, si hubo terceros afectados, condiciones particulares de la póliza, posibles indemnizaciones, procesos judiciales y uso de abogados externos, entre otros."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Medios de pago. Presenciales: Bancos y redes aliadas. Digitales: Pago Express, débito automático y financiación. ¿Tienes dudas? Comunícate con nosotros al 01 8000 51 8888."
+    }
+  ]
+}

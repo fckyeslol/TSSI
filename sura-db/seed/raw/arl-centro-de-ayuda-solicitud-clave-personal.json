@@ -1,0 +1,70 @@
+{
+  "tipo": "proceso",
+  "url": "https://www.sura.co/arl/centro/de/ayuda/solicitud/clave/personal",
+  "proceso": {
+    "slug": "arl-centro-de-ayuda-solicitud-clave-personal",
+    "nombre": "Solicita tu clave personal",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "natural",
+    "descripcion": "Registro de usuario SURA para crear una cuenta personal y obtener la clave de acceso a los servicios en linea de SURA. Permite acceder a todos los servicios de SURA con una sola cuenta.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Selecciona el tipo de identificacion",
+        "detalle": "Opciones disponibles: CED.EXTRANJERIA, CEDULA, CERTIFICADO NACIDO VIVO, DIPLOMATICO, DOC.IDENT. DE EXTRANJEROS, NIT PERSONAS NATURALES, PASAPORTE, PERMISO POR PROTECCION TEMPORAL, REGISTRO CIVIL, SALVOCONDUCTO DE PERMANENCIA, TARJ.IDENTIDAD. Debe seleccionar un tipo de documento."
+      },
+      {
+        "orden": 2,
+        "titulo": "Ingresa el numero de identificacion",
+        "detalle": "Debe ingresar un numero de documento. El campo solo permite: a-z 0-9."
+      },
+      {
+        "orden": 3,
+        "titulo": "Ingresa el telefono celular",
+        "detalle": "Debe ingresar un celular. Campo numerico, debe comenzar con 3."
+      },
+      {
+        "orden": 4,
+        "titulo": "Ingresa el correo electronico",
+        "detalle": "Debe ingresar un correo. Procura diligenciar un correo diferente a Hotmail, para que tu clave llegue oportunamente. Campo no valido. ej: usuario@ejemplo.com"
+      },
+      {
+        "orden": 5,
+        "titulo": "Ingresa el primer apellido",
+        "detalle": "El campo tiene caracteres invalidos."
+      },
+      {
+        "orden": 6,
+        "titulo": "Confirma el correo electronico",
+        "detalle": "Debe ingresar un correo. Campo no valido. ej: usuario@ejemplo.com. Los campos de correo no coinciden."
+      },
+      {
+        "orden": 7,
+        "titulo": "Acepta terminos y condiciones",
+        "detalle": "Acepto los Terminos del servicio y la Politica de privacidad y ley de datos personales. Para poder utilizar nuestros servicios, debes aceptar las condiciones del servicio."
+      },
+      {
+        "orden": 8,
+        "titulo": "Verifica el reCAPTCHA",
+        "detalle": "Recaptcha requires verification. protected by reCAPTCHA."
+      }
+    ],
+    "url": "https://www.sura.co/arl/centro/de/ayuda/solicitud/clave/personal"
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Solicita tu clave personal. Registro Usuario SURA. Crea tu cuenta de SURA. Una cuenta con todos los servicios de SURA a tu disposicion."
+    },
+    {
+      "seccion": "requisitos",
+      "contenido": "Tipo de identificacion: CED.EXTRANJERIA, CEDULA, CERTIFICADO NACIDO VIVO, DIPLOMATICO, DOC.IDENT. DE EXTRANJEROS, NIT PERSONAS NATURALES, PASAPORTE, PERMISO POR PROTECCION TEMPORAL, REGISTRO CIVIL, SALVOCONDUCTO DE PERMANENCIA, TARJ.IDENTIDAD. Numero de identificacion (solo permite a-z 0-9). Telefono celular (campo numerico, debe comenzar con 3). Correo electronico (procura diligenciar un correo diferente a Hotmail, para que tu clave llegue oportunamente). Primer Apellido. Confirmar Correo electronico (los campos de correo deben coincidir)."
+    },
+    {
+      "seccion": "pasos",
+      "contenido": "Acepto los Terminos del servicio y la Politica de privacidad y ley de datos personales. Para poder utilizar nuestros servicios, debes aceptar las condiciones del servicio. reCAPTCHA: Recaptcha requires verification, protected by reCAPTCHA."
+    }
+  ]
+}

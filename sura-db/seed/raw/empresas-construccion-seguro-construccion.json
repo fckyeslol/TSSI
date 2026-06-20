@@ -1,0 +1,265 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/construccion/seguro/construccion",
+  "producto": {
+    "slug": "empresas-construccion-seguro-construccion",
+    "nombre": "Seguro de Construcción",
+    "ramo": "Construcción",
+    "linea": "empresas",
+    "tipo_persona": "ambas",
+    "descripcion": "Aseguramos tus obras de construcción ante imprevistos, para que avances con tranquilidad y generes confianza en tus clientes.",
+    "resumen": "Seguro que protege obras de construcción de empresas y personas naturales ante daños, hurtos y eventos de la naturaleza.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "danos-causados-por-empleado",
+      "nombre": "Daños causados por un empleado",
+      "descripcion": "Cubrimos los daños materiales en tu obra causados por impericia, descuido y actos malintencionados cometidos por uno de tus empleados.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-por-eventos-de-la-naturaleza",
+      "nombre": "Daños por eventos de la naturaleza",
+      "descripcion": "Protegemos tu obra de construcción si sufre daños por eventos como rayo, terremoto, temblor de tierra, erupción volcánica u otros desastres naturales.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "hurto-en-la-obra",
+      "nombre": "Hurtos en la obra",
+      "descripcion": "En caso de un robo con violencia en la obra, te indemnizaremos con el valor de los bienes hurtados.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "actos-malintencionados-de-terceros",
+      "nombre": "Actos malintencionados de terceros",
+      "descripcion": "Cubrimos la obra de construcción en caso de asonada, motín, conmoción civil, huelga, actos malintencionados de terceros y terrorismo.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-materiales-por-incendio-explosion-aeronave-inundacion",
+      "nombre": "Daños materiales por incendio, explosión, caída de aeronave e inundación",
+      "descripcion": "Daños materiales causados por incendio y explosión que no hayan sido ocasionados por actos malintencionados de otras personas, caídas de aeronave o partes de ella, inundación y riesgos geotécnicos.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "responsabilidad-civil-extracontractual",
+      "nombre": "Responsabilidad civil",
+      "descripcion": "Responsabilidad civil por daños materiales o afectaciones a personas externas al proyecto.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "desviacion-del-cronograma",
+      "nombre": "Desviación del cronograma",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "remocion-de-escombros",
+      "nombre": "Remoción de escombros",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "propiedades-existentes",
+      "nombre": "Propiedades existentes",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "riesgo-de-diseno-leg",
+      "nombre": "Coberturas para riesgo de diseño según las cláusulas LEG 2/96 y LEG 3/06",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "gastos-demostracion-prevencion-perdida",
+      "nombre": "Gastos para la demostración o prevención de la pérdida",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "periodo-de-mantenimiento",
+      "nombre": "Cobertura para periodo de mantenimiento",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "riesgos-nucleares-o-atomicos",
+      "nombre": "Riesgos nucleares o atómicos",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "hurto-simple-o-desaparicion-misteriosa",
+      "nombre": "Hurto simple o desaparición misteriosa",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "guerra-invasion-actos-enemigos",
+      "nombre": "Guerra, invasión, actos enemigos extranjeros, hostilidades y guerras civiles",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "huelgas-vandalismo-dano-malicioso",
+      "nombre": "Huelgas, conflictos colectivos de trabajo, daño malicioso o vandalismo",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "dolo-o-culpa-grave",
+      "nombre": "Dolo (intención) o culpa grave",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "lucro-cesante-y-paralizacion",
+      "nombre": "Lucro cesante, demora y paralización de trabajo",
+      "descripcion": "Lucro cesante, demora y paralización de trabajo, sea total o parcialmente.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "desgaste-deterioro-corrosion",
+      "nombre": "Desgaste, deterioro, corrosiones, incrustaciones, raspaduras",
+      "descripcion": null,
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "incumplimiento-disenos-tecnicos-estudio-suelos",
+      "nombre": "Pérdidas por incumplimiento de diseños técnicos o del estudio de suelos",
+      "descripcion": "Pérdidas generadas por el incumplimiento de diseños técnicos o del estudio de suelos.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "danos-a-bienes-existentes-al-inicio",
+      "nombre": "Daños a bienes asegurados existentes al iniciarse los trabajos",
+      "descripcion": "Daños o defectos a bienes asegurados existentes al iniciarse los trabajos de construcción.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "sanciones-o-multas",
+      "nombre": "Sanciones o multas",
+      "descripcion": null,
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "ambas",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": "Empresas de todos los tamaños y personas naturales que vayan a iniciar un proyecto de construcción."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condicionado Seguro de Construcción",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/empresas/ingenieria/construccion.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Construcción. Aseguramos tus obras de construcción ante imprevistos, para que avances con tranquilidad y generes confianza en tus clientes."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿A quién aseguramos? Empresas de todos los tamaños y personas naturales que vayan a iniciar un proyecto de construcción."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¿Por qué elegir esta solución? Te brindaremos acompañamiento legal de manera telefónica en caso de que te veas involucrado en procesos civiles y penales por un siniestro. Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos. Empresas SURA te acompañará para llevar tu empresa a otro nivel. Disfrutarás de un portafolio exclusivo de servicios en gestión de riesgos para el sector construcción. Si tu proyecto está optando por un sello de sostenibilidad como LEED, EDGE o Casa Colombia, te ofrecemos asesoría especializada para lograr tener la certificación y un beneficio económico en el valor de tu solución de construcción."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Daños causados por un empleado: cubrimos los daños materiales en tu obra causados por impericia, descuido y actos malintencionados cometidos por uno de tus empleados. Daños por eventos de la naturaleza: protegemos tu obra de construcción si sufre daños por eventos como rayo, terremoto, temblor de tierra, erupción volcánica u otros desastres naturales. Hurtos en la obra: en caso de un robo con violencia en la obra, te indemnizaremos con el valor de los bienes hurtados. Actos malintencionados de terceros: cubrimos la obra de construcción en caso de asonada, motín, conmoción civil, huelga, actos malintencionados de terceros y terrorismo. Daños materiales causados por: incendio y explosión que no hayan sido ocasionados por actos malintencionados de otras personas; caídas de aeronave o partes de ella; inundación y riesgos geotécnicos."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Esta solución cuenta con coberturas adicionales, como: Responsabilidad civil por daños materiales o afectaciones a personas externas al proyecto. Desviación del cronograma. Remoción de escombros. Propiedades existentes. Coberturas para riesgo de diseño según las cláusulas LEG 2/96 y LEG 3/06. Gastos para la demostración o prevención de la pérdida. Cobertura para periodo de mantenimiento."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubrimos? Riesgos nucleares o atómicos. Hurto simple o desaparición misteriosa. Guerra, invasión, actos enemigos extranjeros, hostilidades y guerras civiles. Huelgas, conflictos colectivos de trabajo, daño malicioso o vandalismo. Dolo (intención) o culpa grave. Lucro cesante, demora y paralización de trabajo, sea total o parcialmente. Desgaste, deterioro, corrosiones, incrustaciones, raspaduras, entre otros. Pérdidas generadas por el incumplimiento de diseños técnicos o del estudio de suelos. Daños o defectos a bienes asegurados existentes al iniciarse los trabajos de construcción. Sanciones o multas."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo hacer una reclamación? Contacta a tu asesor, marca desde tu celular #888 o escríbenos al WhatsApp 315 2757888. Después de presentar tu reclamación, te contactaremos entre cinco (5) y siete (7) días calendario para informarte cómo se gestiona el proceso y solicitarte la documentación necesaria. Una vez tengamos toda la documentación requerida, te enviaremos una respuesta en un plazo de siete (7) días hábiles. Recuerda que debes asumir un valor deducible, consúltalo en las condiciones de tu póliza."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Medios de pago: Presenciales (bancos y redes aliadas) y Digitales (Pago Express, débito automático y financiación). ¿Tienes dudas? Comunícate con nosotros al 01 8000 51 8888."
+    }
+  ]
+}

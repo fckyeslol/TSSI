@@ -1,0 +1,31 @@
+{
+  "tipo": "referencia",
+  "url": "https://www.sura.co/seguros/medios/pago",
+  "categoria": "General",
+  "chunks": [
+    {
+      "seccion": "Medios de pago",
+      "contenido": "Tenemos diferentes alternativas para que estés al día en el pago de tus seguros. Conoce nuestras opciones de medios de pago y elige la mejor para ti. Encuentra también la opción para recibir los desembolsos de dinero."
+    },
+    {
+      "seccion": "Débito automático",
+      "contenido": "Programa el pago automático de tus seguros, desde cualquiera de tus cuentas de ahorro, corriente o tarjetas de crédito."
+    },
+    {
+      "seccion": "Pagos en línea",
+      "contenido": "Realiza tus pagos sin clave de forma rápida y segura con Pago Express o con WhatsApp 315 275 7888. Funciona las 24 horas del día, los 7 días de la semana."
+    },
+    {
+      "seccion": "Financiación",
+      "contenido": "Financiar tus seguros es posible, para que siempre estés protegido y pagues de acuerdo a tus posibilidades."
+    },
+    {
+      "seccion": "Desembolsos",
+      "contenido": "Te ofrecemos alternativas que te facilitan la vida y te entregan bienestar en cada uno de nuestros procesos."
+    },
+    {
+      "seccion": "Pagos presenciales",
+      "contenido": "Acércate a una oficina de cualquiera de los bancos o corresponsales con los que tenemos alianza para pagar con código de barras o con un número de convenio."
+    }
+  ]
+}

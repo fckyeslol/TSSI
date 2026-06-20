@@ -1,0 +1,121 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/salud/renta/diaria",
+  "producto": {
+    "slug": "personas-salud-renta-diaria",
+    "nombre": "Seguro Plan Renta Diaria",
+    "ramo": "Salud",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "El Seguro Plan Renta Diaria de SURA te paga una indemnizacion diaria en caso de hospitalizacion, cirugia ambulatoria o parto, brindando un respaldo economico adicional al POS o a un Plan Complementario de Salud. Funciona de forma sencilla: aseguras un valor diario (entre $50.000 y $200.000) y, al recibir el alta, te entregamos la indemnizacion correspondiente a los dias hospitalizado para que cuides tus finanzas personales por los ingresos que dejas de percibir mientras estas en recuperacion.",
+    "resumen": "Seguro que paga una indemnizacion diaria por hospitalizacion, cirugia ambulatoria o parto como respaldo economico durante la recuperacion.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "presencial", "digital"]
+  },
+  "planes": [
+    { "slug": "plan-renta-diaria-pos", "nombre": "Plan Renta Diaria POS", "orden": 1, "precio_desde": null },
+    { "slug": "plan-renta-diaria-pas", "nombre": "Plan Renta Diaria PAS", "orden": 2, "precio_desde": null }
+  ],
+  "coberturas": [
+    {
+      "slug": "renta-por-hospitalizacion",
+      "nombre": "Renta por hospitalizacion",
+      "descripcion": "Te pagamos hasta por 90 dias consecutivos la suma diaria contratada. Por ejemplo, si aseguras $100.000 diarios y te hospitalizan 60 dias, al final del periodo te reembolsaremos $6.000.000.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Hasta 90 dias consecutivos por la suma diaria contratada"
+    },
+    {
+      "slug": "renta-por-cirugia-ambulatoria",
+      "nombre": "Renta por cirugia ambulatoria",
+      "descripcion": "Tendras derecho a una unica indemnizacion en caso de ser sometido a una cirugia ambulatoria. El valor depende de la suma que contrates desde el principio para cada posible cirugia.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Indemnizacion unica por cada cirugia ambulatoria"
+    },
+    {
+      "slug": "renta-por-atencion-del-parto",
+      "nombre": "Renta por la atencion del parto",
+      "descripcion": "La persona asegurada tendra derecho a que le paguemos dos veces la suma contratada para el momento del parto. Por ejemplo, si el valor es de $200.000, se entregan $400.000 en total.",
+      "categoria": "salud",
+      "plan_slug": "plan-renta-diaria-pos",
+      "tipo": "incluida",
+      "limite": "Equivale al doble del valor contratado"
+    },
+    {
+      "slug": "ampliacion-cobertura-hospitalaria-180-dias",
+      "nombre": "Ampliacion de cobertura hospitalaria de 90 a 180 dias",
+      "descripcion": "Puedes ampliar la cobertura hospitalaria de 90 a 180 dias, siempre y cuando esten avalados en tu historia clinica.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Hasta 180 dias"
+    },
+    {
+      "slug": "indemnizacion-unidad-cuidados-intensivos",
+      "nombre": "Indemnizacion adicional por hospitalizacion en unidad de cuidados intensivos",
+      "descripcion": "Recibiras una indemnizacion adicional por hospitalizacion en unidad de cuidados intensivos.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "indemnizacion-poshospitalaria",
+      "nombre": "Indemnizacion poshospitalaria",
+      "descripcion": "Recibiras una indemnizacion poshospitalaria adicional segun los dias de hospitalizacion: 50% del valor contratado de 1 a 3 dias, 150% de 4 a 5 dias y 300% por mas de 5 dias.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "50% (1 a 3 dias), 150% (4 a 5 dias), 300% (mas de 5 dias) del valor asegurado"
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": 59,
+    "condiciones": {
+      "valor_asegurable_min": "$50.000 diarios",
+      "valor_asegurable_max": "$200.000 diarios",
+      "suma_grupo_familiar": "La suma elegida debe ser la misma para todo el grupo familiar",
+      "plan_segun_afiliacion": "Plan Renta Diaria POS si solo tiene afiliacion al POS; Plan Renta Diaria PAS si ya tiene medicina prepagada, seguro de salud o Plan Complementario de Salud"
+    },
+    "descripcion": "Si tienes 59 anos o menos, este plan es para ti. Puedes asegurar entre $50.000 y $200.000 diarios, y la suma elegida debe ser la misma para todo el grupo familiar."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condiciones del Seguro Plan Renta Diaria",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/seguro-plan-renta-diaria.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro Plan Renta Diaria de SURA: companhia para ti en todo momento. Estamos contigo en todo momento. Te has imaginado que tu o tus seres queridos puedan recibir dinero por cada dia que esten hospitalizados o cuando sean sometidos a una cirugia ambulatoria? Con nosotros es posible. Con tu Plan Renta Diaria podras: recibir una indemnizacion diaria en caso de hospitalizacion, cirugia ambulatoria o parto; contar con un respaldo adicional al que te brinda el POS o un Plan Complementario de Salud; cuidar tus finanzas personales por los ingresos que dejaras de percibir mientras estes hospitalizado o en recuperacion."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Sabemos el impacto economico que te generan los gastos que vienen con una hospitalizacion: transporte de familiares, alimentacion de visitantes, gastos medicos, entre otros. Por eso te ofrecemos un plan que te permitira recuperar total o parcialmente los ingresos que dejas de recibir en ese periodo. El Seguro Plan Renta Diaria de SURA funciona de forma sencilla: imagina que aseguras un valor de $50.000 diarios y te hospitalizan diez dias. Cuando te den de alta, te daremos una indemnizacion por $500.000 para que, con ese reembolso, reduzcas los gastos que tuviste. El apoyo no solo aplica en ese caso, sino tambien en cirugias ambulatorias o partos. Ten presente que el maximo de dias consecutivos de hospitalizacion para contar con el respaldo es de 90, pero puedes obtener una cobertura opcional para que recibas dinero hasta por 180 dias, siempre y cuando esten avalados en tu historia clinica. Si tienes 59 anos o menos, este plan es para ti."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "Aqui encontraras la opcion perfecta para ti. Puedes asegurar entre $50.000 y $200.000 diarios. Recuerda que la suma que elijas debe ser la misma para todo tu grupo familiar. Si solo cuentas con afiliacion a un Plan Obligatorio de Salud (POS), tu opcion es el Seguro Renta Diaria POS. Y si ya tienes contratada alguna medicina prepagada, seguro de salud o Plan Complementario de Salud de cualquier compania, te ofrecemos el Seguro Renta Diaria PAS."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Comparativo de planes. Plan Renta Diaria POS y Plan Renta Diaria PAS. Te ofrecemos una indemnizacion por cada dia que estes hospitalizado (incluido en POS y PAS). Te brindamos una indemnizacion por cada cirugia ambulatoria (incluido en POS y PAS). Te ofrecemos una indemnizacion por la atencion de parto, que equivale al doble del valor contratado (incluido en POS; adicional en PAS). Puedes ampliar la cobertura hospitalaria de 90 a 180 dias (adicional en POS y PAS). Tambien recibiras una indemnizacion adicional por hospitalizacion en unidad de cuidados intensivos (adicional en POS y PAS). Ademas, recibiras una indemnizacion poshospitalaria (adicional en POS y PAS)."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Que cubrimos? Coberturas principales. Renta por hospitalizacion: tendras derecho a que te paguemos hasta por 90 dias consecutivos la suma diaria contratada. Por ejemplo, si aseguras un valor de $100.000 diarios y te hospitalizan 60 dias, al final de ese periodo te reembolsaremos $6.000.000; asi, tus finanzas no se veran perjudicadas. Renta por cirugia ambulatoria: tendras derecho a una unica indemnizacion en caso de ser sometido a una cirugia ambulatoria. El valor depende de la suma que contrates desde el principio para cada posible cirugia. Renta por la atencion del parto: la persona asegurada tendra derecho a que le paguemos dos veces la suma contratada para el momento del parto de su bebe. Por ejemplo, si el valor es de $200.000, le entregaremos a la madre $400.000 en total."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Indemnizacion poshospitalaria segun dias de hospitalizacion: de 1 a 3 dias, 50% el valor contratado; de 4 a 5 dias, 150% el valor asegurado; mas de 5 dias, 300% el valor asegurado. Es decir, si contratas $100.000 y estas dos dias hospitalizado, te entregamos $250.000 equivalentes a la cobertura basica, mas el 50% poshospitalario que serian $50.000."
+    }
+  ]
+}

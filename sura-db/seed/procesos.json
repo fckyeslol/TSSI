@@ -1,0 +1,779 @@
+[
+  {
+    "slug": "arl-accidente-de-trabajo-reporte",
+    "nombre": "Reporte de accidente de trabajo",
+    "linea": "arl",
+    "tipo": "reporte",
+    "dirigido_a": "ambas",
+    "descripcion": "Proceso para reportar un presunto accidente de trabajo ante ARL SURA, diligenciando el Formato Único de Reporte de Accidente de Trabajo (FURAT). Aplica para empleadores, trabajadores y contratantes de trabajadores independientes, indicando los pasos de atención del accidentado y los medios disponibles para reportar (servicios en línea, correo electrónico o formulario físico).",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Identifica la gravedad del accidente",
+        "detalle": "Identifica la gravedad del accidente de trabajo, según el protocolo de atención de tu empresa, y traslada al empleado a la IPS más cercana."
+      },
+      {
+        "orden": 2,
+        "titulo": "Reporta un accidente de trabajo (FURAT en línea)",
+        "detalle": "Completa el Formato Único de Reporte de Accidente de Trabajo (FURAT). Para esto debes iniciar sesión en el sitio web e ingresar a Gestión de Riesgos Laborales, luego dirigirte a Reportar accidente de trabajo."
+      },
+      {
+        "orden": 3,
+        "titulo": "Si no posees clave: formulario físico o correo electrónico",
+        "detalle": "Formulario físico: solicítalo en cualquier oficina de ARL SURA y, una vez lo diligencies, entrégalo en una de nuestras oficinas. Correo electrónico: descarga el FURAT ingresando a sura.co/ARL (módulo: En caso de un accidente laboral), diligéncialo y envíalo a cesopaccidentearl@suramericana.com.co."
+      },
+      {
+        "orden": 4,
+        "titulo": "Como trabajador",
+        "detalle": "Repórtalo inmediatamente a tu empleador para que él notifique el accidente y te guíe en el proceso de atención en salud. Si el presunto accidente genera una urgencia, lleva inmediatamente al accidentado a la IPS más cercana."
+      },
+      {
+        "orden": 5,
+        "titulo": "Como trabajador independiente",
+        "detalle": "Repórtalo inmediatamente a tu contratante para que él realice el proceso de notificación a ARL SURA. Él identificará la gravedad del accidente y trasladará al empleado a la IPS más cercana."
+      },
+      {
+        "orden": 6,
+        "titulo": "Qué debe hacer el contratante",
+        "detalle": "Comunicarse con la línea de atención 01 8000 51 1414 para direccionar al trabajador accidentado a la IPS más cercana al lugar del accidente y direccionarlo a dicha IPS."
+      },
+      {
+        "orden": 7,
+        "titulo": "Reporte del contratante con clave de servicios en línea",
+        "detalle": "Ingresa a: www.sura.co/arl > Iniciar sesión > Autenticación > Gestión de riesgos > Laborales > Reporte de accidente de trabajo."
+      },
+      {
+        "orden": 8,
+        "titulo": "Reporte del contratante sin clave de servicios en línea",
+        "detalle": "Descarga el FURAT desde www.sura.co/arl > Reporta un accidente de trabajo > encuentra la opción del FURAT para descargar, diligéncialo y envíalo a cesopaccidentearl@suramericana.com.co. O solicita el formulario físico en cualquier oficina de ARL SURA y, una vez diligenciado, entrégalo en nuestras oficinas."
+      },
+      {
+        "orden": 9,
+        "titulo": "Imprime las copias del FURAT",
+        "detalle": "Una vez diligencies completamente el FURAT debes imprimir las copias correspondientes para el trabajador independiente, para el contratante y la empresa promotora de salud."
+      }
+    ],
+    "url": "https://www.sura.co/arl/accidente/de/trabajo/reporte"
+  },
+  {
+    "slug": "arl-afiliacion-empresa",
+    "nombre": "Afiliación de empresas o empleadores",
+    "linea": "arl",
+    "tipo": "afiliacion",
+    "dirigido_a": "juridica",
+    "descripcion": "Afiliación en línea, fácil y rápida para empresas y empleadores. Permite iniciar el trámite de afiliación de la empresa y de sus trabajadores dependientes según su tipo de documento, para protegerlos con ARL SURA. El proceso finaliza con la verificación de los documentos.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Inicia el trámite de afiliación de tu empresa y trabajadores",
+        "detalle": "Inicia el trámite de afiliación de tu empresa y de tus trabajadores dependientes según su tipo de documento. Recuerda que este proceso finalizará con la verificación de los documentos."
+      },
+      {
+        "orden": 2,
+        "titulo": "Elige la opción según tu tipo de documento",
+        "detalle": "Según tu tipo de documento, elige una de las opciones disponibles para iniciar la afiliación en línea."
+      },
+      {
+        "orden": 3,
+        "titulo": "Afíliate en línea",
+        "detalle": "Inicia el proceso de afiliación en línea en https://afilineaarl.suramericana.com.co/#/"
+      },
+      {
+        "orden": 4,
+        "titulo": "Otro tipo de documento",
+        "detalle": "Inicia el proceso de afiliación en https://afiliaciones.arlsura.com/afilinea/#/ . Es el ingreso para los tipos de documento: Cédula de ciudadanía, Cédula de extranjería, Salvoconducto de permanencia, Permiso por protección temporal."
+      },
+      {
+        "orden": 5,
+        "titulo": "Verificación de documentos",
+        "detalle": "El proceso finaliza con la verificación de los documentos."
+      }
+    ],
+    "url": "https://www.sura.co/arl/afiliacion/empresa"
+  },
+  {
+    "slug": "arl-afiliacion-independiente",
+    "nombre": "Afiliación de Independientes - ARL Sura",
+    "linea": "arl",
+    "tipo": "afiliacion",
+    "dirigido_a": "ambas",
+    "descripcion": "Afiliación en línea, fácil y rápida de independientes a ARL SURA. Permite afiliar trabajadores independientes por prestación de servicios, tanto si el contratante está o no afiliado a ARL SURA.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Si tu empresa está afiliada a ARL SURA",
+        "detalle": "Si quieres afiliar a trabajadores independientes o dependientes ingresa a Servicios en línea (https://login.sura.com/sso/servicelogin.aspx)."
+      },
+      {
+        "orden": 2,
+        "titulo": "Si eres contratante no afiliado a ARL SURA",
+        "detalle": "Y deseas afiliar a tus trabajadores independientes por prestación de servicios, ingresa a Afiliarme (https://afilineaarl.suramericana.com.co/#/?prestacion=true)."
+      },
+      {
+        "orden": 3,
+        "titulo": "Si eres el trabajador independiente por prestación de servicios",
+        "detalle": "Y tu contratante no está afiliado a ARL SURA, ingresa a Afiliarme (https://afilineaarl.suramericana.com.co/#/?independienteObligatorio=true)."
+      },
+      {
+        "orden": 4,
+        "titulo": "Registra un correo válido",
+        "detalle": "Recuerda que el correo que registres será al que te seguiremos enviando información importante para tu gestión en ARL SURA. Es esencial que revises que este correo esté correcto y que sea de lectura frecuente en tu empresa, empleador, contratante o independiente voluntario."
+      }
+    ],
+    "url": "https://www.sura.co/arl/afiliacion/independiente"
+  },
+  {
+    "slug": "arl-afiliacion-ingreso-retiro-trabajadores",
+    "nombre": "Ingreso y retiro de trabajadores ARL",
+    "linea": "arl",
+    "tipo": "afiliacion",
+    "dirigido_a": "juridica",
+    "descripcion": "Proceso para afiliar (ingresar) y retirar empleados de la ARL SURA, con formularios de ingreso de trabajadores y estudiantes, formulario de retiro de trabajadores e instructivo de apoyo.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "¿Cómo afilio a un empleado?",
+        "detalle": "Consulta el video guía sobre el proceso de afiliación (ingreso) de un empleado: https://www.youtube.com/embed/NLF-hwKjfG8"
+      },
+      {
+        "orden": 2,
+        "titulo": "¿Cómo retiro a un empleado?",
+        "detalle": "Consulta el video guía sobre el proceso de retiro de un empleado: https://www.youtube.com/embed/n_cnU38Izhg"
+      },
+      {
+        "orden": 3,
+        "titulo": "Descarga el formulario de ingreso de trabajadores y estudiantes",
+        "detalle": "Plantilla de afiliación masiva: https://www.sura.co/documents/d/arl/plantilla_afiliacion_masiva"
+      },
+      {
+        "orden": 4,
+        "titulo": "Descarga el formulario de retiro de trabajadores",
+        "detalle": "Plantilla de desafiliación masiva: https://www.sura.co/documents/d/arl/plantilla_desafiliacion_masiva"
+      },
+      {
+        "orden": 5,
+        "titulo": "Descarga el instructivo",
+        "detalle": "Instructivo de ingreso y retiro de trabajadores ARL SURA: https://sura.lxc.liferay.com/documents/d/arl/instructivo-ingreso-y-retiro-de-trabajadores-arl-sura"
+      }
+    ],
+    "url": "https://www.sura.co/arl/afiliacion/ingreso/retiro/trabajadores"
+  },
+  {
+    "slug": "arl-afiliacion-verificacion",
+    "nombre": "Verificar Afiliación - ARL SURA",
+    "linea": "arl",
+    "tipo": "afiliacion",
+    "dirigido_a": "ambas",
+    "descripcion": "Opción para consultar el estado actual del proceso de afiliación a la ARL para Empleador, Independiente Voluntario e Independiente por Prestación de Servicio, ingresando los datos solicitados en el formulario.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Seleccionar tipo de documento",
+        "detalle": "Opciones: NIT, Cédula de Ciudadanía, Cédula Extranjería, Tarjeta de Identidad, Registro Civil, Pasaporte, Carnet Diplomático, Permiso Especial, Salvoconducto de Permanencia, Permiso de Protección Temporal."
+      },
+      {
+        "orden": 2,
+        "titulo": "Digitar el documento",
+        "detalle": "Digite el documento sin puntos ni comas. Todos los campos son de carácter obligatorio."
+      },
+      {
+        "orden": 3,
+        "titulo": "Validar reCAPTCHA",
+        "detalle": "Recaptcha requires verification. Protegido por reCAPTCHA."
+      },
+      {
+        "orden": 4,
+        "titulo": "Consultar el estado de afiliación",
+        "detalle": "Se muestra el estado actual del proceso de afiliación (por ejemplo: Estado de afiliación en trámite)."
+      }
+    ],
+    "url": "https://www.sura.co/arl/afiliacion/verificacion"
+  },
+  {
+    "slug": "arl-afiliacion",
+    "nombre": "Afiliación en línea ARL SURA",
+    "linea": "arl",
+    "tipo": "afiliacion",
+    "dirigido_a": "ambas",
+    "descripcion": "Trámite de afiliación en línea a ARL SURA para empresas o empleadores, trabajadores dependientes e independientes (voluntarios y por prestación de servicio). El proceso continúa con la verificación de los documentos que se suministren a ARL SURA.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Empresas o empleadores",
+        "detalle": "Comienza el trámite de afiliación de tus trabajadores. Ingresar: https://www.sura.co/web/arl/afiliacion/empresa"
+      },
+      {
+        "orden": 2,
+        "titulo": "Independientes voluntarios",
+        "detalle": "Afíliate y desarrolla tu labor con la protección necesaria. Ingresar: https://www.sura.co/web/arl/afiliacion/independiente/formulario-voluntario"
+      },
+      {
+        "orden": 3,
+        "titulo": "Independientes por prestación de servicio",
+        "detalle": "Inicia tu afiliación si eres independiente por prestación de servicios a contratantes que no están afiliados a ARL SURA. Ingresar: https://www.sura.co/web/arl/afiliacion/independiente"
+      },
+      {
+        "orden": 4,
+        "titulo": "Registra un correo de lectura frecuente",
+        "detalle": "El correo que registres será al que te seguiremos enviando información importante para tu gestión en ARL SURA. Verifica que sea correcto y de lectura frecuente."
+      }
+    ],
+    "url": "https://www.sura.co/arl/afiliacion"
+  },
+  {
+    "slug": "arl-centro-de-ayuda-acompanamiento-salud-y-seguridad-en-el-trabajo",
+    "nombre": "Acompañamiento en salud y seguridad en el trabajo",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "juridica",
+    "descripcion": "Servicio de ARL SURA para solicitar atención y acompañamiento en Seguridad y Salud en el Trabajo (SST). El cliente empresa deja sus datos de contacto y ARL SURA se ocupa de brindar la atención correspondiente.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Ingresar NIT de la empresa y dígito de verificación",
+        "detalle": "Diligenciar el NIT de la empresa y su dígito de verificación."
+      },
+      {
+        "orden": 2,
+        "titulo": "Ingresar nombre de la empresa y persona a contactar",
+        "detalle": "Registrar el nombre de la empresa y la persona a contactar."
+      },
+      {
+        "orden": 3,
+        "titulo": "Ingresar datos de contacto",
+        "detalle": "Diligenciar correo electrónico, celular y otro celular de contacto."
+      },
+      {
+        "orden": 4,
+        "titulo": "Indicar si la persona es encargada de SST",
+        "detalle": "Seleccionar SI o NO según si la persona es la encargada de Seguridad y Salud en el Trabajo en la empresa."
+      },
+      {
+        "orden": 5,
+        "titulo": "Seleccionar departamento y municipio de atención",
+        "detalle": "Elegir el departamento y el municipio de atención."
+      },
+      {
+        "orden": 6,
+        "titulo": "Validar reCAPTCHA y enviar",
+        "detalle": "Completar la verificación reCAPTCHA (I'm not a robot) y enviar los datos."
+      }
+    ],
+    "url": "https://www.sura.co/arl/centro/de/ayuda/acompanamiento/salud/y/seguridad/en/el/trabajo"
+  },
+  {
+    "slug": "arl-centro-de-ayuda-oficinas",
+    "nombre": "Encuentra nuestras oficinas",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "ambas",
+    "descripcion": "Página del centro de ayuda de ARL SURA para encontrar la ubicación de las oficinas. Permite consultar las oficinas de ARL SURA para atención presencial.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Consulta la ubicación de nuestras oficinas",
+        "detalle": "Accede al listado de oficinas de ARL SURA en https://www.arlsura.com/index.php/oficinas-arl-sura"
+      }
+    ],
+    "url": "https://www.sura.co/arl/centro/de/ayuda/oficinas"
+  },
+  {
+    "slug": "arl-centro-de-ayuda-solicitud-clave-personal",
+    "nombre": "Solicita tu clave personal",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "natural",
+    "descripcion": "Registro de usuario SURA para crear una cuenta personal y obtener la clave de acceso a los servicios en linea de SURA. Permite acceder a todos los servicios de SURA con una sola cuenta.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Selecciona el tipo de identificacion",
+        "detalle": "Opciones disponibles: CED.EXTRANJERIA, CEDULA, CERTIFICADO NACIDO VIVO, DIPLOMATICO, DOC.IDENT. DE EXTRANJEROS, NIT PERSONAS NATURALES, PASAPORTE, PERMISO POR PROTECCION TEMPORAL, REGISTRO CIVIL, SALVOCONDUCTO DE PERMANENCIA, TARJ.IDENTIDAD. Debe seleccionar un tipo de documento."
+      },
+      {
+        "orden": 2,
+        "titulo": "Ingresa el numero de identificacion",
+        "detalle": "Debe ingresar un numero de documento. El campo solo permite: a-z 0-9."
+      },
+      {
+        "orden": 3,
+        "titulo": "Ingresa el telefono celular",
+        "detalle": "Debe ingresar un celular. Campo numerico, debe comenzar con 3."
+      },
+      {
+        "orden": 4,
+        "titulo": "Ingresa el correo electronico",
+        "detalle": "Debe ingresar un correo. Procura diligenciar un correo diferente a Hotmail, para que tu clave llegue oportunamente. Campo no valido. ej: usuario@ejemplo.com"
+      },
+      {
+        "orden": 5,
+        "titulo": "Ingresa el primer apellido",
+        "detalle": "El campo tiene caracteres invalidos."
+      },
+      {
+        "orden": 6,
+        "titulo": "Confirma el correo electronico",
+        "detalle": "Debe ingresar un correo. Campo no valido. ej: usuario@ejemplo.com. Los campos de correo no coinciden."
+      },
+      {
+        "orden": 7,
+        "titulo": "Acepta terminos y condiciones",
+        "detalle": "Acepto los Terminos del servicio y la Politica de privacidad y ley de datos personales. Para poder utilizar nuestros servicios, debes aceptar las condiciones del servicio."
+      },
+      {
+        "orden": 8,
+        "titulo": "Verifica el reCAPTCHA",
+        "detalle": "Recaptcha requires verification. protected by reCAPTCHA."
+      }
+    ],
+    "url": "https://www.sura.co/arl/centro/de/ayuda/solicitud/clave/personal"
+  },
+  {
+    "slug": "arl-certificados-carne-afiliacion",
+    "nombre": "Genera tus certificados y carné de afiliación",
+    "linea": "arl",
+    "tipo": "certificado",
+    "dirigido_a": "ambas",
+    "descripcion": "Certificado y Carné de Afiliación a la ARL SURA.",
+    "pasos": [],
+    "url": "https://www.sura.co/arl/certificados/carne/afiliacion"
+  },
+  {
+    "slug": "arl-certificados-cobertura-empresa-carta-licencia",
+    "nombre": "Certificado de cobertura por empresa",
+    "linea": "arl",
+    "tipo": "certificado",
+    "dirigido_a": "juridica",
+    "descripcion": "Sección en la que una organización puede generar un certificado de cobertura por empresa, seleccionando el idioma (Español o Inglés) e ingresando el documento de la organización.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Seleccionar el idioma del certificado",
+        "detalle": "Por favor seleccione el idioma en el que requiere el certificado: Español o Inglés."
+      },
+      {
+        "orden": 2,
+        "titulo": "Ingresar el documento de la organización",
+        "detalle": "Por favor ingrese el documento de su organización. Tipos de documento disponibles: Cédula de Ciudadanía, NIT, Cédula de Extranjería, Carnet Diplomático, Tarjeta de Identidad, Registro Civil, Pasaporte, Permiso Especial, Salvo Conducto de Permanencia, Permiso de Protección Temporal."
+      },
+      {
+        "orden": 3,
+        "titulo": "Verificar reCAPTCHA",
+        "detalle": "Completar la verificación reCAPTCHA requerida."
+      },
+      {
+        "orden": 4,
+        "titulo": "Generar carta",
+        "detalle": "Hacer clic sobre el botón \"Generar carta\" para obtener el certificado."
+      }
+    ],
+    "url": "https://www.sura.co/arl/certificados/cobertura/empresa/carta/licencia"
+  },
+  {
+    "slug": "arl-certificados-cobertura-exterior-asistencia-empleado",
+    "nombre": "Certificado de cobertura por empleado",
+    "linea": "arl",
+    "tipo": "certificado",
+    "dirigido_a": "natural",
+    "descripcion": "En esta sección usted podrá generar un certificado de cobertura individual por empleado. Permite generar fácilmente el certificado de cobertura individual ingresando la información solicitada del empleado.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Seleccionar el tipo de documento",
+        "detalle": "Opciones disponibles: Cédula de Ciudadanía, Cédula de Extranjería, Carnet Diplomático, Tarjeta de Identidad, Registro Civil, Pasaporte, Permiso Especial, Salvo Conducto de Permanencia, Permiso de Protección Temporal."
+      },
+      {
+        "orden": 2,
+        "titulo": "Ingresar el número de documento",
+        "detalle": "Digite el número de documento del empleado."
+      },
+      {
+        "orden": 3,
+        "titulo": "Completar la verificación reCAPTCHA",
+        "detalle": "Recaptcha requires verification. Protected by reCAPTCHA."
+      },
+      {
+        "orden": 4,
+        "titulo": "Generar el certificado de cobertura individual por empleado",
+        "detalle": null
+      }
+    ],
+    "url": "https://www.sura.co/arl/certificados/cobertura/exterior/asistencia/empleado"
+  },
+  {
+    "slug": "arl-certificados-cobertura-exterior",
+    "nombre": "Cobertura en el exterior",
+    "linea": "arl",
+    "tipo": "certificado",
+    "dirigido_a": "ambas",
+    "descripcion": "Servicio de la ARL SURA que brinda asistencia médica en el exterior a los afiliados cuando desarrollen su actividad laboral fuera del país, en caso de ocurrencia de un evento de origen laboral. Permite verificar la cobertura como independiente, generar el certificado de cobertura como empleado o emitido por la empresa, e imprimir el carné con el número único de atención.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Llama de inmediato",
+        "detalle": "Si necesitas asistencia de salud durante tu viaje llama de inmediato al +57 01800 051 14 14 opción 1 y luego opción 6, o comunícate por Whatsapp."
+      },
+      {
+        "orden": 2,
+        "titulo": "Comunicación oficial",
+        "detalle": "Además de la llamada, puedes comunicarte a través de otros canales: Correo Electrónico gestiones.sura@wtabyhas.com y Whatsapp +57 3152757888. Escribe la palabra \"Viajes\" para una atención más rápida."
+      },
+      {
+        "orden": 3,
+        "titulo": "Entrega de datos iniciales",
+        "detalle": "Cuando te contactes, te pediremos algunos datos iniciales. No es necesario informar la salida del país en este momento."
+      },
+      {
+        "orden": 4,
+        "titulo": "Activación por canales oficiales",
+        "detalle": "Te recomendamos activar siempre tu servicio a través de nuestros canales oficiales. Los servicios que tomes por cuenta propia están excluidos si no son eventos de fuerza mayor. Tienes un plazo de 72 horas para reportar por cualquiera de los canales definidos."
+      }
+    ],
+    "url": "https://www.sura.co/arl/certificados/cobertura/exterior"
+  },
+  {
+    "slug": "arl-certificados-validar",
+    "nombre": "Validar Certificados Expedidos - ARL SURA",
+    "linea": "arl",
+    "tipo": "certificado",
+    "dirigido_a": "ambas",
+    "descripcion": "En ARL SURA contamos con una herramienta para que puedas consultar y validar fácilmente los certificados que has expedido. Permite la consulta de certificados por código único.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Ingresar el código del certificado",
+        "detalle": "Digita el código del certificado en el campo 'Código del certificado' del formulario de consulta de certificados por código único."
+      },
+      {
+        "orden": 2,
+        "titulo": "Descargar",
+        "detalle": "Haz clic en 'Descargar' para validar y obtener el certificado consultado."
+      }
+    ],
+    "url": "https://www.sura.co/arl/certificados/validar"
+  },
+  {
+    "slug": "arl-certificados",
+    "nombre": "Solicitud de certificados y carné",
+    "linea": "arl",
+    "tipo": "certificado",
+    "dirigido_a": "ambas",
+    "descripcion": "Si estás afiliado a ARL SURA podrás consultar y descargar tu carné de afiliación, diferentes certificados y algunas constancias. Conoce el proceso para generar tu carné de afiliación y cómo puedes subir el logo de tu empresa al sitio web.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Certificado y carné de afiliación",
+        "detalle": "Solicítalo en línea, descárgalo fácil y rápido sin desplazamientos e imprímelo en el lugar en el que te encuentres. Descarga: https://www.sura.co/web/arl/certificados/carne-afiliacion"
+      },
+      {
+        "orden": 2,
+        "titulo": "Carné con o sin logo de la empresa",
+        "detalle": "Conoce el proceso para generar tu carné de afiliación y cómo puedes subir el logo de tu empresa a nuestro sitio web. Descubre: https://www.sura.co/documents/d/arl/instructivo_carne"
+      },
+      {
+        "orden": 3,
+        "titulo": "Cobertura en el exterior empleados",
+        "detalle": "Te brindamos asistencia médica durante tu actividad laboral en el exterior. Descarga: https://www.sura.co/web/arl/certificados/cobertura-empleado-asistencia-medica"
+      },
+      {
+        "orden": 4,
+        "titulo": "Cobertura en el exterior empresas",
+        "detalle": "Protege a tus trabajadores con asistencia médica, en caso de un accidente de origen laboral. Descargar: https://www.sura.co/web/arl/certificados/cobertura-empresa-carta-licencia"
+      },
+      {
+        "orden": 5,
+        "titulo": "Valida certificados expedidos",
+        "detalle": "Con el código único del certificado podrás consultar los certificados que hayas expedido. Consultar: https://www.sura.co/web/arl/certificados/validar"
+      },
+      {
+        "orden": 6,
+        "titulo": "Para pensionados",
+        "detalle": "Descarga tus certificados, colillas, constancia de pago de EPS y mantén tus datos actualizados. Descarga: https://www.sura.co/web/arl/gestion-financiera/pensionados"
+      }
+    ],
+    "url": "https://www.sura.co/arl/certificados"
+  },
+  {
+    "slug": "arl-educacion-guias-recomendaciones-encuesta-actores-viales",
+    "nombre": "Realiza la encuesta de actores viales",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "natural",
+    "descripcion": "Encuesta de actores viales (Encuesta Conductores - Ingreso) dirigida a conductores, en la cual la persona ingresa sus datos para iniciar la encuesta en el marco de las guias y recomendaciones de movilidad de la ARL.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Ingresar datos personales",
+        "detalle": "Ingrese su numero de documento y su fecha de nacimiento (dia, mes y ano)."
+      },
+      {
+        "orden": 2,
+        "titulo": "Verificar reCAPTCHA",
+        "detalle": "Complete la verificacion reCAPTCHA (\"I'm not a robot\")."
+      },
+      {
+        "orden": 3,
+        "titulo": "Continuar",
+        "detalle": "Haga clic en el boton \"Continuar\" para acceder a la encuesta."
+      }
+    ],
+    "url": "https://www.sura.co/arl/educacion/guias/recomendaciones/encuesta/actores/viales"
+  },
+  {
+    "slug": "arl-educacion",
+    "nombre": "Edúcate con SURA",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "ambas",
+    "descripcion": "Sección de educación de ARL SURA con guías, formaciones, cursos y recursos para aprender sobre la prevención y la salud en el trabajo. Ofrece recursos diferenciados para empresas, independientes y dependientes.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Empresa",
+        "detalle": "Descubre todos los recursos que necesitas para mejorar tus conocimientos sobre prevención y seguridad en el trabajo. Ingresar: https://www.arlsura.com/index.php?option=com_content&view=article&id=4019"
+      },
+      {
+        "orden": 2,
+        "titulo": "Independientes",
+        "detalle": "Descubre todos los recursos que necesitas para mejorar tus conocimientos sobre prevención y seguridad en el trabajo. Ingresar: https://www.arlsura.com/index.php?option=com_content&view=article&id=4020"
+      },
+      {
+        "orden": 3,
+        "titulo": "Dependiente",
+        "detalle": "Descubre todos los recursos que necesitas para mejorar tus conocimientos sobre prevención y seguridad en el trabajo. Ingresar: https://www.arlsura.com/index.php?option=com_content&view=article&id=4021"
+      }
+    ],
+    "url": "https://www.sura.co/arl/educacion"
+  },
+  {
+    "slug": "arl-gestion-financiera-radica-tus-reembolsos",
+    "nombre": "Radicación de reembolsos",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "ambas",
+    "descripcion": null,
+    "pasos": [],
+    "url": "https://www.sura.co/arl/gestion/financiera/radica/tus/reembolsos"
+  },
+  {
+    "slug": "arl-gestion-financiera-recaudo-cartera",
+    "nombre": "Recaudo y Cartera ARL",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "ambas",
+    "descripcion": "Tramite administrativo de Recaudo y Cartera de la ARL que permite solicitar nuevos tramites o consultar el estado de un tramite. Aplica a solicitudes asociadas a mora y/o inexactitudes, devolucion de aportes PILA o traslados a otras ARL, recobros a otras ARL (pagos realizados o direccionados a otras ARL) e informacion de aportes PILA.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Datos del solicitante",
+        "detalle": "Selecciona el tipo de tramite (mora y/o inexactitudes, devolucion de aportes PILA o traslados a otras ARL, recobros a otras ARL, informacion de aportes PILA) y completa los datos del solicitante: nombres y apellidos completos, tipo y numero de documento, cargo en la empresa, telefono fijo o celular, correo electronico (con confirmacion), departamento, municipio y como deseas ser contactado."
+      },
+      {
+        "orden": 2,
+        "titulo": "Datos del tramite",
+        "detalle": "Ingresa el tipo y numero de documento del aportante, nombres y apellidos completos del aportante, indica si es Persona Juridica o Persona Natural segun el caso, adjunta los archivos requeridos (formatos .XLSX, PDF, .TIFF, .JPG segun el tramite, maximo 4MB por archivo, incluyendo plantillas de Excel para Actualizar Fechas y Anulacion Afiliaciones cuando aplique), agrega observaciones y acepta la politica de tratamiento de datos personales para enviar la peticion."
+      },
+      {
+        "orden": 3,
+        "titulo": "Consultar estado de tramite",
+        "detalle": "Para consultar el estado, ingresa el codigo de radicado asociado a tu tramite y completa la verificacion reCAPTCHA."
+      }
+    ],
+    "url": "https://www.sura.co/arl/gestion/financiera/recaudo/cartera"
+  },
+  {
+    "slug": "arl-sst-centro-de-documentacion-ergonomia-estiramientos-para-trabajos-de-pie",
+    "nombre": "Ejercicios de estiramiento para personas que trabajan de pie",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "ambas",
+    "descripcion": "Guia de ejercicios de estiramiento orientada a la ergonomia para personas que desarrollan su trabajo de pie, con el fin de prevenir molestias y promover la salud en el trabajo.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Estiramiento de pierna hacia el pecho",
+        "detalle": "Levante la pierna, sujetela con las manos y llevela hasta el pecho. Alterne cambiando de pierna."
+      },
+      {
+        "orden": 2,
+        "titulo": "Apoyo en punta de pies y talones",
+        "detalle": "Parese en la punta de los pies y luego en los talones en forma alterna."
+      },
+      {
+        "orden": 3,
+        "titulo": "Estiramiento de pantorrilla",
+        "detalle": "Lleve todo el peso del cuerpo hacia delante flexionando una rodilla y cuidando que el talon de la pierna de atras quede totalmente apoyado en el piso. Usted debe sentir una ligera tension. Alterne cambiando de pierna."
+      },
+      {
+        "orden": 4,
+        "titulo": "Estiramiento de pecho y hombros",
+        "detalle": "Entrelace las manos atras y levantelas un poco. Tire de ellas y saque pecho."
+      },
+      {
+        "orden": 5,
+        "titulo": "Postura con un pie adelante",
+        "detalle": "Parese con un pie adelante del otro y separelo."
+      }
+    ],
+    "url": "https://www.sura.co/arl/sst/centro/de/documentacion/ergonomia/estiramientos/para/trabajos/de/pie"
+  },
+  {
+    "slug": "arl-sst-centro-de-documentacion-ergonomia-la-posicion-mas-sana",
+    "nombre": "La posición más sana para trabajar frente al computador",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "ambas",
+    "descripcion": "Artículo del centro de documentación de ergonomía (SST) que explica cómo organizar el puesto de trabajo y adoptar hábitos posturales adecuados frente al computador para prevenir fatiga mental, problemas visuales y dolores osteomusculares de espalda, cuello, brazos, manos y muñecas.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Cuidar la visión y usar los lentes apropiados",
+        "detalle": "Los problemas oculares se deben en 42% a no usar los lentes correctos para el estado de visión, independientemente del uso del computador. Usar los lentes apropiados es la primera y principal recomendación."
+      },
+      {
+        "orden": 2,
+        "titulo": "Ajustar correctamente la pantalla",
+        "detalle": "El 46% de las pantallas están mal ajustadas. Debe evitarse el exceso de brillo, nivelar el contraste según la iluminación y prevenir la resequedad de los ojos por falta de parpadeo (frente a pantalla se parpadea ~7 veces por minuto, frente a un libro 10 y en reposo 22)."
+      },
+      {
+        "orden": 3,
+        "titulo": "Usar una mesa de trabajo adecuada",
+        "detalle": "Disponer de una mesa con dos niveles independientes, ambos regulables en altura (uno para la pantalla y otro para el teclado), que permita ajustar la distancia del teclado. Evitar colocar la pantalla sobre la CPU, ya que eleva el centro de la pantalla y obliga a subir la cabeza, favoreciendo dolores de cabeza y de espalda."
+      },
+      {
+        "orden": 4,
+        "titulo": "Seleccionar una buena silla",
+        "detalle": "La silla debe tener apoyo lumbar, brazos, espaldar algo inclinado o reposacabezas alto, altura ajustable, bordes redondos y suaves, y un tamaño adecuado para la persona, para reducir el riesgo de dolores o lesiones en la parte inferior de la espalda."
+      },
+      {
+        "orden": 5,
+        "titulo": "Cambiar de postura periódicamente y tomar descansos",
+        "detalle": "Mantener una buena postura sin permanecer largos periodos en la misma posición; cambiar de postura periódicamente y evitar actividades prolongadas sin descanso para prevenir trastornos de trauma acumulativo y dolores de espalda, hombros y cuello."
+      },
+      {
+        "orden": 6,
+        "titulo": "Controlar el estrés psicológico del ambiente laboral",
+        "detalle": "Entender el ambiente de trabajo y controlar ciertos aspectos del entorno. La información y el control ayudan a reducir los niveles de estrés, que pueden inducir movimientos repetitivos, pocos descansos y disconfort."
+      }
+    ],
+    "url": "https://www.sura.co/arl/sst/centro/de/documentacion/ergonomia/la/posicion/mas/sana"
+  },
+  {
+    "slug": "arl-sst-centro-de-documentacion-ergonomia",
+    "nombre": "Ergonomía: recomendaciones de ARL SURA para tu bienestar",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "ambas",
+    "descripcion": "Centro de documentación de ARL SURA en Seguridad y Salud en el Trabajo (SST) dedicado a la ergonomía. Reúne recomendaciones, guías y recursos sobre posturas saludables, uso correcto del puesto de trabajo, ejercicios de estiramiento y soportes lumbares para promover el bienestar de los trabajadores.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Ergonomía: La posición más sana",
+        "detalle": "https://www.sura.co/arl/ergonomia-posicion-mas-sana"
+      },
+      {
+        "orden": 2,
+        "titulo": "Posturas saludables en el trabajo y en la vida diaria",
+        "detalle": "https://www.sura.co/arl/posturas-saludables"
+      },
+      {
+        "orden": 3,
+        "titulo": "Ejercicios de estiramiento para personas que trabajan de pie",
+        "detalle": "https://www.sura.co/arl/ejercicios-de-pie"
+      },
+      {
+        "orden": 4,
+        "titulo": "Soportes lumbares",
+        "detalle": "https://www.sura.co/arl/soportes-lumbares"
+      },
+      {
+        "orden": 5,
+        "titulo": "Uso del puesto de trabajo (I)",
+        "detalle": "https://www.sura.co/arl/ergonomia-uso-del-puesto-de-trabajo-i-"
+      },
+      {
+        "orden": 6,
+        "titulo": "Uso del puesto de trabajo (II)",
+        "detalle": "https://www.sura.co/arl/uso-del-puesto-del-trabajo-ii"
+      },
+      {
+        "orden": 7,
+        "titulo": "Uso del puesto de trabajo (III)",
+        "detalle": "https://www.sura.co/arl/ergonomia-uso-del-puesto-de-trabajo-iii-"
+      },
+      {
+        "orden": 8,
+        "titulo": "Trabajo en posición sentado",
+        "detalle": "https://www.sura.co/arl/trabajo-en-posicion-sentado"
+      }
+    ],
+    "url": "https://www.sura.co/arl/sst/centro/de/documentacion/ergonomia"
+  },
+  {
+    "slug": "arl-tramites-formatos",
+    "nombre": "Formularios y documentos laborales ARL",
+    "linea": "arl",
+    "tipo": "tramite",
+    "dirigido_a": "ambas",
+    "descripcion": "Descarga de formularios para la gestión de ARL. Cada formulario simplifica tareas administrativas esenciales para la seguridad laboral, la salud y la eficiencia operativa.",
+    "pasos": [],
+    "url": "https://www.sura.co/arl/tramites/formatos"
+  },
+  {
+    "slug": "arl-tramites-radicar-incapacidad",
+    "nombre": "Radicar incapacidades y reembolsos de empleados",
+    "linea": "arl",
+    "tipo": "reclamacion",
+    "dirigido_a": "juridica",
+    "descripcion": "Radicación de incapacidades y reembolsos de los empleados de una empresa afiliada a la ARL. Permite subir incapacidades legibles y comunicar solicitudes de cobro a través de la plataforma digital.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Sube tus incapacidades legibles",
+        "detalle": "Carga las incapacidades correctamente a través de la plataforma; comunica tus solicitudes de cobro."
+      },
+      {
+        "orden": 2,
+        "titulo": "Si eres afiliado activo y haces la solicitud",
+        "detalle": "Adjunta un comunicado indicando que el pago es para ti."
+      },
+      {
+        "orden": 3,
+        "titulo": "Espera respuesta",
+        "detalle": "Se da respuesta en el transcurso del mes."
+      }
+    ],
+    "url": "https://www.sura.co/arl/tramites/radicar-incapacidad"
+  },
+  {
+    "slug": "arl",
+    "nombre": "Afiliación a la ARL SURA",
+    "linea": "arl",
+    "tipo": "afiliacion",
+    "dirigido_a": "ambas",
+    "descripcion": "ARL Sura previene, atiende y protege a los trabajadores de los efectos causados por accidentes y enfermedades laborales. La página operativa permite iniciar la afiliación en línea (empresa o independiente), consultar si se está afiliado, consultar el estado del trámite de afiliación y acceder a servicios relacionados como certificados, reporte de accidentes y gestión financiera.",
+    "pasos": [
+      {
+        "orden": 1,
+        "titulo": "Inicia la afiliación en línea",
+        "detalle": "Disfruta de todos los programas y servicios que tenemos para ti y tus colaboradores para la salud y seguridad en tu lugar de trabajo."
+      },
+      {
+        "orden": 2,
+        "titulo": "Afíliate según tu perfil (empresa o independiente)",
+        "detalle": "Empresa: inicia el proceso de afiliación en línea protegiendo a tus colaboradores. Independiente: responde las preguntas del formulario y conoce la opción que debes elegir para afiliarte como independiente voluntario o prestador de servicios."
+      },
+      {
+        "orden": 3,
+        "titulo": "Consulta si estás afiliado a la ARL",
+        "detalle": "Tipo y número de identificación de la empresa o del colaborador."
+      },
+      {
+        "orden": 4,
+        "titulo": "Consulta el estado de tu afiliación",
+        "detalle": "Consulta el estado actual del trámite de afiliación."
+      }
+    ],
+    "url": "https://www.sura.co/arl"
+  }
+]

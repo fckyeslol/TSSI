@@ -1,0 +1,140 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/colectivos/autos",
+  "producto": {
+    "slug": "empresas-colectivos-autos",
+    "nombre": "Seguro Colectivo de Autos",
+    "ramo": "Colectivos",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "Protegemos los vehículos de uso familiar, incluyendo eléctricos e híbridos, de tus colaboradores con una póliza colectiva que ofrece tarifas preferenciales y la posibilidad de financiarla sin intereses, así cuidas su bienestar y fortaleces su vínculo con tu empresa.",
+    "resumen": "Póliza colectiva de autos para colaboradores de empresas, con tarifas preferenciales, financiación sin intereses y varios planes; requiere mínimo 7 vehículos.",
+    "es_digital": false,
+    "cotizador_url": "https://www.suraenlinea.com/movilidad/sura/seguro-de-carro",
+    "canales": ["asesor", "digital", "presencial"]
+  },
+  "planes": [
+    { "slug": "plan-autos-global", "nombre": "Plan Autos Global", "orden": 1, "precio_desde": null },
+    { "slug": "seguro-autos-electricos-hibridos", "nombre": "Seguro de Autos Eléctricos e Híbridos", "orden": 2, "precio_desde": null },
+    { "slug": "plan-autos-clasico", "nombre": "Plan Autos Clásico", "orden": 3, "precio_desde": null },
+    { "slug": "plan-autos-basico-perdidas-totales", "nombre": "Plan Autos Básico Pérdidas Totales", "orden": 4, "precio_desde": null },
+    { "slug": "plan-autos-basico", "nombre": "Plan Autos Básico", "orden": 5, "precio_desde": null }
+  ],
+  "coberturas": [
+    { "slug": "responsabilidad-civil-extracontractual", "nombre": "Pagar por los daños que les ocasiones a otras personas o a sus bienes", "descripcion": "Responsabilidad civil extracontractual por daños a terceros o a sus bienes.", "categoria": "responsabilidad", "plan_slug": "plan-autos-global", "tipo": "incluida", "limite": "$4100 millones" },
+    { "slug": "responsabilidad-civil-extracontractual", "nombre": "Pagar por los daños que les ocasiones a otras personas o a sus bienes", "descripcion": "Responsabilidad civil extracontractual por daños a terceros o a sus bienes.", "categoria": "responsabilidad", "plan_slug": "seguro-autos-electricos-hibridos", "tipo": "incluida", "limite": "$4100 millones" },
+    { "slug": "responsabilidad-civil-extracontractual", "nombre": "Pagar por los daños que les ocasiones a otras personas o a sus bienes", "descripcion": "Responsabilidad civil extracontractual por daños a terceros o a sus bienes.", "categoria": "responsabilidad", "plan_slug": "plan-autos-clasico", "tipo": "incluida", "limite": "$2040 millones" },
+    { "slug": "responsabilidad-civil-extracontractual", "nombre": "Pagar por los daños que les ocasiones a otras personas o a sus bienes", "descripcion": "Responsabilidad civil extracontractual por daños a terceros o a sus bienes.", "categoria": "responsabilidad", "plan_slug": "plan-autos-basico-perdidas-totales", "tipo": "incluida", "limite": "$1040 millones" },
+    { "slug": "responsabilidad-civil-extracontractual", "nombre": "Pagar por los daños que les ocasiones a otras personas o a sus bienes", "descripcion": "Responsabilidad civil extracontractual por daños a terceros o a sus bienes.", "categoria": "responsabilidad", "plan_slug": "plan-autos-basico", "tipo": "incluida", "limite": "$640 millones" },
+
+    { "slug": "gastos-defensa-judicial", "nombre": "Pagar por los gastos necesarios para trámites de defensa judicial", "descripcion": null, "categoria": "responsabilidad", "plan_slug": null, "tipo": "incluida", "limite": null },
+
+    { "slug": "conductor-profesional-por-enfermedad", "nombre": "Conductor profesional cuando no puedas manejar por una enfermedad imprevista", "descripcion": null, "categoria": "asistencia", "plan_slug": null, "tipo": "incluida", "limite": null },
+
+    { "slug": "informacion-estado-vias", "nombre": "Te informamos sobre el estado de las vías", "descripcion": null, "categoria": "asistencia", "plan_slug": null, "tipo": "incluida", "limite": null },
+
+    { "slug": "asesoria-juridica", "nombre": "Asesoría jurídica vía telefónica o en el sitio del accidente", "descripcion": null, "categoria": "asistencia", "plan_slug": null, "tipo": "incluida", "limite": null },
+
+    { "slug": "acompanamiento-transito-conciliacion", "nombre": "Acompañamiento ante el tránsito o centro de conciliación", "descripcion": null, "categoria": "asistencia", "plan_slug": null, "tipo": "incluida", "limite": null },
+
+    { "slug": "servicio-grua", "nombre": "Servicio de grúa en caso de varada o accidente", "descripcion": "En el Plan Autos Clásico y el Plan Autos Básico se incluye con condiciones.", "categoria": "asistencia", "plan_slug": "plan-autos-global", "tipo": "incluida", "limite": "Máximo 150 SMDLV" },
+    { "slug": "servicio-grua", "nombre": "Servicio de grúa en caso de varada o accidente", "descripcion": null, "categoria": "asistencia", "plan_slug": "seguro-autos-electricos-hibridos", "tipo": "incluida", "limite": "Máximo 150 SMDLV" },
+    { "slug": "servicio-grua", "nombre": "Servicio de grúa en caso de varada o accidente", "descripcion": "Incluida con condiciones.", "categoria": "asistencia", "plan_slug": "plan-autos-clasico", "tipo": "incluida", "limite": "Máximo 75 SMDLV" },
+    { "slug": "servicio-grua", "nombre": "Servicio de grúa en caso de varada o accidente", "descripcion": null, "categoria": "asistencia", "plan_slug": "plan-autos-basico-perdidas-totales", "tipo": "incluida", "limite": "Máximo 50 SMDLV" },
+    { "slug": "servicio-grua", "nombre": "Servicio de grúa en caso de varada o accidente", "descripcion": "Incluida con condiciones.", "categoria": "asistencia", "plan_slug": "plan-autos-basico", "tipo": "incluida", "limite": "Máximo 50 SMDLV" },
+
+    { "slug": "taller-movil-cerrajeria", "nombre": "Taller móvil y cerrajería", "descripcion": "En el Plan Autos Clásico se incluye con condiciones.", "categoria": "asistencia", "plan_slug": null, "tipo": "incluida", "limite": null },
+
+    { "slug": "conductor-elegido", "nombre": "Conductor elegido", "descripcion": null, "categoria": "asistencia", "plan_slug": "plan-autos-global", "tipo": "incluida", "limite": "12 por vigencia anual" },
+    { "slug": "conductor-elegido", "nombre": "Conductor elegido", "descripcion": null, "categoria": "asistencia", "plan_slug": "seguro-autos-electricos-hibridos", "tipo": "incluida", "limite": "12 por vigencia anual" },
+    { "slug": "conductor-elegido", "nombre": "Conductor elegido", "descripcion": null, "categoria": "asistencia", "plan_slug": "plan-autos-clasico", "tipo": "incluida", "limite": "6 por vigencia anual" },
+    { "slug": "conductor-elegido", "nombre": "Conductor elegido", "descripcion": null, "categoria": "asistencia", "plan_slug": "plan-autos-basico-perdidas-totales", "tipo": "excluida", "limite": null },
+    { "slug": "conductor-elegido", "nombre": "Conductor elegido", "descripcion": null, "categoria": "asistencia", "plan_slug": "plan-autos-basico", "tipo": "excluida", "limite": null },
+
+    { "slug": "transporte-por-lesiones-enfermedad", "nombre": "Transporte por lesiones o enfermedad", "descripcion": "No incluido en el Plan Autos Básico.", "categoria": "asistencia", "plan_slug": "plan-autos-global", "tipo": "incluida", "limite": null },
+    { "slug": "transporte-por-lesiones-enfermedad", "nombre": "Transporte por lesiones o enfermedad", "descripcion": null, "categoria": "asistencia", "plan_slug": "seguro-autos-electricos-hibridos", "tipo": "incluida", "limite": null },
+    { "slug": "transporte-por-lesiones-enfermedad", "nombre": "Transporte por lesiones o enfermedad", "descripcion": null, "categoria": "asistencia", "plan_slug": "plan-autos-clasico", "tipo": "incluida", "limite": null },
+    { "slug": "transporte-por-lesiones-enfermedad", "nombre": "Transporte por lesiones o enfermedad", "descripcion": null, "categoria": "asistencia", "plan_slug": "plan-autos-basico-perdidas-totales", "tipo": "incluida", "limite": null },
+    { "slug": "transporte-por-lesiones-enfermedad", "nombre": "Transporte por lesiones o enfermedad", "descripcion": null, "categoria": "asistencia", "plan_slug": "plan-autos-basico", "tipo": "excluida", "limite": null },
+
+    { "slug": "reposicion-perdida-total-parcial-hurto", "nombre": "Reponerte tu carro en caso de pérdida total o parcial por hurto", "descripcion": "No incluido en el Plan Autos Básico Pérdidas Totales ni en el Plan Autos Básico.", "categoria": "patrimonial", "plan_slug": "plan-autos-global", "tipo": "incluida", "limite": null },
+    { "slug": "reposicion-perdida-total-parcial-hurto", "nombre": "Reponerte tu carro en caso de pérdida total o parcial por hurto", "descripcion": null, "categoria": "patrimonial", "plan_slug": "seguro-autos-electricos-hibridos", "tipo": "incluida", "limite": null },
+    { "slug": "reposicion-perdida-total-parcial-hurto", "nombre": "Reponerte tu carro en caso de pérdida total o parcial por hurto", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-clasico", "tipo": "incluida", "limite": null },
+    { "slug": "reposicion-perdida-total-parcial-hurto", "nombre": "Reponerte tu carro en caso de pérdida total o parcial por hurto", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-basico-perdidas-totales", "tipo": "excluida", "limite": null },
+    { "slug": "reposicion-perdida-total-parcial-hurto", "nombre": "Reponerte tu carro en caso de pérdida total o parcial por hurto", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-basico", "tipo": "excluida", "limite": null },
+
+    { "slug": "reposicion-perdida-total-parcial-danos", "nombre": "Reponerte tu carro en caso de pérdida total o parcial por daños", "descripcion": "Solo incluido en el Plan Autos Global y el Seguro de Autos Eléctricos e Híbridos.", "categoria": "patrimonial", "plan_slug": "plan-autos-global", "tipo": "incluida", "limite": null },
+    { "slug": "reposicion-perdida-total-parcial-danos", "nombre": "Reponerte tu carro en caso de pérdida total o parcial por daños", "descripcion": null, "categoria": "patrimonial", "plan_slug": "seguro-autos-electricos-hibridos", "tipo": "incluida", "limite": null },
+    { "slug": "reposicion-perdida-total-parcial-danos", "nombre": "Reponerte tu carro en caso de pérdida total o parcial por daños", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-clasico", "tipo": "excluida", "limite": null },
+    { "slug": "reposicion-perdida-total-parcial-danos", "nombre": "Reponerte tu carro en caso de pérdida total o parcial por daños", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-basico-perdidas-totales", "tipo": "excluida", "limite": null },
+    { "slug": "reposicion-perdida-total-parcial-danos", "nombre": "Reponerte tu carro en caso de pérdida total o parcial por daños", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-basico", "tipo": "excluida", "limite": null },
+
+    { "slug": "alternativas-de-movilidad", "nombre": "Alternativas de movilidad", "descripcion": "En el Plan Autos Clásico se incluye con condiciones; no incluido en el Plan Autos Básico.", "categoria": "asistencia", "plan_slug": "plan-autos-global", "tipo": "incluida", "limite": null },
+    { "slug": "alternativas-de-movilidad", "nombre": "Alternativas de movilidad", "descripcion": null, "categoria": "asistencia", "plan_slug": "seguro-autos-electricos-hibridos", "tipo": "incluida", "limite": null },
+    { "slug": "alternativas-de-movilidad", "nombre": "Alternativas de movilidad", "descripcion": "Incluida con condiciones.", "categoria": "asistencia", "plan_slug": "plan-autos-clasico", "tipo": "incluida", "limite": null },
+    { "slug": "alternativas-de-movilidad", "nombre": "Alternativas de movilidad", "descripcion": null, "categoria": "asistencia", "plan_slug": "plan-autos-basico-perdidas-totales", "tipo": "incluida", "limite": null },
+    { "slug": "alternativas-de-movilidad", "nombre": "Alternativas de movilidad", "descripcion": null, "categoria": "asistencia", "plan_slug": "plan-autos-basico", "tipo": "excluida", "limite": null },
+
+    { "slug": "consultas-mecanicas-expertos", "nombre": "Consultas gratuitas mecánicas a expertos y sin límite de visitas (Bogotá, Cali, Medellín y Pereira)", "descripcion": "Solo incluida en Plan Autos Global, Seguro de Autos Eléctricos e Híbridos y Plan Autos Básico Pérdidas Totales.", "categoria": "asistencia", "plan_slug": "plan-autos-global", "tipo": "incluida", "limite": null },
+    { "slug": "consultas-mecanicas-expertos", "nombre": "Consultas gratuitas mecánicas a expertos y sin límite de visitas (Bogotá, Cali, Medellín y Pereira)", "descripcion": null, "categoria": "asistencia", "plan_slug": "seguro-autos-electricos-hibridos", "tipo": "incluida", "limite": null },
+    { "slug": "consultas-mecanicas-expertos", "nombre": "Consultas gratuitas mecánicas a expertos y sin límite de visitas (Bogotá, Cali, Medellín y Pereira)", "descripcion": null, "categoria": "asistencia", "plan_slug": "plan-autos-clasico", "tipo": "excluida", "limite": null },
+    { "slug": "consultas-mecanicas-expertos", "nombre": "Consultas gratuitas mecánicas a expertos y sin límite de visitas (Bogotá, Cali, Medellín y Pereira)", "descripcion": null, "categoria": "asistencia", "plan_slug": "plan-autos-basico-perdidas-totales", "tipo": "incluida", "limite": null },
+    { "slug": "consultas-mecanicas-expertos", "nombre": "Consultas gratuitas mecánicas a expertos y sin límite de visitas (Bogotá, Cali, Medellín y Pereira)", "descripcion": null, "categoria": "asistencia", "plan_slug": "plan-autos-basico", "tipo": "excluida", "limite": null },
+
+    { "slug": "accidentes-personales-conductor", "nombre": "Seguro de accidentes personales al conductor", "descripcion": "Solo incluido en Plan Autos Global y Seguro de Autos Eléctricos e Híbridos.", "categoria": "vida", "plan_slug": "plan-autos-global", "tipo": "incluida", "limite": "$35 o $50 millones" },
+    { "slug": "accidentes-personales-conductor", "nombre": "Seguro de accidentes personales al conductor", "descripcion": null, "categoria": "vida", "plan_slug": "seguro-autos-electricos-hibridos", "tipo": "incluida", "limite": "$35 o $50 millones" },
+    { "slug": "accidentes-personales-conductor", "nombre": "Seguro de accidentes personales al conductor", "descripcion": null, "categoria": "vida", "plan_slug": "plan-autos-clasico", "tipo": "excluida", "limite": null },
+    { "slug": "accidentes-personales-conductor", "nombre": "Seguro de accidentes personales al conductor", "descripcion": null, "categoria": "vida", "plan_slug": "plan-autos-basico-perdidas-totales", "tipo": "excluida", "limite": null },
+    { "slug": "accidentes-personales-conductor", "nombre": "Seguro de accidentes personales al conductor", "descripcion": null, "categoria": "vida", "plan_slug": "plan-autos-basico", "tipo": "excluida", "limite": null },
+
+    { "slug": "gastos-parqueadero", "nombre": "Gastos de parqueadero como consecuencia de un evento cubierto por el seguro", "descripcion": "Solo incluido en Plan Autos Global y Seguro de Autos Eléctricos e Híbridos.", "categoria": "patrimonial", "plan_slug": "plan-autos-global", "tipo": "incluida", "limite": null },
+    { "slug": "gastos-parqueadero", "nombre": "Gastos de parqueadero como consecuencia de un evento cubierto por el seguro", "descripcion": null, "categoria": "patrimonial", "plan_slug": "seguro-autos-electricos-hibridos", "tipo": "incluida", "limite": null },
+    { "slug": "gastos-parqueadero", "nombre": "Gastos de parqueadero como consecuencia de un evento cubierto por el seguro", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-clasico", "tipo": "excluida", "limite": null },
+    { "slug": "gastos-parqueadero", "nombre": "Gastos de parqueadero como consecuencia de un evento cubierto por el seguro", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-basico-perdidas-totales", "tipo": "excluida", "limite": null },
+    { "slug": "gastos-parqueadero", "nombre": "Gastos de parqueadero como consecuencia de un evento cubierto por el seguro", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-basico", "tipo": "excluida", "limite": null },
+
+    { "slug": "gastos-traspaso-perdida-total", "nombre": "Gastos de traspaso en caso de pérdida total por daños o hurto", "descripcion": "Solo incluido en Plan Autos Global y Seguro de Autos Eléctricos e Híbridos.", "categoria": "patrimonial", "plan_slug": "plan-autos-global", "tipo": "incluida", "limite": null },
+    { "slug": "gastos-traspaso-perdida-total", "nombre": "Gastos de traspaso en caso de pérdida total por daños o hurto", "descripcion": null, "categoria": "patrimonial", "plan_slug": "seguro-autos-electricos-hibridos", "tipo": "incluida", "limite": null },
+    { "slug": "gastos-traspaso-perdida-total", "nombre": "Gastos de traspaso en caso de pérdida total por daños o hurto", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-clasico", "tipo": "excluida", "limite": null },
+    { "slug": "gastos-traspaso-perdida-total", "nombre": "Gastos de traspaso en caso de pérdida total por daños o hurto", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-basico-perdidas-totales", "tipo": "excluida", "limite": null },
+    { "slug": "gastos-traspaso-perdida-total", "nombre": "Gastos de traspaso en caso de pérdida total por daños o hurto", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-basico", "tipo": "excluida", "limite": null },
+
+    { "slug": "reemplazo-de-llaves", "nombre": "Reemplazo de llaves en caso de que se pierdan o dañen", "descripcion": "Solo incluido en Plan Autos Global y Seguro de Autos Eléctricos e Híbridos.", "categoria": "patrimonial", "plan_slug": "plan-autos-global", "tipo": "incluida", "limite": null },
+    { "slug": "reemplazo-de-llaves", "nombre": "Reemplazo de llaves en caso de que se pierdan o dañen", "descripcion": null, "categoria": "patrimonial", "plan_slug": "seguro-autos-electricos-hibridos", "tipo": "incluida", "limite": null },
+    { "slug": "reemplazo-de-llaves", "nombre": "Reemplazo de llaves en caso de que se pierdan o dañen", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-clasico", "tipo": "excluida", "limite": null },
+    { "slug": "reemplazo-de-llaves", "nombre": "Reemplazo de llaves en caso de que se pierdan o dañen", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-basico-perdidas-totales", "tipo": "excluida", "limite": null },
+    { "slug": "reemplazo-de-llaves", "nombre": "Reemplazo de llaves en caso de que se pierdan o dañen", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-basico", "tipo": "excluida", "limite": null },
+
+    { "slug": "reposicion-accesorios-equipos-especiales", "nombre": "Reponerte accesorios y equipos especiales en caso de pérdida", "descripcion": "Según los detalles en la inspección de asegurabilidad del carro. Solo incluido en Plan Autos Global y Seguro de Autos Eléctricos e Híbridos.", "categoria": "patrimonial", "plan_slug": "plan-autos-global", "tipo": "incluida", "limite": null },
+    { "slug": "reposicion-accesorios-equipos-especiales", "nombre": "Reponerte accesorios y equipos especiales en caso de pérdida", "descripcion": "Según los detalles en la inspección de asegurabilidad del carro.", "categoria": "patrimonial", "plan_slug": "seguro-autos-electricos-hibridos", "tipo": "incluida", "limite": null },
+    { "slug": "reposicion-accesorios-equipos-especiales", "nombre": "Reponerte accesorios y equipos especiales en caso de pérdida", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-clasico", "tipo": "excluida", "limite": null },
+    { "slug": "reposicion-accesorios-equipos-especiales", "nombre": "Reponerte accesorios y equipos especiales en caso de pérdida", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-basico-perdidas-totales", "tipo": "excluida", "limite": null },
+    { "slug": "reposicion-accesorios-equipos-especiales", "nombre": "Reponerte accesorios y equipos especiales en caso de pérdida", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-basico", "tipo": "excluida", "limite": null },
+
+    { "slug": "proteccion-al-cargador", "nombre": "Protección al cargador", "descripcion": "Solo incluida en el Seguro de Autos Eléctricos e Híbridos.", "categoria": "patrimonial", "plan_slug": "plan-autos-global", "tipo": "excluida", "limite": null },
+    { "slug": "proteccion-al-cargador", "nombre": "Protección al cargador", "descripcion": "Cobertura para el cargador de vehículos eléctricos e híbridos.", "categoria": "patrimonial", "plan_slug": "seguro-autos-electricos-hibridos", "tipo": "incluida", "limite": null },
+    { "slug": "proteccion-al-cargador", "nombre": "Protección al cargador", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-clasico", "tipo": "excluida", "limite": null },
+    { "slug": "proteccion-al-cargador", "nombre": "Protección al cargador", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-basico-perdidas-totales", "tipo": "excluida", "limite": null },
+    { "slug": "proteccion-al-cargador", "nombre": "Protección al cargador", "descripcion": null, "categoria": "patrimonial", "plan_slug": "plan-autos-basico", "tipo": "excluida", "limite": null }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": { "minimo_vehiculos": 7 },
+    "descripcion": "Sin importar el tamaño de tu empresa, podrán ser asegurados los vehículos de los empleados de tu empresa y sus familiares, según condiciones; siempre que se cumpla un mínimo de siete (7) carros para conformar la póliza colectiva. También aseguramos otros tipos de vehículos (utilitarios, livianos y pesados) que apoyen la operación de tu empresa, como motos, bicicletas, patinetas eléctricas y otros."
+  },
+  "documentos": [
+    { "tipo": "anexo", "titulo": "Brochure Seguro de Autos", "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/brochure-seguro-autos.pdf" },
+    { "tipo": "formato", "titulo": "Proceso de reclamaciones Autos", "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/proceso-reclamaciones-autos.pdf" }
+  ],
+  "chunks": [
+    { "seccion": "general", "contenido": "Seguro Colectivo de Autos. Protegemos los vehículos de uso familiar, incluyendo eléctricos e híbridos, de tus colaboradores con una póliza colectiva que ofrece tarifas preferenciales y la posibilidad de financiarla sin intereses, así cuidas su bienestar y fortaleces su vínculo con tu empresa." },
+    { "seccion": "elegibilidad", "contenido": "¿A quién aseguramos? Sin importar el tamaño de tu empresa, podrán ser asegurados los vehículos de los empleados de tu empresa y sus familiares, según condiciones; siempre que se cumpla un mínimo de siete (7) carros para conformar la póliza colectiva. También aseguramos otros tipos de vehículos (utilitarios, livianos y pesados) que apoyen la operación de tu empresa, como motos, bicicletas, patinetas eléctricas y otros." },
+    { "seccion": "beneficios", "contenido": "¿Por qué elegir esta solución? Podrás acceder al programa de Movilidad Segura para gestionar los riesgos y asistir a formaciones. Podrás asistir a los Centros de Servicios SURA (aplica para Medellín, Rionegro, Bogotá, Cali y Pereira). Harás parte del programa de competitividad que integra tus seguros con estrategias de gestión de riesgos. Empresas SURA te acompañará para llevar tu empresa a otro nivel. Podrás ser parte de un programa de competitividad que integra los seguros que tengas con la gestión de riesgos por medio de Empresas SURA. Con esta solución tus colaboradores se sienten acompañados y tienen la posibilidad de ahorrar tiempo y dinero." },
+    { "seccion": "que_cubrimos", "contenido": "¿Qué cubrimos? Tenemos diferentes planes para que tus colaboradores elijan la mejor alternativa según su necesidad: Plan Autos Global, Seguro de Autos Eléctricos e Híbridos, Plan Autos Clásico, Plan Autos Básico Pérdidas Totales y Plan Autos Básico. Coberturas: pagar por los daños que les ocasiones a otras personas o a sus bienes (responsabilidad civil extracontractual, entre $640 millones y $4100 millones según el plan); pagar por los gastos necesarios para trámites de defensa judicial; conductor profesional cuando no puedas manejar por una enfermedad imprevista; te informamos sobre el estado de las vías; asesoría jurídica vía telefónica o en el sitio del accidente; acompañamiento ante el tránsito o centro de conciliación; servicio de grúa en caso de varada o accidente (máximo entre 50 y 150 SMDLV según el plan)." },
+    { "seccion": "que_cubrimos", "contenido": "Coberturas adicionales por plan: taller móvil y cerrajería; conductor elegido (6 o 12 servicios por vigencia anual según el plan); transporte por lesiones o enfermedad; reponerte tu carro en caso de pérdida total o parcial por hurto; reponerte tu carro en caso de pérdida total o parcial por daños; alternativas de movilidad; consultas gratuitas mecánicas a expertos y sin límite de visitas (Bogotá, Cali, Medellín y Pereira); seguro de accidentes personales al conductor ($35 o $50 millones); gastos de parqueadero como consecuencia de un evento cubierto por el seguro; gastos de traspaso en caso de pérdida total por daños o hurto; reemplazo de llaves en caso de que se pierdan o dañen; reponerte accesorios y equipos especiales en caso de pérdida según la inspección de asegurabilidad del carro; protección al cargador (exclusiva del Seguro de Autos Eléctricos e Híbridos)." },
+    { "seccion": "exclusiones", "contenido": "¿Qué no cubrimos? Las coberturas no incluidas en cada plan están detalladas en el cuadro comparativo. Coberturas como conductor elegido, transporte por lesiones o enfermedad, reposición por hurto o daños, accidentes personales al conductor, gastos de parqueadero, gastos de traspaso, reemplazo de llaves, reposición de accesorios y protección al cargador no están incluidas en los planes más básicos." },
+    { "seccion": "general", "contenido": "¿Cómo puedo hacer una reclamación? Conoce nuestros canales de atención y los requisitos para generar una reclamación a través del documento de proceso de reclamaciones de autos. ¿Necesitas asesoría para elegir tu seguro? Déjanos tus datos para que un asesor se comunique contigo y resuelva tus dudas. ¿Cuáles son los medios de pago? Presenciales (bancos y redes aliadas) y digitales (Pago Express, débito automático y financiación). ¿Tienes dudas? Comunícate con nosotros al 01 8000 51 8888." }
+  ]
+}

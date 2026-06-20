@@ -1,0 +1,101 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/empresas/corporativos/pymes/multirriesgo/copropiedades",
+  "producto": {
+    "slug": "empresas-corporativos-pymes-multirriesgo-copropiedades",
+    "nombre": "Seguro Multirriesgo Copropiedades",
+    "ramo": "Otros",
+    "linea": "empresas",
+    "tipo_persona": "juridica",
+    "descripcion": "El Seguro Multirriesgo Copropiedades de SURA protege las copropiedades comerciales o industriales, así como sus áreas comunes, respaldando daños o pérdidas materiales ante riesgos como incendios, rayos, explosiones, deslizamientos, terremotos, erupciones volcánicas y otros eventos. Según la Ley 675 de 2001, toda propiedad horizontal está obligada a adquirir un seguro que cubra los bienes comunes contra estos riesgos.",
+    "resumen": "Seguro que protege los bienes y áreas comunes de copropiedades comerciales o industriales ante incendios, terremotos y otros riesgos.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "presencial"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "incendio",
+      "nombre": "Incendio",
+      "descripcion": "Cobertura de daños o pérdidas materiales causados por incendio.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "rayo",
+      "nombre": "Rayo",
+      "descripcion": "Cobertura de daños o pérdidas materiales causados por rayo.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "explosion",
+      "nombre": "Explosión",
+      "descripcion": "Cobertura de daños o pérdidas materiales causados por explosión.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "deslizamiento",
+      "nombre": "Deslizamiento",
+      "descripcion": "Cobertura de daños o pérdidas materiales causados por deslizamiento.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "terremoto",
+      "nombre": "Terremoto",
+      "descripcion": "Cobertura de daños o pérdidas materiales causados por terremoto.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "erupcion-volcanica",
+      "nombre": "Erupción volcánica",
+      "descripcion": "Cobertura de daños o pérdidas materiales causados por erupción volcánica.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "juridica",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "ley_675_2001": "Aplica a toda propiedad horizontal (perteneciente a dos o más propietarios), obligada a asegurar los bienes comunes."
+    },
+    "descripcion": "Dirigido a copropiedades comerciales o industriales y sus áreas comunes; propiedades horizontales obligadas por la Ley 675 de 2001 a cubrir sus bienes comunes contra riesgos como incendios y terremotos."
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "beneficios",
+      "contenido": "Al adquirir este seguro podrás: Respaldar daños o pérdidas materiales que afecten tu copropiedad. Garantizar tu tranquilidad durante los años en los que hagas uso de tu inmueble. Proteger la inversión que tú y otros copropietarios han realizado."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Alguna vez has pensado cómo respaldar tu propiedad ante incendios, rayos, explosiones, deslizamientos, terremotos, erupciones volcánicas y otros riesgos que puedan causar daños? Invertir en tu seguridad es crucial."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "Según la Ley 675 de 2001, toda propiedad horizontal, es decir, que pertenece a dos o más propietarios, está obligada a adquirir un seguro que cubra los bienes comunes contra riesgos como incendios, terremotos y otros eventos que puedan afectar la estabilidad y tranquilidad de los ocupantes, ya sea temporal o permanentemente."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Proteger las copropiedades comerciales o industriales, así como sus áreas comunes es muy sencillo con el Seguro Multirriesgo Copropiedades de SURA. Olvídate de las preocupaciones que puedan surgir como copropietario o administrador al enfrentarte de manera imprevista a daños materiales. Tu patrimonio está en las mejores manos con nosotros. ¡No esperes más para asegurar tu copropiedad e invertir al 100 % en tu seguridad!"
+    }
+  ]
+}

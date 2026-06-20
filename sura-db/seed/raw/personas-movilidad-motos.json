@@ -1,0 +1,188 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/movilidad/motos",
+  "producto": {
+    "slug": "personas-movilidad-motos",
+    "nombre": "Seguro de Motos",
+    "ramo": "Movilidad",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Viaja con tranquilidad en tu moto porque estarás protegido con SURA. Con SURA puedes asegurar tu moto de alto cilindraje (mayor que 250 cc) o de bajo cilindraje (igual o menor que 250 cc). Además, cuentas con tres revisiones preventivas al año sin costo y asesorías ilimitadas con un mecánico experto, beneficios a los que podrás acceder en el Centro de Servicios Motos SURA o de manera virtual. Al adquirir tu seguro, también tendrás un peritaje gratuito.",
+    "resumen": "Seguro para motos de alto y bajo cilindraje con responsabilidad civil, pérdida total/parcial, asistencia en vía y servicios mecánicos.",
+    "es_digital": true,
+    "cotizador_url": "https://www.sura.co/seguros/personas/movilidad/motos/digital",
+    "canales": ["digital", "asesor", "presencial"]
+  },
+  "planes": [
+    {
+      "slug": "motos-alto-cilindraje",
+      "nombre": "Plan Motos de alto cilindraje (mayor a 250 c.c)",
+      "orden": 1,
+      "precio_desde": null
+    },
+    {
+      "slug": "motos-bajo-cilindraje",
+      "nombre": "Plan Motos (menor o igual a 250 cc)",
+      "orden": 2,
+      "precio_desde": null
+    }
+  ],
+  "coberturas": [
+    {
+      "slug": "responsabilidad-civil-extracontractual",
+      "nombre": "Responsabilidad civil extracontractual",
+      "descripcion": "Pagar por los daños que les ocasiones a otras personas o a sus bienes.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "840 millones"
+    },
+    {
+      "slug": "gastos-defensa-judicial",
+      "nombre": "Gastos de defensa judicial",
+      "descripcion": "Pagar por los gastos necesarios para trámites de defensa judicial.",
+      "categoria": "responsabilidad",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "accidentes-personales-conductor",
+      "nombre": "Accidentes personales al conductor",
+      "descripcion": "Seguro de accidentes personales al conductor.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "20 millones de pesos"
+    },
+    {
+      "slug": "gastos-transporte-perdida-total",
+      "nombre": "Gastos de transporte por pérdida total",
+      "descripcion": "Gastos de transporte, hasta por 30 días, en caso de pérdida total de la moto.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Hasta 30 días"
+    },
+    {
+      "slug": "perdida-total",
+      "nombre": "Pérdida total",
+      "descripcion": "Cobertura de pérdida total de la moto por daños o hurto.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "perdida-parcial",
+      "nombre": "Pérdida parcial",
+      "descripcion": "Cobertura de pérdida parcial de la moto por daños o hurto.",
+      "categoria": "patrimonial",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "servicio-de-grua",
+      "nombre": "Servicio de grúa",
+      "descripcion": "Servicio de grúa en casos de varada o accidente.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Alto cilindraje: máximo 150 SMDLV en Colombia (300 en el exterior). Bajo cilindraje: máximo 50 SMDLV en Colombia, no funciona en el exterior."
+    },
+    {
+      "slug": "consultas-mecanicas-pre-viaje",
+      "nombre": "Consultas mecánicas a expertos antes de un viaje",
+      "descripcion": "Consultas gratuitas mecánicas a expertos antes de un viaje (en Motos SURA Bogotá, Cali y Medellín).",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "carro-taller",
+      "nombre": "Carro taller para imprevistos",
+      "descripcion": "Carro taller para imprevistos como pinchadas de llanta o daño de batería.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Alto cilindraje: ilimitado. Bajo cilindraje: 4 veces al año."
+    },
+    {
+      "slug": "informacion-estado-vias",
+      "nombre": "Información sobre el estado de las vías",
+      "descripcion": "Te informamos sobre el estado de las vías.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "asesoria-juridica-telefonica",
+      "nombre": "Asesoría jurídica vía telefónica o en el sitio del accidente",
+      "descripcion": "Asesoría jurídica vía telefónica o en el sitio del accidente.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "acompanamiento-transito-conciliacion",
+      "nombre": "Acompañamiento ante el tránsito o centro de conciliación",
+      "descripcion": "Acompañamiento ante el tránsito o centro de conciliación.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {
+      "tipo_moto": "Moto de alto cilindraje (mayor que 250 cc) o de bajo cilindraje (igual o menor que 250 cc), incluye motos eléctricas"
+    },
+    "descripcion": null
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Términos y condiciones - Plan Motos",
+      "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/vehiculos/plan-motos.pdf"
+    },
+    {
+      "tipo": "anexo",
+      "titulo": "Proceso de reclamaciones - Autos/Motos",
+      "pdf_url": "https://www.segurossura.com.co/documentos/movilidad/proceso-reclamaciones-autos.pdf"
+    },
+    {
+      "tipo": "anexo",
+      "titulo": "Información importante - Servicios de movilidad COVID-19",
+      "pdf_url": "https://comunicaciones.segurossura.com.co/MercadeoPersonas/recursos/coronavirus/covid_19_movilidad_enlaces.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Motos: muévete con seguridad y autonomía. ¡Si tu moto es sinónimo de agilidad y libertad, o la usas como medio de trabajo, este plan es para ti! Viaja con tranquilidad en tu moto porque estarás protegido con SURA. Conoce las coberturas y servicios que tenemos para ti."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Con SURA puedes asegurar tu moto de alto cilindraje (mayor que 250 cc) o de bajo cilindraje (igual o menor que 250 cc). Además, cuentas con tres revisiones preventivas al año sin costo y asesorías ilimitadas con un mecánico experto: beneficios a los que podrás acceder en nuestro Centro de Servicios Motos SURA o de manera virtual. Al adquirir tu seguro, también tendrás un peritaje gratuito. Y si estás de viaje en carretera, te chocas o te varas y tu moto es de alto cilindraje, podrás solicitar el servicio de grúa de amplio alcance para devolverte o llegar a tu destino. Esto también aplica si tu moto es eléctrica."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "El mejor seguro para ti y tu moto. Conoce las coberturas de cada plan según el tipo de moto que tengas, es decir, si su cilindraje es mayor o menor que 250 centímetros cúbicos. Hay dos planes: Plan Motos de alto cilindraje (mayor a 250 c.c) y Plan Motos (menor o igual a 250 cc). Coberturas: Pagar por los daños que les ocasiones a otras personas o a sus bienes (840 millones en ambos planes). Pagar por los gastos necesarios para trámites de defensa judicial. Seguro de accidentes personales al conductor por 20 millones de pesos. Gastos de transporte, hasta por 30 días, en caso de pérdida total de la moto. Cobertura de pérdida total de la moto por daños o hurto. Cobertura de pérdida parcial de la moto por daños o hurto."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Servicio de grúa en casos de varada o accidente: máximo 150 SMDLV en Colombia (300 en el exterior) para alto cilindraje; máximo 50 SMDLV en Colombia y no funciona en el exterior para bajo cilindraje. Consultas gratuitas mecánicas a expertos antes de un viaje (en Motos SURA Bogotá, Cali y Medellín). Carro taller para imprevistos como pinchadas de llanta o daño de batería: ilimitado para alto cilindraje, 4 veces al año para bajo cilindraje. Te informamos sobre el estado de las vías. Asesoría jurídica vía telefónica o en el sitio del accidente. Acompañamiento ante el tránsito o centro de conciliación."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Más sobre el Seguro de Motos. Información importante: lo que debes saber sobre nuestros servicios de movilidad. Términos y condiciones: conoce los términos y condiciones de esta solución. Proceso de reclamaciones: estos son los canales de atención y requisitos para generar una reclamación."
+    }
+  ]
+}

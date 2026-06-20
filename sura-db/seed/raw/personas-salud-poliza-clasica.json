@@ -1,0 +1,302 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/salud/poliza/clasica",
+  "producto": {
+    "slug": "personas-salud-poliza-clasica",
+    "nombre": "Póliza de Salud Clásica",
+    "ramo": "Salud",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Con la Póliza de Salud Clásica garantizamos el bienestar de las personas, con una cobertura integral y accesible dentro del país, contamos con una amplia red de especialistas e instituciones, así como sedes exclusivas. Permite acceder a coberturas hospitalarias y ambulatorias, solicitar el servicio de emergencias o urgencias domiciliarias, programar citas con especialistas y acceder al Programa de Bienestar y la plataforma Longevo.",
+    "resumen": "Seguro de salud con cobertura hospitalaria y ambulatoria dentro de Colombia, red de especialistas e instituciones y atención médica domiciliaria, para residentes menores de 70 años afiliados a EPS contributiva.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center", "digital"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "habitacion-individual-hospitalizacion",
+      "nombre": "Habitación individual con cama de acompañante",
+      "descripcion": "Habitación individual con cama de acompañante en caso de hospitalización.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "unidad-cuidados-intensivos",
+      "nombre": "Unidad de Cuidados Intensivos",
+      "descripcion": "Acceso ilimitado a la Unidad de Cuidados Intensivos.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Ilimitado"
+    },
+    {
+      "slug": "trasplante-donacion-organos",
+      "nombre": "Trasplante y donación de órganos",
+      "descripcion": "Trasplante y donación de órganos.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "maternidad-y-parto",
+      "nombre": "Maternidad, complicaciones y atención del parto",
+      "descripcion": "Maternidad, complicaciones y atención del parto.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "medicamentos-y-examenes-peri-hospitalarios",
+      "nombre": "Medicamentos y exámenes prehospitalarios y poshospitalarios",
+      "descripcion": "Medicamentos y exámenes prehospitalarios y poshospitalarios, o prequirúrgicos y posquirúrgicos.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "tratamiento-cancer-leucemia",
+      "nombre": "Tratamiento médico por cáncer o leucemia",
+      "descripcion": "Tratamiento médico ambulatorio y hospitalario por cáncer o leucemia.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "medicamentos-quimioterapia-radioterapia-hormonoterapia",
+      "nombre": "Medicamentos secundarios a quimioterapia, radioterapia u hormonoterapia",
+      "descripcion": "Medicamentos secundarios a las sesiones de quimioterapia, radioterapia u hormonoterapia.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "examenes-imagenologia-radiologicos",
+      "nombre": "Exámenes de imagenología o radiológicos",
+      "descripcion": "Exámenes de imagenología o radiológicos.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "laboratorio-clinico-patologico",
+      "nombre": "Laboratorio clínico y patológico",
+      "descripcion": "Laboratorio clínico y patológico.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "atencion-medica-domicilio",
+      "nombre": "Plan de atención médica a domicilio",
+      "descripcion": "Plan de atención médica a domicilio.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "emergencias-urgencias-en-viaje-exterior",
+      "nombre": "Emergencias o urgencias en viajes al exterior",
+      "descripcion": "Suma máxima de dinero para cubrir emergencias o urgencias por accidente o enfermedad durante el viaje, o una condición diagnosticada después de este sin que sea preexistencia, a través de la compañía de asistencia en viajes. Aplica únicamente para pólizas familiares.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Suma máxima según cobertura; aplica solo para pólizas familiares"
+    },
+    {
+      "slug": "tratamiento-odontologico-emergencia-en-viaje",
+      "nombre": "Tratamiento odontológico por emergencia en viaje",
+      "descripcion": "Tratamiento odontológico por una emergencia durante el viaje, sobre todo si se siente dolor agudo, con respaldo hasta que el asegurado se encuentre estable. Aplica únicamente para pólizas familiares.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Aplica solo para pólizas familiares"
+    },
+    {
+      "slug": "traslados-medicos-sanitarios-en-viaje",
+      "nombre": "Traslados médicos sanitarios en el exterior",
+      "descripcion": "Traslados médicos sanitarios en el país donde se encuentre el asegurado, siempre que contacte previamente a Asistencia en Viajes SURA, tenga aprobación médica y saldo disponible en la cobertura. Aplica únicamente para pólizas familiares.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Requiere contacto previo, aprobación médica y saldo disponible; aplica solo para pólizas familiares"
+    },
+    {
+      "slug": "repatriacion",
+      "nombre": "Repatriación por enfermedad, accidente o fallecimiento",
+      "descripcion": "Repatriación por enfermedad, accidente o fallecimiento, siempre que haya contacto previo con Asistencia en Viajes SURA, aprobación médica y saldo disponible en la cobertura. Aplica únicamente para pólizas familiares.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Requiere contacto previo, aprobación médica y saldo disponible; aplica solo para pólizas familiares"
+    },
+    {
+      "slug": "traslado-aereo-por-siniestro-o-fallecimiento-familiar",
+      "nombre": "Traslado aéreo por siniestro grave o fallecimiento familiar",
+      "descripcion": "Traslado aéreo del asegurado en vuelo comercial, a cargo de la compañía de asistencia en viaje, si hay un siniestro grave en el hogar o si fallece un familiar (padre, madre, pareja o hijos) en Colombia. Aplica únicamente para pólizas familiares.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Aplica solo para pólizas familiares"
+    },
+    {
+      "slug": "accidentes-competencias-deportivas-amateur",
+      "nombre": "Accidentes en competencias deportivas amateur",
+      "descripcion": "Cobertura por accidentes derivados de competencias deportivas en condición de amateur en Colombia. Aplica únicamente para pólizas familiares.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Aplica solo para pólizas familiares"
+    },
+    {
+      "slug": "consulta-externa",
+      "nombre": "Consulta externa",
+      "descripcion": "Anexo de consulta externa limitada o ilimitada por vigencia anual. Consulta con médico general o especialista del directorio o externo, con reembolso hasta el valor contratado en el plan limitado si hay saldo, o hasta el valor contratado en el plan ilimitado menos el copago respectivo.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Hasta el valor contratado (plan limitado o ilimitado), menos copago según corresponda"
+    },
+    {
+      "slug": "urgencias-por-enfermedad-ilimitadas-con-copago",
+      "nombre": "Urgencias por enfermedad ilimitadas con copago",
+      "descripcion": "Acceso a cualquier institución del directorio por urgencia por enfermedad pagando únicamente el copago. Si la institución no está en el directorio, se reembolsa hasta el valor contratado en visita médica más el copago respectivo. Incluye medicamentos derivados de la atención de urgencias en sedes de Salud SURA o atención de urgencia virtual por la App Seguros SURA o el #888.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Ilimitadas con copago; reembolso fuera de directorio hasta el valor contratado en visita médica más copago"
+    },
+    {
+      "slug": "emergencia-medica-domiciliaria",
+      "nombre": "Emergencia médica domiciliaria",
+      "descripcion": "Servicios de emergencias o urgencias y atenciones médicas domiciliarias prioritarias las 24 horas del día a través de Salud en Casa SURA, sujeto a zonas de cobertura y entidades especializadas contratadas en cada ciudad.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "24 horas; sujeto a zonas de cobertura y entidades contratadas por ciudad"
+    },
+    {
+      "slug": "auxilio-exequial",
+      "nombre": "Auxilio exequial",
+      "descripcion": "Cobertura cuando el fallecimiento de la persona asegurada haya sido consecuencia de un accidente ocurrido o de una enfermedad adquirida durante la vigencia del seguro.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": null
+    },
+    {
+      "slug": "tratamientos-odontologicos",
+      "nombre": "Tratamientos odontológicos",
+      "descripcion": "Atención para el tratamiento odontológico requerido en ciudades con convenio, incluyendo consultas con diferentes especialidades, procedimientos, imágenes diagnósticas y estética dental.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "opcional",
+      "limite": "Sujeto a ciudades con convenio"
+    },
+    {
+      "slug": "rehabilitacion-adicciones",
+      "nombre": "Rehabilitación por adicciones",
+      "descripcion": "Rehabilitación por alcoholismo, drogadicción o cualquier otro tipo de adicción.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "cirugias-reconstructivas-o-esteticas-bariatrica",
+      "nombre": "Cirugías reconstructivas o estéticas derivadas de cirugía bariátrica",
+      "descripcion": "Cirugías reconstructivas o estéticas derivadas de cirugía bariátrica, cubierta o no por el seguro.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "rehabilitacion-trastornos-alimenticios-y-cosmetologia",
+      "nombre": "Rehabilitación por trastornos alimenticios, dietas, cosmetología y similares",
+      "descripcion": "Rehabilitación por trastornos alimenticios, dietas, adelgazamiento, rejuvenecimiento, cosmetología, quiropraxia y similares.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": 70,
+    "condiciones": {
+      "residencia": "Residir en Colombia",
+      "edad": "Menor de 70 años al ingreso",
+      "eps": "Afiliación vigente a una EPS del Régimen Contributivo del Sistema de Seguridad Social en Salud",
+      "permanencia": "La permanencia se mantiene sin importar la edad, excepto en seguros colectivos donde hijos y hermanos solteros dependientes solo permanecen hasta el fin de la vigencia en la que cumplan 35 años",
+      "traslado_exterior": "El seguro termina automáticamente en caso de traslado permanente al exterior, salvo aceptación por escrito de exclusión de cobertura en el exterior",
+      "salud": "No sufrir ninguna enfermedad grave o de alto costo al momento de la adquisición"
+    },
+    "descripcion": "Si resides en Colombia, tienes menos de 70 años y cuentas con afiliación vigente a una EPS del Régimen Contributivo del Sistema de Seguridad Social en Salud, puedes adquirir esta solución."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Plan Salud Clásico - Términos y condiciones",
+      "pdf_url": "https://www.segurossura.com.co/documentos/condicionados/personas/salud/plan-salud-clasico.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Con la Póliza de Salud Clásica garantizamos el bienestar de las personas, con una cobertura integral y accesible dentro del país, contamos con una amplia red de especialistas e instituciones, así como sedes exclusivas. Con la Póliza de Salud Clásica podrás: acceder a coberturas hospitalarias y ambulatorias; solicitar el servicio de emergencias o urgencias domiciliarias; programar tus citas directamente con nuestros especialistas, ahorrando tiempo y tratando tus condiciones de salud al instante; contratar otros beneficios por un valor extra, como la consulta externa (si acudes a un especialista que esté fuera de nuestra red, te hacemos un reembolso según el valor de tu plan); y acceder a nuestro Programa de Bienestar y la plataforma Longevo, para transformar tus hábitos y cuidar tu salud. Si tienes menos de 70 años y no sufres ninguna enfermedad grave o de alto costo en este momento, conoce todas las ventajas que esta solución tiene para ti. Ten en cuenta: la Póliza de Salud Clásica caducará si decides establecerte de manera permanente en el extranjero."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Habitación individual con cama de acompañante, en caso de hospitalización. Acceso ilimitado a la Unidad de Cuidados Intensivos. Trasplante y donación de órganos. Maternidad, complicaciones y atención del parto. Medicamentos y exámenes prehospitalarios y poshospitalarios, o prequirúrgicos y posquirúrgicos. Tratamiento médico ambulatorio y hospitalario por cáncer o leucemia. Medicamentos secundarios a las sesiones de quimioterapia, radioterapia u hormonoterapia. Exámenes de imagenología o radiológicos. Laboratorio clínico y patológico. Plan de atención médica a domicilio."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Cobertura para viajes en el exterior. A través de la compañía de asistencia en viajes, te ofrecemos: una suma máxima de dinero para cubrir las emergencias o urgencias a causa de un accidente o una enfermedad que sufras durante el viaje, o una condición diagnosticada después de este, sin que sea una preexistencia. Tratamiento odontológico por una emergencia durante el viaje, sobre todo si sientes dolor agudo; contarás con respaldo hasta que te encuentres estable. Traslados médicos sanitarios en el país en el que te encuentres para que puedan atenderte, siempre y cuando contactes previamente a Asistencia en Viajes SURA, tengas su aprobación médica y cuentes con saldo disponible en la cobertura. Repatriación por enfermedad, accidente o fallecimiento, siempre y cuando haya contacto previo con Asistencia en Viajes SURA, se efectúe su aprobación médica y haya saldo disponible en la cobertura. Traslado aéreo (tuyo o de la persona que esté asegurada) en vuelo comercial, a cargo de la compañía de asistencia en viaje, si hay un siniestro grave en tu hogar o si fallece uno de tus familiares (padre, madre, pareja o hijos) en Colombia. Cobertura por accidentes derivados de competencias deportivas en condición de amateur en Colombia. Aplica únicamente para pólizas familiares."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Coberturas opcionales. Podrás acceder a los siguientes beneficios pagando un valor adicional a la cuota de tu plan. Consulta externa: podrás elegir si contratas el anexo de consulta externa limitada o ilimitada por vigencia anual. Consulta con un médico general o especialista de nuestro directorio, o con uno que no haga parte de él; nosotros te reembolsaremos el dinero que pagues hasta el valor que hayas contratado en el plan limitado, si tienes saldo disponible, o hasta el valor contratado en el plan ilimitado, menos el respectivo copago. Urgencias por enfermedad ilimitadas con copago: accede a cualquiera de las instituciones del directorio por una urgencia por enfermedad, pagando únicamente el copago (por ejemplo, en caso de un dolor de cabeza, cuadro respiratorio o dolor abdominal agudo). Si la institución no está dentro del directorio, te reembolsaremos hasta el valor que hayas contratado en visita médica, más el copago respectivo. Tendrás cobertura para los medicamentos derivados de una atención de urgencias en las sedes de Salud SURA, o atención de urgencia virtual a través de la App Seguros SURA o el #888."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Emergencia médica domiciliaria: podrás solicitar los servicios de emergencias o urgencias y atenciones médicas domiciliarias prioritarias las 24 horas del día, a través de Salud en Casa SURA, sujeto a zonas de cobertura y las entidades especializadas contratadas en cada ciudad. Auxilio exequial: solicita esta cobertura cuando el fallecimiento de la persona asegurada haya sido consecuencia de un accidente ocurrido o de una enfermedad adquirida durante la vigencia del seguro. Tratamientos odontológicos: si te encuentras en alguna de las ciudades donde tenemos convenio para este servicio, podrás solicitar atención para el tratamiento odontológico que requieras, incluyendo consultas con diferentes especialidades, procedimientos e imágenes diagnósticas y estética dental."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubre la Póliza de Salud Clásica? En los siguientes casos o por las siguientes enfermedades, SURA no pagará los servicios, consultas, tratamientos médicos y quirúrgicos, medicamentos, insumos, terapias, exámenes de laboratorio y exámenes de imagenología o radiológicos, o cualquier otro costo sobre las coberturas descritas en la póliza: rehabilitación por alcoholismo, drogadicción o cualquier otro tipo de adicción; cirugías reconstructivas o estéticas derivadas de cirugía bariátrica, cubierta o no por el seguro; rehabilitación por trastornos alimenticios, dietas, adelgazamiento, rejuvenecimiento, cosmetología, quiropraxia y similares. Para conocer los términos y condiciones de tu seguro ingresa aquí."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "¿Quiénes se pueden asegurar? Si resides en Colombia, tienes menos de 70 años y cuentas con afiliación vigente a una EPS del Régimen Contributivo del Sistema de Seguridad Social en Salud, puedes adquirir esta solución. Condiciones de ingreso y permanencia: podrán ingresar a este seguro las personas residentes en Colombia, menores de 70 años. La permanencia se mantendrá sin importar su edad, excepto en los seguros colectivos, en los cuales los hijos y hermanos solteros dependientes del afiliado solo podrán permanecer hasta que termine la vigencia en la que cumplan 35 años. En caso de traslado al exterior, este seguro terminará automáticamente, salvo los casos en los que se acepte por escrito la exclusión de cobertura en el exterior propuesta por SURA."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Obligaciones del tomador y el asegurado: diligenciar completamente la solicitud del seguro, declarando con total sinceridad tu estado de salud y el de tu grupo familiar, y respondiendo las demás preguntas realizadas. Tener tu afiliación activa en una EPS del Régimen Contributivo de Salud; en cualquier momento, SURA podrá solicitar la evidencia para dar cumplimiento a la ley ya que, en caso de no estar afiliado, se termina automáticamente el seguro. Cancelar el valor del copago o deducible indicado en la carátula a los médicos e instituciones con las que tenemos convenio, en las coberturas que así lo estipulan. Tratar con respeto al personal médico, hospitalario, y a los funcionarios de la compañía. Abstenerte de presentar solicitudes de reembolso fraudulentas o por servicios o atenciones médicas no recibidas. No realizar actividades ilícitas o al margen de la ley. Realizar el pago de la prima de la póliza dentro de los términos acordados. De acuerdo con lo establecido en la Ley 1438, artículo 41, SURA podrá revocar tu contrato si incumples cualquiera de estas obligaciones."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Terminación del seguro. La Póliza de Salud Clásica puede terminar por las siguientes causas: no pagar el valor correspondiente al seguro; incumplir tus obligaciones; suplantar la identidad del tomador o del asegurado; estar vinculado con actividades por fuera de la ley; no declarar de manera sincera y veraz el estado de salud al realizar la solicitud del seguro; decidir terminarlo mediante una comunicación escrita debidamente firmada (la cancelación se hará efectiva a partir de la fecha en que SURA reciba dicha comunicación, ya que no se realizará de manera retroactiva)."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo hacer una reclamación? Tenemos a tu disposición varios canales de atención. Llama a la línea de atención de SURA: Bogotá 601 437 8888; Cali 602 437 8888; Medellín 604 437 8888; otras ciudades del país 01 8000 051 8888. Comunícate al #888 desde tu celular. Ingresa al portal y selecciona la opción Iniciar sesión. Contacta a tu asesor de seguros. Plazos y términos: la prima es lo que debes pagar por tu seguro de salud y debes cancelarla a más tardar dentro del mes siguiente, contado a partir de la fecha de expedición de la póliza o certificado. El no pago oportuno de las primas es un motivo para la negación de los servicios clínicos o médicos, y para la cancelación de tu seguro. Si tus pagos se encuentran al día, te ofrecemos la posibilidad de renovar la póliza automáticamente."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Gestiona tu plan con la App Seguros SURA. Allí podrás: revisar el carné de tu seguro; pedir citas médicas en sedes de Salud SURA; solicitar reembolsos; consultar el directorio médico; solicitar atención virtual; acceder al botón de Ayuda; gestionar trámites ante la EPS SURA. Medios y formas de pago disponibles: presenciales, digitales, débito automático, financiados y desembolsos. Longevo es la Plataforma de Bienestar de SURA para transformar tus hábitos."
+    }
+  ]
+}

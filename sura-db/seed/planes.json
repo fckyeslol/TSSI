@@ -1,0 +1,989 @@
+[
+  {
+    "producto_slug": "colectivos",
+    "slug": "colectivos-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-agro-bovino-bufalino",
+    "slug": "empresas-agro-bovino-bufalino-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-agro-cosecha",
+    "slug": "empresas-agro-cosecha-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-agro-planta",
+    "slug": "empresas-agro-planta-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-colectivos-autos",
+    "slug": "plan-autos-global",
+    "nombre": "Plan Autos Global",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-colectivos-autos",
+    "slug": "seguro-autos-electricos-hibridos",
+    "nombre": "Seguro de Autos Eléctricos e Híbridos",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-colectivos-autos",
+    "slug": "plan-autos-clasico",
+    "nombre": "Plan Autos Clásico",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-colectivos-autos",
+    "slug": "plan-autos-basico-perdidas-totales",
+    "nombre": "Plan Autos Básico Pérdidas Totales",
+    "orden": 4,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-colectivos-autos",
+    "slug": "plan-autos-basico",
+    "nombre": "Plan Autos Básico",
+    "orden": 5,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-colectivos-pension",
+    "slug": "plan-prejubilacion",
+    "nombre": "Plan Prejubilación",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-colectivos-pension",
+    "slug": "plan-complemento-temporal-pension",
+    "nombre": "Plan Complemento Temporal a la Pensión",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-colectivos-pension",
+    "slug": "plan-ingreso-futuro-garantizado",
+    "nombre": "Plan Ingreso Futuro Garantizado",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-colectivos-vida-accidentes-personales",
+    "slug": "empresas-colectivos-vida-accidentes-personales-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-construccion-equipo-electronico",
+    "slug": "empresas-construccion-equipo-electronico-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-construccion-maquinaria-equipo-contratistas",
+    "slug": "empresas-construccion-maquinaria-equipo-contratistas-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-construccion-montaje",
+    "slug": "empresas-construccion-montaje-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-construccion-obras-civiles-terminadas",
+    "slug": "empresas-construccion-obras-civiles-terminadas-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-construccion-seguro-construccion",
+    "slug": "empresas-construccion-seguro-construccion-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-corporativos-pymes-multirriesgo-copropiedades",
+    "slug": "empresas-corporativos-pymes-multirriesgo-copropiedades-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-arrendamiento",
+    "slug": "plan-individual",
+    "nombre": "Plan Individual",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-arrendamiento",
+    "slug": "plan-colectivo",
+    "nombre": "Plan Colectivo",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-caucion-judicial",
+    "slug": "empresas-cumplimiento-caucion-judicial-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-contratistas-proveedores",
+    "slug": "empresas-cumplimiento-contratistas-proveedores-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-disposiciones-legales",
+    "slug": "empresas-cumplimiento-disposiciones-legales-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-entidades-estatales",
+    "slug": "empresas-cumplimiento-entidades-estatales-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-grandes-beneficiarios",
+    "slug": "empresas-cumplimiento-grandes-beneficiarios-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-particulares",
+    "slug": "empresas-cumplimiento-particulares-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-cumplimiento-servicios-publicos",
+    "slug": "empresas-cumplimiento-servicios-publicos-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-energia-eficiencia-energetica",
+    "slug": "empresas-energia-eficiencia-energetica-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-politica-suscripcion-asg",
+    "slug": "empresas-politica-suscripcion-asg-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-ambiental",
+    "slug": "empresas-responsabilidad-civil-ambiental-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-clinicas-hospitales",
+    "slug": "empresas-responsabilidad-civil-clinicas-hospitales-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-danos-terceros",
+    "slug": "empresas-responsabilidad-civil-danos-terceros-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-drones",
+    "slug": "empresas-responsabilidad-civil-drones-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-familiar",
+    "slug": "empresas-responsabilidad-civil-familiar-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-fraude-empleado",
+    "slug": "empresas-responsabilidad-civil-fraude-empleado-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-parqueaderos",
+    "slug": "empresas-responsabilidad-civil-parqueaderos-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-responsabilidad-empleador",
+    "slug": "empresas-responsabilidad-civil-responsabilidad-empleador-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil-talleres",
+    "slug": "empresas-responsabilidad-civil-talleres-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-responsabilidad-civil",
+    "slug": "empresas-responsabilidad-civil-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-sectores-transporte",
+    "slug": "plan-1",
+    "nombre": "Plan 1",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-sectores-transporte",
+    "slug": "plan-2",
+    "nombre": "Plan 2",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-sectores-transporte",
+    "slug": "plan-3",
+    "nombre": "Plan 3",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-sura",
+    "slug": "empresas-sura-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-transporte-cadena-abastecimiento",
+    "slug": "empresas-transporte-cadena-abastecimiento-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-transporte-carga-proyectos",
+    "slug": "empresas-transporte-carga-proyectos-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-transporte-mercancias-automatico",
+    "slug": "empresas-transporte-mercancias-automatico-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-transporte-mercancias-especifico",
+    "slug": "empresas-transporte-mercancias-especifico-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "empresas-transporte-terrestres-carga",
+    "slug": "empresas-transporte-terrestres-carga-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "slug": "plan-basico",
+    "nombre": "Plan Básico",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "slug": "plan-clasico",
+    "nombre": "Plan Clásico",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento-tradicional",
+    "slug": "plan-global",
+    "nombre": "Plan Global",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento",
+    "slug": "arrendamiento-digital-arma-tu-plan",
+    "nombre": "Arrendamiento digital - Arma tu Plan",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento",
+    "slug": "arrendamiento-digital-plus",
+    "nombre": "Arrendamiento digital - Plus",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento",
+    "slug": "arrendamiento-digital-esencial",
+    "nombre": "Arrendamiento digital - Esencial",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento",
+    "slug": "arrendamiento-tradicional-global",
+    "nombre": "Arrendamiento tradicional - Global",
+    "orden": 4,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento",
+    "slug": "arrendamiento-tradicional-clasico",
+    "nombre": "Arrendamiento tradicional - Clásico",
+    "orden": 5,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar-arrendamiento",
+    "slug": "arrendamiento-tradicional-basico",
+    "nombre": "Arrendamiento tradicional - Básico",
+    "orden": 6,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar-hogar",
+    "slug": "plan-hogar-sura-plus",
+    "nombre": "Plan Hogar SURA Plus",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar-hogar",
+    "slug": "plan-hogar-sura-plus-mas-hospedaje",
+    "nombre": "Plan Hogar SURA Plus + Hospedaje",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar-hogar",
+    "slug": "plan-hogar-sura-plus-mas-negocio",
+    "nombre": "Plan Hogar SURA Plus + Negocio",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar-mascotas",
+    "slug": "plan-global",
+    "nombre": "Plan Global",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar-mascotas",
+    "slug": "plan-clasico",
+    "nombre": "Plan Clásico",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar-mascotas",
+    "slug": "plan-basico",
+    "nombre": "Plan Básico",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar",
+    "slug": "seguro-de-hogar",
+    "nombre": "Seguro de Hogar",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar",
+    "slug": "seguro-de-arrendamiento",
+    "nombre": "Seguro de Arrendamiento",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-hogar",
+    "slug": "plan-inversion-protegida",
+    "nombre": "Plan Inversión Protegida",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad-autos-digital",
+    "slug": "plan-clasico",
+    "nombre": "Plan Clásico",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad-autos-digital",
+    "slug": "plan-basico",
+    "nombre": "Plan Básico",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad-autos-digital",
+    "slug": "plan-global",
+    "nombre": "Plan Global",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad-bicicletas-patinetas",
+    "slug": "opcion-1",
+    "nombre": "Opción 1",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad-bicicletas-patinetas",
+    "slug": "opcion-2",
+    "nombre": "Opción 2",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad-bicicletas-patinetas",
+    "slug": "opcion-3",
+    "nombre": "Opción 3",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad-bicicletas-patinetas",
+    "slug": "opcion-4",
+    "nombre": "Opción 4",
+    "orden": 4,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad-motos-digital",
+    "slug": "plan-esencial",
+    "nombre": "Plan Esencial",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad-motos-digital",
+    "slug": "plan-total",
+    "nombre": "Plan Total",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad-motos-digital",
+    "slug": "plan-premium",
+    "nombre": "Plan Premium",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad-motos",
+    "slug": "motos-alto-cilindraje",
+    "nombre": "Plan Motos de alto cilindraje (mayor a 250 c.c)",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad-motos",
+    "slug": "motos-bajo-cilindraje",
+    "nombre": "Plan Motos (menor o igual a 250 cc)",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad-peritaje",
+    "slug": "personas-movilidad-peritaje-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad-soat-reclamaciones",
+    "slug": "personas-movilidad-soat-reclamaciones-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad",
+    "slug": "plan-muevete-libre",
+    "nombre": "Plan Muévete Libre",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad",
+    "slug": "seguro-de-bicicletas",
+    "nombre": "Seguro de Bicicletas",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad",
+    "slug": "plan-carros-electricos",
+    "nombre": "Plan Carros Eléctricos",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad",
+    "slug": "seguro-de-autos",
+    "nombre": "Seguro de Autos",
+    "orden": 4,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad",
+    "slug": "seguro-de-motos",
+    "nombre": "Seguro de Motos",
+    "orden": 5,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad",
+    "slug": "soat",
+    "nombre": "SOAT",
+    "orden": 6,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad",
+    "slug": "plan-utilitarios-y-pesados",
+    "nombre": "Plan Utilitarios y Pesados",
+    "orden": 7,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad",
+    "slug": "seguro-de-viaje",
+    "nombre": "Seguro de Viaje",
+    "orden": 8,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-movilidad",
+    "slug": "seguro-de-patinetas",
+    "nombre": "Seguro de Patinetas",
+    "orden": 9,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-responsabilidad-civil-profesionales-salud",
+    "slug": "personas-responsabilidad-civil-profesionales-salud-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-como-cuidarte",
+    "slug": "personas-salud-como-cuidarte-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-enfermedades-graves",
+    "slug": "personas-salud-enfermedades-graves-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-mascotas-digital",
+    "slug": "esencial",
+    "nombre": "Plan Esencial",
+    "orden": 1,
+    "precio_desde": 38300
+  },
+  {
+    "producto_slug": "personas-salud-mascotas-digital",
+    "slug": "clasico",
+    "nombre": "Plan Clásico",
+    "orden": 2,
+    "precio_desde": 90600
+  },
+  {
+    "producto_slug": "personas-salud-mascotas-digital",
+    "slug": "global",
+    "nombre": "Plan Global",
+    "orden": 3,
+    "precio_desde": 152100
+  },
+  {
+    "producto_slug": "personas-salud-plan-salud-modular",
+    "slug": "personas-salud-plan-salud-modular-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-poliza-clasica",
+    "slug": "personas-salud-poliza-clasica-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-poliza-evoluciona",
+    "slug": "personas-salud-poliza-evoluciona-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-poliza-global",
+    "slug": "personas-salud-poliza-global-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-poliza",
+    "slug": "salud-global",
+    "nombre": "Póliza de Salud Global",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-poliza",
+    "slug": "salud-clasica",
+    "nombre": "Póliza de Salud Clásica",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-poliza",
+    "slug": "salud-evoluciona",
+    "nombre": "Póliza de Salud Evoluciona",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-renta-diaria",
+    "slug": "plan-renta-diaria-pos",
+    "nombre": "Plan Renta Diaria POS",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-renta-diaria",
+    "slug": "plan-renta-diaria-pas",
+    "nombre": "Plan Renta Diaria PAS",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-dos",
+    "slug": "estandar",
+    "nombre": "Plan Estandar",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-dos",
+    "slug": "plus",
+    "nombre": "Plan Plus",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-todos",
+    "slug": "plan-esencial",
+    "nombre": "Plan Esencial",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-todos",
+    "slug": "plan-clasico",
+    "nombre": "Plan Clasico",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-todos",
+    "slug": "plan-preferencial",
+    "nombre": "Plan Preferencial",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-todos",
+    "slug": "plan-estandar",
+    "nombre": "Plan Estandar",
+    "orden": 4,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-salud-para-todos",
+    "slug": "plan-plus",
+    "nombre": "Plan Plus",
+    "orden": 5,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-viajes-digital",
+    "slug": "plan-esencial",
+    "nombre": "Plan Esencial",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-viajes-digital",
+    "slug": "plan-plus",
+    "nombre": "Plan Plus",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-viajes-digital",
+    "slug": "plan-total",
+    "nombre": "Plan Total",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud-viajes",
+    "slug": "personas-salud-viajes-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-salud",
+    "slug": "personas-salud-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida-accidentes-personales",
+    "slug": "personas-vida-accidentes-personales-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida-credito-protegido",
+    "slug": "personas-vida-credito-protegido-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida-educacion",
+    "slug": "personas-vida-educacion-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida-exequias",
+    "slug": "global-plus",
+    "nombre": "Plan Global Plus",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida-exequias",
+    "slug": "global",
+    "nombre": "Plan Global",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida-exequias",
+    "slug": "clasico-plus",
+    "nombre": "Plan Clásico Plus",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida-exequias",
+    "slug": "clasico",
+    "nombre": "Plan Clásico",
+    "orden": 4,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida-exequias",
+    "slug": "basico-plus",
+    "nombre": "Plan Básico Plus",
+    "orden": 5,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida-exequias",
+    "slug": "basico",
+    "nombre": "Plan Básico",
+    "orden": 6,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida-pension",
+    "slug": "personas-vida-pension-unico",
+    "nombre": "Plan único",
+    "orden": 0,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida-seguro-de-vida",
+    "slug": "plan-vive",
+    "nombre": "Plan Vive",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida-seguro-de-vida",
+    "slug": "plan-credito-protegido",
+    "nombre": "Plan crédito protegido",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida-seguro-de-vida",
+    "slug": "plan-prorrogado",
+    "nombre": "Plan Prorrogado",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida-seguro-de-vida",
+    "slug": "plan-saldado",
+    "nombre": "Plan Saldado",
+    "orden": 4,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida-seguro-de-vida",
+    "slug": "plan-ordinario-de-vida",
+    "nombre": "Plan Ordinario de Vida",
+    "orden": 5,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida",
+    "slug": "seguro-de-vida",
+    "nombre": "Seguro de Vida",
+    "orden": 1,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida",
+    "slug": "seguro-de-exequias",
+    "nombre": "Seguro de Exequias",
+    "orden": 2,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida",
+    "slug": "seguro-de-accidentes-personales",
+    "nombre": "Seguro de Accidentes Personales",
+    "orden": 3,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida",
+    "slug": "seguro-colectivo-de-vida",
+    "nombre": "Seguro Colectivo de Vida",
+    "orden": 4,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida",
+    "slug": "plan-credito-protegido",
+    "nombre": "Plan Crédito Protegido",
+    "orden": 5,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida",
+    "slug": "seguro-de-educacion",
+    "nombre": "Seguro de Educación",
+    "orden": 6,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida",
+    "slug": "seguro-de-pension",
+    "nombre": "Seguro de Pensión",
+    "orden": 7,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida",
+    "slug": "seguro-de-rentas-vitalicias",
+    "nombre": "Seguro de Rentas Vitalicias",
+    "orden": 8,
+    "precio_desde": null
+  },
+  {
+    "producto_slug": "personas-vida",
+    "slug": "soat",
+    "nombre": "SOAT",
+    "orden": 9,
+    "precio_desde": null
+  }
+]

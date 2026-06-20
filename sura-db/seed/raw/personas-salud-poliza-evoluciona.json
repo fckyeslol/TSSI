@@ -1,0 +1,370 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/salud/poliza/evoluciona",
+  "producto": {
+    "slug": "personas-salud-poliza-evoluciona",
+    "nombre": "Póliza de Salud Evoluciona",
+    "ramo": "Salud",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "Con la Póliza de Salud Evoluciona, brindamos atención integral y servicios de calidad. Cuenta con una amplia cobertura dentro del país a través de una red direccionada de especialistas e instituciones, con sedes exclusivas a nivel nacional, además de múltiples canales para una atención eficiente. Esta póliza incluye atención médica a domicilio y consultas ilimitadas con copago, respondiendo tanto a necesidades cotidianas como eventos inesperados.",
+    "resumen": "Plan integral de salud con coberturas hospitalarias y ambulatorias, atención médica a domicilio y consultas ilimitadas con copago a través de una red nacional de prestadores.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor", "call_center"]
+  },
+  "planes": [],
+  "coberturas": [
+    {
+      "slug": "habitacion-individual-con-acompanante",
+      "nombre": "Habitación individual con cama para acompañante",
+      "descripcion": "Gastos hospitalarios y quirúrgicos para tu tratamiento.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "unidad-de-cuidados-intensivos",
+      "nombre": "Unidad de Cuidados Intensivos (UCI)",
+      "descripcion": "Gastos hospitalarios y quirúrgicos para tu tratamiento.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "gastos-medicos-intrahospitalarios",
+      "nombre": "Gastos médicos intrahospitalarios",
+      "descripcion": "Gastos hospitalarios y quirúrgicos para tu tratamiento.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "honorarios-visitas-medicas-hospitalarias",
+      "nombre": "Honorarios por visitas médicas hospitalarias",
+      "descripcion": "Honorarios del personal de salud por visitas médicas hospitalarias.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "honorarios-cirujano-y-anestesiologo",
+      "nombre": "Honorarios de cirujano y anestesiólogo",
+      "descripcion": "Honorarios del personal de salud por cirujano y anestesiólogo.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "honorarios-enfermeria",
+      "nombre": "Honorarios de enfermera(o) profesional o auxiliar de enfermería",
+      "descripcion": "Honorarios del personal de salud por enfermera(o) profesional o auxiliar de enfermería.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "protesis-e-insumos",
+      "nombre": "Prótesis e insumos",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "maternidad",
+      "nombre": "Maternidad",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "amparo-al-bebe-gestante",
+      "nombre": "Amparo al bebé gestante",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "donacion-de-organos",
+      "nombre": "Donación de órganos",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "examenes-de-imagenologia-o-radiologicos",
+      "nombre": "Exámenes de imagenología o radiológicos",
+      "descripcion": "Exámenes de imagenología o radiológicos con copago.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Con copago"
+    },
+    {
+      "slug": "examenes-de-laboratorio-clinico",
+      "nombre": "Exámenes de laboratorio clínico",
+      "descripcion": "Exámenes de laboratorio clínico ilimitados con copago.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Ilimitados con copago"
+    },
+    {
+      "slug": "procedimientos-odontologicos-por-accidente",
+      "nombre": "Procedimientos odontológicos por accidente",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "cancer",
+      "nombre": "Cáncer",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "leucemia",
+      "nombre": "Leucemia",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "vih-sida",
+      "nombre": "VIH/SIDA",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "enfermedades-renales",
+      "nombre": "Enfermedades renales",
+      "descripcion": "Enfermedades renales sin periodo de carencia.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Sin periodo de carencia"
+    },
+    {
+      "slug": "cirugias-ambulatorias-programadas",
+      "nombre": "Cirugías ambulatorias programadas",
+      "descripcion": "Cirugías ambulatorias programadas, cancelando el valor del copago indicado en la carátula.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Con copago"
+    },
+    {
+      "slug": "tratamientos-de-fracturas-y-traumatismos",
+      "nombre": "Tratamientos de fracturas, luxaciones, esguinces, quemaduras, mordeduras y suturas",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "ortesis-por-accidente",
+      "nombre": "Órtesis relacionados con accidentes",
+      "descripcion": "Órtesis relacionados directamente con accidentes atendidos por urgencias durante los treinta días posteriores al evento. No genera copago.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "30 días posteriores al evento; no genera copago"
+    },
+    {
+      "slug": "infiltraciones",
+      "nombre": "Infiltraciones ortopédicas de corticoides, intratimpánicas y dermatológicas",
+      "descripcion": "Infiltraciones ortopédicas de corticoides, intratimpánicas y dermatológicas, exceptuando las queloides o aquellas que se consideren estéticas.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Excepto queloides o estéticas"
+    },
+    {
+      "slug": "terapias",
+      "nombre": "Terapias físicas, del lenguaje, respiratorias, cardiacas y otras",
+      "descripcion": "Terapias físicas musculares y esqueléticas, del lenguaje, respiratorias, cardiacas, ortópticas, linfáticas, pleópticas, pélvicas, ocupacionales, de deglución y vestibulares, cancelando el valor del copago indicado en la carátula.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Limitadas a 70 sesiones por tipo de terapia, por vigencia anual y por asegurado; con copago"
+    },
+    {
+      "slug": "nebulizaciones",
+      "nombre": "Nebulizaciones",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "puvaterapia",
+      "nombre": "Puvaterapia",
+      "descripcion": "Tendrá cobertura sin copago a través de la red de proveedores en convenio.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Sin copago a través de red en convenio"
+    },
+    {
+      "slug": "atencion-medica-hospitalaria-domiciliaria",
+      "nombre": "Atención médica hospitalaria domiciliaria",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "consulta-externa-ambulatoria",
+      "nombre": "Consulta externa ambulatoria",
+      "descripcion": "Consulta externa ambulatoria ilimitada con copago.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Ilimitada con copago"
+    },
+    {
+      "slug": "urgencias-por-enfermedad",
+      "nombre": "Urgencias por enfermedad",
+      "descripcion": "Urgencias por enfermedad ilimitadas con copago.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Ilimitadas con copago"
+    },
+    {
+      "slug": "emergencia-medica-domiciliaria",
+      "nombre": "Emergencia médica domiciliaria",
+      "descripcion": "Emergencia médica domiciliaria ilimitada con copago.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Ilimitada con copago"
+    },
+    {
+      "slug": "rehabilitacion-por-alcoholismo-o-drogadiccion",
+      "nombre": "Rehabilitación por alcoholismo o drogadicción",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "rehabilitacion-por-trastornos-alimenticios",
+      "nombre": "Rehabilitación por trastornos alimenticios",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    },
+    {
+      "slug": "cirugia-estetica-y-plastica",
+      "nombre": "Cirugía estética y cirugía plástica",
+      "descripcion": "Cirugía estética y cirugía plástica, así tengas enfermedades congénitas, excepto la cirugía funcional reconstructiva como consecuencia de un accidente cubierto por el seguro.",
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": "Excepto cirugía funcional reconstructiva por accidente cubierto"
+    },
+    {
+      "slug": "rinoplastia",
+      "nombre": "Rinoplastia",
+      "descripcion": null,
+      "categoria": "salud",
+      "plan_slug": null,
+      "tipo": "excluida",
+      "limite": null
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": 69,
+    "condiciones": {
+      "residencia": "Colombia",
+      "edad_ingreso": "Menores de 70 años",
+      "afiliacion_eps": "Afiliación vigente a una EPS del Régimen Contributivo del Sistema de Seguridad Social en Salud",
+      "permanencia": "La permanencia se mantendrá sin importar su edad, excepto en los seguros colectivos, en los cuales los hijos y hermanos solteros dependientes del afiliado solo podrán permanecer hasta que termine la vigencia en la que cumplan 35 años.",
+      "traslado_exterior": "En caso de traslado al exterior, el seguro termina automáticamente, salvo aceptación por escrito de la exclusión de cobertura en el exterior propuesta por SURA."
+    },
+    "descripcion": "Si resides en Colombia, tienes menos de 70 años y cuentas con afiliación vigente a una EPS del Régimen Contributivo del Sistema de Seguridad Social en Salud, puedes adquirir este plan."
+  },
+  "documentos": [
+    {
+      "tipo": "condicionado",
+      "titulo": "Condicionado Plan Salud Evoluciona",
+      "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/salud/plan-salud-evoluciona.pdf"
+    },
+    {
+      "tipo": "clausulado",
+      "titulo": "Términos y condiciones Plan Salud Evoluciona",
+      "pdf_url": "https://www.segurossura.com.co/Documentos/condicionados/personas/salud/plan-salud-evoluciona.pdf"
+    }
+  ],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Póliza de Salud Evoluciona. Disfruta los beneficios de tener un plan integral con excelentes coberturas. Con la Póliza de Salud Evoluciona puedes: acceder a todos los beneficios de una póliza de salud; acceder a coberturas hospitalarias y ambulatorias; disfrutar de una amplia red de prestadores de calidad. Con la Póliza de Salud Evoluciona, brindamos atención integral y servicios de calidad. Cuenta con una amplia cobertura dentro del país a través de una red direccionada de especialistas e instituciones, con sedes exclusivas a nivel nacional, además de múltiples canales para una atención eficiente. Esta póliza incluye atención médica a domicilio y consultas ilimitadas con copago, respondiendo tanto a necesidades cotidianas como eventos inesperados."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué cubrimos? Conoce la amplia gama de servicios en atención y asistencia, que incluyen tanto cobertura hospitalaria como ambulatoria, además de emergencias médicas. Gastos hospitalarios y quirúrgicos para tu tratamiento: habitación individual con cama para acompañante; Unidad de Cuidados Intensivos (UCI); gastos médicos intrahospitalarios. Honorarios del personal de salud por: visitas médicas hospitalarias; cirujano y anestesiólogo; enfermera(o) profesional o auxiliar de enfermería. Tratamientos por: prótesis e insumos; maternidad; amparo al bebé gestante; donación de órganos; exámenes de imagenología o radiológicos con copago; exámenes de laboratorio clínico ilimitados con copago; procedimientos odontológicos por accidente. Otros: cáncer; leucemia; VIH/SIDA; enfermedades renales (sin periodo de carencia)."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Otros tratamientos médicos ambulatorios con copago: cirugías ambulatorias programadas, cancelando el valor del copago indicado en la carátula; tratamientos de fracturas, luxaciones, esguinces, quemaduras, mordeduras y suturas; órtesis relacionados directamente con accidentes atendidos por urgencias durante los treinta días posteriores al evento (no genera copago); infiltraciones ortopédicas de corticoides, intratimpánicas y dermatológicas, exceptuando las queloides o aquellas que se consideren estéticas. Terapias con cobertura, cancelando el valor del copago indicado en la carátula del seguro: terapias físicas musculares y esqueléticas, del lenguaje, respiratorias, cardiacas, ortópticas, linfáticas, pleópticas, pélvicas, ocupacionales, de deglución y vestibulares (limitadas a setenta sesiones por tipo de terapia, por vigencia anual y por asegurado); nebulizaciones; puvaterapia (tendrá cobertura sin copago a través de la red de proveedores en convenio); atención médica hospitalaria domiciliaria; consulta externa ambulatoria ilimitada con copago; urgencias por enfermedad ilimitadas con copago; emergencia médica domiciliaria ilimitada con copago."
+    },
+    {
+      "seccion": "exclusiones",
+      "contenido": "¿Qué no cubre la Póliza de Salud Evoluciona? En los siguientes casos o por las siguientes enfermedades SURA no cubrirá los servicios, consultas, tratamientos médicos y quirúrgicos, medicamentos, exámenes de laboratorio y ayudas diagnósticas, o cualquier otro costo sobre las coberturas descritas en el seguro: rehabilitación por alcoholismo o drogadicción; rehabilitación por trastornos alimenticios; cirugía estética y cirugía plástica, así tengas enfermedades congénitas, excepto la cirugía funcional reconstructiva como consecuencia de un accidente cubierto por el seguro; rinoplastia."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "Condiciones de ingreso y permanencia. Podrán ingresar a este seguro las personas residentes en Colombia, menores de 70 años. La permanencia se mantendrá sin importar su edad, excepto en los seguros colectivos, en los cuales los hijos y hermanos solteros dependientes del afiliado solo podrán permanecer hasta que termine la vigencia en la que cumplan 35 años. En caso de traslado al exterior, este seguro terminará automáticamente, salvo los casos en los que se acepte por escrito la exclusión de cobertura en el exterior propuesta por SURA. ¿Quiénes se pueden asegurar? Si resides en Colombia, tienes menos de 70 años y cuentas con afiliación vigente a una EPS del Régimen Contributivo del Sistema de Seguridad Social en Salud, puedes adquirir este plan."
+    },
+    {
+      "seccion": "elegibilidad",
+      "contenido": "Obligaciones del tomador y el asegurado: diligenciar completamente la solicitud del seguro, declarando con total sinceridad tu estado de salud y el de tu grupo familiar, y respondiendo las demás preguntas realizadas; tener tu afiliación activa en una EPS del Régimen Contributivo de Salud (en cualquier momento SURA podrá solicitar la evidencia para dar cumplimiento a la ley, y en caso de no estar afiliado, se termina automáticamente el seguro); cancelar el valor del copago o deducible indicado en la carátula a los médicos e instituciones con las que tenemos convenio, en las coberturas que así lo estipulan; tratar con respeto al personal médico, hospitalario y a los funcionarios de la Compañía; abstenerte de presentar solicitudes de reembolso fraudulentas o por servicios o atenciones médicas no recibidas; no realizar actividades ilícitas o al margen de la ley; realizar el pago de la prima de la póliza dentro de los términos acordados. De acuerdo con la Ley 1438, artículo 41, SURA podrá revocar el contrato si se incumple cualquiera de estas obligaciones."
+    },
+    {
+      "seccion": "general",
+      "contenido": "Terminación del seguro. La Póliza Salud Evoluciona puede terminar por las siguientes causas: no pagar el valor correspondiente al seguro; incumplir tus obligaciones; suplantar la identidad del tomador o del asegurado; estar vinculado con actividades por fuera de la ley; no declarar de manera sincera y veraz el estado de salud al realizar la solicitud del seguro; decidir terminarlo mediante una comunicación escrita debidamente firmada (la cancelación se hará efectiva a partir de la fecha en que SURA reciba dicha comunicación, ya que no se realizará de manera retroactiva)."
+    },
+    {
+      "seccion": "general",
+      "contenido": "¿Cómo hacer una reclamación? Tenemos a tu disposición varios canales de atención: línea de atención de SURA en Bogotá 601 437 8888, Cali 602 437 8888, Medellín 604 437 8888, y otras ciudades del país 01 8000 051 8888; comunícate al #888 desde tu celular; ingresa y selecciona la opción Iniciar sesión; contacta a tu asesor de seguros. Plazos y términos: la prima es lo que debes pagar por tu seguro de salud y debes cancelarla a más tardar dentro del mes siguiente, contado a partir de la fecha de expedición de la póliza o certificado. El no pago oportuno de las primas es motivo para la negación de los servicios clínicos o médicos y para la cancelación de tu seguro. Si tus pagos se encuentran al día, te ofrecemos la posibilidad de renovar la póliza automáticamente."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "Gestiona tu Póliza de Salud Evoluciona con la App Seguros SURA. Allí podrás: revisar el carné de tu seguro; pedir citas médicas en sedes de Salud SURA; solicitar reembolsos; consultar el directorio médico; solicitar atención virtual; acceder al botón de Ayuda; gestionar trámites ante la EPS SURA. La app está disponible en Google Play y App Store."
+    }
+  ]
+}

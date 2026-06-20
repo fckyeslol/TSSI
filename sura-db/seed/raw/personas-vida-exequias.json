@@ -1,0 +1,241 @@
+{
+  "tipo": "producto",
+  "url": "https://www.sura.co/seguros/personas/vida/exequias",
+  "producto": {
+    "slug": "personas-vida-exequias",
+    "nombre": "Seguro de Exequias SURA",
+    "ramo": "Vida",
+    "linea": "personas",
+    "tipo_persona": "natural",
+    "descripcion": "El Seguro de Exequias de SURA está diseñado para proporcionar un apoyo integral en caso de fallecimiento de un ser querido, para que la familia no tenga que asumir las grandes sumas de dinero que implica un proceso funerario. SURA entrega entre $3.000.000 y $7.000.000 de pesos para pagar todo el proceso exequial y, en caso de que sobre dinero, lo entrega a los beneficiarios, garantizando que familiares y amigos no tengan que preocuparse por los gastos funerarios.",
+    "resumen": "Seguro de exequias que entrega entre $3.000.000 y $7.000.000 para cubrir gastos funerarios y entrega el excedente a los beneficiarios.",
+    "es_digital": false,
+    "cotizador_url": null,
+    "canales": ["asesor"]
+  },
+  "planes": [
+    { "slug": "global-plus", "nombre": "Plan Global Plus", "orden": 1, "precio_desde": null },
+    { "slug": "global", "nombre": "Plan Global", "orden": 2, "precio_desde": null },
+    { "slug": "clasico-plus", "nombre": "Plan Clásico Plus", "orden": 3, "precio_desde": null },
+    { "slug": "clasico", "nombre": "Plan Clásico", "orden": 4, "precio_desde": null },
+    { "slug": "basico-plus", "nombre": "Plan Básico Plus", "orden": 5, "precio_desde": null },
+    { "slug": "basico", "nombre": "Plan Básico", "orden": 6, "precio_desde": null }
+  ],
+  "coberturas": [
+    {
+      "slug": "respaldo-economico-fallecimiento",
+      "nombre": "Respaldo económico por fallecimiento",
+      "descripcion": "Entrega a tus beneficiarios (o a quien haya asumido los gastos funerarios) un respaldo económico en caso de que fallezcas.",
+      "categoria": "vida",
+      "plan_slug": "global-plus",
+      "tipo": "incluida",
+      "limite": "$7.000.000 (siete millones de pesos)"
+    },
+    {
+      "slug": "respaldo-economico-fallecimiento",
+      "nombre": "Respaldo económico por fallecimiento",
+      "descripcion": "Entrega a tus beneficiarios (o a quien haya asumido los gastos funerarios) un respaldo económico en caso de que fallezcas.",
+      "categoria": "vida",
+      "plan_slug": "global",
+      "tipo": "incluida",
+      "limite": "$7.000.000 (siete millones de pesos)"
+    },
+    {
+      "slug": "respaldo-economico-fallecimiento",
+      "nombre": "Respaldo económico por fallecimiento",
+      "descripcion": "Entrega a tus beneficiarios (o a quien haya asumido los gastos funerarios) un respaldo económico en caso de que fallezcas.",
+      "categoria": "vida",
+      "plan_slug": "clasico-plus",
+      "tipo": "incluida",
+      "limite": "$5.000.000 (cinco millones de pesos)"
+    },
+    {
+      "slug": "respaldo-economico-fallecimiento",
+      "nombre": "Respaldo económico por fallecimiento",
+      "descripcion": "Entrega a tus beneficiarios (o a quien haya asumido los gastos funerarios) un respaldo económico en caso de que fallezcas.",
+      "categoria": "vida",
+      "plan_slug": "clasico",
+      "tipo": "incluida",
+      "limite": "$5.000.000 (cinco millones de pesos)"
+    },
+    {
+      "slug": "respaldo-economico-fallecimiento",
+      "nombre": "Respaldo económico por fallecimiento",
+      "descripcion": "Entrega a tus beneficiarios (o a quien haya asumido los gastos funerarios) un respaldo económico en caso de que fallezcas.",
+      "categoria": "vida",
+      "plan_slug": "basico-plus",
+      "tipo": "incluida",
+      "limite": "$3.000.000 (tres millones de pesos)"
+    },
+    {
+      "slug": "respaldo-economico-fallecimiento",
+      "nombre": "Respaldo económico por fallecimiento",
+      "descripcion": "Entrega a tus beneficiarios (o a quien haya asumido los gastos funerarios) un respaldo económico en caso de que fallezcas.",
+      "categoria": "vida",
+      "plan_slug": "basico",
+      "tipo": "incluida",
+      "limite": "$3.000.000 (tres millones de pesos)"
+    },
+    {
+      "slug": "reembolso-excedente-valor-asegurado",
+      "nombre": "Reembolso del excedente del valor asegurado",
+      "descripcion": "Reembolsa a tus beneficiarios el dinero del valor asegurado que sobra de los gastos exequiales.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "cobertura-homicidio-accidente-suicidio",
+      "nombre": "Cobertura ante homicidio, accidente y suicidio",
+      "descripcion": "Cobertura ante homicidio, accidente y suicidio desde el día en que compras el seguro.",
+      "categoria": "vida",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": "Desde el día de compra del seguro"
+    },
+    {
+      "slug": "inclusion-personas-adicionales-grupo-familiar",
+      "nombre": "Inclusión de personas adicionales en el grupo familiar",
+      "descripcion": "Posibilidad de incluir personas adicionales dentro del grupo familiar.",
+      "categoria": "otros",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "orientacion-telefonica-exequial",
+      "nombre": "Orientación telefónica exequial",
+      "descripcion": "Orientación telefónica para acompañar y asesorar a los familiares cuando el asegurado fallezca.",
+      "categoria": "asistencia",
+      "plan_slug": null,
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "reembolso-gastos-repatriacion",
+      "nombre": "Reembolso de gastos de repatriación",
+      "descripcion": "Reembolso de gastos de repatriación en caso de muerte durante viaje en el exterior.",
+      "categoria": "asistencia",
+      "plan_slug": "global-plus",
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "reembolso-gastos-repatriacion",
+      "nombre": "Reembolso de gastos de repatriación",
+      "descripcion": "Reembolso de gastos de repatriación en caso de muerte durante viaje en el exterior.",
+      "categoria": "asistencia",
+      "plan_slug": "global",
+      "tipo": "incluida",
+      "limite": null
+    },
+    {
+      "slug": "dinero-adicional-muerte-accidental",
+      "nombre": "Dinero adicional por muerte accidental",
+      "descripcion": "Da a tus beneficiarios un dinero adicional en caso de muerte accidental.",
+      "categoria": "vida",
+      "plan_slug": "global-plus",
+      "tipo": "incluida",
+      "limite": "$21.000.000 (veintiún millones de pesos)"
+    },
+    {
+      "slug": "dinero-adicional-muerte-accidental",
+      "nombre": "Dinero adicional por muerte accidental",
+      "descripcion": "Da a tus beneficiarios un dinero adicional en caso de muerte accidental.",
+      "categoria": "vida",
+      "plan_slug": "clasico-plus",
+      "tipo": "incluida",
+      "limite": "$10.000.000 (diez millones de pesos)"
+    },
+    {
+      "slug": "dinero-adicional-muerte-accidental",
+      "nombre": "Dinero adicional por muerte accidental",
+      "descripcion": "Da a tus beneficiarios un dinero adicional en caso de muerte accidental.",
+      "categoria": "vida",
+      "plan_slug": "basico-plus",
+      "tipo": "incluida",
+      "limite": "$3.000.000 (tres millones de pesos)"
+    },
+    {
+      "slug": "dinero-adicional-invalidez-desmembracion-accidente",
+      "nombre": "Dinero adicional por invalidez y desmembración por accidente",
+      "descripcion": "Da un dinero adicional en caso de invalidez y desmembración por accidente.",
+      "categoria": "vida",
+      "plan_slug": "global-plus",
+      "tipo": "incluida",
+      "limite": "$21.000.000 (veintiún millones de pesos)"
+    },
+    {
+      "slug": "dinero-adicional-invalidez-desmembracion-accidente",
+      "nombre": "Dinero adicional por invalidez y desmembración por accidente",
+      "descripcion": "Da un dinero adicional en caso de invalidez y desmembración por accidente.",
+      "categoria": "vida",
+      "plan_slug": "clasico-plus",
+      "tipo": "incluida",
+      "limite": "$10.000.000 (diez millones de pesos)"
+    },
+    {
+      "slug": "dinero-adicional-invalidez-desmembracion-accidente",
+      "nombre": "Dinero adicional por invalidez y desmembración por accidente",
+      "descripcion": "Da un dinero adicional en caso de invalidez y desmembración por accidente.",
+      "categoria": "vida",
+      "plan_slug": "basico-plus",
+      "tipo": "incluida",
+      "limite": "$3.000.000 (tres millones de pesos)"
+    },
+    {
+      "slug": "renta-diaria-hospitalizacion-accidente",
+      "nombre": "Renta diaria por hospitalización por accidente",
+      "descripcion": "Pago por cada día que estés hospitalizado como producto de un accidente.",
+      "categoria": "salud",
+      "plan_slug": "global-plus",
+      "tipo": "incluida",
+      "limite": "$140.000 (ciento cuarenta mil pesos) por día"
+    },
+    {
+      "slug": "renta-diaria-hospitalizacion-accidente",
+      "nombre": "Renta diaria por hospitalización por accidente",
+      "descripcion": "Pago por cada día que estés hospitalizado como producto de un accidente.",
+      "categoria": "salud",
+      "plan_slug": "clasico-plus",
+      "tipo": "incluida",
+      "limite": "$50.000 (cincuenta mil pesos) por día"
+    },
+    {
+      "slug": "renta-diaria-hospitalizacion-accidente",
+      "nombre": "Renta diaria por hospitalización por accidente",
+      "descripcion": "Pago por cada día que estés hospitalizado como producto de un accidente.",
+      "categoria": "salud",
+      "plan_slug": "basico-plus",
+      "tipo": "incluida",
+      "limite": "$30.000 (treinta mil pesos) por día"
+    }
+  ],
+  "elegibilidad": {
+    "tipo_persona": "natural",
+    "edad_min": null,
+    "edad_max": null,
+    "condiciones": {},
+    "descripcion": null
+  },
+  "documentos": [],
+  "chunks": [
+    {
+      "seccion": "general",
+      "contenido": "Seguro de Exequias SURA - Comprometidos con tu tranquilidad. El fallecimiento de un ser querido es una de las experiencias más dolorosas y desafiantes que podemos enfrentar. En esos momentos, contar con un respaldo que alivie las cargas económicas y logísticas hace una diferencia significativa. El Seguro de Exequias de SURA está diseñado precisamente para proporcionar ese apoyo integral, para que no tengas que asumir las grandes sumas de dinero que implica un proceso funerario. Nosotros le damos a tu familia o a ti, según sea el caso, entre $3.000.000 (tres millones de pesos) y $7.000.000 (siete millones de pesos) para pagar todo y, en caso de que sobre dinero, lo entregamos a los beneficiarios. En SURA garantizamos que tus familiares y amigos no tengan que preocuparse por los gastos funerarios."
+    },
+    {
+      "seccion": "beneficios",
+      "contenido": "¡Descubre cuál es la opción perfecta para ti! Con SURA, tus seres queridos recibirán el apoyo que necesitan en el momento en que más lo requieren, solo debes elegir el plan que más se acomode a tus necesidades. ¡No esperes para asegurar tu tranquilidad y la de tus seres queridos! El producto ofrece seis planes: Global Plus, Global, Clásico Plus, Clásico, Básico Plus y Básico."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "¿Qué te ofrecemos? Entregar a tus beneficiarios (o a quien haya asumido los gastos funerarios) un respaldo económico en caso de que fallezcas: $7.000.000 en los planes Global Plus y Global, $5.000.000 en los planes Clásico Plus y Clásico, y $3.000.000 en los planes Básico Plus y Básico. Reembolsarles a tus beneficiarios el dinero del valor asegurado que sobra de los gastos exequiales (incluido en todos los planes). Cobertura ante homicidio, accidente y suicidio desde el día en que compras el seguro (incluido en todos los planes). Posibilidad de incluir personas adicionales dentro del grupo familiar (incluido en todos los planes). Orientación telefónica para acompañar y asesorar a los familiares cuando el asegurado fallezca (incluido en todos los planes)."
+    },
+    {
+      "seccion": "que_cubrimos",
+      "contenido": "Reembolso de gastos de repatriación en caso de muerte durante viaje en el exterior: incluido en los planes Global Plus y Global. Darles a tus beneficiarios un dinero adicional en caso de muerte accidental: $21.000.000 en Global Plus, $10.000.000 en Clásico Plus y $3.000.000 en Básico Plus. Darte un dinero adicional en caso de invalidez y desmembración por accidente: $21.000.000 en Global Plus, $10.000.000 en Clásico Plus y $3.000.000 en Básico Plus. Pago por cada día que estés hospitalizado como producto de un accidente: $140.000 en Global Plus, $50.000 en Clásico Plus y $30.000 en Básico Plus."
+    }
+  ]
+}
