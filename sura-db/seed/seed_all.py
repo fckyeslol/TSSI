@@ -25,6 +25,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SURA_DB = os.path.dirname(HERE)            # .../sura-db
 SCHEMA = os.path.join(SURA_DB, "schema.sql")
 LOAD_SQL = os.path.join(HERE, "load.sql")
+MIGRATION_HYBRID = os.path.join(SURA_DB, "rag", "migration_hybrid.sql")
 
 
 def run_sql_file(conn, path: str) -> None:
@@ -47,11 +48,15 @@ def main() -> None:
     with psycopg.connect(db) as conn:
         run_sql_file(conn, SCHEMA)
 
-    print("2/3  Cargando catálogo (load.sql) ...")
+    print("2/4  Cargando catálogo (load.sql) ...")
     with psycopg.connect(db) as conn:
         run_sql_file(conn, LOAD_SQL)
 
-    print("3/3  Generando embeddings (OpenAI) -> doc_chunk ...")
+    print("3/4  Búsqueda híbrida: tsvector + índices (migration_hybrid.sql) ...")
+    with psycopg.connect(db) as conn:
+        run_sql_file(conn, MIGRATION_HYBRID)
+
+    print("4/4  Generando embeddings (OpenAI) -> doc_chunk ...")
     sys.path.insert(0, HERE)
     import load_embeddings  # reutiliza la lógica existente
     load_embeddings.main()
